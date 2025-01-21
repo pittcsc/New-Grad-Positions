@@ -97,8 +97,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Snorkel AI** | Software Engineer – Recent University Graduate | San Carlos, CA | 🔒 | Jan 07 |
 | **Wiley Edge** | Mthree – Junior Software Developer | United Kingdom | 🔒 | Jan 06 |
 | **[GitHub](https://simplify.jobs/c/GitHub)** | Software Engineer I - Copilot Agent Services | Remote in UK | <a href="https://githubinc.jibeapply.com/jobs/3904?lang=en-us&icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/5fe02ed4-a77a-4cda-88be-c1eb853e0bcf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 06 |
-| **[Visa](https://simplify.jobs/c/Visa)** | Software Engineer – New College Grad | San Mateo, CA | <a href="https://jobs.smartrecruiters.com/Visa/744000035003601?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/693e2ffc-b4e3-4317-bd5c-3a76ce4d9e2a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 06 |
-| **[Visa](https://simplify.jobs/c/Visa)** | Software Engineer – New College Grad | Austin, TX | <a href="https://jobs.smartrecruiters.com/Visa/744000035000408?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f93549eb-5ee4-48da-ae9a-f24e4344de0b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 06 |
+| **Visa** | Software Engineer – New College Grad | San Mateo, CA | 🔒 | Jan 06 |
+| **Visa** | Software Engineer – New College Grad | Austin, TX | 🔒 | Jan 06 |
 | **Tower Research Capital** | Software Engineer I | Charleston, SC | 🔒 | Jan 06 |
 | **Expedia Group** | Data Engineer I | Seattle, WA | 🔒 | Jan 03 |
 | **TLNT & Spin** | Founding Engineer | SF | 🔒 | Dec 24 |
