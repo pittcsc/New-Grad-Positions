@@ -23454,7 +23454,7 @@
         "company_name": "Expedia Group",
         "id": "6b7ea88e-ec3f-4ee6-b174-ca450671fc35",
         "title": "Software Development Engineer I - Marketplace Technology",
-        "active": false,
+        "active": true,
         "date_updated": 1734668392,
         "date_posted": 1734668392,
         "url": "https://expedia.wd5.myworkdayjobs.com/en-US/private/job/Austin-Domain-11---HomeAway/Software-Development-Engineer-I---Marketplace-Technology_R-93087-1",
@@ -24203,6 +24203,38 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/GelberGroup",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Medtronic",
+        "id": "da5d3eee-cc33-438e-a6a8-bb113eeb17af",
+        "title": "Software Engineer I - Neuro Science",
+        "active": true,
+        "date_updated": 1737505734,
+        "date_posted": 1737505734,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---Neuro-Science_R17073-1",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Acorns",
+        "id": "20573663-a33b-497c-82d0-cf8091dc8725",
+        "title": "Software Engineer I \u2013 Recent Graduate",
+        "active": true,
+        "date_updated": 1737505581,
+        "date_posted": 1737505581,
+        "url": "https://jobs.ashbyhq.com/Acorns/5618f1de-cf18-4114-9408-11cd73153a9d/application",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Acorns",
         "is_visible": true,
         "sponsorship": "Other"
     }
