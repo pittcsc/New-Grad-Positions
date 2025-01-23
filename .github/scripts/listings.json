@@ -24253,5 +24253,21 @@
         "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Remitly",
+        "id": "89fc004b-384b-438e-be7e-0f164f04f71e",
+        "title": "Software Development Engineer I - Global Network",
+        "active": true,
+        "date_updated": 1737591851,
+        "date_posted": 1737591851,
+        "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-I--Global-Network_R_103328",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Remitly",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
