@@ -153,7 +153,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Twitch** | Software Engineer I - IOS | SF | 🔒 | Nov 23 |
 | **Twitch** | Software Engineer I - IOS | Seattle, WA | 🔒 | Nov 23 |
 | **Twitch** | Software Engineer I - IOS | NYC | 🔒 | Nov 23 |
-| **[Horace Mann](https://simplify.jobs/c/727e9c32-2e2f-4325-819c-ef2ee50dffdb)** | Software Engineer I | Springfield, IL | <a href="https://boards.greenhouse.io/horacemannservicecorporation/jobs/5366274004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/6f7a550e-0a5c-4b80-9544-e4564a913655?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 22 |
+| **Horace Mann** | Software Engineer I | Springfield, IL | 🔒 | Nov 22 |
 | **PlayStation Global** | Junior Server Software Engineer | London, UK | 🔒 | Nov 22 |
 | **PlayStation Global** | Junior Server Software Engineer | London, UK | 🔒 | Nov 22 |
 | **Hootsuite** | Junior Software Developer - Devops | Calgary, AB, Canada</br>Edmonton, AB, Canada</br>Vancouver, BC, Canada | 🔒 | Nov 22 |
