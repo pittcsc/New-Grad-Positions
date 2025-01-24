@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Expedia Group](https://simplify.jobs/c/Expedia-Group)** | Software Development Engineer I | London, UK | <a href="https://expedia.wd5.myworkdayjobs.com/en-US/private/job/UK---London/Software-Development-Engineer-I_R-93355-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/c17fa888-ec6a-43ee-ac94-927674f28b6d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 24 |
 | **Chewy** | Software Engineer I - Front End | Bellevue, WA | 🔒 | Jan 24 |
 | **Chewy** | Software Engineer I - Front End | Plantation, FL | 🔒 | Jan 24 |
 | **Chewy** | Software Engineer I - Front End | Boston, MA | 🔒 | Jan 24 |
