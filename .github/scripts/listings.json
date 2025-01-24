@@ -24269,5 +24269,21 @@
         "company_url": "https://simplify.jobs/c/Remitly",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "d069a687-64cf-4c11-8073-aa916d09ea1d",
+        "title": "Software Engineer Junior",
+        "active": true,
+        "date_updated": 1737678287,
+        "date_posted": 1737678287,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Software-Engineer-Junior_R-00151947",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
