@@ -24333,5 +24333,21 @@
         "company_url": "https://simplify.jobs/c/Chewy",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Expedia Group",
+        "id": "c17fa888-ec6a-43ee-ac94-927674f28b6d",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1737751503,
+        "date_posted": 1737751503,
+        "url": "https://expedia.wd5.myworkdayjobs.com/en-US/private/job/UK---London/Software-Development-Engineer-I_R-93355-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
