@@ -23,7 +23,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 			<br>
 			<div>
 			<a href="https://swelist.com">
-          <img src="https://i.imgur.com/n8ZX4tt.png" width="400" alt="Email">
+          <img src="https://i.imgur.com/u7xWcQi.png" width="400" alt="Email">
         </a>
 			</div>
 		<sub><i>Share any other cool projects you make using the repo, and we might give you a shoutout!</i></sub>
