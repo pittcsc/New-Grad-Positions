@@ -24382,5 +24382,21 @@
         "company_url": "https://simplify.jobs/c/d12e128c-67fc-4f21-b1de-d239e884bafa",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1737772194,
+        "url": "https://jobs.ashbyhq.com/Acorns/5618f1de-cf18-4114-9408-11cd73153a9d",
+        "company_name": "Acorns",
+        "title": "Software Engineer I, Recent Graduate",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "jaysaavedra18",
+        "id": "c88263f6-0abf-4d03-a6d0-440ec6288b24",
+        "date_posted": 1737772194,
+        "company_url": "",
+        "is_visible": true
     }
 ]
