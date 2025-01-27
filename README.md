@@ -217,7 +217,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Splunk** | Software Engineer - Early in Career - Backend/Fullstack - January 2025 or sooner start date | California | 🔒 | Nov 08 |
 | **Wyetech** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | Nov 08 |
 | **Splunk** | C++ Software Engineer – Early Career - January 2025 or sooner start date | California | 🔒 | Nov 07 |
-| **[Cambridge Mobile Telematics](https://simplify.jobs/c/4deb12d2-2054-45da-b1c8-a49bc3f15c6a)** | Software Engineer I - Cloud | Cambridge, MA | <a href="https://www.cmtelematics.com/who-we-are/join-our-team/job-posting/?gh_jid=6381682&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/44359840-3e79-496b-a3b6-b3b8a55e778a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 07 |
+| **Cambridge Mobile Telematics** | Software Engineer I - Cloud | Cambridge, MA | 🔒 | Nov 07 |
 | **Zynga** | Software Engineer 1 - Full Stack - Game of Thrones: Legends | Toronto, ON, Canada | 🔒 | Nov 07 |
 | **Global Relay** | Junior Software Developer in Test | Kelowna, BC, Canada | 🔒 | Nov 07 |
 | **Blue Yonder** | Software Engineer I | Dallas, TX | 🔒 | Nov 06 |
@@ -275,7 +275,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Pax8** | Data Engineer I | United States | 🔒 | Oct 25 |
 | **Whoop** | Software Engineer I - Web - Growth | Boston, MA | 🔒 | Oct 25 |
 | **[DoorDash](https://simplify.jobs/c/DoorDash)** | Software Engineer I - Entry-Level - Graduation Date: Fall 2024-Summer 2025 | <details><summary>**5 locations**</summary>Seattle, WA</br>SF</br>LA</br>NYC</br>Sunnyvale, CA</details> | <a href="https://boards.greenhouse.io/doordashusa/jobs/6330949?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/ac5b0ba5-ed4f-491a-9387-c354e4661e2f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 24 |
-| **DoorDash** | Software Engineer I – Entry Level - Fall 2024-Summer 2025 - Toronto | Toronto, ON, Canada | 🔒 | Oct 24 |
+| **[DoorDash](https://simplify.jobs/c/DoorDash)** | Software Engineer I – Entry Level - Fall 2024-Summer 2025 - Toronto | Toronto, ON, Canada | <a href="https://boards.greenhouse.io/doordashcanada/jobs/6346397?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/5edec334-b85d-4c7f-98ed-2b4a890c45cc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 24 |
 | **Brain Corp** | Software Engineer I - Applied Machine Learning | San Diego, CA | 🔒 | Oct 24 |
 | **Squarespace** | Software Engineer – New Graduate - Java | NYC | 🔒 | Oct 24 |
 | **NVIDIA** | System Software Engineer – New College Grad 2024 - CUDA Driver | Santa Clara, CA | 🔒 | Oct 23 |
