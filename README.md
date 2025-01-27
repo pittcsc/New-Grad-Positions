@@ -529,7 +529,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Axle Health** | Software Engineer (New Grad) | Los Angeles, CA | <a href="https://www.ycombinator.com/companies/axle-health/jobs/ommmQqU-software-engineer-new-grad?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 22 |
 | **Robinhood Careers** | Software Developer | Toronto, ON, Canada | 🔒 | Jul 17 |
 | **Microsoft** | Software Engineer | Redmond, Washington | 🔒 | Jul 16 |
-| **[Grand Rounds](https://simplify.jobs/c/Grand-Rounds)** | Software Engineer I - Orchestration Platform - Canada | Remote in Canada | <a href="https://jobs.lever.co/includedhealth/71927e92-88ec-4481-8d12-00a2bcd9c41f/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/146ea259-126b-4e18-8753-a6d924f56f81?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 15 |
+| **Grand Rounds** | Software Engineer I - Orchestration Platform - Canada | Remote in Canada | 🔒 | Jul 15 |
 | **IXL Learning** | Software Engineer – New Grad | Raleigh, NC | 🔒 | Jul 15 |
 | **IXL Learning** | Software Engineer – New Grad | San Mateo, CA | 🔒 | Jul 15 |
 | **minware** | Junior Front End Engineer | Remote in USA | 🔒 | Jul 13 |
