@@ -24414,5 +24414,21 @@
         "company_url": "https://simplify.jobs/c/Apple",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Global Payments",
+        "id": "c791530b-7967-4776-8cb4-d3509ae91a5f",
+        "title": "Software Engineer I or above",
+        "active": true,
+        "date_updated": 1738096018,
+        "date_posted": 1738096018,
+        "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Software-Engineer-II-or-Above_R0056383-1",
+        "locations": [
+            "Columbus, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Payments",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
