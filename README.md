@@ -79,7 +79,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **USAA** | Software Engineer – Entry Level | Plano, TX</br>San Antonio, TX | 🔒 | Jan 18 |
 | **Nike** | Software Engineer I | Beaverton, OR | 🔒 | Jan 18 |
 | **Gelber Group** | Junior Software Engineer-Technical Operations Team | Chicago, IL | 🔒 | Jan 18 |
-| **[Expedia Group](https://simplify.jobs/c/Expedia-Group)** | Mobile Engineer I - Android | Seattle, WA | <a href="https://expedia.wd5.myworkdayjobs.com/en-US/private/job/Washington---Seattle-Campus/Mobile-Engineer-I---Android_R-92695-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d57ae861-251c-4145-80c4-ad6886a52c9c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 17 |
+| **Expedia Group** | Mobile Engineer I - Android | Seattle, WA | 🔒 | Jan 17 |
 | **[Vermont Information Processing](https://simplify.jobs/c/Vermont-Information-Processing)** | Software Engineer 1 | Burlington, VT | <a href="https://job-boards.greenhouse.io/vipvermontinformationprocessing/jobs/4627310007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7cbd5f81-73f0-41d0-8edb-93ead6477b93?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 17 |
 | **Becton Dickinson** | Software Engineer I | Sparks, MD | 🔒 | Jan 17 |
 | **Wiley Edge** | Développeur génie logiciel / Junior Software Developer | Montreal, QC, Canada | 🔒 | Jan 17 |
