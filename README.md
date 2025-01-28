@@ -253,7 +253,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Two Six Technologies** | Junior Software Engineer | Cherry Hills Village, CO | 🔒 | Oct 30 |
 | **Two Six Technologies** | Junior Software Engineer | Reston, VA | 🔒 | Oct 30 |
 | **NVIDIA** | Research Engineer – New College Grad 2025 - Architecture | Austin, TX</br>Santa Clara, CA</br>Westford, MA | 🔒 | Oct 30 |
-| **[Cambridge Mobile Telematics](https://simplify.jobs/c/4deb12d2-2054-45da-b1c8-a49bc3f15c6a)** | Software Engineer I - Android SDK | Remote in USA | <a href="https://www.cmtelematics.com/who-we-are/join-our-team/job-posting/?gh_jid=5845723&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/49e870f6-eabc-4125-988c-da15e32fa82f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 30 |
+| **Cambridge Mobile Telematics** | Software Engineer I - Android SDK | Remote in USA | 🔒 | Oct 30 |
 | **Supernova Technology** | Junior Software Engineer | Chicago, IL | 🔒 | Oct 30 |
 | **Electric Mind** | Junior Software Developer - Full Stack | Toronto, ON, Canada | 🔒 | Oct 30 |
 | **Strive Health** | Data Engineer I | Washington, DC | 🔒 | Oct 30 |
