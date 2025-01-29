@@ -24372,7 +24372,7 @@
         "company_name": "Mintel",
         "id": "538c586d-0214-4c66-9202-29dacb76e7ec",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1737764081,
         "date_posted": 1737764081,
         "url": "https://www.mintel.com/job/6568674?gh_jid=6568674",
@@ -24444,6 +24444,22 @@
             "Remote in UK"
         ],
         "company_url": "https://simplify.jobs/c/Sensor-Tower",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nexxen",
+        "id": "3de4fa1c-7e21-4619-b7ec-a3d7a3b28187",
+        "title": "Software Engineer I - Dsp - Demand Side Platform",
+        "active": true,
+        "date_updated": 1738170628,
+        "date_posted": 1738170628,
+        "url": "https://boards.greenhouse.io/nexxen/jobs/7830836002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Nexxen",
         "is_visible": true,
         "sponsorship": "Other"
     }
