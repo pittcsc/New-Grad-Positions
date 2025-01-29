@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Sensor Tower](https://simplify.jobs/c/Sensor-Tower)** | Back End Developer – Entry Level - Ruby | Remote in UK | <a href="https://jobs.lever.co/sensortower/1df46781-8f3a-4772-b686-a0d85932617d/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/556aae38-8d7a-4c1f-9fed-a69d25cadf1d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 29 |
 | **Global Payments** | Software Engineer I or above | Columbus, GA | 🔒 | Jan 28 |
 | **Apple** | Software Engineer – Early Career - Enterprise Technology Services | Sunnyvale, CA | 🔒 | Jan 28 |
 | **[Acorns](https://simplify.jobs/c/Acorns)** | Software Engineer I, Recent Graduate 🛂 | Remote | <a href="https://jobs.ashbyhq.com/Acorns/5618f1de-cf18-4114-9408-11cd73153a9d?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
