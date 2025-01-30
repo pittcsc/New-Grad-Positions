@@ -108,7 +108,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[IXL Learning](https://simplify.jobs/c/IXL-Learning)** | Software Engineer – New Grad | San Mateo, CA | <a href="https://www.ixl.com/company/jobs?gh_jid=7803897002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9f31a2a9-393e-4279-bd17-2cc854ede402?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 09 |
 | **[Nominal](https://simplify.jobs/c/Nominal)** | Software Engineer – New Grad | NYC | <a href="https://jobs.lever.co/nominal/3a4d77de-ec7e-44c7-ae86-2f5a6f0dccf0/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7e3b60a6-f135-4385-9e58-2168e89cdf29?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 09 |
 | **[FICO](https://simplify.jobs/c/c0d581f7-6346-4205-96a6-0fb804352421)** | Software Engineering - Engineer I | Birmingham, UK | <a href="https://fico.wd1.myworkdayjobs.com/en-US/External/job/Birmingham-United-Kingdom/Software-Engineering---Engineer-I_30077?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d6a0f3a6-4c37-4e15-897f-fd506589d26c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 08 |
-| **[Wiley Edge](https://simplify.jobs/c/WileyEdge)** | Junior Software Engineer | United States | <a href="https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4374589006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/efa53dc2-c04f-4300-9135-1d355da99bfb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 08 |
+| **Wiley Edge** | Junior Software Engineer | United States | 🔒 | Jan 08 |
 | **Wiley Edge** | Junior Software Engineer | NYC | 🔒 | Jan 07 |
 | **Snorkel AI** | Software Engineer – Recent University Graduate | San Carlos, CA | 🔒 | Jan 07 |
 | **Wiley Edge** | Mthree – Junior Software Developer | United Kingdom | 🔒 | Jan 06 |
@@ -450,7 +450,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Replicant** | Software Engineer I - Machine Learning | Remote in Canada | 🔒 | Aug 31 |
 | **Watershed** | Software engineer – New grad | SF | 🔒 | Aug 31 |
 | **Zip** | Software Engineer – New Grad - 2025 Start | SF | 🔒 | Aug 30 |
-| **[Wiley Edge](https://simplify.jobs/c/WileyEdge)** | Junior Software Engineer | Remote in USA | <a href="https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4374540006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4e2587db-6361-4149-9d21-78c486d240f2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
+| **Wiley Edge** | Junior Software Engineer | Remote in USA | 🔒 | Aug 30 |
 | **Wiley Edge** | Junior Software Engineer | Remote in USA | 🔒 | Aug 30 |
 | **Wiley Edge** | Junior Software Engineer | NYC | 🔒 | Aug 30 |
 | **Wiley Edge** | Junior Data Scientist | Canada | 🔒 | Aug 30 |
