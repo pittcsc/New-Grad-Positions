@@ -207,8 +207,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **USAA** | Software Engineer - Early Careers | Plano, TX</br>San Antonio, TX | 🔒 | Nov 12 |
 | **Wyetech** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | Nov 12 |
 | **Wave Mobile** | Junior Software Engineer | Remote in USA | 🔒 | Nov 12 |
-| **[Coalition](https://simplify.jobs/c/Coalition)** | Data Engineer I | Remote in USA | <a href="https://careers.coalitioninc.com/job-posting/?gh_jid=4494330005&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d612de15-3f08-4a18-a775-6ed244c4e51d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 12 |
-| **[Coalition](https://simplify.jobs/c/Coalition)** | Data Engineer I | Remote in Canada | <a href="https://careers.coalitioninc.com/job-posting/?gh_jid=4494718005&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7e6d0171-0c5f-4c6e-90a1-51a6a22f2477?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 12 |
+| **Coalition** | Data Engineer I | Remote in USA | 🔒 | Nov 12 |
+| **Coalition** | Data Engineer I | Remote in Canada | 🔒 | Nov 12 |
 | **Harmonia** | Junior Full Stack Developer | Remote in USA | 🔒 | Nov 12 |
 | **Aurora Innovation** | Software Engineer I |  | 🔒 | Nov 12 |
 | **ICF** | Junior Full Stack Developer | Remote in USA | 🔒 | Nov 12 |
