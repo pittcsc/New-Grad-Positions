@@ -385,7 +385,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Applied Intuition** | Embedded Software Engineer – New Grad | Mountain View, CA | 🔒 | Sep 16 |
 | **Visa** | Software Engineer – New College Grad - 2025 🛂 | San Mateo, CA | 🔒 | Sep 16 |
 | **Visa** | Software Engineer – New College Grad - 2025 | Austin, TX | 🔒 | Sep 16 |
-| **WeRide** | New Grads 2025 - General Software Engineer | San Jose, CA | 🔒 | Sep 16 |
+| **[WeRide](https://simplify.jobs/c/WeRide)** | New Grads 2025 - General Software Engineer | San Jose, CA | <a href="https://jobs.lever.co/weride/c6199fb6-cd1e-4f11-b51c-24702ddfa63d/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/81ce0706-95f4-4b32-ab45-cd532285dd5d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 16 |
 | **Western Digital** | New College Grad Engineer - Software Engineer - Firmware Engineering | San Jose, CA | 🔒 | Sep 16 |
 | **SAP** | Data Scientist: SNT (2024 Grads) 🛂 | Palo Alto, CA | 🔒 | Sep 14 |
 | **Splunk** | Software Engineer 🇺🇸 | SF Bay Area, Seattle Metro, and New York City Metro Area | 🔒 | Sep 14 |
