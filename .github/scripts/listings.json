@@ -24546,5 +24546,37 @@
         "company_url": "https://simplify.jobs/c/3bc7a09e-e5f1-45e8-b26b-1d3c77588a00",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Baxter International",
+        "id": "0852ddfb-6762-4195-877f-130d8535b913",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1738358031,
+        "date_posted": 1738358031,
+        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Raleigh-North-Carolina/Software-Engineer-I_JR-160855-1",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Baxter-International",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Baxter International",
+        "id": "3a87ed3d-5f22-433b-bc79-156a19e18448",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1738358032,
+        "date_posted": 1738358032,
+        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Raleigh-North-Carolina/Software-Engineer-I_JR-160854-2",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Baxter-International",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
