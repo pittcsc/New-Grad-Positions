@@ -24478,5 +24478,21 @@
         "company_url": "https://simplify.jobs/c/Western-Digital",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "USAA",
+        "id": "d0a81d3e-1e7c-4166-91ce-88b6215aaecf",
+        "title": "AWS Software Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1738282919,
+        "date_posted": 1738282919,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/AWS-Software-Engineer---Entry-Level_R0106661",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
