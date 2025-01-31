@@ -24578,5 +24578,21 @@
         "company_url": "https://simplify.jobs/c/Baxter-International",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Echostar",
+        "id": "52e57407-0ec5-49a9-be77-fedea20a2c03",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1738356805,
+        "date_posted": 1738356805,
+        "url": "https://echostar.wd5.myworkdayjobs.com/echostar/job/CA-San-Diego/Entry-Level-Software-Engineer_R0004668",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Echostar",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
