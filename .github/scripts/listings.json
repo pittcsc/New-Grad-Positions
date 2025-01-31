@@ -24514,5 +24514,37 @@
         "company_url": "https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "esri",
+        "id": "467e3521-4c70-426b-b464-6e5944dec588",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1738341366,
+        "date_posted": 1738341366,
+        "url": "https://www.esri.com/careers/4639228007?gh_jid=4639228007",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/3bc7a09e-e5f1-45e8-b26b-1d3c77588a00",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "esri",
+        "id": "ea0ab535-0b9f-4f18-93de-9f557b48b01d",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1738341365,
+        "date_posted": 1738341365,
+        "url": "https://www.esri.com/careers/4639229007?gh_jid=4639229007",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/3bc7a09e-e5f1-45e8-b26b-1d3c77588a00",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
