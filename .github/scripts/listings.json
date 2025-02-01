@@ -24610,5 +24610,21 @@
         "company_url": "https://simplify.jobs/c/3d3125df-3bbc-48fc-993c-8e2d0db65649",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "USAA",
+        "id": "436c53d5-47c9-41e2-b061-9073f65f01a0",
+        "title": "Guidewire Software Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1738369154,
+        "date_posted": 1738369154,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Guidewire-Software-Engineer----Entry-Level_R0106662",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
