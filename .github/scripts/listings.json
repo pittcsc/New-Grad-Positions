@@ -24594,5 +24594,21 @@
         "company_url": "https://simplify.jobs/c/Echostar",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSC",
+        "id": "5b57e209-59d3-43e4-a95d-e1426e70d506",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1738368881,
+        "date_posted": 1738368881,
+        "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Bloomington-IN/Part-Time-Electrical-Engineer_JR1889",
+        "locations": [
+            "Bloomington, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/3d3125df-3bbc-48fc-993c-8e2d0db65649",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
