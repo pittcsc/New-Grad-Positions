@@ -99,7 +99,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Leidos** | Junior Data Scientist | Remote in USA | 🔒 | Jan 15 |
 | **Global Payments** | Mainframe Software Engineer I | Columbus, GA | 🔒 | Jan 15 |
 | **Splunk** | Software Engineer - Frontend - Early in Career | Raleigh, NC</br>Boulder, CO | 🔒 | Jan 15 |
-| **Splunk** | C++ Software Engineer - Early in Career | Raleigh, NC</br>Boulder, CO | 🔒 | Jan 15 |
+| **[Splunk](https://simplify.jobs/c/Splunk)** | C++ Software Engineer - Early in Career | Raleigh, NC</br>Boulder, CO | <a href="https://jobs.jobvite.com/splunk-careers/job/oMEfvfwU?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/637ee7c0-fbcb-4ea9-91c0-1727a53ee094?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 15 |
 | **Floqast** | Software Engineer I | Toronto, ON, Canada | 🔒 | Jan 15 |
 | **FOX** | Software Engineer I - Android | Sharonville, OH | 🔒 | Jan 14 |
 | **Adobe** | University Graduate - Software Engineer | Seattle, WA | 🔒 | Jan 14 |
