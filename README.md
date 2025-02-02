@@ -349,7 +349,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **PolyAI** | Software Engineer – Graduate / Junior - Project - Must be in Toronto | Toronto, ON, Canada | 🔒 | Oct 03 |
 | **Grand Rounds** | Full Stack Software Engineer – New College Grad - Treat Team | Remote in USA | 🔒 | Oct 02 |
 | **IBM** | Entry Level Back End Developer: 2025 | Tucson, AZ</br>Austin, TX</br>San Jose, CA | <a href="https://careers.ibm.com/job/21000016/entry-level-back-end-developer-2025-remote/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
-| **[Splunk](https://simplify.jobs/c/Splunk)** | Fedramp Software Engineer – Early Career - Raleigh - NC - Jan 2025 or sooner start date ONLY | Raleigh, NC | <a href="https://jobs.jobvite.com/splunk-careers/job/ovBBufwV?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/b3cd2dc0-5c30-4527-abee-a408d1f0985f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 01 |
+| **Splunk** | Fedramp Software Engineer – Early Career - Raleigh - NC - Jan 2025 or sooner start date ONLY | Raleigh, NC | 🔒 | Oct 01 |
 | **SeatGeek** | Software Engineer – New Grad | NYC | 🔒 | Oct 01 |
 | **SMX** | Junior Software Engineer - Ts/Sci CI Poly | Chantilly, VA | 🔒 | Oct 01 |
 | **Codazen** | Full-Stack Engineer Summer 2025 New Grad | Salt Lake City, UT | 🔒 | Oct 01 |
