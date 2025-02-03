@@ -273,7 +273,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Strive Health** | Data Engineer I | Denver, CO | 🔒 | Oct 30 |
 | **Fieldwire** | Junior Android Engineer | Remote in USA | 🔒 | Oct 30 |
 | **Forward** | Software Engineer – New Grad | SF | 🔒 | Oct 29 |
-| **[ClearEdge](https://simplify.jobs/c/ClearEdge)** | Software Engineer I | Annapolis Junction, MD | <a href="https://jobs.lever.co/clearedge/bf3aaaa5-0534-4f0c-93e5-7e071e257522/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/cd7acb67-1126-4c0f-8c06-7e96c236dc89?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 29 |
+| **ClearEdge** | Software Engineer I | Annapolis Junction, MD | 🔒 | Oct 29 |
 | **[ClearEdge](https://simplify.jobs/c/ClearEdge)** | Software Engineer I 🛂 | San Fransisco | <a href="https://jobs.ashbyhq.com/Crusoe/80c4152c-a400-4ebd-ad6f-8a98a26bc65d?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | **Booz Allen** | Data Scientist - Junior | Honolulu, HI | 🔒 | Oct 29 |
 | **Grand Rounds** | Backend Engineer I - Customer Experience | Remote in USA | 🔒 | Oct 29 |
