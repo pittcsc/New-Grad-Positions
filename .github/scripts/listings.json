@@ -24692,5 +24692,42 @@
         "company_url": "https://simplify.jobs/c/Synchrony-Financial",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Scale AI",
+        "id": "88cfdb71-aa4f-4441-8bc9-bac55c01a820",
+        "title": "Software Engineer \u2013 New Grad - Security Engineering",
+        "active": true,
+        "date_updated": 1738702523,
+        "date_posted": 1738702523,
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4523725005",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Scale-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Synchrony Financial",
+        "id": "14d26259-d81a-4c14-aca4-8118f9181f67",
+        "title": "Android Engineer I - Digital Servicing",
+        "active": true,
+        "date_updated": 1738702541,
+        "date_posted": 1738702541,
+        "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Alpharetta-Site/Android-Engineer-I---Digital-Servicing_2500429",
+        "locations": [
+            "Newport Beach, CA",
+            "Remote in USA",
+            "Chicago, IL",
+            "Alpharetta, GA",
+            "NYC",
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Synchrony-Financial",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
