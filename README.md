@@ -167,7 +167,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Adobe** | University Graduate - Software Engineer | SF</br>San Jose, CA | 🔒 | Dec 03 |
 | **Parsons** | Software Engineer 1 | Odenton, MD | 🔒 | Dec 03 |
 | **Spotify** | Data Engineer I - Licensing | Remote in USA | 🔒 | Dec 02 |
-| **[PDI Technologies](https://simplify.jobs/c/c202599e-d952-4aab-a921-e4ecf64a1dea)** | Software Engineer I | Maidenhead, UK | <a href="https://jobs.lever.co/pditechnologies/10399232-feaf-46f7-af77-154c9ac6b046/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4278df4c-5b91-4c71-9c62-af9d7ab092af?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 29 |
+| **PDI Technologies** | Software Engineer I | Maidenhead, UK | 🔒 | Nov 29 |
 | **PDI Technologies** | Software Engineer I | Maidenhead, UK | 🔒 | Nov 29 |
 | **Okta** | Software Engineer – New Graduate - Android - Okta Personal | Toronto, ON, Canada | 🔒 | Nov 27 |
 | **Capital One** | Associate – New Grad - Software Engineer | Toronto, ON, Canada | 🔒 | Nov 26 |
