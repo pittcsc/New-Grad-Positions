@@ -24659,5 +24659,38 @@
         "company_url": "https://simplify.jobs/c/4deb12d2-2054-45da-b1c8-a49bc3f15c6a",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Synchrony Financial",
+        "id": "36734b79-992e-40dc-bcf6-39add5ddef37",
+        "title": "Front-End Engineer I - Digital Servicing",
+        "active": true,
+        "date_updated": 1738642883,
+        "date_posted": 1738642883,
+        "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Alpharetta-Remote-GA/Front-End-Engineer-I---Digital-Servicing_2500428-1",
+        "locations": [
+            "Seattle, WA",
+            "Sharonville, OH",
+            "Newport Beach, CA",
+            "Bentonville, AR",
+            "Stamford, CT",
+            "Oakland, CA",
+            "Dallas, TX",
+            "Chicago, IL",
+            "Altamonte Springs, FL",
+            "Charlotte, NC",
+            "Alpharetta, GA",
+            "Rapid City, SD",
+            "Kansas City, MO",
+            "NYC",
+            "Phoenix, AZ",
+            "Draper, UT",
+            "Canton, OH",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Synchrony-Financial",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
