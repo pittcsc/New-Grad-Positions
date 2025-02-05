@@ -140,7 +140,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **DigiCert** | Junior Software Engineer | Remote in USA | 🔒 | Dec 20 |
 | **Manulife** | Software Engineering New Graduate Program 2025 | Boston, MA | 🔒 | Dec 20 |
 | **State Street** | Software Engineer I – Senior Associate | Burlington, MA | 🔒 | Dec 20 |
-| **[Expedia Group](https://simplify.jobs/c/Expedia-Group)** | Software Development Engineer I - Marketplace Technology | Austin, TX | <a href="https://expedia.wd5.myworkdayjobs.com/en-US/private/job/Austin-Domain-11---HomeAway/Software-Development-Engineer-I---Marketplace-Technology_R-93087-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/6b7ea88e-ec3f-4ee6-b174-ca450671fc35?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Dec 20 |
+| **Expedia Group** | Software Development Engineer I - Marketplace Technology | Austin, TX | 🔒 | Dec 20 |
 | **OpenGov** | Software Engineer I - Rev | Boston, MA | 🔒 | Dec 19 |
 | **[Dagster Labs](https://simplify.jobs/c/Dagster-Labs)** | Software Engineer – University Grad | SF</br>NYC</br>Minneapolis, MN | <a href="https://boards.greenhouse.io/dagsterlabs/jobs/6300588003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/61711834-68a4-480f-afb6-8cc7c2acb5a9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Dec 16 |
 | **Qualtrics** | Software Engineer I - XM | Provo, UT | 🔒 | Dec 16 |
