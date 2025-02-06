@@ -62,6 +62,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Softheon](https://simplify.jobs/c/Softheon)** | Software Engineer I - Membership | Pittsburgh, PA | <a href="https://apply.workable.com/softheon/j/7C007B52A6/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/98c1864a-d986-4b5d-9a37-1276713092ab?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 06 |
+| **[Sigma Computing](https://simplify.jobs/c/Sigma-Computing)** | Software Engineer – New Grad Program | SF</br>NYC | <a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/6351817003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d71158fd-1236-4451-ac4c-079e3d7f28b9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 06 |
 | **[Capital One](https://simplify.jobs/c/Capital-One)** | Associate – New Grad - Software Engineer | Toronto, ON, Canada | <a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer---New-Grad_R207372?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/da121c5e-38f4-4583-9aa8-3430d81e0490?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 05 |
 | **[Synchrony Financial](https://simplify.jobs/c/Synchrony-Financial)** | Android Engineer I - Digital Servicing | <details><summary>**6 locations**</summary>Newport Beach, CA</br>Remote in USA</br>Chicago, IL</br>Alpharetta, GA</br>NYC</br>Cincinnati, OH</details> | <a href="https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Alpharetta-Site/Android-Engineer-I---Digital-Servicing_2500429?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/14d26259-d81a-4c14-aca4-8118f9181f67?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 04 |
 | **Scale AI** | Software Engineer – New Grad - Security Engineering | SF | 🔒 | Feb 04 |
@@ -326,7 +328,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Visa** | Data Engineer – New College Grad | Austin, TX | 🔒 | Oct 11 |
 | **Visa** | Software Engineer – New College Grad - 2025 | Bellevue, WA | 🔒 | Oct 11 |
 | **Visa** | Software Engineer – New College Grad - 2025 🛂 | Austin, TX | 🔒 | Oct 11 |
-| **Nuro** | Software Engineer – New Grad - Autonomy | Mountain View, CA | 🔒 | Oct 10 |
+| **[Nuro](https://simplify.jobs/c/Nuro)** | Software Engineer – New Grad - Autonomy | Mountain View, CA | <a href="https://nuro.ai/careersitem?gh_jid=6299078&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/153be694-5eb6-4293-9218-0872ae77490a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 10 |
 | **Wyetech** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | Oct 10 |
 | **Affirm** | Software Engineer I | Remote in Canada | 🔒 | Oct 09 |
 | **Universal Music Group** | Junior Software Developer | NYC | 🔒 | Oct 09 |
