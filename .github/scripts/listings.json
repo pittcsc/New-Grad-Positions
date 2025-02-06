@@ -20274,7 +20274,7 @@
         "company_name": "Nuro",
         "id": "153be694-5eb6-4293-9218-0872ae77490a",
         "title": "Software Engineer \u2013 New Grad - Autonomy",
-        "active": false,
+        "active": true,
         "date_updated": 1728601751,
         "date_posted": 1728601751,
         "url": "https://nuro.ai/careersitem?gh_jid=6299078",
@@ -24743,6 +24743,39 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Softheon",
+        "id": "98c1864a-d986-4b5d-9a37-1276713092ab",
+        "title": "Software Engineer I - Membership",
+        "active": true,
+        "date_updated": 1738801080,
+        "date_posted": 1738801080,
+        "url": "https://apply.workable.com/softheon/j/7C007B52A6/apply",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Softheon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sigma Computing",
+        "id": "d71158fd-1236-4451-ac4c-079e3d7f28b9",
+        "title": "Software Engineer \u2013 New Grad Program",
+        "active": true,
+        "date_updated": 1738800962,
+        "date_posted": 1738800962,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/6351817003",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sigma-Computing",
         "is_visible": true,
         "sponsorship": "Other"
     }
