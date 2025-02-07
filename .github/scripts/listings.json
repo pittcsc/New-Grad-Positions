@@ -24794,5 +24794,22 @@
         "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Airtable",
+        "id": "966492e3-d987-40f9-ad4d-74634c20cb66",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1738961376,
+        "date_posted": 1738961376,
+        "url": "https://job-boards.greenhouse.io/airtable/jobs/7812761002",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Airtable",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
