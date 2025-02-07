@@ -24778,5 +24778,21 @@
         "company_url": "https://simplify.jobs/c/Sigma-Computing",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northrop Grumman",
+        "id": "7d65e23b-7acd-49d9-b035-7485dae2ea82",
+        "title": "Cyber Software Engineer \u2013 Early career",
+        "active": true,
+        "date_updated": 1738961711,
+        "date_posted": 1738961711,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/Cyber-Software-Engineer--early-career-_R10185614",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
