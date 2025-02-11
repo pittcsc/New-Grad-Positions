@@ -17103,7 +17103,7 @@
         "company_name": "Glean",
         "id": "0da72647-f3bd-4a07-9f55-235f98d6c874",
         "title": "Software Engineer \u2013 University Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1724714289,
         "date_posted": 1724714289,
         "url": "https://boards.greenhouse.io/gleanwork/jobs/4449298005",
@@ -18637,7 +18637,7 @@
         "company_name": "TSC",
         "id": "d06cb150-5167-4f61-8872-fbc267181d23",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1725925764,
         "date_posted": 1725925764,
         "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR1709",
@@ -21087,7 +21087,7 @@
         "company_name": "MSD",
         "id": "b52aea29-c9a8-4a3a-920f-378643b72df5",
         "title": "Junior Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1730330238,
         "date_posted": 1730330238,
         "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/CRI---San-Jose---San-Jose-City-Place/Junior-Data-Engineer_R317497",
@@ -22598,7 +22598,7 @@
         "company_name": "Perseus Group",
         "id": "3bc586c5-34d8-4589-9c21-499f6f694e57",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1732177485,
         "date_posted": 1732177485,
         "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/perseus-careers/job/Remote---USA/Software-Engineer-I_R41493",
@@ -24784,7 +24784,7 @@
         "company_name": "Northrop Grumman",
         "id": "7d65e23b-7acd-49d9-b035-7485dae2ea82",
         "title": "Cyber Software Engineer \u2013 Early career",
-        "active": true,
+        "active": false,
         "date_updated": 1738961711,
         "date_posted": 1738961711,
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/Cyber-Software-Engineer--early-career-_R10185614",
@@ -24817,7 +24817,7 @@
         "company_name": "Adobe",
         "id": "15a80b5f-07c1-43e6-a58f-13b94f7f74d8",
         "title": "University Graduate - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1738973403,
         "date_posted": 1738973403,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2025-University-Graduate---Software-Engineer_R153489",
@@ -24825,6 +24825,38 @@
             "Lehi, UT"
         ],
         "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wonderschool",
+        "id": "e5fee829-850f-4ae1-9f1f-eda2ab36fdbe",
+        "title": "Early Career Software Engineer - Applied AI",
+        "active": true,
+        "date_updated": 1739233313,
+        "date_posted": 1739233313,
+        "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6359139003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wonderschool",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSC",
+        "id": "5c18ab8a-6554-43c2-ac6b-0dda476bd594",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1739221510,
+        "date_posted": 1739221510,
+        "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR1905",
+        "locations": [
+            "Silver Spring, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/3d3125df-3bbc-48fc-993c-8e2d0db65649",
         "is_visible": true,
         "sponsorship": "Other"
     }
