@@ -24875,5 +24875,21 @@
         "company_url": "https://simplify.jobs/c/ff0e403d-7fb1-43cf-81ba-a2f00c99612b",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "ab98155b-32e8-4be8-9740-e3728c2b98b1",
+        "title": "Software Engineer / Data Scientist New College Grad-Bachelor's",
+        "active": true,
+        "date_updated": 1739306826,
+        "date_posted": 1739306826,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/Software-Engineer---Data-Scientist-New-College-Grad--Bachelor-s--Gloucester--MA-_R2511212",
+        "locations": [
+            "Essex County, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
