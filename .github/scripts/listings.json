@@ -24859,5 +24859,21 @@
         "company_url": "https://simplify.jobs/c/3d3125df-3bbc-48fc-993c-8e2d0db65649",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rocket Software",
+        "id": "f1acba32-af7e-411f-af2e-652fe41a3c09",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1739290892,
+        "date_posted": 1739290892,
+        "url": "https://rocket.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Bentonville-AR-USA/Software-Engineer-I_R2025-5365",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/ff0e403d-7fb1-43cf-81ba-a2f00c99612b",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
