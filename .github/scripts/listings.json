@@ -24956,5 +24956,21 @@
         "company_url": "https://simplify.jobs/c/Bombora",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Global Payments",
+        "id": "f7592917-bf0d-4701-a15e-08a35bb0fd10",
+        "title": "Mainframe Software Engineer I",
+        "active": true,
+        "date_updated": 1739463594,
+        "date_posted": 1739463594,
+        "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Mainframe-Software-Engineer-I_R0059288-1",
+        "locations": [
+            "Columbus, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Payments",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
