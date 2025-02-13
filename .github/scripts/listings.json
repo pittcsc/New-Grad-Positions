@@ -24881,7 +24881,7 @@
         "company_name": "Applied Materials",
         "id": "ab98155b-32e8-4be8-9740-e3728c2b98b1",
         "title": "Software Engineer / Data Scientist New College Grad-Bachelor's",
-        "active": true,
+        "active": false,
         "date_updated": 1739306826,
         "date_posted": 1739306826,
         "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/Software-Engineer---Data-Scientist-New-College-Grad--Bachelor-s--Gloucester--MA-_R2511212",
@@ -25066,6 +25066,22 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/Marqeta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Coalition",
+        "id": "1204a3e6-bb6a-4db3-a820-27dc60333e21",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1739480133,
+        "date_posted": 1739480133,
+        "url": "https://www.coalitioninc.com/job-posting?gh_jid=4528287005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Coalition",
         "is_visible": true,
         "sponsorship": "Other"
     }
