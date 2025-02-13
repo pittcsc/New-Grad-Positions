@@ -24988,5 +24988,21 @@
         "company_url": "https://simplify.jobs/c/Global-Payments",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Coalition",
+        "id": "6c230b52-2752-4356-ae54-f6fa42072bc1",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1739480134,
+        "date_posted": 1739480134,
+        "url": "https://www.coalitioninc.com/job-posting?gh_jid=4529304005",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Coalition",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
