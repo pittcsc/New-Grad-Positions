@@ -25026,7 +25026,7 @@
         "company_name": "Marqeta",
         "id": "6afdb127-1c86-46e5-8d30-5f3a0be329cb",
         "title": "Software Engineer I - Infrastructure as Code Team",
-        "active": true,
+        "active": false,
         "date_updated": 1739478680,
         "date_posted": 1739478680,
         "url": "https://job-boards.greenhouse.io/marqeta/jobs/6630900",
@@ -25042,7 +25042,7 @@
         "company_name": "Marqeta",
         "id": "d77d0a2b-bc5a-444f-a506-900a33b208a3",
         "title": "Software Engineer I - Infrastructure as Code Team",
-        "active": true,
+        "active": false,
         "date_updated": 1739478679,
         "date_posted": 1739478679,
         "url": "https://job-boards.greenhouse.io/marqeta/jobs/6617947",
@@ -25058,7 +25058,7 @@
         "company_name": "Marqeta",
         "id": "bc5c2d20-7030-4fc3-829f-c9e6bd845a2b",
         "title": "Software Engineer I - Continuous Integration Team",
-        "active": true,
+        "active": false,
         "date_updated": 1739478678,
         "date_posted": 1739478678,
         "url": "https://job-boards.greenhouse.io/marqeta/jobs/6549903",
@@ -25082,6 +25082,22 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Coalition",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vanta",
+        "id": "17aed23d-462e-4133-9778-26fc636fb537",
+        "title": "Software Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1739564566,
+        "date_posted": 1739564566,
+        "url": "https://jobs.ashbyhq.com/vanta/13d263a6-ba81-4a93-87df-efda33a909bf/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanta",
         "is_visible": true,
         "sponsorship": "Other"
     }
