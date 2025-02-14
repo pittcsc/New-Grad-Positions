@@ -502,7 +502,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Capital One** | Associate – New Grad - Software Engineer - OR049152 | Toronto, ON, Canada | 🔒 | Aug 28 |
 | **Vultr** | Junior Software Engineer - PHP - Cloud Native | Remote in USA | 🔒 | Aug 28 |
 | **esri** | C++ Software Development Engineer I | West Redlands, Redlands, CA | 🔒 | Aug 27 |
-| **[Glean](https://simplify.jobs/c/Glean)** | Software Engineer – University Grad | Palo Alto, CA | <a href="https://boards.greenhouse.io/gleanwork/jobs/4449298005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0da72647-f3bd-4a07-9f55-235f98d6c874?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 26 |
+| **Glean** | Software Engineer – University Grad | Palo Alto, CA | 🔒 | Aug 26 |
 | **[Stripe](https://simplify.jobs/c/Stripe)** | Software Engineer, New Grad | Toronto, ON, Canada | <a href="https://stripe.com/jobs/listing/software-engineer-new-grad/6025906?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | **Verkada** | Frontend Software Engineer - University Graduate 2025 | San Mateo, CA | 🔒 | Aug 26 |
 | **Verkada** | iOS Software Engineer - University Graduate 2025 | San Mateo, CA | 🔒 | Aug 26 |
