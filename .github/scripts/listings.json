@@ -13669,7 +13669,7 @@
         "company_name": "NewsBreak",
         "id": "1d8e7ec9-fef4-48da-9a60-c4c37d0b3cbc",
         "title": "Software Engineer \u2013 Junior & New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1716340171,
         "date_posted": 1716193274,
         "url": "https://boards.greenhouse.io/newsbreak/jobs/4054592006",
@@ -25147,6 +25147,22 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "b1235d3d-8141-4b06-8e94-866e56eb42a9",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1739939246,
+        "date_posted": 1739939246,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/Burlington-MA/Software-Engineer-1_R49174-2",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
         "is_visible": true,
         "sponsorship": "Other"
     }
