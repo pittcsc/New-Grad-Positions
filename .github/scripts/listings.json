@@ -24962,7 +24962,7 @@
         "company_name": "Global Payments",
         "id": "f7592917-bf0d-4701-a15e-08a35bb0fd10",
         "title": "Mainframe Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1739463594,
         "date_posted": 1739463594,
         "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Mainframe-Software-Engineer-I_R0059288-1",
@@ -25131,6 +25131,22 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Trade Desk",
+        "id": "50ec14ed-3ef8-4a27-af0e-3a8791befc1c",
+        "title": "Software Engineer I - 2025 Start",
+        "active": true,
+        "date_updated": 1739923942,
+        "date_posted": 1739923942,
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4655435007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
         "is_visible": true,
         "sponsorship": "Other"
     }
