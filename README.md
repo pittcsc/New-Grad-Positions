@@ -87,7 +87,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Global Payments** | Mainframe Software Engineer I | Columbus, GA | 🔒 | Feb 13 |
 | **Global Payments** | Mainframe Software Engineer I | Columbus, GA | 🔒 | Feb 13 |
 | **[Bombora](https://simplify.jobs/c/Bombora)** | Software Engineer I - Services Engineering | Reno, NV</br>NYC | <a href="https://bombora.com/about/bombora-careers?gh_jid=7859996002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/b91602b6-14e5-4b3e-93de-44d1785d605c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 12 |
-| **LexisNexis Risk Solutions** | Graduate Software Engineer I | Southampton, UK | 🔒 | Feb 12 |
+| **[LexisNexis Risk Solutions](https://simplify.jobs/c/9a8ce602-42f0-4474-9ff5-edf7d8868b76)** | Graduate Software Engineer I | Southampton, UK | <a href="https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/UK---Grosvenor-House-Southampton/Graduate-Software-Engineer-I_R89226-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7484f389-5a98-4a88-a679-f350bc7b57b4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 12 |
 | **Apple** | Software Engineer – Early Career - IS&T | Austin, TX | 🔒 | Feb 12 |
 | **Apple** | Software Engineer – Early Career - IS&T | Sunnyvale, CA | 🔒 | Feb 12 |
 | **Applied Materials** | Software Engineer / Data Scientist New College Grad-Bachelor's | Essex County, MA | 🔒 | Feb 11 |
