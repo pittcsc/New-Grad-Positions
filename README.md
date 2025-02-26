@@ -303,7 +303,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Medtronic** | Software Engineer I - Surgical Robotics | Boston, MA | 🔒 | Oct 31 |
 | **Medtronic** | Software Engineer I - Northridge - CA | Northridge, LA | 🔒 | Oct 31 |
 | **esri** | Software Development Engineer I - Arcgis Video Server & Mission Server | Vienna, VA | 🔒 | Oct 31 |
-| **Splunk** | Software Engineer - Frontend - Early in Career - Vancouver - Bc - Jan 2025 or sooner start date | Vancouver, BC, Canada | 🔒 | Oct 30 |
+| **[Splunk](https://simplify.jobs/c/Splunk)** | Software Engineer - Frontend - Early in Career - Vancouver - Bc - Jan 2025 or sooner start date | Vancouver, BC, Canada | <a href="https://jobs.jobvite.com/splunk-careers/job/oXmLufwi?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/98c27da6-b246-4b2e-a5d9-af60de9b7723?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 30 |
 | **Splunk** | Software Engineer - Backend/Fullstack - Early in Career - Vancouver - Bc - Jan 2025 or sooner start date | Vancouver, BC, Canada | 🔒 | Oct 30 |
 | **MSD** | Junior Data Engineer | San Jose, CA | 🔒 | Oct 30 |
 | **Two Six Technologies** | Junior Software Engineer | Cherry Hills Village, CO | 🔒 | Oct 30 |
