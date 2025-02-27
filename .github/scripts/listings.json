@@ -16731,7 +16731,7 @@
         "company_name": "Grand Rounds",
         "id": "146ea259-126b-4e18-8753-a6d924f56f81",
         "title": "Software Engineer I - Orchestration Platform - Canada",
-        "active": false,
+        "active": true,
         "date_updated": 1721157673,
         "date_posted": 1721085152,
         "url": "https://jobs.lever.co/includedhealth/71927e92-88ec-4481-8d12-00a2bcd9c41f/apply",
@@ -25339,6 +25339,22 @@
             "Springfield, VA"
         ],
         "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Adobe",
+        "id": "e6e76bc9-f0d3-4345-9a47-9133dc723ee6",
+        "title": "Software Development Engineer 1",
+        "active": true,
+        "date_updated": 1740616284,
+        "date_posted": 1740616284,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer-1_R154031",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
         "is_visible": true,
         "sponsorship": "Other"
     }
