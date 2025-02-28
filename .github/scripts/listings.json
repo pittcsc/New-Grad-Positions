@@ -25106,7 +25106,7 @@
         "company_name": "PayScale",
         "id": "4bcdb1ec-2af2-48a8-93f6-577c1d850daf",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1739564226,
         "date_posted": 1739564226,
         "url": "https://jobs.jobvite.com/payscale/job/otRnvfwW?nl=1&nl=1&fr=false",
@@ -25403,6 +25403,22 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AMERICAN SYSTEMS",
+        "id": "b83c8e76-1e74-4dee-a98a-551d1e3bf2da",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1740703710,
+        "date_posted": 1740703710,
+        "url": "https://careers-americansystems.icims.com/jobs/2296/job",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/AMERICAN-SYSTEMS",
         "is_visible": true,
         "sponsorship": "Other"
     }
