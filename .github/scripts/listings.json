@@ -25373,5 +25373,37 @@
         "company_url": "https://simplify.jobs/c/Ciena",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "eBay",
+        "id": "e7be3663-17a6-4893-88c2-343079ea6812",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1740703242,
+        "date_posted": 1740703242,
+        "url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/New-York-City/Software-Engineer-1_R0066254",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/E-Bay",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cox",
+        "id": "78e04359-a5f1-411c-a1b4-0d8d8d53208b",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1740702898,
+        "date_posted": 1740702898,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202559167",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
