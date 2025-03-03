@@ -79,7 +79,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Cox** | Software Engineer I | Atlanta, GA | 🔒 | Feb 25 |
 | **USAA** | Software Engineer Entry Level | San Antonio, TX | 🔒 | Feb 24 |
 | **Cox** | Software Engineer I | Austin, TX | 🔒 | Feb 24 |
-| **[Secoda](https://simplify.jobs/c/Secoda)** | Software Engineer – New Grad | Toronto, ON, Canada | <a href="https://jobs.ashbyhq.com/secoda/ad9807e9-a9d3-4247-99d7-37f68995ecd3/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/daad87a9-037b-48fb-a0eb-788a2088a419?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 24 |
+| **Secoda** | Software Engineer – New Grad | Toronto, ON, Canada | 🔒 | Feb 24 |
 | **[Pylon](https://simplify.jobs/c/PylonLending)** | Software Engineer – New Grad | Menlo Park, CA | <a href="https://jobs.ashbyhq.com/pylon/69b335e7-0264-43ba-a3c3-f2dc8dfb1212/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7f0efd8d-7fd1-43b3-a205-0e4e1ff9fa8a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 22 |
 | **Cadence Design Systems** | Software Engineer 1 | Burlington, MA | 🔒 | Feb 19 |
 | **The Trade Desk** | Software Engineer I - 2025 Start | SF | 🔒 | Feb 19 |
