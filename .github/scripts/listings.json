@@ -25515,5 +25515,37 @@
         "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cox",
+        "id": "e6aafbb4-b094-4486-bfbb-8ca683084c4e",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1741121045,
+        "date_posted": 1741121045,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I---17330_R202559675",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sierra Nevada Coporation",
+        "id": "50608479-06e7-4bca-b6fc-5714eaca5a3e",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1741120622,
+        "date_posted": 1741120622,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0026099",
+        "locations": [
+            "Lone Tree, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
