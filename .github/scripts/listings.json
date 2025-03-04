@@ -24929,7 +24929,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "7484f389-5a98-4a88-a679-f350bc7b57b4",
         "title": "Graduate Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1739392196,
         "date_posted": 1739392196,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/UK---Grosvenor-House-Southampton/Graduate-Software-Engineer-I_R89226-1",
@@ -25106,7 +25106,7 @@
         "company_name": "PayScale",
         "id": "4bcdb1ec-2af2-48a8-93f6-577c1d850daf",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1739564226,
         "date_posted": 1739564226,
         "url": "https://jobs.jobvite.com/payscale/job/otRnvfwW?nl=1&nl=1&fr=false",
@@ -25465,6 +25465,54 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/c0d581f7-6346-4205-96a6-0fb804352421",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sierra Nevada Coporation",
+        "id": "19f38bf7-9f66-4300-a0ce-0d3baf782090",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1741061794,
+        "date_posted": 1741061794,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0026766",
+        "locations": [
+            "Lone Tree, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sierra Nevada Coporation",
+        "id": "7d2cbcc3-2797-432c-8e43-e26a9b43f555",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1741061789,
+        "date_posted": 1741061789,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0026883",
+        "locations": [
+            "Lone Tree, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sierra Nevada Coporation",
+        "id": "6044f53c-5272-4a36-9bcc-82dc326f75fd",
+        "title": "Software Engineer I - Test",
+        "active": true,
+        "date_updated": 1741061765,
+        "date_posted": 1741061765,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Herndon-VA/Software-Engineer-I---Test_R0026900",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
         "is_visible": true,
         "sponsorship": "Other"
     }
