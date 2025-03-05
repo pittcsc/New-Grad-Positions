@@ -25563,5 +25563,21 @@
         "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AppLovin",
+        "id": "fd71fcd7-bd28-49aa-b892-51e01e20f4f7",
+        "title": "Software Engineer I - Backend",
+        "active": true,
+        "date_updated": 1741133237,
+        "date_posted": 1741133237,
+        "url": "https://boards.greenhouse.io/applovin/jobs/4451556006",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AppLovin",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
