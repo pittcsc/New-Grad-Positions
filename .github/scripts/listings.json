@@ -25579,5 +25579,21 @@
         "company_url": "https://simplify.jobs/c/AppLovin",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Creditgenie",
+        "id": "d7005c45-1475-4b7c-9454-a840125eb066",
+        "title": "New Grad \u2013 Software Engineer",
+        "active": true,
+        "date_updated": 1741134743,
+        "date_posted": 1741134743,
+        "url": "https://jobs.ashbyhq.com/creditgenie/016056e0-61cd-4a19-9d42-5f3cd88fed02/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/c3b8469f-97ee-485e-a48a-0bb2eaa55657",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
