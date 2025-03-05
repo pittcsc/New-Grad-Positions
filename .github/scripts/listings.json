@@ -25106,7 +25106,7 @@
         "company_name": "PayScale",
         "id": "4bcdb1ec-2af2-48a8-93f6-577c1d850daf",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1739564226,
         "date_posted": 1739564226,
         "url": "https://jobs.jobvite.com/payscale/job/otRnvfwW?nl=1&nl=1&fr=false",
@@ -25610,6 +25610,22 @@
             "Reading, UK"
         ],
         "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Iridium Communications",
+        "id": "fbb247bf-1178-4e69-88ad-c83830c55f6d",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1741162497,
+        "date_posted": 1741162497,
+        "url": "https://careers-iridium.icims.com/jobs/4346/job",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Iridium-Communications",
         "is_visible": true,
         "sponsorship": "Other"
     }
