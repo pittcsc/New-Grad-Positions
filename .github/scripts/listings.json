@@ -25595,5 +25595,22 @@
         "company_url": "https://simplify.jobs/c/c3b8469f-97ee-485e-a48a-0bb2eaa55657",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ciena",
+        "id": "cb781e1c-9c0b-4f59-ad6c-4e4a74708fbf",
+        "title": "New Grad Software Engineer",
+        "active": true,
+        "date_updated": 1741162396,
+        "date_posted": 1741162396,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/New-Grad-Software-Engineer---UK_R026263",
+        "locations": [
+            "Edinburgh, UK",
+            "Reading, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
