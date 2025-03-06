@@ -186,7 +186,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Wiley Edge** | Junior Software Engineer | NYC | 🔒 | Jan 07 |
 | **Snorkel AI** | Software Engineer – Recent University Graduate | San Carlos, CA | 🔒 | Jan 07 |
 | **Wiley Edge** | Mthree – Junior Software Developer | United Kingdom | 🔒 | Jan 06 |
-| **[GitHub](https://simplify.jobs/c/GitHub)** | Software Engineer I - Copilot Agent Services | Remote in UK | <a href="https://githubinc.jibeapply.com/jobs/3904?lang=en-us&icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/5fe02ed4-a77a-4cda-88be-c1eb853e0bcf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 06 |
+| **GitHub** | Software Engineer I - Copilot Agent Services | Remote in UK | 🔒 | Jan 06 |
 | **Visa** | Software Engineer – New College Grad | San Mateo, CA | 🔒 | Jan 06 |
 | **Visa** | Software Engineer – New College Grad | Austin, TX | 🔒 | Jan 06 |
 | **Tower Research Capital** | Software Engineer I | Charleston, SC | 🔒 | Jan 06 |
