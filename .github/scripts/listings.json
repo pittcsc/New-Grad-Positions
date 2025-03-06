@@ -19885,7 +19885,7 @@
         "company_name": "Splunk",
         "id": "b3cd2dc0-5c30-4527-abee-a408d1f0985f",
         "title": "Fedramp Software Engineer \u2013 Early Career - Raleigh - NC - Jan 2025 or sooner start date ONLY",
-        "active": false,
+        "active": true,
         "date_updated": 1727824595,
         "date_posted": 1727824595,
         "url": "https://jobs.jobvite.com/splunk-careers/job/ovBBufwV?nl=1&nl=1&fr=false",
@@ -24000,7 +24000,7 @@
         "company_name": "Splunk",
         "id": "f1138aa2-833a-42e0-b5d3-6fb0ac863414",
         "title": "Software Engineer - Frontend - Early in Career",
-        "active": false,
+        "active": true,
         "date_updated": 1736900379,
         "date_posted": 1736900379,
         "url": "https://jobs.jobvite.com/splunk-careers/job/oXFfvfw6?nl=1&nl=1&fr=false",
@@ -25106,7 +25106,7 @@
         "company_name": "PayScale",
         "id": "4bcdb1ec-2af2-48a8-93f6-577c1d850daf",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1739564226,
         "date_posted": 1739564226,
         "url": "https://jobs.jobvite.com/payscale/job/otRnvfwW?nl=1&nl=1&fr=false",
@@ -25642,6 +25642,23 @@
             "West Redlands, Redlands, CA"
         ],
         "company_url": "https://simplify.jobs/c/3bc7a09e-e5f1-45e8-b26b-1d3c77588a00",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "907fad13-9965-49f6-b379-785141633097",
+        "title": "Software Engineer - Frontend - Early in Career",
+        "active": true,
+        "date_updated": 1741233283,
+        "date_posted": 1741233283,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/oVYzvfwH?nl=1&nl=1&fr=false",
+        "locations": [
+            "Colorado",
+            "North Carolina"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
         "is_visible": true,
         "sponsorship": "Other"
     }
