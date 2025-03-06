@@ -25106,7 +25106,7 @@
         "company_name": "PayScale",
         "id": "4bcdb1ec-2af2-48a8-93f6-577c1d850daf",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1739564226,
         "date_posted": 1739564226,
         "url": "https://jobs.jobvite.com/payscale/job/otRnvfwW?nl=1&nl=1&fr=false",
@@ -25626,6 +25626,22 @@
             "Tempe, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Iridium-Communications",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "esri",
+        "id": "80da21ce-b264-439a-a6e9-d6ba68a20436",
+        "title": "Java Software Engineer I - Arcgis Enterprise",
+        "active": true,
+        "date_updated": 1741222698,
+        "date_posted": 1741222698,
+        "url": "https://www.esri.com/careers/4660952007?gh_jid=4660952007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/3bc7a09e-e5f1-45e8-b26b-1d3c77588a00",
         "is_visible": true,
         "sponsorship": "Other"
     }
