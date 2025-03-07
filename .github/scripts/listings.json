@@ -25760,5 +25760,21 @@
         "company_url": "https://simplify.jobs/c/The-Aerospace-Coporation",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Expedia Group",
+        "id": "d21f0ef4-ba4d-49e2-adaf-52d179bdcaf2",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1741378753,
+        "date_posted": 1741378753,
+        "url": "https://expedia.wd5.myworkdayjobs.com/en-US/private/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-94228-1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
