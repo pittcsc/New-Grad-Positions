@@ -25741,5 +25741,24 @@
         "company_url": "https://simplify.jobs/c/Comcast",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Aerospace Coporation",
+        "id": "ca919364-6ecd-4bc3-ac4d-3e433e969412",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1741379543,
+        "date_posted": 1741379543,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2025-Junior-Software-Developer-for-Modeling-and-Simulation-Computing_R011002",
+        "locations": [
+            "Colorado Springs, CO",
+            "Albuquerque, NM",
+            "Chantilly, VA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Coporation",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
