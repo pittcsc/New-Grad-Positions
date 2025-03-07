@@ -25106,7 +25106,7 @@
         "company_name": "PayScale",
         "id": "4bcdb1ec-2af2-48a8-93f6-577c1d850daf",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1739564226,
         "date_posted": 1739564226,
         "url": "https://jobs.jobvite.com/payscale/job/otRnvfwW?nl=1&nl=1&fr=false",
@@ -25675,6 +25675,22 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Latitude Inc",
+        "id": "44dc2f91-63ac-44b6-ad05-b2227ad5d38d",
+        "title": "Entry Level Software Developer/Consultant",
+        "active": true,
+        "date_updated": 1741306814,
+        "date_posted": 1741306814,
+        "url": "https://jobs.lever.co/latitudeinc/cff13310-5952-4608-8066-eaa1e394fee6/apply",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Latitude-Inc",
         "is_visible": true,
         "sponsorship": "Other"
     }
