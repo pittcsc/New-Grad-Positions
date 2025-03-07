@@ -669,7 +669,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **NVIDIA** | System Software Engineer – New College Grad 2024 - Graphics Developer Tool | Austin, TX</br>Santa Clara, CA | 🔒 | Jun 11 |
 | **Autotrader.ca** | Junior Android Engineer | Toronto, ON, Canada | 🔒 | Jun 10 |
 | **Pollen Mobile** | Junior Software Engineer | SF | 🔒 | Jun 07 |
-| **[Konrad Group](https://simplify.jobs/c/Konrad-Group)** | Mobile Developer – Entry Level | Toronto, ON, Canada | <a href="https://boards.greenhouse.io/embed/job_app?token=6015617003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/fa797771-52ff-4d34-b455-4ea452679bdb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jun 06 |
+| **Konrad Group** | Mobile Developer – Entry Level | Toronto, ON, Canada | 🔒 | Jun 06 |
 | **Arsiem Corporation** | Software Engineer 1 | Remote in USA | 🔒 | Jun 05 |
 | **Perpay** | Junior Data Engineer | Philadelphia, PA | 🔒 | May 31 |
 | **[TransMarket Group](https://simplify.jobs/c/TransMarket-Group)** | Junior Quantitative Trader | Chicago, IL | <a href="https://job-boards.greenhouse.io/transmarketgroup/jobs/4389335007?gh_jid=4389335007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f3b0c582-740f-4e42-8501-158b3c020fcb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | May 31 |
