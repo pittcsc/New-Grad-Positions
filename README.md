@@ -62,7 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **[Latitude Inc](https://simplify.jobs/c/Latitude-Inc)** | Entry Level Software Developer/Consultant | Baltimore, MD | <a href="https://jobs.lever.co/latitudeinc/cff13310-5952-4608-8066-eaa1e394fee6/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/44dc2f91-63ac-44b6-ad05-b2227ad5d38d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 07 |
+| **Latitude Inc** | Entry Level Software Developer/Consultant | Baltimore, MD | 🔒 | Mar 07 |
 | **[Jerry](https://simplify.jobs/c/Jerry)** | Software Engineer I | Toronto, ON, Canada | <a href="https://jobs.ashbyhq.com/Jerry/1b1559f1-24fb-4f38-a509-cf03198656a2/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/bdf8543c-a6e6-4f17-a2ea-55f292ced767?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 06 |
 | **[Splunk](https://simplify.jobs/c/Splunk)** | Software Engineer - Frontend - Early in Career | Colorado</br>North Carolina | <a href="https://jobs.jobvite.com/splunk-careers/job/oVYzvfwH?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/907fad13-9965-49f6-b379-785141633097?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 06 |
 | **esri** | Java Software Engineer I - Arcgis Enterprise | West Redlands, Redlands, CA | 🔒 | Mar 06 |
@@ -385,7 +385,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Visa** | Data Engineer – New College Grad | Austin, TX | 🔒 | Oct 11 |
 | **Visa** | Software Engineer – New College Grad - 2025 | Bellevue, WA | 🔒 | Oct 11 |
 | **Visa** | Software Engineer – New College Grad - 2025 🛂 | Austin, TX | 🔒 | Oct 11 |
-| **[Nuro](https://simplify.jobs/c/Nuro)** | Software Engineer – New Grad - Autonomy | Mountain View, CA | <a href="https://nuro.ai/careersitem?gh_jid=6299078&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/153be694-5eb6-4293-9218-0872ae77490a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 10 |
+| **Nuro** | Software Engineer – New Grad - Autonomy | Mountain View, CA | 🔒 | Oct 10 |
 | **Wyetech** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | Oct 10 |
 | **Affirm** | Software Engineer I | Remote in Canada | 🔒 | Oct 09 |
 | **Universal Music Group** | Junior Software Developer | NYC | 🔒 | Oct 09 |
@@ -592,7 +592,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Marshall Wace** | Software Engineer – New Grad | London</br>NYC</br>Singapore | <a href="https://www.mwam.com/technology-graduate-scheme/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
 | **Sentry** | Software Engineer – New Grad - 2025 | SF | 🔒 | Aug 01 |
 | **Sentry** | Software Engineer – New Grad - 2025 | Toronto, ON, Canada | 🔒 | Aug 01 |
-| **[Palantir](https://simplify.jobs/c/Palantir)** | Software Engineer – New Grad | London, UK | <a href="https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4cbc04d5-d651-438a-81ec-b82f768a6602?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 01 |
+| **Palantir** | Software Engineer – New Grad | London, UK | 🔒 | Aug 01 |
 | **[Palantir](https://simplify.jobs/c/Palantir)** | Forward Deployed Software Engineer – New Grad | London, UK | <a href="https://jobs.lever.co/palantir/73f6f11a-8165-4009-8dba-cc78ab9ca990/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/791ef167-9292-42dd-9cf5-714780fb6097?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 01 |
 | **Palantir** | Forward Deployed Software Engineer – New Grad - UK Government | London, UK | 🔒 | Aug 01 |
 | **Applied Materials** | Software Engineer I - C/C++ - Embedded programming | Santa Clara, CA | 🔒 | Aug 01 |
