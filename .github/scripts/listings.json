@@ -309,7 +309,7 @@
         "company_name": "Konrad Group",
         "id": "fa797771-52ff-4d34-b455-4ea452679bdb",
         "title": "Mobile Developer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1717716152,
         "date_posted": 1717716152,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6015617003",
@@ -25691,6 +25691,22 @@
             "Baltimore, MD"
         ],
         "company_url": "https://simplify.jobs/c/Latitude-Inc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RTX",
+        "id": "965443f4-2127-4b57-ab3e-a979ddc889d5",
+        "title": " - Raytheon Software Engineer I",
+        "active": true,
+        "date_updated": 1741321003,
+        "date_posted": 1741321003,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN301-1010-Production-Rd-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/XMLNAME-2025-Fulltime---Raytheon-Software-Engineer-I--On-site-_01755701",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other"
     }
