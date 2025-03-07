@@ -386,7 +386,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Visa** | Data Engineer – New College Grad | Austin, TX | 🔒 | Oct 11 |
 | **Visa** | Software Engineer – New College Grad - 2025 | Bellevue, WA | 🔒 | Oct 11 |
 | **Visa** | Software Engineer – New College Grad - 2025 🛂 | Austin, TX | 🔒 | Oct 11 |
-| **Nuro** | Software Engineer – New Grad - Autonomy | Mountain View, CA | 🔒 | Oct 10 |
+| **[Nuro](https://simplify.jobs/c/Nuro)** | Software Engineer – New Grad - Autonomy | Mountain View, CA | <a href="https://nuro.ai/careersitem?gh_jid=6299078&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/153be694-5eb6-4293-9218-0872ae77490a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 10 |
 | **Wyetech** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | Oct 10 |
 | **Affirm** | Software Engineer I | Remote in Canada | 🔒 | Oct 09 |
 | **Universal Music Group** | Junior Software Developer | NYC | 🔒 | Oct 09 |
