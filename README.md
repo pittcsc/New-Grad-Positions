@@ -82,7 +82,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **FICO** | Software Engineering - Engineer I | Remote in Canada | 🔒 | Feb 28 |
 | **Apple** | IOS Software Engineer – Early Career - IS&T | Austin, TX | 🔒 | Feb 28 |
 | **AMERICAN SYSTEMS** | Software Engineer I | McLean, VA | 🔒 | Feb 28 |
-| **[eBay](https://simplify.jobs/c/E-Bay)** | Software Engineer 1 | NYC | <a href="https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/New-York-City/Software-Engineer-1_R0066254?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/e7be3663-17a6-4893-88c2-343079ea6812?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 28 |
+| **eBay** | Software Engineer 1 | NYC | 🔒 | Feb 28 |
 | **Cox** | Software Engineer I | Atlanta, GA | 🔒 | Feb 28 |
 | **[Ciena](https://simplify.jobs/c/Ciena)** | Wavelogic Software Developer – New Grad | Atlanta, GA | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R027194?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0c0f0d44-9cdd-477e-aa21-f4956dc2ebf0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 27 |
 | **Adobe** | Software Development Engineer 1 | Lehi, UT | 🔒 | Feb 27 |
