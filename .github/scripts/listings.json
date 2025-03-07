@@ -25709,5 +25709,21 @@
         "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vapi",
+        "id": "413ac022-f691-466e-8145-4e292d5eb418",
+        "title": "New Grad Software Engineer",
+        "active": true,
+        "date_updated": 1741320505,
+        "date_posted": 1741320505,
+        "url": "https://jobs.ashbyhq.com/vapi/3613e24a-de10-4e76-8c28-530df2a9981b/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Vapi",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
