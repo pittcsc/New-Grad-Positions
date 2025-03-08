@@ -25106,7 +25106,7 @@
         "company_name": "PayScale",
         "id": "4bcdb1ec-2af2-48a8-93f6-577c1d850daf",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1739564226,
         "date_posted": 1739564226,
         "url": "https://jobs.jobvite.com/payscale/job/otRnvfwW?nl=1&nl=1&fr=false",
@@ -25774,6 +25774,22 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "United Parcel Service (UPS)",
+        "id": "8e3dd754-8f42-4e84-8f17-15379e1a322b",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1741393653,
+        "date_posted": 1741393653,
+        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---AIR-GROUP-BUILDING-KYARP/Software-Development-Engineer-I_R25004867-1",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
         "is_visible": true,
         "sponsorship": "Other"
     }
