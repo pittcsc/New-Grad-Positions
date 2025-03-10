@@ -25792,5 +25792,21 @@
         "company_url": "https://simplify.jobs/c/United-Parcel-Service",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Apple",
+        "id": "117f8911-4d34-4aa5-a5fb-371901fcc642",
+        "title": "Junior Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1741569605,
+        "date_posted": 1741321546,
+        "url": "https://jobs.apple.com/en-us/details/200593705",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
