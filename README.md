@@ -62,7 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **[Marqeta](https://simplify.jobs/c/Marqeta)** | Software Engineer I - Continuous Integration Team | Remote in Canada | <a href="https://job-boards.greenhouse.io/marqeta/jobs/6695137?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/21a33f11-4648-442d-a523-03f00ac08f70?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 10 |
+| **Marqeta** | Software Engineer I - Continuous Integration Team | Remote in Canada | 🔒 | Mar 10 |
 | **United Parcel Service (UPS)** | Software Development Engineer I | United States | 🔒 | Mar 08 |
 | **The Aerospace Coporation** | Junior Software Developer | <details><summary>**4 locations**</summary>Colorado Springs, CO</br>Albuquerque, NM</br>Chantilly, VA</br>El Segundo, CA</details> | 🔒 | Mar 07 |
 | **[Expedia Group](https://simplify.jobs/c/Expedia-Group)** | Software Development Engineer I | Seattle, WA | <a href="https://expedia.wd5.myworkdayjobs.com/en-US/private/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-94228-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d21f0ef4-ba4d-49e2-adaf-52d179bdcaf2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 07 |
