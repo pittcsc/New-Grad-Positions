@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Aurora Innovation](https://simplify.jobs/c/Aurora-Innovation)** | Software Engineer I | Mountain View, CA | <a href="https://aurora.tech/jobs/7781378002?gh_jid=7781378002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/27735beb-5ab1-4065-a41f-01d0c514b61c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 10 |
 | **Marqeta** | Software Engineer I - Continuous Integration Team | Remote in Canada | 🔒 | Mar 10 |
 | **United Parcel Service (UPS)** | Software Development Engineer I | United States | 🔒 | Mar 08 |
 | **The Aerospace Coporation** | Junior Software Developer | <details><summary>**4 locations**</summary>Colorado Springs, CO</br>Albuquerque, NM</br>Chantilly, VA</br>El Segundo, CA</details> | 🔒 | Mar 07 |
