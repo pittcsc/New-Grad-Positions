@@ -172,7 +172,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Vermont Information Processing](https://simplify.jobs/c/Vermont-Information-Processing)** | Software Engineer 1 | Burlington, VT | <a href="https://job-boards.greenhouse.io/vipvermontinformationprocessing/jobs/4627310007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7cbd5f81-73f0-41d0-8edb-93ead6477b93?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 17 |
 | **Becton Dickinson** | Software Engineer I | Sparks, MD | 🔒 | Jan 17 |
 | **Wiley Edge** | Développeur génie logiciel / Junior Software Developer | Montreal, QC, Canada | 🔒 | Jan 17 |
-| **[GitHub](https://simplify.jobs/c/GitHub)** | Software Engineer I | Remote in UK | <a href="https://githubinc.jibeapply.com/jobs/3933?lang=en-us&icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/92b92362-b7e4-4282-a3ae-eb7616da101e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 16 |
+| **GitHub** | Software Engineer I | Remote in UK | 🔒 | Jan 16 |
 | **Leidos** | Junior Data Scientist | Remote in USA | 🔒 | Jan 15 |
 | **Global Payments** | Mainframe Software Engineer I | Columbus, GA | 🔒 | Jan 15 |
 | **[Splunk](https://simplify.jobs/c/Splunk)** | Software Engineer - Frontend - Early in Career | Raleigh, NC</br>Boulder, CO | <a href="https://jobs.jobvite.com/splunk-careers/job/oXFfvfw6?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f1138aa2-833a-42e0-b5d3-6fb0ac863414?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 15 |
@@ -397,7 +397,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Visa** | Data Engineer – New College Grad | Austin, TX | 🔒 | Oct 11 |
 | **Visa** | Software Engineer – New College Grad - 2025 | Bellevue, WA | 🔒 | Oct 11 |
 | **Visa** | Software Engineer – New College Grad - 2025 🛂 | Austin, TX | 🔒 | Oct 11 |
-| **[Nuro](https://simplify.jobs/c/Nuro)** | Software Engineer – New Grad - Autonomy | Mountain View, CA | <a href="https://nuro.ai/careersitem?gh_jid=6299078&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/153be694-5eb6-4293-9218-0872ae77490a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 10 |
+| **Nuro** | Software Engineer – New Grad - Autonomy | Mountain View, CA | 🔒 | Oct 10 |
 | **Wyetech** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | Oct 10 |
 | **Affirm** | Software Engineer I | Remote in Canada | 🔒 | Oct 09 |
 | **Universal Music Group** | Junior Software Developer | NYC | 🔒 | Oct 09 |
