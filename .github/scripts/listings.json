@@ -25106,7 +25106,7 @@
         "company_name": "PayScale",
         "id": "4bcdb1ec-2af2-48a8-93f6-577c1d850daf",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1739564226,
         "date_posted": 1739564226,
         "url": "https://jobs.jobvite.com/payscale/job/otRnvfwW?nl=1&nl=1&fr=false",
@@ -25850,6 +25850,22 @@
         "date_updated": 1741635341,
         "date_posted": 1741635341,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0135975",
+        "locations": [
+            "Fredericksburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amentum",
+        "id": "623825f6-11b7-4f41-9cd5-38005ddc2ec1",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1741635346,
+        "date_posted": 1741635346,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0135976",
         "locations": [
             "Fredericksburg, VA"
         ],
