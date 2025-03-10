@@ -25890,5 +25890,21 @@
         "company_url": "https://simplify.jobs/c/Dagster-Labs",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cox",
+        "id": "f905a2a5-5e35-42d8-bd8a-290b5659e316",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1741648416,
+        "date_posted": 1741648416,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I_R202558565",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
