@@ -25922,5 +25922,21 @@
         "company_url": "https://simplify.jobs/c/Whoop",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mastercard",
+        "id": "6841ccde-82fa-45ee-83dd-7139b4e01265",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1741706552,
+        "date_posted": 1741706552,
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Data-Engineer-I_R-243234-1",
+        "locations": [
+            "O'Fallon, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Mastercard",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
