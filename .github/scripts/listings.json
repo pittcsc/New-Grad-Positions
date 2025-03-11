@@ -25906,5 +25906,21 @@
         "company_url": "https://simplify.jobs/c/Cox",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Whoop",
+        "id": "5de1c3ac-3ffe-4fc2-bf0c-a547b5b4d15f",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1741655648,
+        "date_posted": 1740529975,
+        "url": "https://jobs.lever.co/whoop/f6a52874-4099-4768-b5bb-66b211c12140/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Whoop",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
