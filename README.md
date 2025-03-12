@@ -120,7 +120,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Cox** | Software Engineer I | Atlanta, GA | 🔒 | Feb 26 |
 | **[Healthfirst](https://simplify.jobs/c/Healthfirst)** | Technology Early Career Development Program - Full Stack Developer | NYC | <a href="https://healthfirst.wd1.myworkdayjobs.com/healthfirst/job/Hybrid---NY/XMLNAME-2025-Technology-Early-Career-Development-Program---Full-Stack-Developer_R020017?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/cbce0fc3-4ecd-462b-8850-9144178409bd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 26 |
 | **Onto Innovation** | Software Engineer 1 | Tucson, AZ | 🔒 | Feb 26 |
-| **[Wood Mackenzie](https://simplify.jobs/c/Wood-Mackenzie)** | Software Engineer I | Boston, MA | <a href="https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Software-Engineer-I_JR1383-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/07475729-6892-4070-8a63-a553fcfa9a6c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 26 |
+| **Wood Mackenzie** | Software Engineer I | Boston, MA | 🔒 | Feb 26 |
 | **Teledyne** | Junior Research Engineer | Durham, NC | 🔒 | Feb 25 |
 | **Cox** | Software Engineer I | Atlanta, GA | 🔒 | Feb 25 |
 | **USAA** | Software Engineer Entry Level | San Antonio, TX | 🔒 | Feb 24 |
