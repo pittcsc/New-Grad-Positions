@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Vanta](https://simplify.jobs/c/Vanta)** | Software Engineer – Entry Level | NYC | <a href="https://jobs.ashbyhq.com/vanta/e48bccb9-069c-4921-a5db-1385050e878b/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7789d0e6-f80b-4702-a488-c0baabebb726?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 12 |
 | **RippleMatch** | Entry Level Software Engineer | NYC | 🔒 | Mar 12 |
 | **RippleMatch** | Entry Level Software Engineer | Boston, MA | 🔒 | Mar 12 |
 | **RippleMatch** | Entry Level Software Engineer | Houston, TX | 🔒 | Mar 12 |
