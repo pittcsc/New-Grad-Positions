@@ -26226,5 +26226,37 @@
         "company_url": "https://simplify.jobs/c/Vanta",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Scale AI",
+        "id": "a3d4b82c-cab5-453a-8309-27159f8ed204",
+        "title": "Software Engineer Public Sector \u2013 New Grad",
+        "active": true,
+        "date_updated": 1741821810,
+        "date_posted": 1741821810,
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4537496005",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Scale-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "07ffc73d-aed6-4d82-9fc5-371e2650d332",
+        "title": "Fedramp Machine Learning Engineer - Early in Career",
+        "active": true,
+        "date_updated": 1741822135,
+        "date_posted": 1741822135,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/o6QAvfwL?nl=1&nl=1&fr=false",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
