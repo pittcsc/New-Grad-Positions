@@ -77,7 +77,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **RippleMatch** | Entry Level Software Engineer | Dallas, TX | 🔒 | Mar 12 |
 | **RippleMatch** | Entry Level Software Engineer | San Jose, CA | 🔒 | Mar 12 |
 | **[Coalition](https://simplify.jobs/c/Coalition)** | Data Engineer I | Remote in USA | <a href="https://www.coalitioninc.com/job-posting?gh_jid=4538767005&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9ea74609-457f-4c34-b3fd-dd541284ae1a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 11 |
-| **[Mintel](https://simplify.jobs/c/d12e128c-67fc-4f21-b1de-d239e884bafa)** | Software Engineer I | Chicago, IL | <a href="https://www.mintel.com/job/6697491?gh_jid=6697491&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/157600ae-2405-41d5-b5c1-24db537c938f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 11 |
+| **Mintel** | Software Engineer I | Chicago, IL | 🔒 | Mar 11 |
 | **Onto Innovation** | Software Engineer 1 | Milpitas, CA | 🔒 | Mar 11 |
 | **Mastercard** | Data Engineer I | O'Fallon, MO | 🔒 | Mar 11 |
 | **Cox** | Software Engineer I | Austin, TX | 🔒 | Mar 10 |
@@ -238,7 +238,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Uber** | 2025 Graduate Software Engineer I |  | 🔒 | Dec 14 |
 | **Uber** | 2025 Graduate Software Engineer I | SF | 🔒 | Dec 14 |
 | **Parsons** | Junior Software Developer - Java/C# | Scott AFB, IL</br>United States | 🔒 | Dec 13 |
-| **[Twitch](https://simplify.jobs/c/Twitch)** | Software Engineer I | Seattle, WA | <a href="https://job-boards.greenhouse.io/twitch/jobs/7766033002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/1198ad12-aa89-4c98-a540-1c061c867d9b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Dec 13 |
+| **Twitch** | Software Engineer I | Seattle, WA | 🔒 | Dec 13 |
 | **Cape** | New College Graduate - Software Engineer | NYC | 🔒 | Dec 13 |
 | **Vertex** | Software Developer – New Grad | Remote in USA</br>Remote in Canada | 🔒 | Dec 12 |
 | **Meta** | Software Engineer – University Grad | London, UK | 🔒 | Dec 12 |
