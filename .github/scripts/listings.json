@@ -26210,5 +26210,21 @@
         "company_url": "https://simplify.jobs/c/RippleMatch",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vanta",
+        "id": "7789d0e6-f80b-4702-a488-c0baabebb726",
+        "title": "Software Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1741821470,
+        "date_posted": 1741821470,
+        "url": "https://jobs.ashbyhq.com/vanta/e48bccb9-069c-4921-a5db-1385050e878b/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanta",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
