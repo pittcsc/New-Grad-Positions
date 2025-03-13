@@ -26354,5 +26354,37 @@
         "company_url": "https://simplify.jobs/c/4deb12d2-2054-45da-b1c8-a49bc3f15c6a",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blackboard",
+        "id": "c1f6ade8-5214-4d89-a83e-7819b070ccdb",
+        "title": "Associate Software Engineer I",
+        "active": true,
+        "date_updated": 1741833010,
+        "date_posted": 1741833010,
+        "url": "https://jobs.jobvite.com/blackboard/job/odwlvfwj?nl=1&nl=1&fr=false",
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ],
+        "company_url": "https://simplify.jobs/c/Blackboard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "1c156102-84c0-4b59-a129-94ff9e57e8cc",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1741833096,
+        "date_posted": 1741833096,
+        "url": "https://apply.workable.com/keywords-intl1/j/5A4DD14937/apply",
+        "locations": [
+            "Pune, Maharashtra, India"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
