@@ -26274,5 +26274,21 @@
         "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nike",
+        "id": "e59b52c7-50dc-4323-9231-a01cd7dceb38",
+        "title": "Software Engineer I - Itc",
+        "active": true,
+        "date_updated": 1741832892,
+        "date_posted": 1741832892,
+        "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Karnataka-India/Software-Engineer-I--ITC_R-52155",
+        "locations": [
+            "Koppal, Karnataka, India"
+        ],
+        "company_url": "https://simplify.jobs/c/Nike",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
