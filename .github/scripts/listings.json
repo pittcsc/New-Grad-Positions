@@ -26322,5 +26322,37 @@
         "company_url": "https://simplify.jobs/c/Nike",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Konrad Group",
+        "id": "3983d14d-f0a6-4d92-8ae4-a82f42d7101a",
+        "title": "Mobile Developer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1741833356,
+        "date_posted": 1741833356,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6084536003",
+        "locations": [
+            "Noida, Uttar Pradesh, India"
+        ],
+        "company_url": "https://simplify.jobs/c/Konrad-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cambridge Mobile Telematics",
+        "id": "19637992-20aa-4547-bd1d-bf724f1ebfc4",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1741832058,
+        "date_posted": 1741832058,
+        "url": "https://www.cmtelematics.com/who-we-are/join-our-team/job-posting/?gh_jid=6692574",
+        "locations": [
+            "Chennai, Tamil Nadu, India"
+        ],
+        "company_url": "https://simplify.jobs/c/4deb12d2-2054-45da-b1c8-a49bc3f15c6a",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
