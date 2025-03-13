@@ -62,19 +62,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **Hewlett Packard (HP)** | AI Lab – Junior Machine Learning Engineer | Sant Cugat del Vallès, Barcelona, Spain | 🔒 | Mar 13 |
-| **Datadog** | Software Engineer – Early Career | Madrid, Spain | 🔒 | Mar 13 |
-| **Konrad Group** | Mobile Developer – Entry Level | Noida, Uttar Pradesh, India | 🔒 | Mar 13 |
-| **Keywords Studios** | Software Engineer I | Pune, Maharashtra, India | 🔒 | Mar 13 |
-| **Blackboard** | Associate Software Engineer I | Bengaluru, Karnataka, India | 🔒 | Mar 13 |
-| **Nike** | Software Engineer I - Itc | Koppal, Karnataka, India | 🔒 | Mar 13 |
-| **Nike** | Software Engineer I - Itc | Koppal, Karnataka, India | 🔒 | Mar 13 |
-| **Tower Research Capital** | Software Engineer I | Noida, Uttar Pradesh, India | 🔒 | Mar 13 |
-| **Cambridge Mobile Telematics** | Software Engineer I | Chennai, Tamil Nadu, India | 🔒 | Mar 13 |
-| **Affirm** | Software Engineer – Early Career | Madrid, Spain | 🔒 | Mar 13 |
-| **Fever Up** | Junior Software Engineer | Sant Cugat del Vallès, Barcelona, Spain | 🔒 | Mar 13 |
-| **CommerceIQ** | Software Development Engineer I | Bengaluru, Karnataka, India | 🔒 | Mar 13 |
-| **Leapsome** | Junior Full Stack Software Engineer | Berlin, Germany | 🔒 | Mar 13 |
 | **[Splunk](https://simplify.jobs/c/Splunk)** | Fedramp Machine Learning Engineer - Early in Career | California | <a href="https://jobs.jobvite.com/splunk-careers/job/o6QAvfwL?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/07ffc73d-aed6-4d82-9fc5-371e2650d332?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 12 |
 | **[Scale AI](https://simplify.jobs/c/Scale-AI)** | Software Engineer Public Sector – New Grad | SF | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4537496005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/a3d4b82c-cab5-453a-8309-27159f8ed204?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 12 |
 | **[Vanta](https://simplify.jobs/c/Vanta)** | Software Engineer – Entry Level | NYC | <a href="https://jobs.ashbyhq.com/vanta/e48bccb9-069c-4921-a5db-1385050e878b/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7789d0e6-f80b-4702-a488-c0baabebb726?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 12 |
