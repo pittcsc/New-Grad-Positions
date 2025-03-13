@@ -26258,5 +26258,21 @@
         "company_url": "https://simplify.jobs/c/Splunk",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tower Research Capital",
+        "id": "89e30336-5356-4adb-a824-cfbc435c24e3",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1741832593,
+        "date_posted": 1741832593,
+        "url": "https://www.tower-research.com/open-positions/?gh_jid=6607630",
+        "locations": [
+            "Noida, Uttar Pradesh, India"
+        ],
+        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
