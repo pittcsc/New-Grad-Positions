@@ -26434,5 +26434,37 @@
         "company_url": "https://simplify.jobs/c/ccd659bd-afde-4183-82c1-ec67db14a116",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leapsome",
+        "id": "541a69dd-46ea-4a49-8faa-5a8234322bb6",
+        "title": "Junior Full Stack Software Engineer",
+        "active": true,
+        "date_updated": 1741831704,
+        "date_posted": 1741831704,
+        "url": "https://jobs.ashbyhq.com/leapsome/5e8d67dc-d6de-4a3c-9b24-800317a7b876/application",
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/Leapsome",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Datadog",
+        "id": "8a9a65d3-558c-4ceb-b2d2-00eacd8fdbfc",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1741833392,
+        "date_posted": 1741833392,
+        "url": "https://careers.datadoghq.com/detail/6677615/?gh_jid=6677615",
+        "locations": [
+            "Madrid, Spain"
+        ],
+        "company_url": "https://simplify.jobs/c/Datadog",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
