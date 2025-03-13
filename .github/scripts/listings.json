@@ -26290,5 +26290,37 @@
         "company_url": "https://simplify.jobs/c/Nike",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "b107d447-6029-4248-a508-5ba6c4102f33",
+        "title": "AI Lab \u2013 Junior Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1741833975,
+        "date_posted": 1741833975,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Lab---Junior-Machine-Learning-Engineer_3148607-2",
+        "locations": [
+            "Sant Cugat del Vall\u00e8s, Barcelona, Spain"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nike",
+        "id": "51b6aa78-96b3-435d-9a9f-ac5ecb47e6f1",
+        "title": "Software Engineer I - Itc",
+        "active": true,
+        "date_updated": 1741832892,
+        "date_posted": 1741832892,
+        "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Karnataka-India/Software-Engineer-I--ITC_R-52153",
+        "locations": [
+            "Koppal, Karnataka, India"
+        ],
+        "company_url": "https://simplify.jobs/c/Nike",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
