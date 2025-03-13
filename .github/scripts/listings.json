@@ -26418,5 +26418,21 @@
         "company_url": "https://simplify.jobs/c/Fever-Up",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CommerceIQ",
+        "id": "b79636ce-69bd-408f-9cb9-323cf5d630aa",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1741831733,
+        "date_posted": 1741831733,
+        "url": "https://job-boards.greenhouse.io/commerceiq/jobs/6499440003",
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ],
+        "company_url": "https://simplify.jobs/c/ccd659bd-afde-4183-82c1-ec67db14a116",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
