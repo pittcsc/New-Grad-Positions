@@ -101,7 +101,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Splunk](https://simplify.jobs/c/Splunk)** | Software Engineer - Frontend - Early in Career | Colorado</br>North Carolina | <a href="https://jobs.jobvite.com/splunk-careers/job/oVYzvfwH?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/907fad13-9965-49f6-b379-785141633097?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 06 |
 | **esri** | Java Software Engineer I - Arcgis Enterprise | West Redlands, Redlands, CA | 🔒 | Mar 06 |
 | **Iridium Communications** | Software Engineer I | Tempe, AZ | 🔒 | Mar 05 |
-| **[Ciena](https://simplify.jobs/c/Ciena)** | New Grad Software Engineer | Edinburgh, UK</br>Reading, UK | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/New-Grad-Software-Engineer---UK_R026263?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/cb781e1c-9c0b-4f59-ad6c-4e4a74708fbf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 05 |
+| **Ciena** | New Grad Software Engineer | Edinburgh, UK</br>Reading, UK | 🔒 | Mar 05 |
 | **Creditgenie** | New Grad – Software Engineer | NYC | 🔒 | Mar 05 |
 | **AppLovin** | Software Engineer I - Backend | Palo Alto, CA | 🔒 | Mar 05 |
 | **RTX** | Software Engineer I | Marlborough, MA | 🔒 | Mar 04 |
@@ -635,7 +635,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Ramp** | University Grad 2025: Software Engineer - Frontend | NYC | 🔒 | Jul 31 |
 | **Jackson** | Software Developer I | Lansing, MI | 🔒 | Jul 27 |
 | **WebFX** | Entry Level Software Engineer | Harrisburg, PA | 🔒 | Jul 27 |
-| **[Navan](https://simplify.jobs/c/Navan)** | University Graduate - Software Engineer - Back-End | Palo Alto, CA | <a href="https://tripactions.com/job-openings?gh_jid=5382869&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/12d74d59-f8fb-4f04-a478-e3dd867f6e9d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 26 |
+| **Navan** | University Graduate - Software Engineer - Back-End | Palo Alto, CA | 🔒 | Jul 26 |
 | **Jerry** | New Graduate Software Engineer - Palo Alto | Palo Alto, CA | 🔒 | Jul 26 |
 | **Jerry** | Software Engineer I - Toronto | Toronto, ON, Canada | 🔒 | Jul 26 |
 | **Palantir** | Software Engineer – New Grad | Denver, CO | 🔒 | Jul 25 |
