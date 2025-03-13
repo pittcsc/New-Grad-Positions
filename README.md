@@ -210,7 +210,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **LexisNexis Risk Solutions** | Software Engineer I | Oklahoma City, OK | 🔒 | Jan 13 |
 | **Lennar Corporation** | Machine Learning Engineer I | Bentonville, AR</br>Miami, FL</br>Dallas, TX | 🔒 | Jan 13 |
 | **[Roblox](https://simplify.jobs/c/Roblox)** | Software Engineer – New Grad - Frontend | San Mateo, CA | <a href="https://careers.roblox.com/jobs/6302370?gh_jid=6302370&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/12af84df-23ad-4016-a6ff-e16368c531b2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 10 |
-| **[Roblox](https://simplify.jobs/c/Roblox)** | Software Engineer – New Grad - Security | San Mateo, CA | <a href="https://careers.roblox.com/jobs/6302313?gh_jid=6302313&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/299e003c-b697-4ce2-be93-9864cb28742c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 10 |
+| **Roblox** | Software Engineer – New Grad - Security | San Mateo, CA | 🔒 | Jan 10 |
 | **The Walt Disney Company** | Software Engineer I | NYC | 🔒 | Jan 10 |
 | **Samsara** | Software Engineer – New Grad | Remote in USA | 🔒 | Jan 10 |
 | **Samsara** | Software Engineer – New Grad | Remote in Canada | 🔒 | Jan 10 |
