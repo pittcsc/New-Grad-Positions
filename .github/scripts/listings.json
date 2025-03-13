@@ -25618,7 +25618,7 @@
         "company_name": "Iridium Communications",
         "id": "fbb247bf-1178-4e69-88ad-c83830c55f6d",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1741162497,
         "date_posted": 1741162497,
         "url": "https://careers-iridium.icims.com/jobs/4346/job",
@@ -26256,6 +26256,54 @@
             "California"
         ],
         "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amentum",
+        "id": "4631071e-36ba-47fc-9e54-ed7c8f957140",
+        "title": "Entry Level Software Developer",
+        "active": true,
+        "date_updated": 1741909183,
+        "date_posted": 1741909183,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0136266",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Radiant",
+        "id": "3430703f-ad5d-4462-ad0c-63f3bd7bea59",
+        "title": "Software Engineer \u2013 New Graduate",
+        "active": true,
+        "date_updated": 1741909038,
+        "date_posted": 1741909038,
+        "url": "https://job-boards.greenhouse.io/radiant/jobs/4540308005",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Radiant",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nike",
+        "id": "df9291bd-9054-435f-98ae-c5df7cf3d46d",
+        "title": "Software Engineer I - Platforms Team",
+        "active": true,
+        "date_updated": 1741908614,
+        "date_posted": 1741908614,
+        "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer-I---Platforms-Team_R-55721",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Nike",
         "is_visible": true,
         "sponsorship": "Other"
     }
