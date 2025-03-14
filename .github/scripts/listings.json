@@ -26306,5 +26306,69 @@
         "company_url": "https://simplify.jobs/c/Nike",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amentum",
+        "id": "73a564fa-3e6e-4aff-822f-55e53ecabcc5",
+        "title": "Entry Level Software Developer",
+        "active": true,
+        "date_updated": 1741909185,
+        "date_posted": 1741909185,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0136265",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amentum",
+        "id": "37d19968-876f-429b-b5ca-40b57677f2c4",
+        "title": "Entry Level Software Developer",
+        "active": true,
+        "date_updated": 1741909184,
+        "date_posted": 1741909184,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0136268",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amentum",
+        "id": "9740d1c2-9c18-47e4-bf23-2c65be316ae5",
+        "title": "Entry Level Software Developer",
+        "active": true,
+        "date_updated": 1741909183,
+        "date_posted": 1741909183,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0136269",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amentum",
+        "id": "27279069-7a32-4fdd-957d-ec19878c585e",
+        "title": "Entry Level Software Developer",
+        "active": true,
+        "date_updated": 1741909183,
+        "date_posted": 1741909183,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0136263",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
