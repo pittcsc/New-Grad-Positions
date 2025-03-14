@@ -24211,7 +24211,7 @@
         "company_name": "Medtronic",
         "id": "da5d3eee-cc33-438e-a6a8-bb113eeb17af",
         "title": "Software Engineer I - Neuro Science",
-        "active": false,
+        "active": true,
         "date_updated": 1737505734,
         "date_posted": 1737505734,
         "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---Neuro-Science_R17073-1",
@@ -26416,6 +26416,54 @@
             "Vienna, VA"
         ],
         "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "c701232e-bf47-45bc-a196-931b1c1ce666",
+        "title": "Software Engineer Junior",
+        "active": true,
+        "date_updated": 1741995263,
+        "date_posted": 1741995263,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Software-Engineer-Junior_R-00155575",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "4be0cb1d-b3a2-4b85-ac1c-53a0a0081b53",
+        "title": "Software Engineer Junior",
+        "active": true,
+        "date_updated": 1741995256,
+        "date_posted": 1741995256,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Software-Engineer-Junior_R-00155576",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "bcdb9db3-0bd0-4cc9-9eae-e45b6f4d24d0",
+        "title": "Software Engineer Junior",
+        "active": true,
+        "date_updated": 1741995254,
+        "date_posted": 1741995254,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Software-Engineer-Junior_R-00155572",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
     }
