@@ -175,7 +175,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Baxter International** | Software Engineer I | Raleigh, NC | 🔒 | Jan 31 |
 | **Baxter International** | Software Engineer I | Raleigh, NC | 🔒 | Jan 31 |
 | **Echostar** | Entry Level Software Engineer | San Diego, CA | 🔒 | Jan 31 |
-| **[esri](https://simplify.jobs/c/3bc7a09e-e5f1-45e8-b26b-1d3c77588a00)** | Software Development Engineer I | Vienna, VA | <a href="https://www.esri.com/careers/4639228007?gh_jid=4639228007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/467e3521-4c70-426b-b464-6e5944dec588?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 31 |
+| **esri** | Software Development Engineer I | Vienna, VA | 🔒 | Jan 31 |
 | **[esri](https://simplify.jobs/c/3bc7a09e-e5f1-45e8-b26b-1d3c77588a00)** | Software Development Engineer I | St. Louis, MO | <a href="https://www.esri.com/careers/4639229007?gh_jid=4639229007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/ea0ab535-0b9f-4f18-93de-9f557b48b01d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 31 |
 | **Harris Computer** | Software Engineer I | <details><summary>**5 locations**</summary>Texas</br>Georgia</br>Tennessee</br>Virginia</br>Oklahoma</details> | 🔒 | Jan 31 |
 | **USAA** | AWS Software Engineer – Entry Level | San Antonio, TX | 🔒 | Jan 31 |
