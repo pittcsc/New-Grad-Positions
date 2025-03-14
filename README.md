@@ -178,7 +178,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Baxter International** | Software Engineer I | Raleigh, NC | 🔒 | Jan 31 |
 | **Echostar** | Entry Level Software Engineer | San Diego, CA | 🔒 | Jan 31 |
 | **esri** | Software Development Engineer I | Vienna, VA | 🔒 | Jan 31 |
-| **[esri](https://simplify.jobs/c/3bc7a09e-e5f1-45e8-b26b-1d3c77588a00)** | Software Development Engineer I | St. Louis, MO | <a href="https://www.esri.com/careers/4639229007?gh_jid=4639229007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/ea0ab535-0b9f-4f18-93de-9f557b48b01d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 31 |
+| **esri** | Software Development Engineer I | St. Louis, MO | 🔒 | Jan 31 |
 | **Harris Computer** | Software Engineer I | <details><summary>**5 locations**</summary>Texas</br>Georgia</br>Tennessee</br>Virginia</br>Oklahoma</details> | 🔒 | Jan 31 |
 | **USAA** | AWS Software Engineer – Entry Level | San Antonio, TX | 🔒 | Jan 31 |
 | **Western Digital** | New College Grad - Software Development Engineering - Apps | Irvine, CA | 🔒 | Jan 31 |
@@ -200,7 +200,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Acorns](https://simplify.jobs/c/Acorns)** | Software Engineer I – Recent Graduate | Irvine, CA | <a href="https://jobs.ashbyhq.com/Acorns/5618f1de-cf18-4114-9408-11cd73153a9d/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/20573663-a33b-497c-82d0-cf8091dc8725?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 22 |
 | **USAA** | Software Engineer – Entry Level | Plano, TX</br>San Antonio, TX | 🔒 | Jan 18 |
 | **Nike** | Software Engineer I | Beaverton, OR | 🔒 | Jan 18 |
-| **Gelber Group** | Junior Software Engineer-Technical Operations Team | Chicago, IL | 🔒 | Jan 18 |
+| **[Gelber Group](https://simplify.jobs/c/GelberGroup)** | Junior Software Engineer-Technical Operations Team | Chicago, IL | <a href="https://job-boards.greenhouse.io/gelbergroup/jobs/4436091006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/cd379ab1-a784-4c69-9239-0512a5456022?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 18 |
 | **Expedia Group** | Mobile Engineer I - Android | Seattle, WA | 🔒 | Jan 17 |
 | **[Vermont Information Processing](https://simplify.jobs/c/Vermont-Information-Processing)** | Software Engineer 1 | Burlington, VT | <a href="https://job-boards.greenhouse.io/vipvermontinformationprocessing/jobs/4627310007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7cbd5f81-73f0-41d0-8edb-93ead6477b93?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 17 |
 | **Becton Dickinson** | Software Engineer I | Sparks, MD | 🔒 | Jan 17 |
