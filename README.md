@@ -246,7 +246,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **State Street** | Software Engineer I – Senior Associate | Burlington, MA | 🔒 | Dec 20 |
 | **Expedia Group** | Software Development Engineer I - Marketplace Technology | Austin, TX | 🔒 | Dec 20 |
 | **OpenGov** | Software Engineer I - Rev | Boston, MA | 🔒 | Dec 19 |
-| **[Dagster Labs](https://simplify.jobs/c/Dagster-Labs)** | Software Engineer – University Grad | SF</br>NYC</br>Minneapolis, MN | <a href="https://boards.greenhouse.io/dagsterlabs/jobs/6300588003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/61711834-68a4-480f-afb6-8cc7c2acb5a9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Dec 16 |
+| **Dagster Labs** | Software Engineer – University Grad | SF</br>NYC</br>Minneapolis, MN | 🔒 | Dec 16 |
 | **Qualtrics** | Software Engineer I - XM | Provo, UT | 🔒 | Dec 16 |
 | **Uber** | 2025 Graduate Software Engineer I |  | 🔒 | Dec 14 |
 | **Uber** | 2025 Graduate Software Engineer I | SF | 🔒 | Dec 14 |
