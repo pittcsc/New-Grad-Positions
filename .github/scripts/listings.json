@@ -26488,7 +26488,7 @@
         "company_name": "Cox",
         "id": "fa3ffb85-7489-42f4-bbf6-e6037d710ca3",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1742009078,
         "date_posted": 1742009078,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202560209",
@@ -26576,6 +26576,22 @@
             "Fredericksburg, VA"
         ],
         "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cox",
+        "id": "9e454df3-7356-42ab-9889-5a813572540d",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1742296722,
+        "date_posted": 1742296722,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202560142",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
         "is_visible": true,
         "sponsorship": "Other"
     }
