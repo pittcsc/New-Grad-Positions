@@ -78,7 +78,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Esri](https://simplify.jobs/c/Esri)** | Software Development Engineer I | St. Louis, MO | <a href="https://www.esri.com/careers/4678530007?gh_jid=4678530007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d06e6ab5-48c8-4cf1-80bf-802a3acd6a7e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 14 |
 | **Sophos** | Junior Software Engineer - Linux | Remote in UK | 🔒 | Mar 14 |
 | **Amentum** | Entry Level Software Developer | Dahlgren, VA | 🔒 | Mar 13 |
-| **[Amentum](https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d)** | Entry Level Software Developer | Dahlgren, VA | <a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0136268?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/37d19968-876f-429b-b5ca-40b57677f2c4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 13 |
+| **Amentum** | Entry Level Software Developer | Dahlgren, VA | 🔒 | Mar 13 |
 | **Amentum** | Entry Level Software Developer | Dahlgren, VA | 🔒 | Mar 13 |
 | **Amentum** | Entry Level Software Developer | Dahlgren, VA | 🔒 | Mar 13 |
 | **Amentum** | Entry Level Software Developer | Dahlgren, VA | 🔒 | Mar 13 |
