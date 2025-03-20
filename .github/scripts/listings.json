@@ -26610,5 +26610,37 @@
         "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chewy",
+        "id": "ca65759c-b0f2-44f0-bb32-4a618febfb74",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1742496714,
+        "date_posted": 1742496714,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6717049",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rocket Software",
+        "id": "0968d700-30c2-41ef-b699-573b2f4f1fff",
+        "title": "Software Engineer I - Nextgen",
+        "active": true,
+        "date_updated": 1742496520,
+        "date_posted": 1742496520,
+        "url": "https://rocket.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Newbury-United-Kingdom/Software-Engineer-I_R2024-5045",
+        "locations": [
+            "Newbury, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ff0e403d-7fb1-43cf-81ba-a2f00c99612b",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
