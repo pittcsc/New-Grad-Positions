@@ -26740,5 +26740,21 @@
         "company_url": "https://simplify.jobs/c/Booz-Allen",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "496e562c-3b43-43b3-843c-03dd86551e9a",
+        "title": "Data Scientist I New College Grad-Bachelor's",
+        "active": true,
+        "date_updated": 1742599175,
+        "date_posted": 1742599175,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Data-Scientist-I-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2512539-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
