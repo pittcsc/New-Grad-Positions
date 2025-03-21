@@ -26707,5 +26707,38 @@
         "company_url": "https://simplify.jobs/c/Mastercard",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Comcast",
+        "id": "55d4f4ae-99c0-4c87-8692-a0e0c6bfc302",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1742583719,
+        "date_posted": 1742583719,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Software-Engineer-1_R408602",
+        "locations": [
+            "Chicago, IL",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Booz Allen",
+        "id": "d094593d-fe82-460d-9875-a4080cc87b7c",
+        "title": "Software Developer - Junior",
+        "active": true,
+        "date_updated": 1742583596,
+        "date_posted": 1742583596,
+        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charleston-SC/Software-Developer--Junior_R0216902",
+        "locations": [
+            "Charleston, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
