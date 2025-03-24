@@ -287,7 +287,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **esri** | Software Development Engineer I | Vienna, VA | 🔒 | Dec 06 |
 | **esri** | Software Development Engineer I | St. Louis, MO | 🔒 | Dec 06 |
 | **Applied Intuition** | Software Engineer – New Grad | Ann Arbor, MI | 🔒 | Dec 06 |
-| **[Wyetech](https://simplify.jobs/c/Wyetech-LLC)** | Cloud Software Engineer 1 | Laurel, MD | <a href="https://jobs.lever.co/wyetechllc/7c89133b-b6c8-48be-92e8-15e01cccdd9c/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f5241cea-0fc8-479a-b94e-b9b2515f6c27?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Dec 06 |
+| **Wyetech** | Cloud Software Engineer 1 | Laurel, MD | 🔒 | Dec 06 |
 | **Amentum** | Entry Level Software Engineer | Fredericksburg, VA</br>Dahlgren, VA | 🔒 | Dec 05 |
 | **Aurora Innovation** | Software Engineer I - Aurora Services Engineering | Pittsburgh, PA | 🔒 | Dec 05 |
 | **Affirm** | Software Engineer I - Contact Experience - Fullstack | Remote in Canada | 🔒 | Dec 05 |
