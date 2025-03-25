@@ -26772,5 +26772,21 @@
         "company_url": "https://simplify.jobs/c/Esri",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Medtronic",
+        "id": "1964ed2b-0fd1-48f2-80c5-ba133e98625a",
+        "title": "Software Engineer I - Neuro",
+        "active": true,
+        "date_updated": 1742822480,
+        "date_posted": 1742822480,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---Neuro_R24313-1",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
