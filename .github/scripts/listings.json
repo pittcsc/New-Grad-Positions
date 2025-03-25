@@ -26820,5 +26820,21 @@
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Affirm",
+        "id": "15663158-7f05-4675-b15c-fc57c30fd714",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1742918902,
+        "date_posted": 1742918902,
+        "url": "https://job-boards.greenhouse.io/affirm/jobs/6513927003",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Affirm",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
