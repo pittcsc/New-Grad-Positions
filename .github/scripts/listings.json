@@ -23325,7 +23325,7 @@
         "company_name": "Twitch",
         "id": "1198ad12-aa89-4c98-a540-1c061c867d9b",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1734048968,
         "date_posted": 1734048968,
         "url": "https://job-boards.greenhouse.io/twitch/jobs/7766033002",
@@ -26754,6 +26754,22 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Esri",
+        "id": "01f0e606-70e7-47e3-8d11-7b8ccbc87568",
+        "title": "C++ Software Development Engineer I - Arcgis Enterprise",
+        "active": true,
+        "date_updated": 1742873875,
+        "date_posted": 1742873875,
+        "url": "https://www.esri.com/careers/4671729007?gh_jid=4671729007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
         "is_visible": true,
         "sponsorship": "Other"
     }
