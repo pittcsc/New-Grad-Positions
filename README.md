@@ -143,7 +143,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **AppLovin** | Software Engineer I - Backend | Palo Alto, CA | 🔒 | Mar 05 |
 | **RTX** | Software Engineer I | Marlborough, MA | 🔒 | Mar 04 |
 | **Cox** | Software Engineer I | Atlanta, GA | 🔒 | Mar 04 |
-| **[Sierra Nevada Coporation](https://simplify.jobs/c/Sierra-Nevada-Coporation)** | Software Engineer I | Lone Tree, CO | <a href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0026099?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/50608479-06e7-4bca-b6fc-5714eaca5a3e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 04 |
+| **Sierra Nevada Coporation** | Software Engineer I | Lone Tree, CO | 🔒 | Mar 04 |
 | **Sierra Nevada Coporation** | Software Engineer I | Lone Tree, CO | 🔒 | Mar 04 |
 | **Sierra Nevada Coporation** | Software Engineer I | Lone Tree, CO | 🔒 | Mar 04 |
 | **Sierra Nevada Coporation** | Software Engineer I - Test | Reston, VA | 🔒 | Mar 04 |
