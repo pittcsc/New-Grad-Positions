@@ -26836,5 +26836,21 @@
         "company_url": "https://simplify.jobs/c/Affirm",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "37354d24-4f7a-4a1e-9937-70a59c0a8752",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1742935966,
+        "date_posted": 1742935966,
+        "url": "https://jobs.ashbyhq.com/Jerry/b3ae5f20-9e99-48fb-bce9-2436b0ebe88e/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
