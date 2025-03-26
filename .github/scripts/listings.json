@@ -26885,5 +26885,22 @@
         "company_url": "https://simplify.jobs/c/Blue-Origin",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "48b6fe61-fbcb-4e57-9576-4bf7c8b19a0a",
+        "title": "Fedramp Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1742934647,
+        "date_posted": 1742934647,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/ozXHvfws?nl=1&nl=1&fr=false",
+        "locations": [
+            "Colorado",
+            "North Carolina"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
