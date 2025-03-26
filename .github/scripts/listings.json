@@ -19885,7 +19885,7 @@
         "company_name": "Splunk",
         "id": "b3cd2dc0-5c30-4527-abee-a408d1f0985f",
         "title": "Fedramp Software Engineer \u2013 Early Career - Raleigh - NC - Jan 2025 or sooner start date ONLY",
-        "active": true,
+        "active": false,
         "date_updated": 1727824595,
         "date_posted": 1727824595,
         "url": "https://jobs.jobvite.com/splunk-careers/job/ovBBufwV?nl=1&nl=1&fr=false",
@@ -26850,6 +26850,22 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "375e5b72-c155-4bce-9f71-2a92341e6773",
+        "title": "New College Grad - Software Development Engineering - Apps",
+        "active": true,
+        "date_updated": 1742936758,
+        "date_posted": 1742936758,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000049871275",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
         "is_visible": true,
         "sponsorship": "Other"
     }
