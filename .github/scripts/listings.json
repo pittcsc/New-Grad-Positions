@@ -26902,5 +26902,21 @@
         "company_url": "https://simplify.jobs/c/Splunk",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sierra Nevada Coporation",
+        "id": "655c3fce-8de0-4783-b341-9b0565b8968d",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1743017870,
+        "date_posted": 1742872919,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Sofware-Engineer-I_R0027092",
+        "locations": [
+            "Lone Tree, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
