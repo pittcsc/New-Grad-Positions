@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Jerry](https://simplify.jobs/c/Jerry)** | Software Engineer I | Toronto, ON, Canada</br>Greater Toronto Area, ON, Canada | <a href="https://jobs.ashbyhq.com/Jerry/222b1802-9206-49cd-ae8f-fe8341683a5c/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/252e1c9c-a58b-4385-b400-0a7b19f51f63?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 28 |
 | **[RTX](https://simplify.jobs/c/RTX)** | Software Engineer I | Cedar Rapids, IA | <a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01759345?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/ae2bdc4f-47ed-474d-81df-d7912227988b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 27 |
 | **Cox** | Software Engineer I | Atlanta, GA | 🔒 | Mar 27 |
 | **Western Digital** | New College Grad - Software Development Engineering - Apps | Irvine, CA | 🔒 | Mar 27 |
