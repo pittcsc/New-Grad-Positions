@@ -26999,5 +26999,42 @@
         "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wood Mackenzie",
+        "id": "93df262b-25e1-4990-bd08-6ef8ad48ae1f",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1743194672,
+        "date_posted": 1743194672,
+        "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Software-Engineer-I_JR1405",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wood-Mackenzie",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blue Origin",
+        "id": "83f20d07-1cda-4239-9412-e6955ba2aa50",
+        "title": "Software Development Engineer I \u2013 Early Career 2025 University Grad",
+        "active": true,
+        "date_updated": 1743193831,
+        "date_posted": 1743193831,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career-2025-University-Grad_R50741",
+        "locations": [
+            "Seattle, WA",
+            "LA",
+            "Merritt Island, FL",
+            "Denver, CO",
+            "Huntsville, AL",
+            "Van Horn, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
