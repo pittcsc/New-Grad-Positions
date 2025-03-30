@@ -27036,5 +27036,21 @@
         "company_url": "https://simplify.jobs/c/Blue-Origin",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Booz Allen",
+        "id": "236bae2b-c334-41a6-b4fb-726a84ffa839",
+        "title": "Software Developer - Junior",
+        "active": true,
+        "date_updated": 1743319541,
+        "date_posted": 1743319541,
+        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charleston-SC/Software-Developer--Junior_R0216776",
+        "locations": [
+            "Charleston, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
