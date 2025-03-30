@@ -27052,5 +27052,21 @@
         "company_url": "https://simplify.jobs/c/Booz-Allen",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Remitly",
+        "id": "832ca7f0-45a2-4707-9ac2-4c0674aaedb1",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1743357030,
+        "date_posted": 1743357030,
+        "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-I_R_103823",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Remitly",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
