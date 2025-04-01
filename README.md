@@ -137,6 +137,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Mintel** | Software Engineer I | Chicago, IL | 🔒 | Mar 11 |
 | **Onto Innovation** | Software Engineer 1 | Milpitas, CA | 🔒 | Mar 11 |
 | **Mastercard** | Data Engineer I | O'Fallon, MO | 🔒 | Mar 11 |
+| **[Nexxen](https://simplify.jobs/c/Nexxen)** | Software Engineer I - SSP Backend | Bellevue, WA | <a href="https://job-boards.greenhouse.io/nexxen/jobs/7732428002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/8f8cedaf-6a38-40c0-9550-913cd33d1aae?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 10 |
 | **Cox** | Software Engineer I | Austin, TX | 🔒 | Mar 10 |
 | **Dagster Labs** | Software Engineer – University Grad | SF</br>NYC</br>Minneapolis, MN | 🔒 | Mar 10 |
 | **[Amentum](https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d)** | Entry Level Software Engineer | Fredericksburg, VA | <a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0135976?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/623825f6-11b7-4f41-9cd5-38005ddc2ec1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 10 |
