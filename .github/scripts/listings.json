@@ -27134,5 +27134,21 @@
         "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nexxen",
+        "id": "8f8cedaf-6a38-40c0-9550-913cd33d1aae",
+        "title": "Software Engineer I - SSP Backend",
+        "active": true,
+        "date_updated": 1743503207,
+        "date_posted": 1741649438,
+        "url": "https://job-boards.greenhouse.io/nexxen/jobs/7732428002",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nexxen",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
