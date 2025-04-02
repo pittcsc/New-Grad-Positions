@@ -95,7 +95,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Booz Allen](https://simplify.jobs/c/Booz-Allen)** | Software Developer - Junior | Charleston, SC | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charleston-SC/Software-Developer--Junior_R0216902?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d094593d-fe82-460d-9875-a4080cc87b7c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 21 |
 | **Mastercard** | Software Engineer I | Seattle, WA | 🔒 | Mar 21 |
 | **Adobe** | Software Development Engineer 1 | NYC | 🔒 | Mar 21 |
-| **Comcast** | Data Engineer 1 | Chicago, IL</br>Reston, VA | 🔒 | Mar 20 |
+| **[Comcast](https://simplify.jobs/c/Comcast)** | Data Engineer 1 | Chicago, IL</br>Reston, VA | <a href="https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Data-Engineer-1_R408599?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9a1b82cf-42e5-4971-82eb-559f3a082296?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 20 |
 | **Leidos** | Entry Level Software Engineer | Huntsville, AL | 🔒 | Mar 20 |
 | **Chewy** | Software Engineer I | Boston, MA | 🔒 | Mar 20 |
 | **[Rocket Software](https://simplify.jobs/c/ff0e403d-7fb1-43cf-81ba-a2f00c99612b)** | Software Engineer I - Nextgen | Newbury, UK | <a href="https://rocket.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Newbury-United-Kingdom/Software-Engineer-I_R2024-5045?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0968d700-30c2-41ef-b699-573b2f4f1fff?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 20 |
@@ -183,7 +183,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Cox** | Software Engineer I | Atlanta, GA | 🔒 | Feb 26 |
 | **Healthfirst** | Technology Early Career Development Program - Full Stack Developer | NYC | 🔒 | Feb 26 |
 | **Onto Innovation** | Software Engineer 1 | Tucson, AZ | 🔒 | Feb 26 |
-| **Wood Mackenzie** | Software Engineer I | Boston, MA | 🔒 | Feb 26 |
+| **[Wood Mackenzie](https://simplify.jobs/c/Wood-Mackenzie)** | Software Engineer I | Boston, MA | <a href="https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Software-Engineer-I_JR1383-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/07475729-6892-4070-8a63-a553fcfa9a6c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 26 |
 | **Teledyne** | Junior Research Engineer | Durham, NC | 🔒 | Feb 25 |
 | **Cox** | Software Engineer I | Atlanta, GA | 🔒 | Feb 25 |
 | **USAA** | Software Engineer Entry Level | San Antonio, TX | 🔒 | Feb 24 |
