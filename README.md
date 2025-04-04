@@ -236,7 +236,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Harris Computer** | Software Engineer I | <details><summary>**5 locations**</summary>Texas</br>Georgia</br>Tennessee</br>Virginia</br>Oklahoma</details> | 🔒 | Jan 31 |
 | **USAA** | AWS Software Engineer – Entry Level | San Antonio, TX | 🔒 | Jan 31 |
 | **Western Digital** | New College Grad - Software Development Engineering - Apps | Irvine, CA | 🔒 | Jan 31 |
-| **[Nexxen](https://simplify.jobs/c/Nexxen)** | Software Engineer I - Dsp - Demand Side Platform | NYC | <a href="https://boards.greenhouse.io/nexxen/jobs/7830836002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/3de4fa1c-7e21-4619-b7ec-a3d7a3b28187?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 29 |
+| **Nexxen** | Software Engineer I - Dsp - Demand Side Platform | NYC | 🔒 | Jan 29 |
 | **Sensor Tower** | Back End Developer – Entry Level - Ruby | Remote in UK | 🔒 | Jan 29 |
 | **Global Payments** | Software Engineer I or above | Columbus, GA | 🔒 | Jan 28 |
 | **Apple** | Software Engineer – Early Career - Enterprise Technology Services | Sunnyvale, CA | 🔒 | Jan 28 |
