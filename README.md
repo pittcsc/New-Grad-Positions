@@ -116,7 +116,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Cox** | Software Engineer I | Atlanta, GA | 🔒 | Mar 15 |
 | **Cox** | Software Engineer I | Atlanta, GA | 🔒 | Mar 15 |
 | **Jerry** | Software Engineer I | Toronto, ON, Canada | 🔒 | Mar 15 |
-| **[Leidos](https://simplify.jobs/c/Leidos)** | Software Engineer Junior | Alexandria, VA | <a href="https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Software-Engineer-Junior_R-00155575?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/c701232e-bf47-45bc-a196-931b1c1ce666?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 14 |
+| **Leidos** | Software Engineer Junior | Alexandria, VA | 🔒 | Mar 14 |
 | **[Leidos](https://simplify.jobs/c/Leidos)** | Software Engineer Junior | Alexandria, VA | <a href="https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Software-Engineer-Junior_R-00155576?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4be0cb1d-b3a2-4b85-ac1c-53a0a0081b53?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 14 |
 | **Leidos** | Software Engineer Junior | Alexandria, VA | 🔒 | Mar 14 |
 | **Esri** | Software Development Engineer I | Vienna, VA | 🔒 | Mar 14 |
