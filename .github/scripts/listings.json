@@ -27326,5 +27326,21 @@
         "company_url": "https://simplify.jobs/c/Qualtrics",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "World Kinect",
+        "id": "438cf180-7f42-4602-849d-40ee4a20a38d",
+        "title": "IT Software Engineer I",
+        "active": true,
+        "date_updated": 1743752222,
+        "date_posted": 1743752222,
+        "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Software-Engineer-I_R21135",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/World-Kinect",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
