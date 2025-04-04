@@ -188,6 +188,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Adobe** | Software Development Engineer 1 | Lehi, UT | 🔒 | Feb 27 |
 | **KBR** | Junior Software Developer | Springfield, VA | 🔒 | Feb 26 |
 | **[Whoop](https://simplify.jobs/c/Whoop)** | Data Engineer I | Boston, MA | <a href="https://jobs.lever.co/whoop/f6a52874-4099-4768-b5bb-66b211c12140/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/5de1c3ac-3ffe-4fc2-bf0c-a547b5b4d15f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 26 |
+| **[National Audubon Society](https://simplify.jobs/c/National-Audubon-Society)** | Junior Data Engineer | Washington, DC</br>NYC | <a href="https://audubon.wd5.myworkdayjobs.com/Audubon/job/New-York-NY/Junior-Data-Engineer_JR624?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/98c5b79d-f3e7-4260-918b-ce5bc3a58a04?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 26 |
 | **Cox** | Software Engineer I | Atlanta, GA | 🔒 | Feb 26 |
 | **Healthfirst** | Technology Early Career Development Program - Full Stack Developer | NYC | 🔒 | Feb 26 |
 | **Onto Innovation** | Software Engineer 1 | Tucson, AZ | 🔒 | Feb 26 |
