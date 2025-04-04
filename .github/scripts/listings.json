@@ -27358,5 +27358,22 @@
         "company_url": "https://simplify.jobs/c/Comcast",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "National Audubon Society",
+        "id": "98c5b79d-f3e7-4260-918b-ce5bc3a58a04",
+        "title": "Junior Data Engineer",
+        "active": true,
+        "date_updated": 1741914671,
+        "date_posted": 1740529740,
+        "url": "https://audubon.wd5.myworkdayjobs.com/Audubon/job/New-York-NY/Junior-Data-Engineer_JR624",
+        "locations": [
+            "Washington, DC",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Audubon-Society",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
