@@ -27294,5 +27294,37 @@
         "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Qualtrics",
+        "id": "96c5f451-9282-415b-a118-e348da769d15",
+        "title": "Software Development Engineer I - Digital Experience",
+        "active": true,
+        "date_updated": 1743750450,
+        "date_posted": 1743750450,
+        "url": "https://www.qualtrics.com/careers/us/en/job/6764255?gh_jid=6764255",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualtrics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Qualtrics",
+        "id": "91b077d7-ee0b-4770-8222-8d37005c80c0",
+        "title": "Machine Learning Engineer I - Data & Insights",
+        "active": true,
+        "date_updated": 1743750383,
+        "date_posted": 1743750383,
+        "url": "https://www.qualtrics.com/careers/us/en/job/6774164?gh_jid=6774164",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualtrics",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
