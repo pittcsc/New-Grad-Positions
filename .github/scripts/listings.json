@@ -27423,5 +27423,21 @@
         "company_url": "https://simplify.jobs/c/Esri",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "08ebccf7-0b7e-4a0f-898a-02b37e2d45eb",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1743833009,
+        "date_posted": 1743833009,
+        "url": "https://jobs.ashbyhq.com/Jerry/f9dc3c74-047b-4881-aaf3-8b9fc06d54e6/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
