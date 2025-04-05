@@ -27455,5 +27455,21 @@
         "company_url": "https://simplify.jobs/c/Gentex-Corporation",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RTX",
+        "id": "89b24a3e-dede-4049-b55c-871e16099060",
+        "title": "Embedded Software Engineer I",
+        "active": true,
+        "date_updated": 1743849242,
+        "date_posted": 1743849242,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Software-Engineer-I--Onsite-_01728504",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
