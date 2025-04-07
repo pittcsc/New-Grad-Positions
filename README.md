@@ -86,7 +86,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Amentum** | Entry Level Software Engineer | Dahlgren, VA | 🔒 | Apr 01 |
 | **Jerry** | Software Engineer I | Toronto, ON, Canada | 🔒 | Mar 31 |
 | **Remitly** | Software Development Engineer I | Seattle, WA | 🔒 | Mar 30 |
-| **[Booz Allen](https://simplify.jobs/c/Booz-Allen)** | Software Developer - Junior | Charleston, SC | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charleston-SC/Software-Developer--Junior_R0216776?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/236bae2b-c334-41a6-b4fb-726a84ffa839?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 30 |
+| **Booz Allen** | Software Developer - Junior | Charleston, SC | 🔒 | Mar 30 |
 | **[Wood Mackenzie](https://simplify.jobs/c/Wood-Mackenzie)** | Software Engineer I | Boston, MA | <a href="https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Software-Engineer-I_JR1405?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/93df262b-25e1-4990-bd08-6ef8ad48ae1f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 28 |
 | **[Blue Origin](https://simplify.jobs/c/Blue-Origin)** | Software Development Engineer I – Early Career 2025 University Grad | <details><summary>**6 locations**</summary>Seattle, WA</br>LA</br>Merritt Island, FL</br>Denver, CO</br>Huntsville, AL</br>Van Horn, TX</details> | <a href="https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career-2025-University-Grad_R50741?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/83f20d07-1cda-4239-9412-e6955ba2aa50?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 28 |
 | **Jerry** | Software Engineer I | Toronto, ON, Canada</br>Greater Toronto Area, ON, Canada | 🔒 | Mar 28 |
@@ -106,7 +106,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Medtronic** | Software Engineer I - Neuro | Minneapolis, MN | 🔒 | Mar 24 |
 | **Applied Materials** | Data Scientist I New College Grad-Bachelor's | Santa Clara, CA | 🔒 | Mar 21 |
 | **Comcast** | Software Engineer 1 | Chicago, IL</br>Reston, VA | 🔒 | Mar 21 |
-| **[Booz Allen](https://simplify.jobs/c/Booz-Allen)** | Software Developer - Junior | Charleston, SC | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charleston-SC/Software-Developer--Junior_R0216902?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d094593d-fe82-460d-9875-a4080cc87b7c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 21 |
+| **Booz Allen** | Software Developer - Junior | Charleston, SC | 🔒 | Mar 21 |
 | **Mastercard** | Software Engineer I | Seattle, WA | 🔒 | Mar 21 |
 | **Adobe** | Software Development Engineer 1 | NYC | 🔒 | Mar 21 |
 | **Comcast** | Data Engineer 1 | Chicago, IL</br>Reston, VA | 🔒 | Mar 20 |
