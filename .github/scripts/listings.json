@@ -26730,7 +26730,7 @@
         "company_name": "Booz Allen",
         "id": "d094593d-fe82-460d-9875-a4080cc87b7c",
         "title": "Software Developer - Junior",
-        "active": false,
+        "active": true,
         "date_updated": 1742583596,
         "date_posted": 1742583596,
         "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charleston-SC/Software-Developer--Junior_R0216902",
@@ -27501,6 +27501,22 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RTX",
+        "id": "cd219f97-0cde-4b1b-bace-90bda2685026",
+        "title": " - Raytheon Software Engineer I",
+        "active": true,
+        "date_updated": 1744096717,
+        "date_posted": 1744096717,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO106-16470-East-Hughes-DriveAurora-16470-East-Hughes-Drive-Building-S77-Aurora-CO-80011-USA/XMLNAME-2025-Fulltime---Raytheon-Software-Engineer-I_01760812",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other"
     }
