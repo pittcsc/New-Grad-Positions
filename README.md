@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Jerry](https://simplify.jobs/c/Jerry)** | Software Engineer I | Toronto, ON, Canada | <a href="https://jobs.ashbyhq.com/Jerry/54fd4173-3e1e-4666-93c9-fdc147e9e3c5/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9f6c8529-ba48-4bd4-b961-a73fdf27b929?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 08 |
 | **RTX** | Embedded Software Engineer I | Cedar Rapids, IA | 🔒 | Apr 05 |
 | **Gentex Corporation** | Software Engineer I | Holland, MI | 🔒 | Apr 05 |
 | **[Esri](https://simplify.jobs/c/Esri)** | Software Development Engineer I | St. Louis, MO | <a href="https://www.esri.com/careers/4697391007?gh_jid=4697391007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/61b6c559-eb51-4632-89cc-b1e323f5a5e3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 05 |
