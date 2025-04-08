@@ -179,7 +179,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Vapi](https://simplify.jobs/c/Vapi)** | New Grad Software Engineer | SF | <a href="https://jobs.ashbyhq.com/vapi/3613e24a-de10-4e76-8c28-530df2a9981b/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/413ac022-f691-466e-8145-4e292d5eb418?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 07 |
 | **Latitude Inc** | Entry Level Software Developer/Consultant | Baltimore, MD | 🔒 | Mar 07 |
 | **Jerry** | Software Engineer I | Toronto, ON, Canada | 🔒 | Mar 06 |
-| **[Splunk](https://simplify.jobs/c/Splunk)** | Software Engineer - Frontend - Early in Career | Colorado</br>North Carolina | <a href="https://jobs.jobvite.com/splunk-careers/job/oVYzvfwH?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/907fad13-9965-49f6-b379-785141633097?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 06 |
+| **Splunk** | Software Engineer - Frontend - Early in Career | Colorado</br>North Carolina | 🔒 | Mar 06 |
 | **esri** | Java Software Engineer I - Arcgis Enterprise | West Redlands, Redlands, CA | 🔒 | Mar 06 |
 | **Iridium Communications** | Software Engineer I | Tempe, AZ | 🔒 | Mar 05 |
 | **Ciena** | New Grad Software Engineer | Edinburgh, UK</br>Reading, UK | 🔒 | Mar 05 |
@@ -274,13 +274,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Nike** | Software Engineer I | Beaverton, OR | 🔒 | Jan 18 |
 | **Gelber Group** | Junior Software Engineer-Technical Operations Team | Chicago, IL | 🔒 | Jan 18 |
 | **Expedia Group** | Mobile Engineer I - Android | Seattle, WA | 🔒 | Jan 17 |
-| **[Vermont Information Processing](https://simplify.jobs/c/Vermont-Information-Processing)** | Software Engineer 1 | Burlington, VT | <a href="https://job-boards.greenhouse.io/vipvermontinformationprocessing/jobs/4627310007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7cbd5f81-73f0-41d0-8edb-93ead6477b93?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 17 |
+| **Vermont Information Processing** | Software Engineer 1 | Burlington, VT | 🔒 | Jan 17 |
 | **Becton Dickinson** | Software Engineer I | Sparks, MD | 🔒 | Jan 17 |
 | **Wiley Edge** | Développeur génie logiciel / Junior Software Developer | Montreal, QC, Canada | 🔒 | Jan 17 |
 | **GitHub** | Software Engineer I | Remote in UK | 🔒 | Jan 16 |
 | **Leidos** | Junior Data Scientist | Remote in USA | 🔒 | Jan 15 |
 | **Global Payments** | Mainframe Software Engineer I | Columbus, GA | 🔒 | Jan 15 |
-| **[Splunk](https://simplify.jobs/c/Splunk)** | Software Engineer - Frontend - Early in Career | Raleigh, NC</br>Boulder, CO | <a href="https://jobs.jobvite.com/splunk-careers/job/oXFfvfw6?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f1138aa2-833a-42e0-b5d3-6fb0ac863414?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 15 |
+| **Splunk** | Software Engineer - Frontend - Early in Career | Raleigh, NC</br>Boulder, CO | 🔒 | Jan 15 |
 | **[Splunk](https://simplify.jobs/c/Splunk)** | C++ Software Engineer - Early in Career | Raleigh, NC</br>Boulder, CO | <a href="https://jobs.jobvite.com/splunk-careers/job/oMEfvfwU?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/637ee7c0-fbcb-4ea9-91c0-1727a53ee094?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 15 |
 | **Floqast** | Software Engineer I | Toronto, ON, Canada | 🔒 | Jan 15 |
 | **FOX** | Software Engineer I - Android | Sharonville, OH | 🔒 | Jan 14 |
