@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Applied Materials](https://simplify.jobs/c/Applied-Materials)** | 2025 University Graduate - Software Engineer | Santa Clara, CA | <a href="https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2025-University-Graduate---Software-Engineer--Bachelors-Degree-_R2512844?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/1e6ebc61-2d87-4fa2-a38d-13497445062c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 08 |
 | **[Jerry](https://simplify.jobs/c/Jerry)** | Software Engineer I | Toronto, ON, Canada | <a href="https://jobs.ashbyhq.com/Jerry/54fd4173-3e1e-4666-93c9-fdc147e9e3c5/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9f6c8529-ba48-4bd4-b961-a73fdf27b929?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 08 |
 | **RTX** | Embedded Software Engineer I | Cedar Rapids, IA | 🔒 | Apr 05 |
 | **Gentex Corporation** | Software Engineer I | Holland, MI | 🔒 | Apr 05 |
