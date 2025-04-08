@@ -27487,5 +27487,21 @@
         "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "1e6ebc61-2d87-4fa2-a38d-13497445062c",
+        "title": "2025 University Graduate - Software Engineer",
+        "active": true,
+        "date_updated": 1744096079,
+        "date_posted": 1744096079,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2025-University-Graduate---Software-Engineer--Bachelors-Degree-_R2512844",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
