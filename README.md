@@ -784,7 +784,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **NVIDIA** | System Software Engineer – New College Grad 2024 - Graphics Developer Tool | Austin, TX</br>Santa Clara, CA | 🔒 | Jun 11 |
 | **Autotrader.ca** | Junior Android Engineer | Toronto, ON, Canada | 🔒 | Jun 10 |
 | **Pollen Mobile** | Junior Software Engineer | SF | 🔒 | Jun 07 |
-| **[Konrad Group](https://simplify.jobs/c/Konrad-Group)** | Mobile Developer – Entry Level | Toronto, ON, Canada | <a href="https://boards.greenhouse.io/embed/job_app?token=6015617003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/fa797771-52ff-4d34-b455-4ea452679bdb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jun 06 |
+| **Konrad Group** | Mobile Developer – Entry Level | Toronto, ON, Canada | 🔒 | Jun 06 |
 | **Arsiem Corporation** | Software Engineer 1 | Remote in USA | 🔒 | Jun 05 |
 | **Perpay** | Junior Data Engineer | Philadelphia, PA | 🔒 | May 31 |
 | **TransMarket Group** | Junior Quantitative Trader | Chicago, IL | 🔒 | May 31 |
