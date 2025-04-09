@@ -27626,5 +27626,21 @@
         "company_url": "https://simplify.jobs/c/9a8ce602-42f0-4474-9ff5-edf7d8868b76",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mastercard",
+        "id": "c6705a60-cea1-4dfc-9a59-9e85b7d6a2cc",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1744185975,
+        "date_posted": 1744185975,
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Engineer-I_R-244960",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mastercard",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
