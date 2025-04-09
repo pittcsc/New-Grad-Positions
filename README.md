@@ -82,7 +82,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Comcast** | Engineer 1 - Software Development & Engineering | Philadelphia, PA | 🔒 | Apr 04 |
 | **World Kinect** | IT Software Engineer I | Miami, FL | 🔒 | Apr 04 |
 | **Qualtrics** | Software Development Engineer I - Digital Experience | Seattle, WA | 🔒 | Apr 04 |
-| **[Qualtrics](https://simplify.jobs/c/Qualtrics)** | Machine Learning Engineer I - Data & Insights | Seattle, WA | <a href="https://www.qualtrics.com/careers/us/en/job/6774164?gh_jid=6774164&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/91b077d7-ee0b-4770-8222-8d37005c80c0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 04 |
+| **Qualtrics** | Machine Learning Engineer I - Data & Insights | Seattle, WA | 🔒 | Apr 04 |
 | **Amentum** | Entry Level Software Engineer | Dahlgren, VA | 🔒 | Apr 03 |
 | **[Sev1Tech](https://simplify.jobs/c/Sev1Tech)** | Software Developer – Entry Level | United States | <a href="https://careers-sev1tech.icims.com/jobs/8763/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/064c38df-95e2-4461-a241-32dda71e01c3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 03 |
 | **Amentum** | Entry Level Software Engineer | Dahlgren, VA | 🔒 | Apr 02 |
