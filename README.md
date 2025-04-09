@@ -239,7 +239,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Northrop Grumman** | Cyber Software Engineer – Early career | Cincinnati, OH | 🔒 | Feb 07 |
 | **Airtable** | Software Engineer – New Grad | SF</br>NYC | 🔒 | Feb 07 |
 | **Softheon** | Software Engineer I - Membership | Pittsburgh, PA | 🔒 | Feb 06 |
-| **Sigma Computing** | Software Engineer – New Grad Program | SF</br>NYC | 🔒 | Feb 06 |
+| **[Sigma Computing](https://simplify.jobs/c/Sigma-Computing)** | Software Engineer – New Grad Program | SF</br>NYC | <a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/6351817003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d71158fd-1236-4451-ac4c-079e3d7f28b9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 06 |
 | **Capital One** | Associate – New Grad - Software Engineer | Toronto, ON, Canada | 🔒 | Feb 05 |
 | **Synchrony Financial** | Android Engineer I - Digital Servicing | <details><summary>**6 locations**</summary>Newport Beach, CA</br>Remote in USA</br>Chicago, IL</br>Alpharetta, GA</br>NYC</br>Cincinnati, OH</details> | 🔒 | Feb 04 |
 | **Scale AI** | Software Engineer – New Grad - Security Engineering | SF | 🔒 | Feb 04 |
@@ -283,7 +283,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Leidos** | Junior Data Scientist | Remote in USA | 🔒 | Jan 15 |
 | **Global Payments** | Mainframe Software Engineer I | Columbus, GA | 🔒 | Jan 15 |
 | **Splunk** | Software Engineer - Frontend - Early in Career | Raleigh, NC</br>Boulder, CO | 🔒 | Jan 15 |
-| **[Splunk](https://simplify.jobs/c/Splunk)** | C++ Software Engineer - Early in Career | Raleigh, NC</br>Boulder, CO | <a href="https://jobs.jobvite.com/splunk-careers/job/oMEfvfwU?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/637ee7c0-fbcb-4ea9-91c0-1727a53ee094?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 15 |
+| **Splunk** | C++ Software Engineer - Early in Career | Raleigh, NC</br>Boulder, CO | 🔒 | Jan 15 |
 | **Floqast** | Software Engineer I | Toronto, ON, Canada | 🔒 | Jan 15 |
 | **FOX** | Software Engineer I - Android | Sharonville, OH | 🔒 | Jan 14 |
 | **Adobe** | University Graduate - Software Engineer | Seattle, WA | 🔒 | Jan 14 |
