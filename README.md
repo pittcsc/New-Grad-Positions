@@ -91,7 +91,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **World Kinect** | IT Software Engineer I | Miami, FL | 🔒 | Apr 02 |
 | **World Kinect** | IT Software Engineer I | Miami, FL | 🔒 | Apr 02 |
 | **[Cox](https://simplify.jobs/c/Cox)** | Software Engineer – Entry Level | Atlanta, GA | <a href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA---6205-Peachtree-Dunwoody-Rd-Bldg-B/Software-Engineer---Entry-Level_R202560990?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/ee65e3f2-cead-4b97-81a5-73b23d4dc6ee?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 02 |
-| **Cox** | Software Engineer – Entry Level | Austin, TX | 🔒 | Apr 02 |
+| **[Cox](https://simplify.jobs/c/Cox)** | Software Engineer – Entry Level | Austin, TX | <a href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer---Entry-Level--Austin--TX-_R202560991?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/88e07ea8-b5b0-48f0-8893-b0a51880256b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 02 |
 | **USAA** | Software Engineer - Early Careers | Plano, TX</br>San Antonio, TX</br>Phoenix, AZ | 🔒 | Apr 01 |
 | **Amentum** | Entry Level Software Engineer | Dahlgren, VA | 🔒 | Apr 01 |
 | **Amentum** | Entry Level Software Engineer | Dahlgren, VA | 🔒 | Apr 01 |
