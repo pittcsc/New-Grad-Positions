@@ -230,7 +230,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Marqeta** | Software Engineer I - Continuous Integration Team | Remote in Canada | 🔒 | Feb 13 |
 | **Marqeta** | Software Engineer I - Infrastructure as Code Team | Remote in Canada | 🔒 | Feb 13 |
 | **Marqeta** | Software Engineer I - Infrastructure as Code Team | Remote in Canada | 🔒 | Feb 13 |
-| **Marqeta** | Software Engineer I - Continuous Integration Team | Remote in Canada | 🔒 | Feb 13 |
+| **[Marqeta](https://simplify.jobs/c/Marqeta)** | Software Engineer I - Continuous Integration Team | Remote in Canada | <a href="https://job-boards.greenhouse.io/marqeta/jobs/6549903?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/bc5c2d20-7030-4fc3-829f-c9e6bd845a2b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 13 |
 | **Global Payments** | Mainframe Software Engineer I | Columbus, GA | 🔒 | Feb 13 |
 | **Global Payments** | Mainframe Software Engineer I | Columbus, GA | 🔒 | Feb 13 |
 | **[Bombora](https://simplify.jobs/c/Bombora)** | Software Engineer I - Services Engineering | Reno, NV</br>NYC | <a href="https://bombora.com/about/bombora-careers?gh_jid=7859996002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/b91602b6-14e5-4b3e-93de-44d1785d605c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 12 |
