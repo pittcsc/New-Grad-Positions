@@ -27751,5 +27751,21 @@
         "company_url": "https://simplify.jobs/c/Softheon",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Esri",
+        "id": "d6a226a8-f724-4077-b522-1d0088c5a431",
+        "title": "Backend Java Engineer I - Data Pipelines",
+        "active": true,
+        "date_updated": 1744357547,
+        "date_posted": 1744357547,
+        "url": "https://www.esri.com/careers/4700976007?gh_jid=4700976007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
