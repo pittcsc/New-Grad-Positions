@@ -27816,5 +27816,38 @@
         "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amperity",
+        "id": "25c87b7c-8866-4857-870a-a2f967fea1a3",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1744441478,
+        "date_posted": 1744441478,
+        "url": "https://amperity.com/careers/6799726?gh_jid=6799726&gh_src=053ff1fc1us&gh_jid=6799726",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amperity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "80524411-e4b5-4865-8e50-4269636da726",
+        "title": "Software Engineer - Backend/Fullstack - Early in Career",
+        "active": true,
+        "date_updated": 1744442076,
+        "date_posted": 1741233290,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/oMYzvfwy?nl=1&nl=1&fr=false",
+        "locations": [
+            "Raleigh, NC",
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
