@@ -113,10 +113,10 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Jerry** | Software Engineer I | Toronto, ON, Canada</br>Greater Toronto Area, ON, Canada | 🔒 | Mar 28 |
 | **RTX** | Software Engineer I | Cedar Rapids, IA | 🔒 | Mar 27 |
 | **Cox** | Software Engineer I | Atlanta, GA | 🔒 | Mar 27 |
-| **[Western Digital](https://simplify.jobs/c/Western-Digital)** | New College Grad - Software Development Engineering - Apps | Irvine, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000050379715?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/49f13974-486b-4e60-a8a3-03754947e5d9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 27 |
+| **Western Digital** | New College Grad - Software Development Engineering - Apps | Irvine, CA | 🔒 | Mar 27 |
 | **Medtronic** | Software Engineer I | LA | 🔒 | Mar 27 |
 | **Blue Origin** | Software Development Engineer I – Early Career 2025 University Grad - Enterprise Technology | Seattle, WA</br>Huntsville, AL | 🔒 | Mar 26 |
-| **Western Digital** | New College Grad - Software Development Engineering - Apps | Irvine, CA | 🔒 | Mar 25 |
+| **[Western Digital](https://simplify.jobs/c/Western-Digital)** | New College Grad - Software Development Engineering - Apps | Irvine, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000049871275?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/375e5b72-c155-4bce-9f71-2a92341e6773?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 25 |
 | **Jerry** | Software Engineer I | Toronto, ON, Canada | 🔒 | Mar 25 |
 | **[Splunk](https://simplify.jobs/c/Splunk)** | Fedramp Software Engineer – Early Career | Colorado</br>North Carolina | <a href="https://jobs.jobvite.com/splunk-careers/job/ozXHvfws?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/48b6fe61-fbcb-4e57-9576-4bf7c8b19a0a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 25 |
 | **Leidos** | Software Developer – Entry level | Lawton, OK | 🔒 | Mar 25 |
