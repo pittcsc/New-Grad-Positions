@@ -370,7 +370,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Visa** | Software Engineer – New College Grad | San Mateo, CA | 🔒 | Nov 26 |
 | **Replit** | Software Engineer – New Grad 2025 | San Mateo, CA | 🔒 | Nov 26 |
 | **Grand Rounds** | Software Engineer – 2025 New College Grad - Treat Team | Remote in USA | 🔒 | Nov 25 |
-| **Twitch** | Software Engineer I - IOS | SF | 🔒 | Nov 23 |
+| **[Twitch](https://simplify.jobs/c/Twitch)** | Software Engineer I - IOS | SF | <a href="https://job-boards.greenhouse.io/twitch/jobs/7742635002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/ee7e8ba7-6ca0-4110-863b-c908acf0512f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 23 |
 | **Twitch** | Software Engineer I - IOS | Seattle, WA | 🔒 | Nov 23 |
 | **Twitch** | Software Engineer I - IOS | NYC | 🔒 | Nov 23 |
 | **Horace Mann** | Software Engineer I | Springfield, IL | 🔒 | Nov 22 |
