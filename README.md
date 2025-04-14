@@ -371,8 +371,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Replit** | Software Engineer – New Grad 2025 | San Mateo, CA | 🔒 | Nov 26 |
 | **Grand Rounds** | Software Engineer – 2025 New College Grad - Treat Team | Remote in USA | 🔒 | Nov 25 |
 | **[Twitch](https://simplify.jobs/c/Twitch)** | Software Engineer I - IOS | SF | <a href="https://job-boards.greenhouse.io/twitch/jobs/7742635002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/ee7e8ba7-6ca0-4110-863b-c908acf0512f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 23 |
-| **Twitch** | Software Engineer I - IOS | Seattle, WA | 🔒 | Nov 23 |
-| **Twitch** | Software Engineer I - IOS | NYC | 🔒 | Nov 23 |
+| **[Twitch](https://simplify.jobs/c/Twitch)** | Software Engineer I - IOS | Seattle, WA | <a href="https://job-boards.greenhouse.io/twitch/jobs/7735059002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/1172d19a-8d02-4b7d-b308-aab9ea5f17d7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 23 |
+| **[Twitch](https://simplify.jobs/c/Twitch)** | Software Engineer I - IOS | NYC | <a href="https://job-boards.greenhouse.io/twitch/jobs/7742636002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/b9c68e5f-d434-482b-bab1-b5e6c75c442c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 23 |
 | **Horace Mann** | Software Engineer I | Springfield, IL | 🔒 | Nov 22 |
 | **PlayStation Global** | Junior Server Software Engineer | London, UK | 🔒 | Nov 22 |
 | **PlayStation Global** | Junior Server Software Engineer | London, UK | 🔒 | Nov 22 |
