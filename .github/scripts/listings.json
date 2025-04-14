@@ -23075,7 +23075,7 @@
         "company_name": "Amentum",
         "id": "226019f0-bb4c-4e0f-9d7d-4b24a042c017",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1733429742,
         "date_posted": 1733429742,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0131117",
@@ -27863,6 +27863,22 @@
             "Philadelphia, PA"
         ],
         "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Higher Logic",
+        "id": "c20df765-03a0-44a7-9fa7-fb321467b655",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1744644738,
+        "date_posted": 1744644738,
+        "url": "https://job-boards.greenhouse.io/higherlogic/jobs/6519591003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Higher-Logic",
         "is_visible": true,
         "sponsorship": "Other"
     }
