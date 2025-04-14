@@ -27881,5 +27881,21 @@
         "company_url": "https://simplify.jobs/c/Higher-Logic",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "1ee4aeeb-a41b-434d-8bce-1ff0cf152d53",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1744642428,
+        "date_posted": 1744642428,
+        "url": "https://jobs.ashbyhq.com/Jerry/169c190d-6fb5-43bb-8acf-f4dbf600f6c9/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
