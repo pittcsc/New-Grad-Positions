@@ -201,7 +201,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Jerry** | Software Engineer I | Toronto, ON, Canada | 🔒 | Mar 06 |
 | **[Splunk](https://simplify.jobs/c/Splunk)** | Software Engineer - Backend/Fullstack - Early in Career | Raleigh, NC</br>Boulder, CO | <a href="https://jobs.jobvite.com/splunk-careers/job/oMYzvfwy?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/80524411-e4b5-4865-8e50-4269636da726?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 06 |
 | **Splunk** | Software Engineer - Frontend - Early in Career | Colorado</br>North Carolina | 🔒 | Mar 06 |
-| **esri** | Java Software Engineer I - Arcgis Enterprise | West Redlands, Redlands, CA | 🔒 | Mar 06 |
+| **[esri](https://simplify.jobs/c/3bc7a09e-e5f1-45e8-b26b-1d3c77588a00)** | Java Software Engineer I - Arcgis Enterprise | West Redlands, Redlands, CA | <a href="https://www.esri.com/careers/4660952007?gh_jid=4660952007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/80da21ce-b264-439a-a6e9-d6ba68a20436?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 06 |
 | **Iridium Communications** | Software Engineer I | Tempe, AZ | 🔒 | Mar 05 |
 | **Ciena** | New Grad Software Engineer | Edinburgh, UK</br>Reading, UK | 🔒 | Mar 05 |
 | **Creditgenie** | New Grad – Software Engineer | NYC | 🔒 | Mar 05 |
