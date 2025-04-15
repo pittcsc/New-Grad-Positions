@@ -398,7 +398,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Nike** | Software Engineer I | Beaverton, OR | 🔒 | Nov 19 |
 | **PVM** | Junior Full Stack Developer | Remote in USA | 🔒 | Nov 19 |
 | **Salesforce** | Associate Data Scientist – New Grad - Data & Analytics | Indianapolis, IN</br>Dallas, TX</br>Atlanta, GA | 🔒 | Nov 19 |
-| **[Kikoff](https://simplify.jobs/c/Kikoff)** | Software Engineer – Recent College Graduate | SF | <a href="https://jobs.ashbyhq.com/kikoff/ad87f613-2906-4497-886d-742d9104fc50/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/27cc8c3f-c592-4e44-a1dc-093891d04163?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 18 |
+| **Kikoff** | Software Engineer – Recent College Graduate | SF | 🔒 | Nov 18 |
 | **USAA** | Data Engineer I | Remote in USA | 🔒 | Nov 18 |
 | **Geico** | Software Engineer I - Remote} | Remote in USA | 🔒 | Nov 18 |
 | **Meijer** | Entry Level Data Engineer 🛂 | Grand Rapids, MI | 🔒 | Nov 15 |
