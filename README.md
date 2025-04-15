@@ -77,7 +77,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Amentum** | Entry Level Software Engineer | Fredericksburg, VA</br>Dahlgren, VA | 🔒 | Apr 09 |
 | **[Leidos](https://simplify.jobs/c/Leidos)** | Software Developer – Entry level | Lawton, OK | <a href="https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Sill-OK/Software-Developer---Entry-level_R-00157004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/b822dcba-22e1-4fe0-a203-3223020140ab?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 09 |
 | **Mastercard** | Software Engineer I | Vancouver, BC, Canada | 🔒 | Apr 09 |
-| **[LexisNexis Risk Solutions](https://simplify.jobs/c/9a8ce602-42f0-4474-9ff5-edf7d8868b76)** | Software Engineer I | Miamisburg, OH | <a href="https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Miamisburg-OH/Software-Engineer-I---Miamisburg--OH_R93376?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/ad9fcc91-8e06-4b6d-94b0-8f70897e6ff1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 09 |
+| **LexisNexis Risk Solutions** | Software Engineer I | Miamisburg, OH | 🔒 | Apr 09 |
 | **Airbnb** | Software Engineer – New Grad - Search Feed | Remote in USA | 🔒 | Apr 09 |
 | **RTX** | 2025 Fulltime - Raytheon RADAR Software Development Engineer I | Salem, NH | 🔒 | Apr 08 |
 | **Cox** | Data Engineer I | Atlanta, GA | 🔒 | Apr 08 |
@@ -183,7 +183,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Nexxen](https://simplify.jobs/c/Nexxen)** | Software Engineer I - SSP Backend | Bellevue, WA | <a href="https://job-boards.greenhouse.io/nexxen/jobs/7732428002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/8f8cedaf-6a38-40c0-9550-913cd33d1aae?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 10 |
 | **Cox** | Software Engineer I | Austin, TX | 🔒 | Mar 10 |
 | **Dagster Labs** | Software Engineer – University Grad | SF</br>NYC</br>Minneapolis, MN | 🔒 | Mar 10 |
-| **[Amentum](https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d)** | Entry Level Software Engineer | Fredericksburg, VA | <a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0135976?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/623825f6-11b7-4f41-9cd5-38005ddc2ec1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 10 |
+| **Amentum** | Entry Level Software Engineer | Fredericksburg, VA | 🔒 | Mar 10 |
 | **Amentum** | Entry Level Software Engineer | Fredericksburg, VA | 🔒 | Mar 10 |
 | **Aurora Innovation** | Software Engineer I | Mountain View, CA | 🔒 | Mar 10 |
 | **Marqeta** | Software Engineer I - Continuous Integration Team | Remote in Canada | 🔒 | Mar 10 |
