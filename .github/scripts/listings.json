@@ -27946,5 +27946,21 @@
         "company_url": "https://simplify.jobs/c/Walrus",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TripAdvisor",
+        "id": "72418fe4-d468-4c1d-8bbb-9058fdebfd14",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1744728336,
+        "date_posted": 1744728336,
+        "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/6797471",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TripAdvisor",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
