@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[North Atlantic Industries](https://simplify.jobs/c/North-Atlantic-Industries)** | Software Engineer I | Long Island, New York | <a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/3197298?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/8d6114f3-edc1-4d57-888b-80d78a34fd40?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 15 |
 | **Higher Logic** | Junior Software Developer | Remote in USA | 🔒 | Apr 14 |
 | **[Jerry](https://simplify.jobs/c/Jerry)** | Software Engineer I | Toronto, ON, Canada | <a href="https://jobs.ashbyhq.com/Jerry/169c190d-6fb5-43bb-8acf-f4dbf600f6c9/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/1ee4aeeb-a41b-434d-8bce-1ff0cf152d53?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 14 |
 | **Comcast** | Engineer 1 - Software Development & Engineering | Philadelphia, PA | 🔒 | Apr 12 |
