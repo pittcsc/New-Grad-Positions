@@ -212,7 +212,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Ciena** | New Grad Software Engineer | Edinburgh, UK</br>Reading, UK | 🔒 | Mar 05 |
 | **Creditgenie** | New Grad – Software Engineer | NYC | 🔒 | Mar 05 |
 | **AppLovin** | Software Engineer I - Backend | Palo Alto, CA | 🔒 | Mar 05 |
-| **RTX** | Software Engineer I | Marlborough, MA | 🔒 | Mar 04 |
+| **[RTX](https://simplify.jobs/c/RTX)** | Software Engineer I | Marlborough, MA | <a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA803-Marlborough-MA-Building-3-1001-Boston-Post-Road-Building-3-Marlborough-MA-01752-USA/Software-Engineer-I---Onsite-_01747844?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/a110b0e2-7980-4b85-b7df-0c7da7f581e3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 04 |
 | **Cox** | Software Engineer I | Atlanta, GA | 🔒 | Mar 04 |
 | **Sierra Nevada Coporation** | Software Engineer I | Lone Tree, CO | 🔒 | Mar 04 |
 | **Sierra Nevada Coporation** | Software Engineer I | Lone Tree, CO | 🔒 | Mar 04 |
