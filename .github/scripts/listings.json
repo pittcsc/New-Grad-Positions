@@ -25634,7 +25634,7 @@
         "company_name": "esri",
         "id": "80da21ce-b264-439a-a6e9-d6ba68a20436",
         "title": "Java Software Engineer I - Arcgis Enterprise",
-        "active": true,
+        "active": false,
         "date_updated": 1741222698,
         "date_posted": 1741222698,
         "url": "https://www.esri.com/careers/4660952007?gh_jid=4660952007",
@@ -27757,7 +27757,7 @@
         "company_name": "Esri",
         "id": "d6a226a8-f724-4077-b522-1d0088c5a431",
         "title": "Backend Java Engineer I - Data Pipelines",
-        "active": true,
+        "active": false,
         "date_updated": 1744357547,
         "date_posted": 1744357547,
         "url": "https://www.esri.com/careers/4700976007?gh_jid=4700976007",
@@ -28041,6 +28041,22 @@
             "Neenah, WI"
         ],
         "company_url": "https://simplify.jobs/c/Plexus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RTX",
+        "id": "156c72ee-dafa-45c7-b1bc-34bc6dfd02e3",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1744822729,
+        "date_posted": 1744822729,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01715325-1",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other"
     }
