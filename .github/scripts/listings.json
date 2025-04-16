@@ -27995,5 +27995,37 @@
         "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mastercard",
+        "id": "848554b5-91a9-4df3-8fc6-035c8188f4b8",
+        "title": "Software Engineer I - Sdet - Java",
+        "active": true,
+        "date_updated": 1744791474,
+        "date_posted": 1744791474,
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Engineer-I--SDET---Java-_R-245943",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mastercard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mastercard",
+        "id": "66b69cb8-2894-4d29-bb0f-abf8666fb0f6",
+        "title": "Software Engineer I - Java",
+        "active": true,
+        "date_updated": 1744791474,
+        "date_posted": 1744791474,
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Engineer-I--Java-_R-245946",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mastercard",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
