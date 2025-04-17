@@ -28075,5 +28075,21 @@
         "company_url": "https://simplify.jobs/c/Cox",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "GOAT Group",
+        "id": "008d4809-0023-40fd-820e-5b07aaa196c5",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1744882341,
+        "date_posted": 1744882341,
+        "url": "https://job-boards.greenhouse.io/goatgroup/jobs/4554517005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/GOAT-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
