@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Pinterest](https://simplify.jobs/c/Pinterest)** | Software Engineer I | Seattle, WA | <a href="https://www.pinterestcareers.com/job-form?gh_jid=6816337&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/836b6c19-97e2-48ec-b0eb-a351d8e837d6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 18 |
 | **[Sev1Tech](https://simplify.jobs/c/Sev1Tech)** | Software Developer – Entry Level | Lawton, OK | <a href="https://careers-sev1tech.icims.com/jobs/8793/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/944e985f-b58f-4373-8d24-a453b692eb61?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 17 |
 | **GOAT Group** | Software Engineer I | Remote in USA | 🔒 | Apr 17 |
 | **RTX** | Software Engineer I | Cedar Rapids, IA | 🔒 | Apr 16 |
