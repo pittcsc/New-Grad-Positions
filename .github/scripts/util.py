@@ -9,7 +9,6 @@ SIMPLIFY_BUTTON = "https://i.imgur.com/MXdpmi0.png" # says apply
 SHORT_APPLY_BUTTON = "https://i.imgur.com/w6lyvuC.png"
 SQUARE_SIMPLIFY_BUTTON = "https://i.imgur.com/aVnQdox.png"
 LONG_APPLY_BUTTON = "https://i.imgur.com/u1KNU8z.png"
-VIEW_MORE_BUTTON = "https://i.imgur.com/q8n6sxB.png"
 
 
 def setOutput(key, value):
@@ -36,7 +35,7 @@ def getSponsorship(listing):
 
 def getLink(listing):
     if not listing["active"]:
-        return f'🔒 <a href="https://simplify.jobs/jobs?state=North%20America&points=83%3B-170%3B7%3B-52&experience=Entry%20Level%2FNew%20Grad&category=Software%20Engineering&jobId=ffe99c54-1c84-4079-a4da-643f7c9c68f8&utm_source=GHList"><img src="{VIEW_MORE_BUTTON}" width="100" alt="View more"></a></a>'
+        return f'🔒 <a href="https://simplify.jobs/jobs?state=North%20America&points=83%3B-170%3B7%3B-52&experience=Entry%20Level%2FNew%20Grad&category=Software%20Engineering&utm_source=GHList">See more jobs</a>'
     link = listing["url"] 
     if "?" not in link:
         link += "?utm_source=Simplify&ref=Simplify"
