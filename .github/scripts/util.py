@@ -35,7 +35,7 @@ def getSponsorship(listing):
 
 def getLink(listing):
     if not listing["active"]:
-        return f'🔒 <a href="https://simplify.jobs/jobs?state=North%20America&points=83%3B-170%3B7%3B-52&experience=Entry%20Level%2FNew%20Grad&category=Software%20Engineering&utm_source=GHList">See more jobs</a>'
+        return f'🔒 <a href="https://simplify.jobs/jobs?state=North%20America&points=83%3B-170%3B7%3B-52&experience=Entry%20Level%2FNew%20Grad&category=Software%20Engineering&utm_source=GHList">More jobs</a>'
     link = listing["url"] 
     if "?" not in link:
         link += "?utm_source=Simplify&ref=Simplify"
