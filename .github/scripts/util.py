@@ -9,7 +9,7 @@ SIMPLIFY_BUTTON = "https://i.imgur.com/MXdpmi0.png" # says apply
 SHORT_APPLY_BUTTON = "https://i.imgur.com/w6lyvuC.png"
 SQUARE_SIMPLIFY_BUTTON = "https://i.imgur.com/aVnQdox.png"
 LONG_APPLY_BUTTON = "https://i.imgur.com/u1KNU8z.png"
-VIEW_MORE_BUTTON = "https://imgur.com/gqYmdnF.png"
+VIEW_MORE_BUTTON = "https://imgur.com/q8n6sxB"
 
 
 def setOutput(key, value):
