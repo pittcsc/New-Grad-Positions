@@ -28155,5 +28155,21 @@
         "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Flexport",
+        "id": "561dc074-7c02-4562-a2df-5ac406ce6a4d",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1745050346,
+        "date_posted": 1745050346,
+        "url": "https://boards.greenhouse.io/flexport/jobs/6795493",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Flexport",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
