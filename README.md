@@ -213,7 +213,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Splunk](https://simplify.jobs/c/Splunk)** | Software Engineer - Backend/Fullstack - Early in Career | Raleigh, NC</br>Boulder, CO | <a href="https://jobs.jobvite.com/splunk-careers/job/oMYzvfwy?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/80524411-e4b5-4865-8e50-4269636da726?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 06 |
 | **Splunk** | Software Engineer - Frontend - Early in Career | Colorado</br>North Carolina | 🔒 | Mar 06 |
 | **esri** | Java Software Engineer I - Arcgis Enterprise | West Redlands, Redlands, CA | 🔒 | Mar 06 |
-| **Iridium Communications** | Software Engineer I | Tempe, AZ | 🔒 | Mar 05 |
+| **Iridium Communications** | Software Engineer I 🇺🇸 | Tempe, AZ | 🔒 | Mar 05 |
 | **Ciena** | New Grad Software Engineer | Edinburgh, UK</br>Reading, UK | 🔒 | Mar 05 |
 | **Creditgenie** | New Grad – Software Engineer | NYC | 🔒 | Mar 05 |
 | **AppLovin** | Software Engineer I - Backend | Palo Alto, CA | 🔒 | Mar 05 |
@@ -273,7 +273,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Capital One** | Associate – New Grad - Software Engineer | Toronto, ON, Canada | 🔒 | Feb 05 |
 | **Synchrony Financial** | Android Engineer I - Digital Servicing | <details><summary>**6 locations**</summary>Newport Beach, CA</br>Remote in USA</br>Chicago, IL</br>Alpharetta, GA</br>NYC</br>Cincinnati, OH</details> | 🔒 | Feb 04 |
 | **Scale AI** | Software Engineer – New Grad - Security Engineering | SF | 🔒 | Feb 04 |
-| **Synchrony Financial** | Front-End Engineer I - Digital Servicing | <details><summary>**18 locations**</summary>Seattle, WA</br>Sharonville, OH</br>Newport Beach, CA</br>Bentonville, AR</br>Stamford, CT</br>Oakland, CA</br>Dallas, TX</br>Chicago, IL</br>Altamonte Springs, FL</br>Charlotte, NC</br>Alpharetta, GA</br>Rapid City, SD</br>Kansas City, MO</br>NYC</br>Phoenix, AZ</br>Draper, UT</br>Canton, OH</br>St Paul, MN</details> | 🔒 | Feb 04 |
+| **Synchrony Financial** | Front-End Engineer I - Digital Servicing 🛂 | <details><summary>**18 locations**</summary>Seattle, WA</br>Sharonville, OH</br>Newport Beach, CA</br>Bentonville, AR</br>Stamford, CT</br>Oakland, CA</br>Dallas, TX</br>Chicago, IL</br>Altamonte Springs, FL</br>Charlotte, NC</br>Alpharetta, GA</br>Rapid City, SD</br>Kansas City, MO</br>NYC</br>Phoenix, AZ</br>Draper, UT</br>Canton, OH</br>St Paul, MN</details> | 🔒 | Feb 04 |
 | **Cambridge Mobile Telematics** | Software Engineer I - Mobile | Cambridge, MA | 🔒 | Feb 04 |
 | **Leidos** | Junior Software Developer | Fairmont, WV</br>Boulder, CO | 🔒 | Feb 03 |
 | **USAA** | Guidewire Software Engineer – Entry Level | Plano, TX | 🔒 | Feb 01 |
