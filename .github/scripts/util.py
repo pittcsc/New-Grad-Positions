@@ -9,6 +9,7 @@ SIMPLIFY_BUTTON = "https://i.imgur.com/MXdpmi0.png" # says apply
 SHORT_APPLY_BUTTON = "https://i.imgur.com/w6lyvuC.png"
 SQUARE_SIMPLIFY_BUTTON = "https://i.imgur.com/aVnQdox.png"
 LONG_APPLY_BUTTON = "https://i.imgur.com/u1KNU8z.png"
+VIEW_MORE_BUTTON = "https://imgur.com/gqYmdnF.png"
 
 
 def setOutput(key, value):
@@ -35,7 +36,7 @@ def getSponsorship(listing):
 
 def getLink(listing):
     if not listing["active"]:
-        return "🔒"
+        return f'🔒 <a href="https://simplify.jobs/jobs?state=North%20America&points=83%3B-170%3B7%3B-52&experience=Entry%20Level%2FNew%20Grad&category=Software%20Engineering&jobId=ffe99c54-1c84-4079-a4da-643f7c9c68f8&utm_source=GHList"><img src="{VIEW_MORE_BUTTON}" width="100" alt="View more"></a></a>'
     link = listing["url"] 
     if "?" not in link:
         link += "?utm_source=Simplify&ref=Simplify"
@@ -55,7 +56,7 @@ def create_md_table(listings):
     table += "| Company | Role | Location | Application/Link | Date Posted |\n"
     table += "| --- | --- | --- | :---: | :---: |\n"
     for listing in listings:
-        company_url = listing["company_url"]
+        company_url = listing["company_url"] + "/?utm_source=GHList&utm_medium=company&showModal=true"
         company = listing["company_name"]
         company = f"[{company}]({company_url})" if len(
             company_url) > 0 and listing["active"] else company
