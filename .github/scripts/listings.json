@@ -28203,5 +28203,21 @@
         "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Robert Half",
+        "id": "b0518de6-cf27-4979-9b3d-aaec252efca1",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1745263195,
+        "date_posted": 1745263195,
+        "url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-256822-1",
+        "locations": [
+            "San Ramon, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Robert-Half",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
