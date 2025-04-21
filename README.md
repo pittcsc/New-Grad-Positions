@@ -234,7 +234,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **AMERICAN SYSTEMS** | Software Engineer I | McLean, VA | 🔒 | Feb 28 |
 | **eBay** | Software Engineer 1 | NYC | 🔒 | Feb 28 |
 | **Cox** | Software Engineer I | Atlanta, GA | 🔒 | Feb 28 |
-| **[Ciena](https://simplify.jobs/c/Ciena)** | Wavelogic Software Developer – New Grad | Atlanta, GA | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R027194?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0c0f0d44-9cdd-477e-aa21-f4956dc2ebf0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 27 |
+| **Ciena** | Wavelogic Software Developer – New Grad | Atlanta, GA | 🔒 | Feb 27 |
 | **Adobe** | Software Development Engineer 1 | Lehi, UT | 🔒 | Feb 27 |
 | **KBR** | Junior Software Developer | Springfield, VA | 🔒 | Feb 26 |
 | **Whoop** | Data Engineer I | Boston, MA | 🔒 | Feb 26 |
