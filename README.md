@@ -69,7 +69,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Sev1Tech](https://simplify.jobs/c/Sev1Tech)** | Software Developer – Entry Level | Lawton, OK | <a href="https://careers-sev1tech.icims.com/jobs/8793/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/944e985f-b58f-4373-8d24-a453b692eb61?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 17 |
 | **GOAT Group** | Software Engineer I | Remote in USA | 🔒 | Apr 17 |
 | **RTX** | Software Engineer I | Cedar Rapids, IA | 🔒 | Apr 16 |
-| **[Cox](https://simplify.jobs/c/Cox)** | Software Engineer I - Backend | Carmel, IN | <a href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-I--BACKEND-_R202561426-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/795587eb-f201-4d90-9310-1215625e2e56?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 16 |
+| **Cox** | Software Engineer I - Backend | Carmel, IN | 🔒 | Apr 16 |
 | **[Plexus](https://simplify.jobs/c/Plexus)** | Embedded Software Engineer I | Neenah, WI | <a href="https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Embedded-Software-Engineer-I_R032010?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0f7b9b50-89d2-4113-aa2b-381a6156069c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 16 |
 | **Mastercard** | Software Engineer I - Sdet - Java | Vancouver, BC, Canada | 🔒 | Apr 16 |
 | **Mastercard** | Software Engineer I - Java | Vancouver, BC, Canada | 🔒 | Apr 16 |
@@ -283,7 +283,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **TSC** | Software Engineer I | Bloomington, IN | 🔒 | Feb 01 |
 | **Baxter International** | Software Engineer I | Raleigh, NC | 🔒 | Jan 31 |
 | **Baxter International** | Software Engineer I | Raleigh, NC | 🔒 | Jan 31 |
-| **[Echostar](https://simplify.jobs/c/Echostar)** | Entry Level Software Engineer | San Diego, CA | <a href="https://echostar.wd5.myworkdayjobs.com/echostar/job/CA-San-Diego/Entry-Level-Software-Engineer_R0004668?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/52e57407-0ec5-49a9-be77-fedea20a2c03?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 31 |
+| **Echostar** | Entry Level Software Engineer | San Diego, CA | 🔒 | Jan 31 |
 | **esri** | Software Development Engineer I | Vienna, VA | 🔒 | Jan 31 |
 | **esri** | Software Development Engineer I | St. Louis, MO | 🔒 | Jan 31 |
 | **Harris Computer** | Software Engineer I | <details><summary>**5 locations**</summary>Texas</br>Georgia</br>Tennessee</br>Virginia</br>Oklahoma</details> | 🔒 | Jan 31 |
