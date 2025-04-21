@@ -150,7 +150,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Medtronic** | Software Engineer I - Neuro | Minneapolis, MN | 🔒 | Mar 24 |
 | **Applied Materials** | Data Scientist I New College Grad-Bachelor's | Santa Clara, CA | 🔒 | Mar 21 |
 | **Comcast** | Software Engineer 1 | Chicago, IL</br>Reston, VA | 🔒 | Mar 21 |
-| **[Booz Allen](https://simplify.jobs/c/Booz-Allen)** | Software Developer - Junior | Charleston, SC | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charleston-SC/Software-Developer--Junior_R0216902?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d094593d-fe82-460d-9875-a4080cc87b7c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 21 |
+| **Booz Allen** | Software Developer - Junior | Charleston, SC | 🔒 | Mar 21 |
 | **Mastercard** | Software Engineer I | Seattle, WA | 🔒 | Mar 21 |
 | **Adobe** | Software Development Engineer 1 | NYC | 🔒 | Mar 21 |
 | **Comcast** | Data Engineer 1 | Chicago, IL</br>Reston, VA | 🔒 | Mar 20 |
