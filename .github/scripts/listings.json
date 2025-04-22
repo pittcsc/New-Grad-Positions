@@ -28267,5 +28267,21 @@
         "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Parity",
+        "id": "4f0f90f5-bcff-4b63-8994-acebb7188d2f",
+        "title": "Founding Engineer - Applied AI",
+        "active": true,
+        "date_updated": 1745365093,
+        "date_posted": 1745365092,
+        "url": "https://simplify.jobs/p/4f0f90f5-bcff-4b63-8994-acebb7188d2f",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Parity",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
