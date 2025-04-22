@@ -213,7 +213,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Comcast** | Junior Engineer - Software Development & Engineering | Cherry Hills Village, CO | 🔒 | Mar 07 |
 | **Apple** | Junior Embedded Software Engineer | San Diego, CA | 🔒 | Mar 07 |
 | **RTX** |  - Raytheon Software Engineer I | Fort Wayne, IN | 🔒 | Mar 07 |
-| **[Vapi](https://simplify.jobs/c/Vapi)** | New Grad Software Engineer | SF | <a href="https://jobs.ashbyhq.com/vapi/3613e24a-de10-4e76-8c28-530df2a9981b/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/413ac022-f691-466e-8145-4e292d5eb418?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 07 |
+| **Vapi** | New Grad Software Engineer | SF | 🔒 | Mar 07 |
 | **Latitude Inc** | Entry Level Software Developer/Consultant | Baltimore, MD | 🔒 | Mar 07 |
 | **Jerry** | Software Engineer I | Toronto, ON, Canada | 🔒 | Mar 06 |
 | **[Splunk](https://simplify.jobs/c/Splunk)** | Software Engineer - Backend/Fullstack - Early in Career | Raleigh, NC</br>Boulder, CO | <a href="https://jobs.jobvite.com/splunk-careers/job/oMYzvfwy?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/80524411-e4b5-4865-8e50-4269636da726?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 06 |
