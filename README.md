@@ -74,7 +74,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **GOAT Group** | Software Engineer I | Remote in USA | 🔒 | Apr 17 |
 | **RTX** | Software Engineer I | Cedar Rapids, IA | 🔒 | Apr 16 |
 | **Cox** | Software Engineer I - Backend | Carmel, IN | 🔒 | Apr 16 |
-| **Plexus** | Embedded Software Engineer I | Neenah, WI | 🔒 | Apr 16 |
+| **[Plexus](https://simplify.jobs/c/Plexus)** | Embedded Software Engineer I | Neenah, WI | <a href="https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Embedded-Software-Engineer-I_R032010?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0f7b9b50-89d2-4113-aa2b-381a6156069c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 16 |
 | **Mastercard** | Software Engineer I - Sdet - Java | Vancouver, BC, Canada | 🔒 | Apr 16 |
 | **Mastercard** | Software Engineer I - Java | Vancouver, BC, Canada | 🔒 | Apr 16 |
 | **Jerry** | Software Engineer I | SF | 🔒 | Apr 16 |
