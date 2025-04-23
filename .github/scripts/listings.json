@@ -28381,5 +28381,21 @@
         "company_url": "https://simplify.jobs/c/Comcast",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "bb9b3881-01d1-4fab-acc3-d9b00d0d5183",
+        "title": "Research Data Engineer \u2013 Entry Level - Health Research",
+        "active": true,
+        "date_updated": 1745449621,
+        "date_posted": 1745449621,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Research-Data-Engineer--Health-Research-_R-00158034",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
