@@ -28315,5 +28315,21 @@
         "company_url": "https://simplify.jobs/c/Comcast",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "a35410db-e313-43fe-a6f8-33a7f387a5ec",
+        "title": "Software Developer \u2013 Entry level",
+        "active": true,
+        "date_updated": 1745384154,
+        "date_posted": 1745384154,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Sill-OK/Software-Developer---Entry-level_R-00157630",
+        "locations": [
+            "Lawton, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
