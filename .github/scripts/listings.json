@@ -28348,5 +28348,21 @@
         "company_url": "https://simplify.jobs/c/788246ec-e89c-499a-bb15-9a02acb178a9",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Curtiss-Wright Corporation",
+        "id": "0ac44fa3-4d8a-4242-bacc-4690d61dfb7a",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1745412218,
+        "date_posted": 1740429670,
+        "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/Canada-Ottawa/Software-Developer-Onsite-Position---Ottawa--ON_JR7616",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Curtiss-Wright",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
