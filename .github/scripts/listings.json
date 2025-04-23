@@ -28283,5 +28283,21 @@
         "company_url": "https://simplify.jobs/c/Parity",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OpenEye",
+        "id": "eb4231b2-d082-40f1-89ae-e4587f3d7d2f",
+        "title": "Software Engineer I - Ows",
+        "active": true,
+        "date_updated": 1745370235,
+        "date_posted": 1745370235,
+        "url": "https://job-boards.greenhouse.io/openeye/jobs/7968065002",
+        "locations": [
+            "Liberty Lake, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/OpenEye",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
