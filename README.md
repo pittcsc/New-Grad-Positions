@@ -284,7 +284,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Applied Materials** | Software Engineer / Data Scientist New College Grad-Bachelor's | Essex County, MA | 🔒 | Feb 11 |
 | **Rocket Software** | Software Engineer I | Bentonville, AR | 🔒 | Feb 11 |
 | **[Wonderschool](https://simplify.jobs/c/Wonderschool)** | Early Career Software Engineer - Applied AI | Remote in USA | <a href="https://job-boards.greenhouse.io/wonderschool/jobs/6359139003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/e5fee829-850f-4ae1-9f1f-eda2ab36fdbe?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 11 |
-| **[TSC](https://simplify.jobs/c/3d3125df-3bbc-48fc-993c-8e2d0db65649)** | Software Engineer I | Silver Spring, MD | <a href="https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR1905?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/5c18ab8a-6554-43c2-ac6b-0dda476bd594?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 10 |
+| **TSC** | Software Engineer I | Silver Spring, MD | 🔒 | Feb 10 |
 | **Adobe** | University Graduate - Software Engineer | Lehi, UT | 🔒 | Feb 08 |
 | **Northrop Grumman** | Cyber Software Engineer – Early career | Cincinnati, OH | 🔒 | Feb 07 |
 | **Airtable** | Software Engineer – New Grad | SF</br>NYC | 🔒 | Feb 07 |
