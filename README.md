@@ -82,8 +82,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Sierra Nevada Coporation](https://simplify.jobs/c/Sierra-Nevada-Coporation)** | Software Engineer I | Lone Tree, CO | <a href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0027324?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/060a5063-59eb-4dac-b7c5-c1c01608dd71?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 22 |
 | **Comcast** | Engineer 1 - Software Development & Engineering | Philadelphia, PA | 🔒 | Apr 22 |
 | **Robert Half** | Software Engineer I | San Ramon, CA | 🔒 | Apr 21 |
-| **[Jerry](https://simplify.jobs/c/Jerry)** | Software Engineer I | SF | <a href="https://jobs.ashbyhq.com/Jerry/ebb57f00-5cc3-49e0-afe6-72ff9ed215ab/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/072036b3-30a5-43fb-b411-ae517a3075d0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 21 |
-| **[Jerry](https://simplify.jobs/c/Jerry)** | Software Engineer I | Toronto, ON, Canada | <a href="https://jobs.ashbyhq.com/Jerry/86a0ecd6-e494-4736-a12d-2e88001d46c5/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/c99d750f-fd8a-4a3b-902a-cc3afe26f850?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 21 |
+| **Jerry** | Software Engineer I | SF | 🔒 | Apr 21 |
+| **Jerry** | Software Engineer I | Toronto, ON, Canada | 🔒 | Apr 21 |
 | **Flexport** | Software Engineer I | Bellevue, WA | 🔒 | Apr 19 |
 | **Jerry** | Software Engineer I | Toronto, ON, Canada | 🔒 | Apr 19 |
 | **Jerry** | Software Engineer I | SF | 🔒 | Apr 19 |
