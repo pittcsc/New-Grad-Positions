@@ -25106,7 +25106,7 @@
         "company_name": "PayScale",
         "id": "4bcdb1ec-2af2-48a8-93f6-577c1d850daf",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1739564226,
         "date_posted": 1739564226,
         "url": "https://jobs.jobvite.com/payscale/job/otRnvfwW?nl=1&nl=1&fr=false",
@@ -28476,6 +28476,38 @@
             "Silver Spring, MD"
         ],
         "company_url": "https://simplify.jobs/c/3d3125df-3bbc-48fc-993c-8e2d0db65649",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chewy",
+        "id": "d826bed1-eae3-48f5-ae2d-e529038c0886",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1745540752,
+        "date_posted": 1745540752,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6821292",
+        "locations": [
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chewy",
+        "id": "26fd1f94-bc62-46f4-a1e0-a3523e722709",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1745540409,
+        "date_posted": 1745540409,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6818854",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
         "is_visible": true,
         "sponsorship": "Other"
     }
