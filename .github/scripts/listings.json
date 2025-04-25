@@ -28542,5 +28542,21 @@
         "company_url": "https://simplify.jobs/c/Comcast",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "FactSet",
+        "id": "48b6fb36-0b83-47e0-aea7-66f9589cf797",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1745616441,
+        "date_posted": 1745616441,
+        "url": "https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/London-GBR/Software-Engineer-I_R27132",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/070f3806-d132-4f78-8320-b7048399142c",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
