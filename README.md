@@ -62,6 +62,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Chewy](https://simplify.jobs/c/Chewy)** | Data Engineer I | Plantation, FL | <a href="https://boards.greenhouse.io/embed/job_app?token=6821292&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d826bed1-eae3-48f5-ae2d-e529038c0886?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 25 |
+| **[Chewy](https://simplify.jobs/c/Chewy)** | Data Engineer I | Bellevue, WA | <a href="https://boards.greenhouse.io/embed/job_app?token=6818854&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/26fd1f94-bc62-46f4-a1e0-a3523e722709?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 25 |
 | **[Comcast](https://simplify.jobs/c/Comcast)** | Engineer 1 - Software Development & Engineering | Philadelphia, PA</br>Cherry Hills Village, CO | <a href="https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Engineer-1--Software-Development---Engineering_R409766?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9658c843-6373-42a7-9055-d028d06f76d7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 24 |
 | **[TSC](https://simplify.jobs/c/3d3125df-3bbc-48fc-993c-8e2d0db65649)** | Software Engineer I | Silver Spring, MD | <a href="https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2024?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4ea7ca1c-d056-4b91-84c4-19a68e4be5b2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 24 |
 | **Blue Yonder** | Software Engineer 1 | Dallas, TX | 🔒 | Apr 24 |
@@ -270,7 +272,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **The Trade Desk** | Software Engineer I - 2025 Start | SF | 🔒 | Feb 19 |
 | **Caterpillar Inc.** | Early Career Data Scientist / Technical Analyst | Peoria, IL</br>Chicago, IL | 🔒 | Feb 18 |
 | **Vanta** | Software Engineer – Entry Level | Remote in USA | 🔒 | Feb 14 |
-| **PayScale** | Software Engineer I | Remote in USA | 🔒 | Feb 14 |
+| **[PayScale](https://simplify.jobs/c/PayScale)** | Software Engineer I | Remote in USA | <a href="https://jobs.jobvite.com/payscale/job/otRnvfwW?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4bcdb1ec-2af2-48a8-93f6-577c1d850daf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 14 |
 | **Coalition** | Software Engineer I | Remote in Canada | 🔒 | Feb 13 |
 | **Coalition** | Software Engineer I | Remote in USA | 🔒 | Feb 13 |
 | **Marqeta** | Software Engineer I - Continuous Integration Team | Remote in Canada | 🔒 | Feb 13 |
