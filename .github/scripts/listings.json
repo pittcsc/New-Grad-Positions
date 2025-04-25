@@ -28558,5 +28558,21 @@
         "company_url": "https://simplify.jobs/c/070f3806-d132-4f78-8320-b7048399142c",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wex",
+        "id": "2a712d0e-4d75-4189-8244-055a60d8938d",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1745617758,
+        "date_posted": 1745617758,
+        "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/Portland-ME/Software-Engineer_R17426",
+        "locations": [
+            "Portland, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/788246ec-e89c-499a-bb15-9a02acb178a9",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
