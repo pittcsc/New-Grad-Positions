@@ -156,7 +156,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Remitly** | Software Development Engineer I | Seattle, WA | 🔒 | Mar 30 |
 | **Booz Allen** | Software Developer - Junior | Charleston, SC | 🔒 | Mar 30 |
 | **Wood Mackenzie** | Software Engineer I | Boston, MA | 🔒 | Mar 28 |
-| **[Blue Origin](https://simplify.jobs/c/Blue-Origin)** | Software Development Engineer I – Early Career 2025 University Grad | <details><summary>**6 locations**</summary>Seattle, WA</br>LA</br>Merritt Island, FL</br>Denver, CO</br>Huntsville, AL</br>Van Horn, TX</details> | <a href="https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career-2025-University-Grad_R50741?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/83f20d07-1cda-4239-9412-e6955ba2aa50?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 28 |
+| **Blue Origin** | Software Development Engineer I – Early Career 2025 University Grad | <details><summary>**6 locations**</summary>Seattle, WA</br>LA</br>Merritt Island, FL</br>Denver, CO</br>Huntsville, AL</br>Van Horn, TX</details> | 🔒 | Mar 28 |
 | **Jerry** | Software Engineer I | Toronto, ON, Canada</br>Greater Toronto Area, ON, Canada | 🔒 | Mar 28 |
 | **RTX** | Software Engineer I | Cedar Rapids, IA | 🔒 | Mar 27 |
 | **Cox** | Software Engineer I | Atlanta, GA | 🔒 | Mar 27 |
