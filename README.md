@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Cox](https://simplify.jobs/c/Cox)** | Software Engineer I | Atlanta, GA | <a href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202561650?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/ca406a1e-a776-497c-b4d2-d4b825f24d8d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 28 |
 | **[Adobe](https://simplify.jobs/c/Adobe)** | University Graduate - Software Engineer | NYC | <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2025-University-Graduate---Software-Engineer_R148217?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/20b0f992-16b4-4518-9bf8-cfc3e9b78596?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 28 |
 | **[Jerry](https://simplify.jobs/c/Jerry)** | Software Engineer I | SF | <a href="https://jobs.ashbyhq.com/Jerry/a4e2c00b-820a-43f6-a474-cd3e2002aeef/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/345f364a-9a7d-4443-b493-c392bfcb6797?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 25 |
 | **[Jerry](https://simplify.jobs/c/Jerry)** | Software Engineer I | Toronto, ON, Canada | <a href="https://jobs.ashbyhq.com/Jerry/f27c3eec-821e-42eb-9a30-17fc81c1dc2c/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/caa019a6-9235-46d9-806b-ea9f7c3879d9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 25 |
@@ -188,7 +189,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Leidos** | Entry Level Software Engineer | Huntsville, AL | 🔒 | Mar 17 |
 | **Sierra Nevada Coporation** | Software Engineer I | Lone Tree, CO | 🔒 | Mar 17 |
 | **Cox** | Software Engineer I | Atlanta, GA | 🔒 | Mar 15 |
-| **Cox** | Software Engineer I | Atlanta, GA | 🔒 | Mar 15 |
+| **[Cox](https://simplify.jobs/c/Cox)** | Software Engineer I | Atlanta, GA | <a href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202560208?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/b805d6ce-d320-4841-b839-0c861039f2f7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 15 |
 | **Jerry** | Software Engineer I | Toronto, ON, Canada | 🔒 | Mar 15 |
 | **Leidos** | Software Engineer Junior | Alexandria, VA | 🔒 | Mar 14 |
 | **Leidos** | Software Engineer Junior | Alexandria, VA | 🔒 | Mar 14 |
