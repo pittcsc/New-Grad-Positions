@@ -176,7 +176,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Applied Materials** | Data Scientist I New College Grad-Bachelor's | Santa Clara, CA | 🔒 | Mar 21 |
 | **Comcast** | Software Engineer 1 | Chicago, IL</br>Reston, VA | 🔒 | Mar 21 |
 | **Booz Allen** | Software Developer - Junior | Charleston, SC | 🔒 | Mar 21 |
-| **Mastercard** | Software Engineer I | Seattle, WA | 🔒 | Mar 21 |
+| **[Mastercard](https://simplify.jobs/c/Mastercard)** | Software Engineer I | Seattle, WA | <a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Seattle-Washington/Software-Engineer-I_R-225610?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f052183d-4f31-4032-8ed3-315c1ececc8a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 21 |
 | **Adobe** | Software Development Engineer 1 | NYC | 🔒 | Mar 21 |
 | **Comcast** | Data Engineer 1 | Chicago, IL</br>Reston, VA | 🔒 | Mar 20 |
 | **Leidos** | Entry Level Software Engineer | Huntsville, AL | 🔒 | Mar 20 |
@@ -280,7 +280,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **The Trade Desk** | Software Engineer I - 2025 Start | SF | 🔒 | Feb 19 |
 | **Caterpillar Inc.** | Early Career Data Scientist / Technical Analyst | Peoria, IL</br>Chicago, IL | 🔒 | Feb 18 |
 | **Vanta** | Software Engineer – Entry Level | Remote in USA | 🔒 | Feb 14 |
-| **[PayScale](https://simplify.jobs/c/PayScale)** | Software Engineer I | Remote in USA | <a href="https://jobs.jobvite.com/payscale/job/otRnvfwW?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4bcdb1ec-2af2-48a8-93f6-577c1d850daf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 14 |
+| **PayScale** | Software Engineer I | Remote in USA | 🔒 | Feb 14 |
 | **Coalition** | Software Engineer I | Remote in Canada | 🔒 | Feb 13 |
 | **Coalition** | Software Engineer I | Remote in USA | 🔒 | Feb 13 |
 | **Marqeta** | Software Engineer I - Continuous Integration Team | Remote in Canada | 🔒 | Feb 13 |
