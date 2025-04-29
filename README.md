@@ -6,7 +6,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 527 New Grad Roles by Category
+### Browse 527 New Grad Roles
 
 ---
 
