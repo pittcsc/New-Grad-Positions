@@ -28670,5 +28670,21 @@
         "company_url": "https://simplify.jobs/c/Booz-Allen",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "a2714d03-7e18-4b7f-8271-d45527abd86b",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1745908025,
+        "date_posted": 1745908025,
+        "url": "https://jobs.ashbyhq.com/Jerry/905ad34f-1367-4ae8-b765-facf9a8d5aa5/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
