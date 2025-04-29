@@ -17,13 +17,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
   <a href="https://simplify.jobs/copilot?utm_source=GHList&utm_medium=banner">
     <img src="https://camo.githubusercontent.com/3a63d32f598be7ad8f42418759e5cae72189725cc04579ab6f178dbd181a1d5d/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6470656f3478636e632f696d6167652f75706c6f61642f76313633363539343931382f73696d706c6966795f706974746373632e706e67" width="500" alt="Simplify Copilot Banner">
   </a>
-  <p><sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub></p>
+  <p><sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill job applications on millions of sites.</i></sub></p>
 </div>
 
 ---
 
 <div align="center">
-  <h3>😮‍💨 Tired of checking every day for new internships?</h3>
+  <h3>😮‍💨 Tired of checking every day for new roles?</h3>
   <p>A community member made ⬇️ <a href="https://swelist.com"><strong>SWEList</strong></a> ⬇️ that sends email alerts for new roles in this repo.</p>
   <a href="https://swelist.com">
     <img src="https://i.imgur.com/u7xWcQi.png" width="400" alt="Email Updates">
