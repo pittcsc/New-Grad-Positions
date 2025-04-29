@@ -1,14 +1,14 @@
 import json
-
+import re
 from datetime import date, datetime, timezone, timedelta
 import random
 import os
 
 # SIMPLIFY_BUTTON = "https://i.imgur.com/kvraaHg.png"
 SIMPLIFY_BUTTON = "https://i.imgur.com/MXdpmi0.png" # says apply
-SHORT_APPLY_BUTTON = "https://i.imgur.com/w6lyvuC.png"
+SHORT_APPLY_BUTTON = "https://i.imgur.com/fbjwDvo.png"
 SQUARE_SIMPLIFY_BUTTON = "https://i.imgur.com/aVnQdox.png"
-LONG_APPLY_BUTTON = "https://i.imgur.com/u1KNU8z.png"
+LONG_APPLY_BUTTON = "https://i.imgur.com/G5Bzlx3.png"
 
 
 def setOutput(key, value):
@@ -35,8 +35,8 @@ def getSponsorship(listing):
 
 def getLink(listing):
     if not listing["active"]:
-        return f'🔒 <a href="https://simplify.jobs/jobs?state=North%20America&points=83%3B-170%3B7%3B-52&experience=Entry%20Level%2FNew%20Grad&category=Software%20Engineering&utm_source=GHList">More jobs</a>'
-    link = listing["url"] 
+        return "🔒"
+    link = listing["url"]
     if "?" not in link:
         link += "?utm_source=Simplify&ref=Simplify"
     else:
@@ -44,30 +44,46 @@ def getLink(listing):
     # return f'<a href="{link}" style="display: inline-block;"><img src="{SHORT_APPLY_BUTTON}" width="160" alt="Apply"></a>'
 
     if listing["source"] != "Simplify":
-        return f'<a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="118" alt="Apply"></a>'
+        return f'<a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="100" alt="Apply"></a>'
     
-    simplifyLink = "https://simplify.jobs/p/" + listing["id"] + "?utm_source=GHList"
-    return f'<a href="{link}"><img src="{SHORT_APPLY_BUTTON}" width="84" alt="Apply"></a> <a href="{simplifyLink}"><img src="{SQUARE_SIMPLIFY_BUTTON}" width="30" alt="Simplify"></a>'
- 
+    simplifyLink = f"https://simplify.jobs/p/{listing['id']}?utm_source=GHList"
+    return f'<a href="{link}"><img src="{SHORT_APPLY_BUTTON}" width="49" alt="Apply"></a> <a href="{simplifyLink}"><img src="{SQUARE_SIMPLIFY_BUTTON}" width="26" alt="Simplify"></a>'
+
+def filter_active(listings):
+    return [listing for listing in listings if listing.get("active", False)]
 
 def create_md_table(listings):
     table = ""
-    table += "| Company | Role | Location | Application/Link | Date Posted |\n"
-    table += "| --- | --- | --- | :---: | :---: |\n"
+    table = "| Company | Role | Location | Application | Age |\n"
+    table += "| ------- | ---- | -------- | ---------- | --- |\n"
+    prev_company = None
+    prev_days_active = None
+
     for listing in listings:
-        company_url = listing["company_url"] + "/?utm_source=GHList&utm_medium=company&showModal=true"
-        company = listing["company_name"]
-        company = f"[{company}]({company_url})" if len(
-            company_url) > 0 and listing["active"] else company
+        company_url = listing["company_url"] + '?utm_source=GHList&utm_medium=company&showModal=true'
+        company = f"**[{listing['company_name']}]({company_url})**" if company_url else listing["company_name"]
         location = getLocations(listing)
         position = listing["title"] + getSponsorship(listing)
         link = getLink(listing)
-        month = datetime.fromtimestamp(listing["date_posted"]).strftime('%b')
-        dayMonth = datetime.fromtimestamp(listing["date_posted"]).strftime('%b %d')
-        isBeforeJuly18 = datetime.fromtimestamp(listing["date_posted"]) < datetime(2023, 7, 18, 0, 0, 0)
-        datePosted = month if isBeforeJuly18 else dayMonth
-        table += f"| **{company}** | {position} | {location} | {link} | {datePosted} |\n"
-        # table += f"| **{company}** | {location} | {position} | {link} | {status} | {datePosted} |\n"
+
+        # Days active calculation
+        days_active = (datetime.now() - datetime.fromtimestamp(listing["date_posted"])).days
+        days_active = max(days_active, 0)
+
+        days_display = (
+            "0d" if days_active == 0 else
+            f"{(days_active // 30)}mo" if days_active >= 30 else
+            f"{days_active}d"
+        )
+
+        if prev_company == listing['company_name'] and prev_days_active == days_active:
+            company = "↳"
+        else:
+            prev_company = listing['company_name']
+            prev_days_active = days_active
+
+        table += f"| {company} | {position} | {location} | {link} | {days_display} |\n"
+
     return table
 
 def filterListings(listings, earliest_date):
@@ -106,22 +122,41 @@ def embedTable(listings):
                     readingTable = True
                     newText += "\n" + \
                         create_md_table(listings) + "\n"
+     # Calculate active count
+    active_listings = filter_active(listings)
+    total_active = len(active_listings)
+
+    # Regex replace "Browse ### Roles" section
+    browse_section_pattern = r"(### Browse )(.*?)( New Grad Roles by Category\s*-+\n)"
+    newText = re.sub(browse_section_pattern, f"### Browse {total_active} New Grad Roles by Category\n\n---\n", newText, count=1, flags=re.DOTALL)
+
     with open(filepath, "w") as f:
         f.write(newText)
 
 def sortListings(listings):
-
+    oldestListingFromCompany = {}
     linkForCompany = {}
+
     for listing in listings:
+        date_posted = listing["date_posted"]
+        if listing["company_name"].lower() not in oldestListingFromCompany or oldestListingFromCompany[listing["company_name"].lower()] > date_posted:
+            oldestListingFromCompany[listing["company_name"].lower()] = date_posted
         if listing["company_name"] not in linkForCompany or len(listing["company_url"]) > 0:
             linkForCompany[listing["company_name"]] = listing["company_url"]
 
-    def getKey(listing):
-        date_posted = listing["date_posted"]
-        date_updated = listing["date_updated"]
-        return str(date_posted) + listing["company_name"].lower() + str(date_updated)
-
-    listings.sort(key=getKey, reverse=True)
+    listings.sort(
+        key=lambda x: (
+            x["active"],  # Active listings first
+            datetime(
+                datetime.fromtimestamp(x["date_posted"]).year,
+                datetime.fromtimestamp(x["date_posted"]).month,
+                datetime.fromtimestamp(x["date_posted"]).day
+            ),
+            x['company_name'].lower(),
+            x['date_updated']
+        ),
+        reverse=True
+    )
 
     for listing in listings:
         listing["company_url"] = linkForCompany[listing["company_name"]]
