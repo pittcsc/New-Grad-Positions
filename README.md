@@ -92,7 +92,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Robert Half** | Software Engineer I | San Ramon, CA | 🔒 | Apr 21 |
 | **Jerry** | Software Engineer I | SF | 🔒 | Apr 21 |
 | **Jerry** | Software Engineer I | Toronto, ON, Canada | 🔒 | Apr 21 |
-| **[Booz Allen](https://simplify.jobs/c/Booz-Allen)** | Data Scientist - Junior | McLean, VA | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist--Junior_R0218242?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/6e04852d-28bf-4150-8448-d0f3f488e759?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 21 |
+| **Booz Allen** | Data Scientist - Junior | McLean, VA | 🔒 | Apr 21 |
 | **Flexport** | Software Engineer I | Bellevue, WA | 🔒 | Apr 19 |
 | **Jerry** | Software Engineer I | Toronto, ON, Canada | 🔒 | Apr 19 |
 | **Jerry** | Software Engineer I | SF | 🔒 | Apr 19 |
