@@ -68,7 +68,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Adobe](https://simplify.jobs/c/Adobe)** | University Graduate - Software Engineer | NYC | <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2025-University-Graduate---Software-Engineer_R148217?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/20b0f992-16b4-4518-9bf8-cfc3e9b78596?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 28 |
 | **Jerry** | Software Engineer I | SF | 🔒 | Apr 25 |
 | **Jerry** | Software Engineer I | Toronto, ON, Canada | 🔒 | Apr 25 |
-| **[Wex](https://simplify.jobs/c/788246ec-e89c-499a-bb15-9a02acb178a9)** | Software Engineer 1 | Portland, ME | <a href="https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/Portland-ME/Software-Engineer_R17426?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/2a712d0e-4d75-4189-8244-055a60d8938d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 25 |
+| **Wex** | Software Engineer 1 | Portland, ME | 🔒 | Apr 25 |
 | **[FactSet](https://simplify.jobs/c/070f3806-d132-4f78-8320-b7048399142c)** | Software Engineer I | London, UK | <a href="https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/London-GBR/Software-Engineer-I_R27132?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/48b6fb36-0b83-47e0-aea7-66f9589cf797?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 25 |
 | **Comcast** | Engineer 1 - Software Development & Engineering | Mt Laurel Township, NJ | 🔒 | Apr 25 |
 | **Medtronic** | Software Engineer I | LA | 🔒 | Apr 25 |
@@ -292,7 +292,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Marqeta** | Software Engineer I - Continuous Integration Team | Remote in Canada | 🔒 | Feb 13 |
 | **Global Payments** | Mainframe Software Engineer I | Columbus, GA | 🔒 | Feb 13 |
 | **Global Payments** | Mainframe Software Engineer I | Columbus, GA | 🔒 | Feb 13 |
-| **[Bombora](https://simplify.jobs/c/Bombora)** | Software Engineer I - Services Engineering | Reno, NV</br>NYC | <a href="https://bombora.com/about/bombora-careers?gh_jid=7859996002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/b91602b6-14e5-4b3e-93de-44d1785d605c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 12 |
+| **Bombora** | Software Engineer I - Services Engineering | Reno, NV</br>NYC | 🔒 | Feb 12 |
 | **LexisNexis Risk Solutions** | Graduate Software Engineer I | Southampton, UK | 🔒 | Feb 12 |
 | **Apple** | Software Engineer – Early Career - IS&T | Austin, TX | 🔒 | Feb 12 |
 | **Apple** | Software Engineer – Early Career - IS&T | Sunnyvale, CA | 🔒 | Feb 12 |
