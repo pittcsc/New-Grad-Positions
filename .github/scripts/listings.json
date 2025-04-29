@@ -28654,5 +28654,21 @@
         "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Booz Allen",
+        "id": "6e04852d-28bf-4150-8448-d0f3f488e759",
+        "title": "Data Scientist - Junior",
+        "active": true,
+        "date_updated": 1745920492,
+        "date_posted": 1745220604,
+        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist--Junior_R0218242",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
