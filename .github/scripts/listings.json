@@ -28702,5 +28702,21 @@
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amentum",
+        "id": "282b56ea-9e2e-4e52-abec-d5f9c837df56",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1745964003,
+        "date_posted": 1745964003,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0138503",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
