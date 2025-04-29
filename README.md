@@ -72,8 +72,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[FactSet](https://simplify.jobs/c/070f3806-d132-4f78-8320-b7048399142c)** | Software Engineer I | London, UK | <a href="https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/London-GBR/Software-Engineer-I_R27132?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/48b6fb36-0b83-47e0-aea7-66f9589cf797?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 25 |
 | **Comcast** | Engineer 1 - Software Development & Engineering | Mt Laurel Township, NJ | 🔒 | Apr 25 |
 | **Medtronic** | Software Engineer I | LA | 🔒 | Apr 25 |
-| **[Chewy](https://simplify.jobs/c/Chewy)** | Data Engineer I | Plantation, FL | <a href="https://boards.greenhouse.io/embed/job_app?token=6821292&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d826bed1-eae3-48f5-ae2d-e529038c0886?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 25 |
-| **[Chewy](https://simplify.jobs/c/Chewy)** | Data Engineer I | Bellevue, WA | <a href="https://boards.greenhouse.io/embed/job_app?token=6818854&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/26fd1f94-bc62-46f4-a1e0-a3523e722709?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 25 |
+| **Chewy** | Data Engineer I | Plantation, FL | 🔒 | Apr 25 |
+| **Chewy** | Data Engineer I | Bellevue, WA | 🔒 | Apr 25 |
 | **Comcast** | Engineer 1 - Software Development & Engineering | Philadelphia, PA</br>Cherry Hills Village, CO | 🔒 | Apr 24 |
 | **TSC** | Software Engineer I | Silver Spring, MD | 🔒 | Apr 24 |
 | **Blue Yonder** | Software Engineer 1 | Dallas, TX | 🔒 | Apr 24 |
