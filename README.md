@@ -37,7 +37,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 - 🛂 - Does NOT offer sponsorship
 - 🇺🇸 - Requires U.S. Citizenship
-- 🔒 - Internship application is closed
+- 🔒 - Job application is closed
 
 
 [⬇️ Jump to bottom ⬇️](https://github.com/SimplifyJobs/New-Grad-Positions#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
