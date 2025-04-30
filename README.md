@@ -79,7 +79,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Comcast** | Engineer 1 - Software Development & Engineering | Philadelphia, PA</br>Cherry Hills Village, CO | 🔒 | Apr 24 |
 | **TSC** | Software Engineer I | Silver Spring, MD | 🔒 | Apr 24 |
 | **Blue Yonder** | Software Engineer 1 | Dallas, TX | 🔒 | Apr 24 |
-| **[Aurora Innovation](https://simplify.jobs/c/Aurora-Innovation)** | Software Engineer I | Lafayette, CO | <a href="https://aurora.tech/jobs/7940570002?gh_jid=7940570002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/e62b6fa5-8e78-4b9b-9f39-9c1c3b065305?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 24 |
+| **Aurora Innovation** | Software Engineer I | Lafayette, CO | 🔒 | Apr 24 |
 | **[CACI](https://simplify.jobs/c/CACI)** | Fullstack Web Application Software Engineer – Entry Level | Rome, NY | <a href="https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rome/Fullstack-Web-Application-Software-Engineer---Entry-Level_310885-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/8f32dd67-120d-4650-9670-e86065ecbf08?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 24 |
 | **Leidos** | Research Data Engineer – Entry Level - Health Research | San Diego, CA | 🔒 | Apr 23 |
 | **Comcast** | Entry Level Software Engineer 1 | Chicago, IL</br>Reston, VA | 🔒 | Apr 23 |
