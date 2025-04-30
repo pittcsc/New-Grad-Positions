@@ -28718,5 +28718,21 @@
         "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Aurora Innovation",
+        "id": "581e49ab-e0ed-4410-b652-d936cc25dfc4",
+        "title": "Software Engineer I - Visualization",
+        "active": true,
+        "date_updated": 1746013880,
+        "date_posted": 1744718559,
+        "url": "https://aurora.tech/jobs/7901988002?gh_jid=7901988002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
