@@ -73,7 +73,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Wex** | Software Engineer 1 | Portland, ME | 🔒 | Apr 25 |
 | **[FactSet](https://simplify.jobs/c/070f3806-d132-4f78-8320-b7048399142c)** | Software Engineer I | London, UK | <a href="https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/London-GBR/Software-Engineer-I_R27132?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/48b6fb36-0b83-47e0-aea7-66f9589cf797?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 25 |
 | **Comcast** | Engineer 1 - Software Development & Engineering | Mt Laurel Township, NJ | 🔒 | Apr 25 |
-| **[Medtronic](https://simplify.jobs/c/Medtronic)** | Software Engineer I | LA | <a href="https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Software-Engineer-I_R28604-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0753ef9e-a89a-4dbb-9155-d4428a16bd31?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 25 |
+| **Medtronic** | Software Engineer I | LA | 🔒 | Apr 25 |
 | **Chewy** | Data Engineer I | Plantation, FL | 🔒 | Apr 25 |
 | **Chewy** | Data Engineer I | Bellevue, WA | 🔒 | Apr 25 |
 | **Comcast** | Engineer 1 - Software Development & Engineering | Philadelphia, PA</br>Cherry Hills Village, CO | 🔒 | Apr 24 |
