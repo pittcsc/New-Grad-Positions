@@ -1,61 +1,44 @@
 # 2025 New Grad Positions by Coder Quad and Simplify
 
-Use this repo to share and keep track of entry-level software, tech, CS, PM, quant jobs for 2024 & 2025 new graduates.
-
-:warning: Please note that this repository is exclusively for roles in the United States, Canada, or Remote positions :earth_americas:
+Use this repo to share and keep track of entry-level software, tech, CS, PM, quant jobs for 2024 & 2025 new graduates. The list is updated and maintained daily by Coder Quad and [Simplify](https://simplify.jobs/)!
 
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
-> **Exciting Updates to this Repo! 🥳**
->
-> You might have noticed that the repo looks a little different 👀.
->
-> Coder Quad has teamed up with Simplify to maintain this repo, and we've made some exciting new changes!
->
-> - ⬆️ More Jobs! - A script automatically updates this repo with new jobs on Simplify.
-> - ✏️ Easier Contributions! - Submit an issue to add/edit a job. See [guidelines](./CONTRIBUTING.md).
-> - ✨ New Apply Options! - gray button is standard posting, blue is Simplify's one-click application.
 ---
+
+### Browse 527 New Grad Roles
+
+---
+
 <div align="center">
-	<h3>😮‍💨 Tired of checking every day for new Jobs? 😩</h3>
-	<p>
-			Check out ⬇️ <strong>SWE List</strong> ⬇️ that sends you email updates for this repo 
-			<br>
-			<div>
-			<a href="https://swelist.com">
-          <img src="https://i.imgur.com/u7xWcQi.png" width="400" alt="Email">
-        </a>
-			</div>
-		<sub><i>Share any other cool projects you make using the repo, and we might give you a shoutout!</i></sub>
-	</p>
+  <h3>😫 Hate retyping your resume for every application?</h3>
+  <p>
+    <strong><a href="https://simplify.jobs/install?utm_source=GHList&utm_medium=banner">Autofill all your applications in a single click</strong></p></a>
+  <a href="https://simplify.jobs/copilot?utm_source=GHList&utm_medium=banner">
+    <img src="https://camo.githubusercontent.com/3a63d32f598be7ad8f42418759e5cae72189725cc04579ab6f178dbd181a1d5d/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6470656f3478636e632f696d6167652f75706c6f61642f76313633363539343931382f73696d706c6966795f706974746373632e706e67" width="500" alt="Simplify Copilot Banner">
+  </a>
+  <p><sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill job applications on millions of sites.</i></sub></p>
 </div>
 
 ---
 
 <div align="center">
-	<p>
-		<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
-			<b>Applying to jobs?</b>
-			<br>
-			Autofill all your applications in a single click.
-			<br>
-			<div>
-				<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
-          <img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450" alt="Simplify">
-        </a>
-			</div>
-		</a>
-		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill job applications on millions of sites.</i></sub>
-	</p>
+  <h3>😮‍💨 Tired of checking every day for new roles?</h3>
+  <p>A community member made ⬇️ <a href="https://swelist.com"><strong>SWEList</strong></a> ⬇️ that sends email alerts for new roles in this repo.</p>
+  <a href="https://swelist.com">
+    <img src="https://i.imgur.com/u7xWcQi.png" width="400" alt="Email Updates">
+  </a>
+  <p><sub><i>Share any other cool projects you make using the repo, and we might give you a shoutout!</i></sub></p>
 </div>
 
 ---
 
-## The List 🚴🏔
+## Legend
 
- - 🛂 - Does NOT offer Sponsorship
- - 🇺🇸 - Requires U.S. Citizenship
- - 🔒 - Job application is closed
+- 🛂 - Does NOT offer sponsorship
+- 🇺🇸 - Requires U.S. Citizenship
+- 🔒 - Job application is closed
+
 
 [⬇️ Jump to bottom ⬇️](https://github.com/SimplifyJobs/New-Grad-Positions#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
