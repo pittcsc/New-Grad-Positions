@@ -28788,5 +28788,22 @@
         "company_url": "https://simplify.jobs/c/Intel",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tower Research Capital",
+        "id": "3024ecd6-2e55-431c-8c8f-d62ccd0e0e51",
+        "title": "New Grad C++ Software Engineer",
+        "active": true,
+        "date_updated": 1746141480,
+        "date_posted": 1746141480,
+        "url": "https://www.tower-research.com/open-positions/?gh_jid=6855851",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
