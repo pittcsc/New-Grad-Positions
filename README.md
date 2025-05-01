@@ -67,7 +67,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Amentum](https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company)** | Entry Level Software Engineer | Fredericksburg, VA</br>Dahlgren, VA | <a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0137457?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="49" alt="Apply"></a> <a href="https://simplify.jobs/p/87412b60-cd73-41b0-b564-d0b72beb9220?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a> | 21d |
 | ↳ | Entry Level Software Engineer | Fredericksburg, VA</br>Dahlgren, VA | <a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0137459-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="49" alt="Apply"></a> <a href="https://simplify.jobs/p/554ac366-a90e-4c93-89b3-46ab00e61f8e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a> | 21d |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Developer – Entry level | Lawton, OK | <a href="https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Sill-OK/Software-Developer---Entry-level_R-00157004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="49" alt="Apply"></a> <a href="https://simplify.jobs/p/b822dcba-22e1-4fe0-a203-3223020140ab?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a> | 22d |
-| **[Esri](https://simplify.jobs/c/Esri?utm_source=GHList&utm_medium=company)** | Software Development Engineer I | Vienna, VA | <a href="https://www.esri.com/careers/4698791007?gh_jid=4698791007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="49" alt="Apply"></a> <a href="https://simplify.jobs/p/a0f6d030-3ca4-45fc-ae9d-6d0ab718cd72?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a> | 26d |
 | **[Sev1Tech](https://simplify.jobs/c/Sev1Tech?utm_source=GHList&utm_medium=company)** | Software Developer – Entry Level | United States | <a href="https://careers-sev1tech.icims.com/jobs/8778/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="49" alt="Apply"></a> <a href="https://simplify.jobs/p/b21ffbbd-f7a4-46fb-b07f-567504ac99dc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a> | 26d |
 | **[Sev1Tech](https://simplify.jobs/c/Sev1Tech?utm_source=GHList&utm_medium=company)** | Software Developer – Entry Level | United States | <a href="https://careers-sev1tech.icims.com/jobs/8763/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="49" alt="Apply"></a> <a href="https://simplify.jobs/p/064c38df-95e2-4461-a241-32dda71e01c3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a> | 28d |
 | **[Splunk](https://simplify.jobs/c/Splunk?utm_source=GHList&utm_medium=company)** | Fedramp Software Engineer – Early Career | Colorado</br>North Carolina | <a href="https://jobs.jobvite.com/splunk-careers/job/ozXHvfws?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="49" alt="Apply"></a> <a href="https://simplify.jobs/p/48b6fe61-fbcb-4e57-9576-4bf7c8b19a0a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a> | 1mo |
@@ -193,6 +192,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Embedded Software Engineer I | Cedar Rapids, IA | 🔒 | 26d |
 | **[Gentex Corporation](https://simplify.jobs/c/Gentex-Corporation?utm_source=GHList&utm_medium=company)** | Software Engineer I | Holland, MI | 🔒 | 26d |
 | **[Esri](https://simplify.jobs/c/Esri?utm_source=GHList&utm_medium=company)** | Software Development Engineer I | St. Louis, MO | 🔒 | 26d |
+| ↳ | Software Development Engineer I | Vienna, VA | 🔒 | 26d |
 | **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I | Toronto, ON, Canada | 🔒 | 26d |
 | **[Comcast](https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company)** | Engineer 1 - Software Development & Engineering | Philadelphia, PA | 🔒 | 27d |
 | **[World Kinect](https://simplify.jobs/c/World-Kinect?utm_source=GHList&utm_medium=company)** | IT Software Engineer I | Miami, FL | 🔒 | 27d |
@@ -297,7 +297,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Software Engineer I | Marlborough, MA | 🔒 | 1mo |
 | **[Cox](https://simplify.jobs/c/Cox?utm_source=GHList&utm_medium=company)** | Software Engineer I | Atlanta, GA | 🔒 | 1mo |
 | **[Sierra Nevada Coporation](https://simplify.jobs/c/Sierra-Nevada-Coporation?utm_source=GHList&utm_medium=company)** | Software Engineer I | Lone Tree, CO | 🔒 | 1mo |
-| **[Sierra Nevada Coporation](https://simplify.jobs/c/Sierra-Nevada-Coporation?utm_source=GHList&utm_medium=company)** | Software Engineer I | Lone Tree, CO | 🔒 | 1mo |
+| ↳ | Software Engineer I | Lone Tree, CO | 🔒 | 1mo |
 | ↳ | Software Engineer I | Lone Tree, CO | 🔒 | 1mo |
 | ↳ | Software Engineer I - Test | Reston, VA | 🔒 | 1mo |
 | **[Apple](https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company)** | Software Development Engineer in Test – Early Career - Retail Engineering |  | 🔒 | 2mo |
@@ -403,7 +403,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Nominal](https://simplify.jobs/c/Nominal?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad | NYC | 🔒 | 3mo |
 | **[FICO](https://simplify.jobs/c/c0d581f7-6346-4205-96a6-0fb804352421?utm_source=GHList&utm_medium=company)** | Software Engineering - Engineer I | Birmingham, UK | 🔒 | 3mo |
 | **[Wiley Edge](https://simplify.jobs/c/WileyEdge?utm_source=GHList&utm_medium=company)** | Junior Software Engineer | United States | 🔒 | 3mo |
-| ↳ | Junior Software Engineer | NYC | 🔒 | 3mo |
+| **[Wiley Edge](https://simplify.jobs/c/WileyEdge?utm_source=GHList&utm_medium=company)** | Junior Software Engineer | NYC | 🔒 | 3mo |
 | **[Snorkel AI](https://simplify.jobs/c/Snorkel-AI?utm_source=GHList&utm_medium=company)** | Software Engineer – Recent University Graduate | San Carlos, CA | 🔒 | 3mo |
 | **[Wiley Edge](https://simplify.jobs/c/WileyEdge?utm_source=GHList&utm_medium=company)** | Mthree – Junior Software Developer | United Kingdom | 🔒 | 3mo |
 | **[GitHub](https://simplify.jobs/c/GitHub?utm_source=GHList&utm_medium=company)** | Software Engineer I - Copilot Agent Services | Remote in UK | 🔒 | 3mo |
@@ -443,7 +443,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Affirm](https://simplify.jobs/c/Affirm?utm_source=GHList&utm_medium=company)** | Software Engineer I - Contact Experience - Fullstack | Remote in Canada | 🔒 | 4mo |
 | **[Adobe](https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company)** | University Graduate - Software Engineer | SF</br>San Jose, CA | 🔒 | 4mo |
 | **[Parsons](https://simplify.jobs/c/Parsons?utm_source=GHList&utm_medium=company)** | Software Engineer 1 | Odenton, MD | 🔒 | 4mo |
-| **[Spotify](https://simplify.jobs/c/Spotify?utm_source=GHList&utm_medium=company)** | Data Engineer I - Licensing | Remote in USA | 🔒 | 4mo |
+| **[Spotify](https://simplify.jobs/c/Spotify?utm_source=GHList&utm_medium=company)** | Data Engineer I - Licensing | Remote in USA | 🔒 | 5mo |
 | **[PDI Technologies](https://simplify.jobs/c/c202599e-d952-4aab-a921-e4ecf64a1dea?utm_source=GHList&utm_medium=company)** | Software Engineer I | Maidenhead, UK | 🔒 | 5mo |
 | ↳ | Software Engineer I | Maidenhead, UK | 🔒 | 5mo |
 | **[Okta](https://simplify.jobs/c/Okta?utm_source=GHList&utm_medium=company)** | Software Engineer – New Graduate - Android - Okta Personal | Toronto, ON, Canada | 🔒 | 5mo |
