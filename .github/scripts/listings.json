@@ -28750,5 +28750,21 @@
         "company_url": "https://simplify.jobs/c/RAPP",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anaplan",
+        "id": "7b4b2639-ee5a-4055-89d7-8aa2025fa07e",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1746134625,
+        "date_posted": 1746134625,
+        "url": "https://job-boards.greenhouse.io/anaplan/jobs/7978206002",
+        "locations": [
+            "York, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Anaplan",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
