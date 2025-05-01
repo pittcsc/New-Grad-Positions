@@ -28734,5 +28734,21 @@
         "company_url": "https://simplify.jobs/c/Aurora-Innovation",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RAPP",
+        "id": "03e306f8-5132-4875-8d44-9e9b69cdfa58",
+        "title": "Junior Data Scientist",
+        "active": true,
+        "date_updated": 1746117310,
+        "date_posted": 1746117310,
+        "url": "https://job-boards.greenhouse.io/rapp/jobs/6842589",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/RAPP",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
