@@ -28822,5 +28822,22 @@
         "company_url": "https://simplify.jobs/c/Boeing",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Yahoo",
+        "id": "7016a5af-0041-49f1-92fe-5b86052df035",
+        "title": "Big Data Tools Engineer - Software Dev Engineer I",
+        "active": true,
+        "date_updated": 1746154749,
+        "date_posted": 1746154749,
+        "url": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Big-Data-Tools-Engineer---Software-Dev-Engineer-I_JR0025664",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Yahoo",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
