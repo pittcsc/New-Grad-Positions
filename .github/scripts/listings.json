@@ -28839,5 +28839,22 @@
         "company_url": "https://simplify.jobs/c/Yahoo",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "c37d7095-5f96-4ee1-93b1-f8851c764bc1",
+        "title": "Software Engineer I - AI Assistant Framework - Arcgis Enterprise",
+        "active": true,
+        "date_updated": 1746224103,
+        "date_posted": 1746224103,
+        "url": "https://www.esri.com/careers/4714185007?gh_jid=4714185007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
