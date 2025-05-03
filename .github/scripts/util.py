@@ -250,10 +250,6 @@ def embedTable(listings):
                 newText += "\n---\n\n"
                 # Add tables for each category
                 for category_info in CATEGORIES.values():
-                    if category_info["name"] == "Software Engineering":
-                        newText += create_category_table(listings, category_info["name"])
-                        # Add the blockquote after Software Engineering section
-                    else:
                         newText += create_category_table(listings, category_info["name"])
                 newText += "\n"
                 table_section_replaced = True
