@@ -121,6 +121,7 @@ def create_md_table(listings):
 
     return table
     
+
 def filterListings(listings, earliest_date):
     final_listings = []
     inclusion_terms = ["software eng", "software dev", "data scientist", "data engineer", "founding eng", "research eng", "product manage", "apm", "frontend", "front end", "front-end", "backend", "back end", "full-stack", "full stack", "full-stack", "devops", "android", "ios", "mobile dev", "sre", "site reliability eng", "quantitative trad", "quantitative research", "quantitative trad", "quantitative dev", "security eng", "compiler eng", "machine learning eng", "hardware eng", "firmware eng", "infrastructure eng"]
