@@ -967,4 +967,4 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
-[⬆️ Back to Top ⬆️](https://github.com/SimplifyJobs/New-Grad-Positions#2025-new-grad-positions-by-coder-quad-and-simplify)commit_message=Updating README at May 02, 2025 18:09:12
+[⬆️ Back to Top ⬆️](https://github.com/SimplifyJobs/New-Grad-Positions#2025-new-grad-positions-by-coder-quad-and-simplify)
