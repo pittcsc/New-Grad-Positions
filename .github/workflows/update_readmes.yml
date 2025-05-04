@@ -43,8 +43,9 @@ jobs:
           git config --local user.email action@github.com
           git config --local user.name 'Github Action'
           git add README.md
-          git diff-index --quiet HEAD || (git commit -a -m "${{ steps.python_script.outputs.commit_message }}" --allow-empty)
-
+          git diff-index --quiet HEAD || \
+            git commit -a -m "${{ steps.final_commit_message.outputs.message }}" --allow-empty
+      
       - name: push changes
         if: success()
         uses: ad-m/github-push-action@v0.6.0
