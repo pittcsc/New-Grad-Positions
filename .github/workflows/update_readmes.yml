@@ -28,6 +28,15 @@ jobs:
         id: python_script
         run: python .github/scripts/update_readmes.py
 
+      - name: Set commit message (with fallback)
+        id: final_commit_message
+        run: |
+          msg="${{ steps.python_script.outputs.commit_message }}"
+          if [ -z "$msg" ]; then
+            msg="Auto commit: update README"
+          fi
+          echo "message=$msg" >> "$GITHUB_OUTPUT"
+
       - name: commit files
         if: success()
         run: |
