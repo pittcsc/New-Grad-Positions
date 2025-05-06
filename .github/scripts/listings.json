@@ -24773,5 +24773,22 @@
         "company_url": "https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Muon Space",
+        "id": "99c62b8d-9ee6-42f6-9bba-8186eaf23720",
+        "title": "Electrical Hardware Engineer \u2013 New Grad/Early Career",
+        "active": true,
+        "date_updated": 1746488813,
+        "date_posted": 1745999712,
+        "url": "https://job-boards.greenhouse.io/muonspace/jobs/4701745007",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/MuonSpace",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
