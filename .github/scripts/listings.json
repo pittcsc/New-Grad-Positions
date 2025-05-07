@@ -16595,7 +16595,7 @@
         "company_name": "Sprocket Security",
         "id": "b0ecff71-3064-421c-9ee3-b663c1cc5f60",
         "title": "Software Engineer - Early Careers",
-        "active": true,
+        "active": false,
         "date_updated": 1727320504,
         "date_posted": 1727320504,
         "url": "https://www.sprocketsecurity.com/company/careers/apply?gh_jid=4133296008",
@@ -21500,7 +21500,7 @@
         "company_name": "Splunk",
         "id": "907fad13-9965-49f6-b379-785141633097",
         "title": "Software Engineer - Frontend - Early in Career",
-        "active": false,
+        "active": true,
         "date_updated": 1741233283,
         "date_posted": 1741233283,
         "url": "https://jobs.jobvite.com/splunk-careers/job/oVYzvfwH?nl=1&nl=1&fr=false",
@@ -24204,7 +24204,7 @@
         "company_name": "Curtiss-Wright Corporation",
         "id": "0ac44fa3-4d8a-4242-bacc-4690d61dfb7a",
         "title": "Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1745412218,
         "date_posted": 1740429670,
         "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/Canada-Ottawa/Software-Developer-Onsite-Position---Ottawa--ON_JR7616",
@@ -24806,6 +24806,23 @@
             "Philadelphia, PA"
         ],
         "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Medtronic",
+        "id": "308fb443-554b-4b18-b5d5-56450e3432dc",
+        "title": "Software Engineer I - CRM",
+        "active": true,
+        "date_updated": 1746572078,
+        "date_posted": 1746572078,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Engineer-I---CRM_R29355",
+        "locations": [
+            "Blaine, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
         "is_visible": true,
         "sponsorship": "Other"
     }
