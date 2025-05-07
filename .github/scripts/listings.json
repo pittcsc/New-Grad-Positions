@@ -24825,5 +24825,22 @@
         "company_url": "https://simplify.jobs/c/Medtronic",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Iridium Communications",
+        "id": "9e8d8f00-a18c-4471-b416-da5304aa6c4f",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1746644336,
+        "date_posted": 1746644336,
+        "url": "https://careers-iridium.icims.com/jobs/4452/job",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Iridium-Communications",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
