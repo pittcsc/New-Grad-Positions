@@ -24876,5 +24876,22 @@
         "company_url": "https://simplify.jobs/c/Twitch",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "6826025f-bf5a-4e22-8d8e-643162b110b2",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1746698720,
+        "date_posted": 1746492363,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/MOUNT-ROYAL-Montreal/Software-Engineer-II_R49481",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
