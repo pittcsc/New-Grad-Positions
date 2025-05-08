@@ -24859,5 +24859,22 @@
         "company_url": "https://simplify.jobs/c/Higher-Logic",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Twitch",
+        "id": "767992a1-765b-4763-ab83-e71f60b64e0d",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1746675087,
+        "date_posted": 1746675087,
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/7982361002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Twitch",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
