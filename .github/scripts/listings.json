@@ -24962,5 +24962,22 @@
         "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nutanix",
+        "id": "919244a4-4961-4cab-9622-bfdb974e4a18",
+        "title": "Software Engineer 1/Early Career",
+        "active": true,
+        "date_updated": 1746778219,
+        "date_posted": 1746778219,
+        "url": "https://jobs.jobvite.com/nutanix/job/oPR2vfwX?nl=1&nl=1&fr=false",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
