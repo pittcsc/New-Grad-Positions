@@ -11851,22 +11851,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "DRW",
-        "id": "e26b6aae-8812-482b-a0f5-bc9b1fd3649c",
-        "title": "Software Engineer - Cumberland/FICCO Desk Tools",
-        "active": false,
-        "date_updated": 1716232352,
-        "date_posted": 1715728447,
-        "url": "https://boards.greenhouse.io/drweng/jobs/5966609",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/DRW",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Picogrid",
         "id": "bf1a1ba6-730d-4296-8067-22ca5726bd19",
         "title": "Deployment Strategist",
