@@ -11734,23 +11734,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Home Solutions",
-        "id": "a3fe60af-37d4-4acc-a67c-cfe2c14b7d89",
-        "title": "Data Engineer",
-        "active": false,
-        "date_updated": 1717636151,
-        "date_posted": 1715711310,
-        "url": "https://boards.greenhouse.io/homesolutions/jobs/4420182005",
-        "locations": [
-            "Raleigh, NC",
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Home-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DigitalOcean",
         "id": "4fa9f81a-d5ae-41eb-af4d-a64c990db8be",
         "title": "Capacity Planner II - Data Collection",
@@ -12023,22 +12006,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/DV-Trading",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Anduril",
-        "id": "f371198d-4c88-416a-81db-82715affb66c",
-        "title": "Firmware Engineer",
-        "active": false,
-        "date_updated": 1715711223,
-        "date_posted": 1715711223,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4290132007",
-        "locations": [
-            "Newport Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Anduril",
         "is_visible": true,
         "sponsorship": "Other"
     },
