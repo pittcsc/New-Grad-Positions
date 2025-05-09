@@ -1,38 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Marqeta",
-        "id": "6fd99322-df46-4f61-a19c-ef0de35bce1f",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1715728529,
-        "date_posted": 1715728529,
-        "url": "https://boards.greenhouse.io/marqeta/jobs/5962969",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Marqeta",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Marqeta",
-        "id": "5b6ad8c5-7599-44da-9416-2c1bc50611c4",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1715728528,
-        "date_posted": 1715728528,
-        "url": "https://boards.greenhouse.io/marqeta/jobs/5932297",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Marqeta",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Arsiem Corporation",
         "id": "ed8c22bb-d7b9-43cb-9e11-3480ac5b5d98",
         "title": "Software Engineer 1",
@@ -11878,22 +11846,6 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Klaviyo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Chainlink",
-        "id": "4ac3e3d4-082a-468e-9653-c8680f2a741d",
-        "title": "Research Engineer",
-        "active": false,
-        "date_updated": 1715729001,
-        "date_posted": 1715729001,
-        "url": "https://jobs.lever.co/chainlink/53bbb447-181c-472f-b900-6d3550d95b70/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Chainlink",
         "is_visible": true,
         "sponsorship": "Other"
     },
