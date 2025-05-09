@@ -148,7 +148,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[TSC](https://simplify.jobs/c/3d3125df-3bbc-48fc-993c-8e2d0db65649?utm_source=GHList&utm_medium=company)** | Software Engineer I | Silver Spring, MD | 🔒 | 15d |
 | **[Blue Yonder](https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05?utm_source=GHList&utm_medium=company)** | Software Engineer 1 | Dallas, TX | 🔒 | 15d |
 | **[Aurora Innovation](https://simplify.jobs/c/Aurora-Innovation?utm_source=GHList&utm_medium=company)** | Software Engineer I | Lafayette, CO | 🔒 | 15d |
-| **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Research Data Engineer – Entry Level - Health Research | San Diego, CA | 🔒 | 15d |
+| **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Research Data Engineer – Entry Level - Health Research | San Diego, CA | 🔒 | 16d |
 | **[Comcast](https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company)** | Entry Level Software Engineer 1 | Chicago, IL</br>Reston, VA | 🔒 | 16d |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Developer – Entry level | Lawton, OK | 🔒 | 16d |
 | **[Comcast](https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company)** | Engineer 1 - Software Development & Engineering | Philadelphia, PA | 🔒 | 16d |
@@ -273,7 +273,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Mintel](https://simplify.jobs/c/d12e128c-67fc-4f21-b1de-d239e884bafa?utm_source=GHList&utm_medium=company)** | Software Engineer I | Chicago, IL | 🔒 | 1mo |
 | **[Onto Innovation](https://simplify.jobs/c/Onto-Innovation?utm_source=GHList&utm_medium=company)** | Software Engineer 1 | Milpitas, CA | 🔒 | 1mo |
 | **[Mastercard](https://simplify.jobs/c/Mastercard?utm_source=GHList&utm_medium=company)** | Data Engineer I | O'Fallon, MO | 🔒 | 1mo |
-| **[Cox](https://simplify.jobs/c/Cox?utm_source=GHList&utm_medium=company)** | Software Engineer I | Austin, TX | 🔒 | 1mo |
+| **[Cox](https://simplify.jobs/c/Cox?utm_source=GHList&utm_medium=company)** | Software Engineer I | Austin, TX | 🔒 | 2mo |
 | **[Dagster Labs](https://simplify.jobs/c/Dagster-Labs?utm_source=GHList&utm_medium=company)** | Software Engineer – University Grad | SF</br>NYC</br>Minneapolis, MN | 🔒 | 2mo |
 | **[Amentum](https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company)** | Entry Level Software Engineer | Fredericksburg, VA | 🔒 | 2mo |
 | ↳ | Entry Level Software Engineer | Fredericksburg, VA | 🔒 | 2mo |
@@ -574,7 +574,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Amazon](https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company)** | Software Dev Engineer I - Redshift | Toronto, ON, Canada</br>Vancouver, BC, Canada | 🔒 | 6mo |
 | **[Telnyx](https://simplify.jobs/c/Telnyx?utm_source=GHList&utm_medium=company)** | Junior Software Engineer - Python - Remote | Remote in USA | 🔒 | 6mo |
 | **[Amazon](https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company)** | 2025 Graduate Software Dev Engineer | London, UK</br>Edinburgh, UK</br>Cambridge, UK | 🔒 | 6mo |
-| **[Horace Mann](https://simplify.jobs/c/727e9c32-2e2f-4325-819c-ef2ee50dffdb?utm_source=GHList&utm_medium=company)** | Software Engineer I | Springfield, IL | 🔒 | 6mo |
+| **[Horace Mann](https://simplify.jobs/c/727e9c32-2e2f-4325-819c-ef2ee50dffdb?utm_source=GHList&utm_medium=company)** | Software Engineer I | Springfield, IL | 🔒 | 7mo |
 | **[Visa](https://simplify.jobs/c/Visa?utm_source=GHList&utm_medium=company)** | Data Engineer – New College Grad | Austin, TX | 🔒 | 7mo |
 | ↳ | Software Engineer – New College Grad - 2025 | Bellevue, WA | 🔒 | 7mo |
 | ↳ | Software Engineer – New College Grad - 2025 🛂 | Austin, TX | 🔒 | 7mo |
@@ -621,7 +621,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[The Walt Disney Company](https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company)** | Software Engineer I | Seattle, WA | 🔒 | 7mo |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Compiler Engineer – New College Grad 2024 - LLVM | Austin, TX</br>Redmond, WA</br>Santa Clara, CA | 🔒 | 7mo |
 | **[Wyetech](https://simplify.jobs/c/Wyetech-LLC?utm_source=GHList&utm_medium=company)** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | 7mo |
-| **[Wyetech](https://simplify.jobs/c/Wyetech-LLC?utm_source=GHList&utm_medium=company)** | Software Engineer 1 - Telework | Annapolis Junction, MD | 🔒 | 7mo |
+| ↳ | Software Engineer 1 - Telework | Annapolis Junction, MD | 🔒 | 7mo |
 | ↳ | Software Engineer 0 | Annapolis Junction, MD | 🔒 | 7mo |
 | **[Nominal](https://simplify.jobs/c/Nominal?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad | Austin, TX | 🔒 | 7mo |
 | ↳ | Software Engineer – New Grad 🇺🇸 | LA | 🔒 | 7mo |
@@ -649,8 +649,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Uber](https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company)** | 2024 Graduate Software Engineer I - United States | SF | 🔒 | 7mo |
 | **[Wyetech LLC](https://simplify.jobs/c/Wyetech-LLC?utm_source=GHList&utm_medium=company)** | Software Engineer 1 - Telework Available | Annapolis Junction, MD | 🔒 | 7mo |
 | **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I - Palo Alto | Palo Alto, CA | 🔒 | 7mo |
-| **[Chime](https://simplify.jobs/c/Chime?utm_source=GHList&utm_medium=company)** | Software Engineer-New Grad - For Fall 2024 Event Attendees | SF | 🔒 | 7mo |
-| **[Alto Pharmacy](https://simplify.jobs/c/Alto?utm_source=GHList&utm_medium=company)** | Early Career Software Engineer 🛂 | Remote in USA | 🔒 | 7mo |
+| **[Chime](https://simplify.jobs/c/Chime?utm_source=GHList&utm_medium=company)** | Software Engineer-New Grad - For Fall 2024 Event Attendees | SF | 🔒 | 8mo |
+| **[Alto Pharmacy](https://simplify.jobs/c/Alto?utm_source=GHList&utm_medium=company)** | Early Career Software Engineer 🛂 | Remote in USA | 🔒 | 8mo |
 | **[KLA](https://simplify.jobs/c/KLA?utm_source=GHList&utm_medium=company)** | Software Engineer – New College Grad | Milpitas, CA | 🔒 | 8mo |
 | **[Adobe](https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company)** | Software Engineer - University Graduate 2025 | New York, NY | 🔒 | 8mo |
 | **[Wiley Edge](https://simplify.jobs/c/WileyEdge?utm_source=GHList&utm_medium=company)** | Junior Software Engineer - Open to relocation - Sheffield - Birmingham - Bournemouth - Newcastle & Glasgow | <details><summary>**5 locations**</summary>Christchurch, UK</br>Newcastle upon Tyne, UK</br>Birmingham, UK</br>Sheffield, UK</br>Glasgow, UK</details> | 🔒 | 8mo |
@@ -739,7 +739,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | ↳ | New Grad 2025: Software Engineer - Frontend | New York City, New York | 🔒 | 8mo |
 | **[Codeium](https://simplify.jobs/c/5db7086b-b6ff-42a7-8f16-5967451d29bf?utm_source=GHList&utm_medium=company)** | AI Product Engineer (New Grad) | Mountain VIew, CA | 🔒 | 8mo |
 | **[Radiant](https://simplify.jobs/c/Radiant?utm_source=GHList&utm_medium=company)** | Software Engineer – New Graduates | El Segundo, CA | 🔒 | 8mo |
-| **[Whoop](https://simplify.jobs/c/Whoop?utm_source=GHList&utm_medium=company)** | Software Engineer I - Backend - Personalization & Progress | Boston, MA | 🔒 | 8mo |
+| **[Whoop](https://simplify.jobs/c/Whoop?utm_source=GHList&utm_medium=company)** | Software Engineer I - Backend - Personalization & Progress | Boston, MA | 🔒 | 9mo |
 | **[Belvedere Trading](https://simplify.jobs/c/Belvedere-Trading?utm_source=GHList&utm_medium=company)** | Software Engineer – Entry Level 2025 | Chicago, IL | 🔒 | 9mo |
 | **[Konrad Group](https://simplify.jobs/c/Konrad-Group?utm_source=GHList&utm_medium=company)** | Software Developer – Entry Level | Remote in UK | 🔒 | 9mo |
 | ↳ | Mobile Developer – Entry Level | Remote in UK | 🔒 | 9mo |
@@ -776,10 +776,10 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Grand Rounds](https://simplify.jobs/c/Grand-Rounds?utm_source=GHList&utm_medium=company)** | Software Engineer I - Orchestration Platform - Canada | Remote in Canada | 🔒 | 9mo |
 | **[IXL Learning](https://simplify.jobs/c/IXL-Learning?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad | Raleigh, NC | 🔒 | 9mo |
 | ↳ | Software Engineer – New Grad | San Mateo, CA | 🔒 | 9mo |
-| **[minware](https://simplify.jobs/c/Minware?utm_source=GHList&utm_medium=company)** | Junior Front End Engineer | Remote in USA | 🔒 | 9mo |
-| ↳ | Junior Front End Engineer | Remote in USA | 🔒 | 9mo |
-| ↳ | Junior Front End Engineer | Remote in USA | 🔒 | 9mo |
-| ↳ | Junior Front End Engineer | Remote in USA | 🔒 | 9mo |
+| **[minware](https://simplify.jobs/c/Minware?utm_source=GHList&utm_medium=company)** | Junior Front End Engineer | Remote in USA | 🔒 | 10mo |
+| ↳ | Junior Front End Engineer | Remote in USA | 🔒 | 10mo |
+| ↳ | Junior Front End Engineer | Remote in USA | 🔒 | 10mo |
+| ↳ | Junior Front End Engineer | Remote in USA | 🔒 | 10mo |
 | **[OpenGov](https://simplify.jobs/c/OpenGov?utm_source=GHList&utm_medium=company)** | Software Engineer I - Rev | Atlanta, GA | 🔒 | 10mo |
 | ElectronX | New Grad: Software Engineer | New York, NY</br>Chicago, IL | 🔒 | 10mo |
 | **[Square](https://simplify.jobs/c/Square?utm_source=GHList&utm_medium=company)** | Junior Software Engineer - Android - Mobile Developer Experience | SF</br>Remote in USA | 🔒 | 10mo |
@@ -838,8 +838,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Arsiem Corporation](https://simplify.jobs/c/Arsiem-Corporation?utm_source=GHList&utm_medium=company)** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | 11mo |
 | **[Veeva Systems](https://simplify.jobs/c/Veeva-Systems?utm_source=GHList&utm_medium=company)** | Associate Software Engineer – Seeking 2024 Grads | Toronto, ON, Canada | 🔒 | 11mo |
 | **[Arsiem Corporation](https://simplify.jobs/c/Arsiem-Corporation?utm_source=GHList&utm_medium=company)** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | 11mo |
-| **[Marqeta](https://simplify.jobs/c/Marqeta?utm_source=GHList&utm_medium=company)** | Software Engineer I | Vancouver, BC, Canada | 🔒 | 11mo |
-| ↳ | Software Engineer I | Toronto, ON, Canada | 🔒 | 11mo |
+| **[Marqeta](https://simplify.jobs/c/Marqeta?utm_source=GHList&utm_medium=company)** | Software Engineer I | Vancouver, BC, Canada | 🔒 | 12mo |
+| ↳ | Software Engineer I | Toronto, ON, Canada | 🔒 | 12mo |
 
 
 </details>
@@ -956,8 +956,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
 | **[Medtronic](https://simplify.jobs/c/Medtronic?utm_source=GHList&utm_medium=company)** | Software Engineer I - CRM | Blaine, MN | 🔒 | 3d |
-| **[The Boeing Company](https://simplify.jobs/c/Boeing?utm_source=GHList&utm_medium=company)** | Entry Level Embedded Software Engineers | Hazelwood, MO | 🔒 | 6d |
-| **[The Boeing Company](https://simplify.jobs/c/Boeing?utm_source=GHList&utm_medium=company)** | Entry Level Flight Simulation Software Engineer | Hazelwood, MO | 🔒 | 7d |
+| **[The Boeing Company](https://simplify.jobs/c/Boeing?utm_source=GHList&utm_medium=company)** | Entry Level Embedded Software Engineers | Hazelwood, MO | 🔒 | 7d |
+| ↳ | Entry Level Flight Simulation Software Engineer | Hazelwood, MO | 🔒 | 7d |
 | **[Intel](https://simplify.jobs/c/Intel?utm_source=GHList&utm_medium=company)** | Silicon Hardware Engineering – College Graduate - Bachelors | <details><summary>**6 locations**</summary>Austin, TX</br>Santa Clara, CA</br>Hillsboro, OR</br>Folsom, CA</br>Worcester, MA</br>Phoenix, AZ</details> | 🔒 | 17d |
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Embedded Software Engineer I | Cedar Rapids, IA | 🔒 | 1mo |
 | **[Apple](https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company)** | Junior Embedded Software Engineer | San Diego, CA | 🔒 | 2mo |
@@ -1014,3 +1014,4 @@ commit_message=Updating README at May 09, 2025 18:30:29
 commit_message=Updating README at May 09, 2025 20:15:27
 commit_message=Updating README at May 09, 2025 21:45:29
 commit_message=Updating README at May 09, 2025 23:00:30
+commit_message=Updating README at May 09, 2025 23:15:30
