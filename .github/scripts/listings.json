@@ -24950,5 +24950,22 @@
         "company_url": "https://simplify.jobs/c/Salesforce",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Daimler Truck",
+        "id": "b874fc6e-6bfe-414c-8063-b014f2ac59e5",
+        "title": "Embedded Software Engineer I",
+        "active": true,
+        "date_updated": 1746831197,
+        "date_posted": 1746831197,
+        "url": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Embedded-Software-Engineer-I_DT-11839-2",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Daimler-Truck",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
