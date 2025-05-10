@@ -24903,5 +24903,22 @@
         "company_url": "https://simplify.jobs/c/Daimler-Truck",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "7fb9cfc6-2b8c-4a41-9b3c-ea60476f4436",
+        "title": "Electro-Optics Hardware Engineer New Grad",
+        "active": true,
+        "date_updated": 1746838619,
+        "date_posted": 1746838619,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electro-Optics-Hardware-Engineer-New-Grad_R027951",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
