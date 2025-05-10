@@ -2,22 +2,6 @@
     {
         "source": "Simplify",
         "company_name": "Arsiem Corporation",
-        "id": "ed8c22bb-d7b9-43cb-9e11-3480ac5b5d98",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1715815039,
-        "date_posted": 1715815039,
-        "url": "https://jobs.lever.co/arsiem/f94bf15a-2979-4326-ad2e-d0c510ef9694/apply",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Arsiem Corporation",
         "id": "44df3bb7-a0b4-4674-afd4-e46c43231db3",
         "title": "Software Engineer 1",
         "active": false,
@@ -1028,22 +1012,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Lucid",
-        "id": "8215b2bb-30ad-4ea4-a275-4083d45a4dfb",
-        "title": "Analytics Engineer",
-        "active": false,
-        "date_updated": 1715815085,
-        "date_posted": 1715815085,
-        "url": "https://boards.greenhouse.io/lucidsoftware/jobs/5179646004",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Lucid",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Latitude AI",
         "id": "bc84cc2c-c5d6-415c-819a-2241ea996e93",
         "title": "GIS Production Analyst - Contractor",
@@ -1055,22 +1023,6 @@
             "Pittsburgh, PA"
         ],
         "company_url": "https://simplify.jobs/c/LatitudeAI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Veeva Systems",
-        "id": "3f29d010-cc7e-46d3-809a-80b161151483",
-        "title": "Associate Software Engineer \u2013 Seeking 2024 Grads",
-        "active": false,
-        "date_updated": 1715815470,
-        "date_posted": 1715815470,
-        "url": "https://jobs.lever.co/veeva/f235ed8b-0972-4248-9d57-2d500aa094f5/apply",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Veeva-Systems",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -1151,38 +1103,6 @@
             "Hollywood, LA"
         ],
         "company_url": "https://simplify.jobs/c/Match-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Alarm.com",
-        "id": "5c5c09b7-6984-46ab-aba3-70db9eff385c",
-        "title": "Software Engineer - Android",
-        "active": false,
-        "date_updated": 1717463402,
-        "date_posted": 1715814936,
-        "url": "https://boards.greenhouse.io/alarmcom/jobs/7431154002",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Alarm",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Lucid",
-        "id": "73fb2cf0-1505-4488-a20a-690747eac682",
-        "title": "Analytics Engineer",
-        "active": false,
-        "date_updated": 1715815091,
-        "date_posted": 1715815091,
-        "url": "https://boards.greenhouse.io/lucidsoftware/jobs/5179630004",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Lucid",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -11830,22 +11750,6 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Klaviyo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Collabora",
-        "id": "58e2625e-38f0-455e-950d-edd368319bc8",
-        "title": "Vulkan/Opengl Software Developer - Remote/Anywhere",
-        "active": false,
-        "date_updated": 1715815136,
-        "date_posted": 1715815136,
-        "url": "https://jobs.lever.co/collabora/bd4a9eb8-528f-4553-a832-ca6949ab46bd/apply",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Collabora",
         "is_visible": true,
         "sponsorship": "Other"
     },
