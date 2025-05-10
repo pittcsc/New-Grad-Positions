@@ -11947,22 +11947,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Wayve",
-        "id": "ef4bb9f7-0f8b-4188-a647-13ed89fee1d0",
-        "title": "Software Engineer - ML Platform",
-        "active": false,
-        "date_updated": 1716318717,
-        "date_posted": 1715814877,
-        "url": "https://boards.greenhouse.io/wayve/jobs/7444783002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Wayve",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Coin Metrics",
         "id": "bfe06c39-ad42-4238-a63c-83e02d27dd0b",
         "title": "Protocol Specialist",
