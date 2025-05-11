@@ -1012,38 +1012,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Welocalize",
-        "id": "ba4dc045-ecde-44b2-a873-7771a31f4ba3",
-        "title": "Entry-Level AI Data Rater - English - UK",
-        "active": false,
-        "date_updated": 1718391985,
-        "date_posted": 1715901445,
-        "url": "https://jobs.lever.co/welocalize/f6205a41-7148-47d7-8265-6b345ffb4f84/apply",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Welocalize",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Optiver",
-        "id": "50ad6f74-9212-47ba-82ae-68bf380f2777",
-        "title": "SPX Floor Trader Trainee",
-        "active": false,
-        "date_updated": 1715901685,
-        "date_posted": 1715901685,
-        "url": "https://optiver.com/working-at-optiver/career-opportunities/7446078002/?gh_jid=7446078002",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Optiver",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Affirm",
         "id": "a30e2597-8bf1-413b-8eb1-8dbae824762d",
         "title": "Quantitative Analyst",
@@ -11471,24 +11439,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Genius-Sports",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "SMX",
-        "id": "50b211d8-55e9-4aa0-9e3f-e775483f0208",
-        "title": "ETL Engineer - Ts/Sci CI Poly",
-        "active": false,
-        "date_updated": 1715901549,
-        "date_posted": 1715901549,
-        "url": "https://www.smxtech.com/careers/?gh_jid=5988726003",
-        "locations": [
-            "Washington, DC",
-            "Hyattsville, MD",
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Smx",
         "is_visible": true,
         "sponsorship": "Other"
     },
