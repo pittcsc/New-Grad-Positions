@@ -1012,22 +1012,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Latitude AI",
-        "id": "bc84cc2c-c5d6-415c-819a-2241ea996e93",
-        "title": "GIS Production Analyst - Contractor",
-        "active": false,
-        "date_updated": 1715872958,
-        "date_posted": 1715872958,
-        "url": "https://boards.greenhouse.io/latitude/jobs/5970342",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/LatitudeAI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Welocalize",
         "id": "ba4dc045-ecde-44b2-a873-7771a31f4ba3",
         "title": "Entry-Level AI Data Rater - English - UK",
