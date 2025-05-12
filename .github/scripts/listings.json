@@ -1028,22 +1028,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Match Group",
-        "id": "57ff5272-e025-441e-a464-1507d8eb9d5a",
-        "title": "Data Scientist I",
-        "active": false,
-        "date_updated": 1717812279,
-        "date_posted": 1715929584,
-        "url": "https://jobs.lever.co/matchgroup/c69a83e8-d2c5-46d4-a544-45a984370666/apply",
-        "locations": [
-            "Hollywood, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Match-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
