@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Arsiem Corporation",
-        "id": "44df3bb7-a0b4-4674-afd4-e46c43231db3",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1715987606,
-        "date_posted": 1715987606,
-        "url": "https://jobs.lever.co/arsiem/1a74e319-c20e-43c8-b839-6a68c9210cc4/apply",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Trustpilot",
         "id": "fcecdf26-8977-4b85-8419-c627aa5863ed",
         "title": "Software Engineer I - API Platform",
@@ -11444,22 +11428,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Dialpad",
-        "id": "8b7e1709-8159-4e19-9d59-a34c3a0577db",
-        "title": "Software Engineer - Distributed Systems",
-        "active": false,
-        "date_updated": 1719517277,
-        "date_posted": 1715987562,
-        "url": "https://boards.greenhouse.io/dialpad/jobs/7443266002",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Dialpad",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "NewsBreak",
         "id": "1d8e7ec9-fef4-48da-9a60-c4c37d0b3cbc",
         "title": "Software Engineer \u2013 Junior & New Grad",
@@ -11620,22 +11588,6 @@
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/Shield-AI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Picogrid",
-        "id": "bf1a1ba6-730d-4296-8067-22ca5726bd19",
-        "title": "Deployment Strategist",
-        "active": false,
-        "date_updated": 1717550399,
-        "date_posted": 1715987394,
-        "url": "https://jobs.ashbyhq.com/picogrid/ed9e790b-c45e-4caf-a731-121df5e96a09/application",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Picogrid",
         "is_visible": true,
         "sponsorship": "Other"
     },
