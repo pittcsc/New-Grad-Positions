@@ -24698,5 +24698,22 @@
         "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "27bb31bd-e66f-4fe2-b12b-121b5e623aab",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1747090406,
+        "date_posted": 1747090406,
+        "url": "https://jobs.ashbyhq.com/Jerry/6cdeb247-37ee-4c1b-82d1-49d246adb15c/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
