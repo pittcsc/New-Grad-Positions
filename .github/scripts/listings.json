@@ -996,22 +996,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Affirm",
-        "id": "a30e2597-8bf1-413b-8eb1-8dbae824762d",
-        "title": "Quantitative Analyst",
-        "active": false,
-        "date_updated": 1718682553,
-        "date_posted": 1716193919,
-        "url": "https://boards.greenhouse.io/affirm/jobs/5944659003",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Affirm",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -13745,8 +13729,8 @@
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "source": "YifengW86",
-        "id": "0ffe4ef0-c8b0-461f-b78e-dbba767c4d4c",
+        "source": "Simplify",
+        "id": "1d8e7ec9-fef4-48da-9a60-c4c37d0b3cbc",
         "date_posted": 1725514537,
         "company_url": "",
         "is_visible": true
