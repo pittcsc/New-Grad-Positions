@@ -11428,22 +11428,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "NewsBreak",
-        "id": "1d8e7ec9-fef4-48da-9a60-c4c37d0b3cbc",
-        "title": "Software Engineer \u2013 Junior & New Grad",
-        "active": true,
-        "date_updated": 1716340171,
-        "date_posted": 1716193274,
-        "url": "https://boards.greenhouse.io/newsbreak/jobs/4054592006",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NewsBreak",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Kargo",
         "id": "2dd3b611-0018-4e8b-a2c0-375e7a3d4630",
         "title": "Data Engineer",
