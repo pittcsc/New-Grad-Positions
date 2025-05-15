@@ -24756,5 +24756,22 @@
         "company_url": "https://simplify.jobs/c/General-Dynamics",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Qualtrics",
+        "id": "bf0a6f94-987a-42ed-947a-a95c4e54c907",
+        "title": "Software Development Engineer I - Customer Experience",
+        "active": true,
+        "date_updated": 1747339149,
+        "date_posted": 1747339149,
+        "url": "https://www.qualtrics.com/careers/us/en/job/6886016?gh_jid=6886016",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualtrics",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
