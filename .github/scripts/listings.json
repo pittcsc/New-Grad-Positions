@@ -11545,22 +11545,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Etched.ai",
-        "id": "3d88eab2-215e-4c74-b7d6-47742e9ee49e",
-        "title": "Software Engineer - Infrastructure Performance",
-        "active": false,
-        "date_updated": 1716190689,
-        "date_posted": 1716190689,
-        "url": "https://boards.greenhouse.io/etchedai/jobs/4380624007",
-        "locations": [
-            "Cupertino, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Etched.ai",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Colibri Group",
         "id": "9b72106b-1d13-451e-9074-306de3f33ba7",
         "title": "Data Analytics Engineer",
