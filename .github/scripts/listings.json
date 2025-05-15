@@ -24773,5 +24773,23 @@
         "company_url": "https://simplify.jobs/c/Qualtrics",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Global Payments",
+        "id": "be560e6d-beae-405e-b05e-5072d648cd47",
+        "title": "Mainframe Software Engineer I or Above",
+        "active": true,
+        "date_updated": 1747339511,
+        "date_posted": 1747339511,
+        "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Mainframe-Software-Engineer-I-or-Above_R0062116",
+        "locations": [
+            "Alpharetta, GA",
+            "Columbus, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Payments",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
