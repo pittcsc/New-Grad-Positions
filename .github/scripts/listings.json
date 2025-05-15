@@ -11444,22 +11444,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Barbaricum",
-        "id": "52c2d124-4190-478c-8f42-c85b8c5d3eb8",
-        "title": "Systems Integrator",
-        "active": false,
-        "date_updated": 1716404866,
-        "date_posted": 1716220151,
-        "url": "https://jobs.lever.co/barbaricum/225a3f77-b55d-4ea3-8277-63ca4a4399ab/apply",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Barbaricum",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Alchemy",
         "id": "9480f6aa-0767-4cba-9c47-7bdcdf2a8033",
         "title": "Product Engineer - Account Abstraction",
