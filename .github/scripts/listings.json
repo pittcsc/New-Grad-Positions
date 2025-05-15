@@ -11641,22 +11641,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Canonical",
-        "id": "1f27fb65-f2c8-46f5-9d9d-db8f2854f743",
-        "title": "Software Engineer - Ceph & Distributed Storage",
-        "active": false,
-        "date_updated": 1716189131,
-        "date_posted": 1716189131,
-        "url": "https://boards.greenhouse.io/canonical/jobs/1861978",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Canonical",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DV Trading",
         "id": "07e47165-bfa2-4a3e-af48-00953bb5df6a",
         "title": "Quantitative Developer",
