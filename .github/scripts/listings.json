@@ -24808,5 +24808,22 @@
         "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bombora",
+        "id": "a55a74f9-f7c0-4d07-8520-e64a55f7e850",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1747349677,
+        "date_posted": 1747349677,
+        "url": "https://bombora.com/about/bombora-careers?gh_jid=7996747002",
+        "locations": [
+            "Reno, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Bombora",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
