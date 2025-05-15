@@ -11412,22 +11412,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Kargo",
-        "id": "2dd3b611-0018-4e8b-a2c0-375e7a3d4630",
-        "title": "Data Engineer",
-        "active": false,
-        "date_updated": 1719533182,
-        "date_posted": 1716247303,
-        "url": "https://www.kargo.com/careers?gh_jid=4366474007",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Kargo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DigitalOcean",
         "id": "4fa9f81a-d5ae-41eb-af4d-a64c990db8be",
         "title": "Capacity Planner II - Data Collection",
@@ -11588,38 +11572,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/DV-Trading",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Jane Street",
-        "id": "bd4742c8-e28e-4975-aba2-47e2466cdacd",
-        "title": "Machine Learning Performance Engineer",
-        "active": false,
-        "date_updated": 1718392056,
-        "date_posted": 1716247098,
-        "url": "https://boards.greenhouse.io/janestreet/jobs/7449252002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Jane Street",
-        "id": "c2dbc301-b47e-4463-9622-c87ac9c98494",
-        "title": "Machine Learning Performance Engineer",
-        "active": false,
-        "date_updated": 1718391933,
-        "date_posted": 1716247098,
-        "url": "https://boards.greenhouse.io/janestreet/jobs/7449190002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
         "is_visible": true,
         "sponsorship": "Other"
     },
