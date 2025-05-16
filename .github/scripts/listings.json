@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Magna",
-        "id": "236cd6ca-c9ce-48f6-8ee9-3ef4a015ac10",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1716333203,
-        "date_posted": 1716333203,
-        "url": "https://boards.greenhouse.io/magna/jobs/4382449007",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Magna",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Navan",
         "id": "a0d5a6b0-d343-48ef-b485-3856cb2a9469",
         "title": "Evergreen: New College Grad Software Engineer - Front-End",
