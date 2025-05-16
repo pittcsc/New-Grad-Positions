@@ -24782,5 +24782,22 @@
         "company_url": "https://simplify.jobs/c/Marqeta",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Truist",
+        "id": "a8bacb04-9bc6-4e63-814e-999777d2c423",
+        "title": "Testing Software Engineer I",
+        "active": true,
+        "date_updated": 1747439084,
+        "date_posted": 1747439084,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Testing-Software-Engineer-I_R0100249",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Truist",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
