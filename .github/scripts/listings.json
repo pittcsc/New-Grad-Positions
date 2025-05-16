@@ -11413,22 +11413,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Philadelphia Eagles",
-        "id": "65539c86-02e8-475a-b5a1-d99f1ab23538",
-        "title": "Software Developer",
-        "active": false,
-        "date_updated": 1716333688,
-        "date_posted": 1716333688,
-        "url": "https://boards.greenhouse.io/philadelphiaeagles/jobs/4371500006",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/PhiladelphiaEagles",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Waabi",
         "id": "5e93a995-a4f9-4e2c-a34e-0d1058714019",
         "title": "Software Engineer - Web Tools",
@@ -24778,6 +24762,24 @@
             "Annapolis Junction, MD"
         ],
         "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Marqeta",
+        "id": "5415dfde-d4c9-4bc8-a0b4-98767647b837",
+        "title": "Software Engineer I - Transaction Engine Foundation",
+        "active": true,
+        "date_updated": 1747437835,
+        "date_posted": 1747437835,
+        "url": "https://job-boards.greenhouse.io/marqeta/jobs/6832149",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Marqeta",
         "is_visible": true,
         "sponsorship": "Other"
     }
