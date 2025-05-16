@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Trustpilot",
-        "id": "fcecdf26-8977-4b85-8419-c627aa5863ed",
-        "title": "Software Engineer I - API Platform",
-        "active": false,
-        "date_updated": 1716304762,
-        "date_posted": 1716304762,
-        "url": "https://business.trustpilot.com/jobs/5941007?gh_jid=5941007",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Trustpilot",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Magna",
         "id": "236cd6ca-c9ce-48f6-8ee9-3ef4a015ac10",
         "title": "Software Engineer \u2013 New Grad",
