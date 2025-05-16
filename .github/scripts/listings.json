@@ -24745,5 +24745,22 @@
         "company_url": "https://simplify.jobs/c/Bombora",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Credit Genie",
+        "id": "e77949b5-9580-43ad-a54d-4049719357ac",
+        "title": "New Grad-Data Scientist - Cmu",
+        "active": true,
+        "date_updated": 1747418407,
+        "date_posted": 1747418407,
+        "url": "https://jobs.ashbyhq.com/creditgenie/256ab050-e0a8-4192-a9bd-0c635adb2a61/application",
+        "locations": [
+            "Conshohocken, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Credit-Genie",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
