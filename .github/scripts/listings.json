@@ -24762,5 +24762,22 @@
         "company_url": "https://simplify.jobs/c/Credit-Genie",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Esri",
+        "id": "4386ad33-6282-48ed-8f6c-e5cd45f12e04",
+        "title": "C++ Software Engineer I - Maps Sdks",
+        "active": true,
+        "date_updated": 1747433617,
+        "date_posted": 1747433617,
+        "url": "https://www.esri.com/careers/4735889007?gh_jid=4735889007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
