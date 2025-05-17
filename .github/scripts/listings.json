@@ -11449,22 +11449,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Shield AI",
-        "id": "c6224d5c-2047-494d-b81c-31d8232c2ce4",
-        "title": "Software Engineer - Autonomy Integration",
-        "active": false,
-        "date_updated": 1720484904,
-        "date_posted": 1716419363,
-        "url": "https://jobs.lever.co/shieldai/8d2b1849-21e4-4f31-ba5f-1753fb6fed92/apply",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Shield-AI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Klaviyo",
         "id": "1617a524-b62c-4c07-82a7-1b3a2c0924f8",
         "title": "Full Stack Data Scientist",
