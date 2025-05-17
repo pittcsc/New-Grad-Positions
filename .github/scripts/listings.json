@@ -24799,5 +24799,23 @@
         "company_url": "https://simplify.jobs/c/Truist",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Marqeta",
+        "id": "cee61875-b246-464b-9e1e-74c629fad2b7",
+        "title": "Software Engineer I - Core Edge Processing",
+        "active": true,
+        "date_updated": 1747448630,
+        "date_posted": 1747448630,
+        "url": "https://job-boards.greenhouse.io/marqeta/jobs/6774484",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Marqeta",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
