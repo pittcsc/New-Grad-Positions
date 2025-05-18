@@ -194,22 +194,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Arsiem Corporation",
-        "id": "370ac2f5-f0e3-410f-b905-4b82238a3dce",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1716448342,
-        "date_posted": 1716448342,
-        "url": "https://jobs.lever.co/arsiem/ac0fe045-d6bc-4cf8-b515-07f643701c60/apply",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Aquatic Capital Management",
         "id": "fb85f521-0b44-4728-bb9f-3a936fdf0eae",
         "title": "Software Engineer \u2013 Data: Early Career - 2024",
