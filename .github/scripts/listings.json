@@ -11413,22 +11413,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Klaviyo",
-        "id": "1617a524-b62c-4c07-82a7-1b3a2c0924f8",
-        "title": "Full Stack Data Scientist",
-        "active": false,
-        "date_updated": 1716924078,
-        "date_posted": 1716506306,
-        "url": "http://www.klaviyo.com/careers/jobs?gh_jid=5994439003",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Klaviyo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DV Trading",
         "id": "07e47165-bfa2-4a3e-af48-00953bb5df6a",
         "title": "Quantitative Developer",
