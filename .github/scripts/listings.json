@@ -11397,26 +11397,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Waabi",
-        "id": "5e93a995-a4f9-4e2c-a34e-0d1058714019",
-        "title": "Software Engineer - Web Tools",
-        "active": false,
-        "date_updated": 1716578116,
-        "date_posted": 1716505706,
-        "url": "https://jobs.lever.co/waabi/19d19832-ab1c-4be5-8972-879f4fc2b1a8/apply",
-        "locations": [
-            "Toronto, ON, Canada",
-            "SF",
-            "Dallas, TX",
-            "Canada",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Waabi",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Colibri Group",
         "id": "9b72106b-1d13-451e-9074-306de3f33ba7",
         "title": "Data Analytics Engineer",
