@@ -125,7 +125,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (717)</summary>
+<summary>🗃️ Inactive roles (716)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
@@ -146,8 +146,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Anaplan](https://simplify.jobs/c/Anaplan?utm_source=GHList&utm_medium=company)** | Junior Software Engineer | York, UK | 🔒 | 16d |
 | **[Amentum](https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company)** | Entry Level Software Engineer | Dahlgren, VA | 🔒 | 18d |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Developer – Entry level | Lawton, OK | 🔒 | 18d |
-| **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I | Toronto, ON, Canada | 🔒 | 18d |
-| ↳ | Software Engineer I | SF | 🔒 | 18d |
+| **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I | Toronto, ON, Canada | 🔒 | 19d |
+| ↳ | Software Engineer I | SF | 🔒 | 19d |
 | **[Cox](https://simplify.jobs/c/Cox?utm_source=GHList&utm_medium=company)** | Software Engineer I | Atlanta, GA | 🔒 | 19d |
 | **[Adobe](https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company)** | University Graduate - Software Engineer | NYC | 🔒 | 19d |
 | **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I | SF | 🔒 | 22d |
@@ -172,9 +172,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I | SF | 🔒 | 26d |
 | ↳ | Software Engineer I | Toronto, ON, Canada | 🔒 | 26d |
 | **[Flexport](https://simplify.jobs/c/Flexport?utm_source=GHList&utm_medium=company)** | Software Engineer I | Bellevue, WA | 🔒 | 28d |
-| **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I | Toronto, ON, Canada | 🔒 | 28d |
-| ↳ | Software Engineer I | SF | 🔒 | 28d |
-| **[Pinterest](https://simplify.jobs/c/Pinterest?utm_source=GHList&utm_medium=company)** | Software Engineer I | Seattle, WA | 🔒 | 29d |
+| **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I | Toronto, ON, Canada | 🔒 | 29d |
+| ↳ | Software Engineer I | SF | 🔒 | 29d |
+| **[Pinterest](https://simplify.jobs/c/Pinterest?utm_source=GHList&utm_medium=company)** | Software Engineer I | Seattle, WA | 🔒 | 1mo |
 | **[GOAT Group](https://simplify.jobs/c/GOAT-Group?utm_source=GHList&utm_medium=company)** | Software Engineer I | Remote in USA | 🔒 | 1mo |
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Software Engineer I | Cedar Rapids, IA | 🔒 | 1mo |
 | **[Cox](https://simplify.jobs/c/Cox?utm_source=GHList&utm_medium=company)** | Software Engineer I - Backend | Carmel, IN | 🔒 | 1mo |
@@ -552,7 +552,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Fieldwire](https://simplify.jobs/c/02aeb92e-5fbf-4181-a45d-054399d1b7dc?utm_source=GHList&utm_medium=company)** | Junior Android Engineer | Remote in USA | 🔒 | 6mo |
 | **[Forward](https://simplify.jobs/c/Forward?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad | SF | 🔒 | 6mo |
 | **[ClearEdge](https://simplify.jobs/c/ClearEdge?utm_source=GHList&utm_medium=company)** | Software Engineer I | Annapolis Junction, MD | 🔒 | 6mo |
-| ↳ | Software Engineer I 🛂 | San Fransisco | 🔒 | 6mo |
+| **[ClearEdge](https://simplify.jobs/c/ClearEdge?utm_source=GHList&utm_medium=company)** | Software Engineer I 🛂 | San Fransisco | 🔒 | 6mo |
 | **[Grand Rounds](https://simplify.jobs/c/Grand-Rounds?utm_source=GHList&utm_medium=company)** | Backend Engineer I - Customer Experience | Remote in USA | 🔒 | 6mo |
 | **[Mastercard](https://simplify.jobs/c/Mastercard?utm_source=GHList&utm_medium=company)** | Software Engineer I | O'Fallon, MO</br>Remote in USA | 🔒 | 6mo |
 | **[Northrop Grumman](https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7?utm_source=GHList&utm_medium=company)** | Junior Software Engineer | Annapolis Junction, MD | 🔒 | 6mo |
@@ -845,7 +845,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Arsiem Corporation](https://simplify.jobs/c/Arsiem-Corporation?utm_source=GHList&utm_medium=company)** | Software Engineer 1 | Remote in USA | 🔒 | 11mo |
 | **[Perpay](https://simplify.jobs/c/Perpay?utm_source=GHList&utm_medium=company)** | Junior Data Engineer | Philadelphia, PA | 🔒 | 11mo |
 | **[Navan](https://simplify.jobs/c/Navan?utm_source=GHList&utm_medium=company)** | Evergreen: New College Grad Software Engineer - Front-End | Palo Alto, CA | 🔒 | 11mo |
-| **[Arsiem Corporation](https://simplify.jobs/c/Arsiem-Corporation?utm_source=GHList&utm_medium=company)** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | 11mo |
 
 
 </details>
