@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Navan",
-        "id": "a0d5a6b0-d343-48ef-b485-3856cb2a9469",
-        "title": "Evergreen: New College Grad Software Engineer - Front-End",
-        "active": false,
-        "date_updated": 1716592037,
-        "date_posted": 1716592037,
-        "url": "https://tripactions.com/job-openings?gh_jid=5980878",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Navan",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Splunk",
         "id": "31bd40d2-03e5-4df7-bbcd-30c44e91ba9e",
         "title": "Software Engineer - Early in Career - Frontend",
