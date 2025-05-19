@@ -11332,38 +11332,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Legion",
-        "id": "55d089f9-bcc5-485b-a62f-b6db05659ede",
-        "title": "Optimization Engineer",
-        "active": false,
-        "date_updated": 1719615715,
-        "date_posted": 1716593033,
-        "url": "https://boards.greenhouse.io/legion/jobs/5993099003",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Legion",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "DigitalOcean",
-        "id": "4fa9f81a-d5ae-41eb-af4d-a64c990db8be",
-        "title": "Capacity Planner II - Data Collection",
-        "active": false,
-        "date_updated": 1717204344,
-        "date_posted": 1716592720,
-        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=5993354",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/DigitalOcean",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Alchemy",
         "id": "9480f6aa-0767-4cba-9c47-7bdcdf2a8033",
         "title": "Product Engineer - Account Abstraction",
@@ -11376,38 +11344,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Alchemy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Colibri Group",
-        "id": "9b72106b-1d13-451e-9074-306de3f33ba7",
-        "title": "Data Analytics Engineer",
-        "active": false,
-        "date_updated": 1717203932,
-        "date_posted": 1716593223,
-        "url": "https://jobs.lever.co/colibrigroup/a8142303-15d9-4fd4-a0c4-59c90ae4e230/apply",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/ColibriGroup",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "DV Trading",
-        "id": "07e47165-bfa2-4a3e-af48-00953bb5df6a",
-        "title": "Quantitative Developer",
-        "active": false,
-        "date_updated": 1718737642,
-        "date_posted": 1716592707,
-        "url": "https://boards.greenhouse.io/dvtrading/jobs/4424334005",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/DV-Trading",
         "is_visible": true,
         "sponsorship": "Other"
     },
