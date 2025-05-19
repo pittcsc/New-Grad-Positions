@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 71 New Grad Roles by Category
+### Browse 72 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (58)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (59)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (5)
 
@@ -76,6 +76,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Esri](https://simplify.jobs/c/Esri?utm_source=GHList&utm_medium=company)** | C++ Software Development Engineer I | Edinburgh, UK | <div align="center"><a href="https://www.esri.com/careers/4725259007?gh_jid=4725259007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b4dc5eb2-d1ac-4754-bcd1-19e3964e6858?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 6d |
 | **[Amentum](https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company)** | Entry Level Software Developer | Dahlgren, VA | <div align="center"><a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0138996?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/81381128-7fa7-4edc-888e-63057efd025b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 10d |
 | **[Twitch](https://simplify.jobs/c/Twitch?utm_source=GHList&utm_medium=company)** | Software Engineer I | SF | <div align="center"><a href="https://job-boards.greenhouse.io/twitch/jobs/7982361002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/767992a1-765b-4763-ab83-e71f60b64e0d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 11d |
+| **[Higher Logic](https://simplify.jobs/c/Higher-Logic?utm_source=GHList&utm_medium=company)** | Junior Software Developer | Remote in USA | <div align="center"><a href="https://job-boards.greenhouse.io/higherlogic/jobs/6565676003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2f480a53-6f41-400f-bf17-bb93dc4b9d83?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 11d |
 | **[Iridium Communications](https://simplify.jobs/c/Iridium-Communications?utm_source=GHList&utm_medium=company)** | Software Engineer I | Tempe, AZ | <div align="center"><a href="https://careers-iridium.icims.com/jobs/4452/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9e8d8f00-a18c-4471-b416-da5304aa6c4f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 11d |
 | **[Tower Research Capital](https://simplify.jobs/c/Tower-Research-Capital?utm_source=GHList&utm_medium=company)** | New Grad C++ Software Engineer | Montreal, QC, Canada | <div align="center"><a href="https://www.tower-research.com/open-positions/?gh_jid=6855851&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3024ecd6-2e55-431c-8c8f-d62ccd0e0e51?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 17d |
 | **[Chewy](https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company)** | Data Engineer I | Plantation, FL | <div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=6821292&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d826bed1-eae3-48f5-ae2d-e529038c0886?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 24d |
@@ -125,7 +126,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (716)</summary>
+<summary>🗃️ Inactive roles (715)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
@@ -137,7 +138,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Nutanix](https://simplify.jobs/c/Nutanix?utm_source=GHList&utm_medium=company)** | Software Engineer 1/Early Career | San Jose, CA | 🔒 | 10d |
 | **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I | Toronto, ON, Canada</br>Greater Toronto Area, ON, Canada | 🔒 | 10d |
 | ↳ | Software Engineer I | SF | 🔒 | 10d |
-| **[Higher Logic](https://simplify.jobs/c/Higher-Logic?utm_source=GHList&utm_medium=company)** | Junior Software Developer | Remote in USA | 🔒 | 11d |
 | **[Comcast](https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company)** | Engineer 1 - Software Development & Engineering-1 | Philadelphia, PA | 🔒 | 13d |
 | ↳ | Engineer 1 - Software Development & Engineering-2 | Philadelphia, PA | 🔒 | 13d |
 | **[Cadence Design Systems](https://simplify.jobs/c/Cadence-Design-Systems?utm_source=GHList&utm_medium=company)** | Software Engineer I | Montreal, QC, Canada | 🔒 | 13d |
@@ -873,7 +873,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
-| **[Credit Genie](https://simplify.jobs/c/Credit-Genie?utm_source=GHList&utm_medium=company)** | New Grad-Data Scientist - Cmu | Conshohocken, PA | 🔒 | 2d |
+| **[Credit Genie](https://simplify.jobs/c/Credit-Genie?utm_source=GHList&utm_medium=company)** | New Grad-Data Scientist - Cmu | Conshohocken, PA | 🔒 | 3d |
 | **[Yahoo](https://simplify.jobs/c/Yahoo?utm_source=GHList&utm_medium=company)** | Big Data Tools Engineer - Software Dev Engineer I | United States | 🔒 | 17d |
 | **[Booz Allen](https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company)** | Data Scientist - Junior | McLean, VA | 🔒 | 28d |
 | **[Qualtrics](https://simplify.jobs/c/Qualtrics?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer I - Data & Insights | Seattle, WA | 🔒 | 1mo |
