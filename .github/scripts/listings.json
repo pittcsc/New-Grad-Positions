@@ -24757,5 +24757,23 @@
         "company_url": "https://simplify.jobs/c/TailorCare",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Marqeta",
+        "id": "83c12cf2-ffaa-4798-9716-d2aa3442d694",
+        "title": "Software Engineer I - Cloud Database Engineering",
+        "active": true,
+        "date_updated": 1747784156,
+        "date_posted": 1747784156,
+        "url": "https://job-boards.greenhouse.io/marqeta/jobs/6774477",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Marqeta",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
