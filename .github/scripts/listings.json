@@ -24740,5 +24740,22 @@
         "company_url": "https://simplify.jobs/c/Medtronic",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RELX",
+        "id": "0ec540d4-844b-4270-93fe-93f5cbe0cc18",
+        "title": "Software Engineer I Hybrid",
+        "active": true,
+        "date_updated": 1747709765,
+        "date_posted": 1747709765,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Horsham-PA/Software-Engineer-I-----Hybrid-in-Horsham--PA_R95892-2",
+        "locations": [
+            "Horsham, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/1495091e-1f19-4c30-a48a-5afa4aa5e7dd",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
