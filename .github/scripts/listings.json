@@ -24740,5 +24740,22 @@
         "company_url": "https://simplify.jobs/c/1495091e-1f19-4c30-a48a-5afa4aa5e7dd",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TailorCare",
+        "id": "647600b4-1ed3-4aa3-9bfb-d6e9d38f56f0",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1747783393,
+        "date_posted": 1747783393,
+        "url": "https://job-boards.greenhouse.io/tailorcare2023/jobs/4557621006",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/TailorCare",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
