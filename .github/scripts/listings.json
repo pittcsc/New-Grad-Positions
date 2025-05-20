@@ -11331,23 +11331,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Alchemy",
-        "id": "9480f6aa-0767-4cba-9c47-7bdcdf2a8033",
-        "title": "Product Engineer - Account Abstraction",
-        "active": false,
-        "date_updated": 1716620937,
-        "date_posted": 1716620937,
-        "url": "https://boards.greenhouse.io/alchemy/jobs/4424520005",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Alchemy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
