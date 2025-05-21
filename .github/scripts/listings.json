@@ -24775,5 +24775,22 @@
         "company_url": "https://simplify.jobs/c/Marqeta",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Global Payments",
+        "id": "b2d9c7cd-851d-4563-8385-2f7f328b68f3",
+        "title": "Mainframe Software Engineer I or Above",
+        "active": true,
+        "date_updated": 1747846875,
+        "date_posted": 1747846875,
+        "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Software-Engineer-Senior-or-Above_R0059814-1",
+        "locations": [
+            "Columbus, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Payments",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
