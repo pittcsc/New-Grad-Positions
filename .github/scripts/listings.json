@@ -24810,5 +24810,22 @@
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Remitly",
+        "id": "583be2f0-924b-4569-8b43-3258381197cb",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1747878617,
+        "date_posted": 1747878617,
+        "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-I_R_104015",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Remitly",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
