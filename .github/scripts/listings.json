@@ -24879,5 +24879,22 @@
         "company_url": "https://simplify.jobs/c/TD-Bank",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KBR",
+        "id": "daed6fc4-9bea-424a-aa82-5a932f35c1ae",
+        "title": "Early Career Full Stack Software Engineer",
+        "active": true,
+        "date_updated": 1747959049,
+        "date_posted": 1747959049,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Moffett-Field-California/Full-Stack-Software-Engineer_R2106782",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
