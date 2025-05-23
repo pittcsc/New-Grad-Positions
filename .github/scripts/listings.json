@@ -24896,5 +24896,22 @@
         "company_url": "https://simplify.jobs/c/KBR",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "0d2693bd-ae50-4bd9-9458-9495c19b8c9d",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1747960433,
+        "date_posted": 1747960433,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6897739",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
