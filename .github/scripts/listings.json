@@ -24897,5 +24897,22 @@
         "company_url": "https://simplify.jobs/c/Chewy",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Twilio",
+        "id": "4ebfc1ac-dbac-4c42-b57c-5feb4fe50222",
+        "title": "Software Engineer \u2013 New Graduate - Email",
+        "active": true,
+        "date_updated": 1748020755,
+        "date_posted": 1748020755,
+        "url": "https://job-boards.greenhouse.io/twilio/jobs/6891933",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Twilio",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
