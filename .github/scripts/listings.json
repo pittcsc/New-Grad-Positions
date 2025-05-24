@@ -24816,5 +24816,75 @@
         "company_url": "https://simplify.jobs/c/Twilio",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "91f04375-27da-4bf9-a5ed-50a0ae8b9531",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1748051644,
+        "date_posted": 1748051644,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6709116",
+        "locations": [
+            "Boston, MA",
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "736b764d-b4c7-4e41-b630-9bfdd2abfed9",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1748051644,
+        "date_posted": 1748051644,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6713036",
+        "locations": [
+            "Boston, MA",
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USAA",
+        "id": "433ef2a0-9bd0-4956-bbe8-aca3c8425324",
+        "title": "Software Engineer Entry Level - UI + API Development",
+        "active": true,
+        "date_updated": 1748051514,
+        "date_posted": 1748051514,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer-Entry-Level---UI---API-Development_R0109733",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Medtronic",
+        "id": "66637da9-5559-4d10-a826-072c2612f348",
+        "title": "Software Engineer I - Neuro",
+        "active": true,
+        "date_updated": 1748051373,
+        "date_posted": 1748051373,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---Neuro_R29576-1",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
