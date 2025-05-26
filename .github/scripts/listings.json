@@ -1,38 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Perpay",
-        "id": "590f1ae6-ef3f-4bcb-a7a0-e6957768779d",
-        "title": "Junior Data Engineer",
-        "active": false,
-        "date_updated": 1717197181,
-        "date_posted": 1717197181,
-        "url": "https://boards.greenhouse.io/perpay/jobs/4390291007",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Perpay",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "OpenEye",
-        "id": "cb967210-0559-431e-96f3-777fc41e21b7",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1724127913,
-        "date_posted": 1717196923,
-        "url": "https://boards.greenhouse.io/openeye/jobs/7460213002",
-        "locations": [
-            "Liberty Lake, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/OpenEye",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Arsiem Corporation",
         "id": "c0d8685b-6cc4-4753-ac97-1fd276837900",
         "title": "Software Engineer 1",
@@ -11120,22 +11088,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "TransMarket Group",
-        "id": "40aa41dc-c59a-40f0-8bdc-c9eb76453ab2",
-        "title": "Python Developer / Data Engineer",
-        "active": false,
-        "date_updated": 1717197026,
-        "date_posted": 1717197026,
-        "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4389343007",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/TransMarket-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
@@ -12473,22 +12425,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Figma",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "TransMarket Group",
-        "id": "f3b0c582-740f-4e42-8501-158b3c020fcb",
-        "title": "Junior Quantitative Trader",
-        "active": false,
-        "date_updated": 1718752993,
-        "date_posted": 1717197026,
-        "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4389335007?gh_jid=4389335007",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/TransMarket-Group",
         "is_visible": true,
         "sponsorship": "Other"
     },
