@@ -11054,40 +11054,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "BeyondTrust",
-        "id": "006ef463-e75c-45f6-a910-07d7a6dfafb4",
-        "title": "Software Development Engineer",
-        "active": false,
-        "date_updated": 1717197905,
-        "date_posted": 1717197905,
-        "url": "https://boards.greenhouse.io/beyondtrust/jobs/5993730",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BeyondTrust",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "NewsBreak",
-        "id": "57569d64-79e4-48c9-bf78-b95e353101f2",
-        "title": "Software Engineer - Recommendation",
-        "active": false,
-        "date_updated": 1717510413,
-        "date_posted": 1717197338,
-        "url": "https://boards.greenhouse.io/newsbreak/jobs/4374194006",
-        "locations": [
-            "Seattle, WA",
-            "NYC",
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NewsBreak",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
