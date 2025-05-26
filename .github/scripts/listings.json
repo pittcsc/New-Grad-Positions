@@ -11168,23 +11168,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Square",
-        "id": "9dd1727b-0843-46b2-8a0e-111933e99243",
-        "title": "IOS Software Engineer - Commerce",
-        "active": false,
-        "date_updated": 1717139136,
-        "date_posted": 1717139136,
-        "url": "https://jobs.smartrecruiters.com/Square/743999991079116",
-        "locations": [
-            "SF",
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Square",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
@@ -22945,7 +22928,7 @@
         "company_name": "Plexus",
         "id": "0f7b9b50-89d2-4113-aa2b-381a6156069c",
         "title": "Embedded Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1744809183,
         "date_posted": 1744809183,
         "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Embedded-Software-Engineer-I_R032010",
