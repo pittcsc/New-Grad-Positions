@@ -24726,5 +24726,23 @@
         "company_url": "https://simplify.jobs/c/Uber",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sigma Computing",
+        "id": "73f2b4fb-df2f-43e9-86ca-a366f2ef271f",
+        "title": "Software Engineer \u2013 New Grad Program",
+        "active": true,
+        "date_updated": 1748334343,
+        "date_posted": 1748334343,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/6589230003",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sigma-Computing",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
