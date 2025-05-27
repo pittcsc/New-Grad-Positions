@@ -24744,5 +24744,22 @@
         "company_url": "https://simplify.jobs/c/Sigma-Computing",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Allegiant Air",
+        "id": "2296fe37-66d9-4882-bb9a-1db9cdb9cdac",
+        "title": "Software Frontend Engineer I",
+        "active": true,
+        "date_updated": 1748373987,
+        "date_posted": 1748373987,
+        "url": "https://jobs.lever.co/allegiantair/ee33e426-98ad-4ac1-9775-5fb4e59cfe92/apply",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Allegiant-Air",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
