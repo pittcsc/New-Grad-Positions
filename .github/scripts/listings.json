@@ -24813,5 +24813,22 @@
         "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox",
+        "id": "156b1df0-6ea7-4680-81b3-0aedff749b18",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1748395107,
+        "date_posted": 1748395107,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Software-Engineer-I_R202562939",
+        "locations": [
+            "Draper, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
