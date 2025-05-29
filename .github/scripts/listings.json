@@ -24864,5 +24864,22 @@
         "company_url": "https://simplify.jobs/c/Uber",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "EverQuote",
+        "id": "a169c0a8-53ed-4b83-bdca-54a9630adf0d",
+        "title": "Engineer I - Full Stack",
+        "active": true,
+        "date_updated": 1748509675,
+        "date_posted": 1748509675,
+        "url": "https://careers.everquote.com/job/?gh_jid=6591882003",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/d6c3d59d-ceba-4060-b91e-94c22fc449ea",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
