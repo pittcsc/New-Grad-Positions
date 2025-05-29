@@ -11020,40 +11020,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Snyk",
-        "id": "97e90ba6-d0d3-484d-8d97-a96bf8d0ca02",
-        "title": "AI Advocate",
-        "active": false,
-        "date_updated": 1718910426,
-        "date_posted": 1717456908,
-        "url": "https://boards.greenhouse.io/snyk/jobs/7162387002",
-        "locations": [
-            "Boston, MA",
-            "Remote in USA",
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Snyk",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "NewsBreak",
-        "id": "67ba58e5-f7e7-464b-b0da-0545b086fa8e",
-        "title": "Software Engineer - Full-stack",
-        "active": false,
-        "date_updated": 1717456556,
-        "date_posted": 1717456556,
-        "url": "https://boards.greenhouse.io/newsbreak/jobs/4310924006",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NewsBreak",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
@@ -18507,7 +18473,7 @@
         "company_name": "IXL Learning",
         "id": "4ddfb593-3472-4ff7-8377-58b1eac4ca2b",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1736382092,
         "date_posted": 1736382092,
         "url": "https://www.ixl.com/company/jobs?gh_jid=7803940002",
@@ -18523,7 +18489,7 @@
         "company_name": "IXL Learning",
         "id": "9f31a2a9-393e-4279-bd17-2cc854ede402",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1736382083,
         "date_posted": 1736382083,
         "url": "https://www.ixl.com/company/jobs?gh_jid=7803897002",
