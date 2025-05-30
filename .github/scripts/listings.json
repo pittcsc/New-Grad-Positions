@@ -24933,5 +24933,27 @@
         "company_url": "https://simplify.jobs/c/Nuro",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Walt Disney Company",
+        "id": "985a1ce5-abec-447c-a212-73c296f3978b",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1748629806,
+        "date_posted": 1748629806,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10122274",
+        "locations": [
+            "Seattle, WA",
+            "Santa Monica, CA",
+            "SF",
+            "Bristol, CT",
+            "Glendale, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
