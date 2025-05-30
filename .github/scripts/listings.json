@@ -24864,5 +24864,22 @@
         "company_url": "https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "bfd63ca5-4bf3-434a-880d-dd0f4450f95e",
+        "title": "C/C++ and Java Software Development Engineer I",
+        "active": true,
+        "date_updated": 1748570188,
+        "date_posted": 1748570188,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI101-1847-W-Main-Rd-1847-W-Main-Road-Nimitz-Building-Portsmouth-RI-02871-USA/C-C---and-Java-Software-Development-Engineer-I--Onsite-_01770233",
+        "locations": [
+            "Bristol, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
