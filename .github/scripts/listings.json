@@ -10972,38 +10972,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Klaviyo",
-        "id": "71870ed6-0334-432b-a908-0e7d43a6a197",
-        "title": "Software Engineer - Applied Statistics",
-        "active": false,
-        "date_updated": 1717543267,
-        "date_posted": 1717543267,
-        "url": "http://www.klaviyo.com/careers/jobs?gh_jid=6011307003",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Klaviyo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Vectra",
-        "id": "247f6211-4baa-45ca-ac45-c3fac992b9e4",
-        "title": "Prompt Engineer",
-        "active": false,
-        "date_updated": 1717543142,
-        "date_posted": 1717543142,
-        "url": "https://boards.greenhouse.io/vectranetworks/jobs/6015386",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Vectra",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
