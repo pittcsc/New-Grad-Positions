@@ -24898,5 +24898,22 @@
         "company_url": "https://simplify.jobs/c/IXL-Learning",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox",
+        "id": "01d7e84d-bb34-47e2-8df0-f0763394468f",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1748573117,
+        "date_posted": 1748573117,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202563166",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
