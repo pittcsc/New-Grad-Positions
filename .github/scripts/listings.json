@@ -24847,5 +24847,22 @@
         "company_url": "https://simplify.jobs/c/d6c3d59d-ceba-4060-b91e-94c22fc449ea",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blue Yonder",
+        "id": "5f565819-56ce-4ea6-8c0f-973c2568f7f0",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1748565666,
+        "date_posted": 1748565666,
+        "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineer-I_251265",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
