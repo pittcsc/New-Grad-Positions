@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Arsiem Corporation",
-        "id": "c0d8685b-6cc4-4753-ac97-1fd276837900",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1717629371,
-        "date_posted": 1717629371,
-        "url": "https://jobs.lever.co/arsiem/10a19034-c12c-45ee-a69a-6d0e6c1aa3f0/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Konrad Group",
         "id": "fa797771-52ff-4d34-b455-4ea452679bdb",
         "title": "Mobile Developer \u2013 Entry Level",
@@ -10839,54 +10823,6 @@
             "Tampa, FL"
         ],
         "company_url": "https://simplify.jobs/c/Smx",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "DAT Freight & Analytics",
-        "id": "472f07df-2c3c-4014-9773-ef4c6959edf5",
-        "title": "Associate Software Engineer - Front End",
-        "active": false,
-        "date_updated": 1719364853,
-        "date_posted": 1717629822,
-        "url": "https://careers.dat.com/jobs/5196632004?gh_jid=5196632004",
-        "locations": [
-            "Beaverton, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/DATFreight",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Anduril",
-        "id": "e62ed8d2-093b-4611-ac1f-a4bda30365e1",
-        "title": "Perception Engineer - Maneuver Dominance",
-        "active": false,
-        "date_updated": 1717629749,
-        "date_posted": 1717629749,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4160392007",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Anduril",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Anduril",
-        "id": "9feab6ad-3ec7-466d-b237-bb211c783c17",
-        "title": "Perception Engineer - Maneuver Dominance",
-        "active": false,
-        "date_updated": 1717629748,
-        "date_posted": 1717629748,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4159127007",
-        "locations": [
-            "Newport Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Anduril",
         "is_visible": true,
         "sponsorship": "Other"
     },
