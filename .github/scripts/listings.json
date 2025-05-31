@@ -836,22 +836,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Dev Technology Group",
-        "id": "fff6a747-010f-422a-afcc-3f697797d3de",
-        "title": "Entry level New graduates - Computer Science/CIS",
-        "active": false,
-        "date_updated": 1717571444,
-        "date_posted": 1717571444,
-        "url": "https://boards.greenhouse.io/devfuturetalent/jobs/6926223002",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/DevTechGrp",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -10951,23 +10935,6 @@
             "Madison, WI"
         ],
         "company_url": "https://simplify.jobs/c/FetchRewards",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "HeyGen",
-        "id": "ddef8625-d294-446b-98e4-6ec749f86ea5",
-        "title": "Frontend Software Engineer",
-        "active": false,
-        "date_updated": 1718737641,
-        "date_posted": 1717571216,
-        "url": "https://boards.greenhouse.io/heygen/jobs/4225179007",
-        "locations": [
-            "Palo Alto, CA",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/HeyGen",
         "is_visible": true,
         "sponsorship": "Other"
     },
