@@ -820,22 +820,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Gemini",
-        "id": "d062e142-8f84-4d97-90d1-d71e53a49c39",
-        "title": "Software Developer - Security",
-        "active": false,
-        "date_updated": 1717572332,
-        "date_posted": 1717572332,
-        "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=5905734&gh_jid=5905734",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Gemini",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
