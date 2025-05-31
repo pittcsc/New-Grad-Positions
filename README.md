@@ -238,7 +238,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I | Toronto, ON, Canada | 🔒 | 1mo |
 | **[Gentex Corporation](https://simplify.jobs/c/Gentex-Corporation?utm_source=GHList&utm_medium=company)** | Software Engineer I | Holland, MI | 🔒 | 1mo |
 | **[Esri](https://simplify.jobs/c/Esri?utm_source=GHList&utm_medium=company)** | Software Development Engineer I | St. Louis, MO | 🔒 | 1mo |
-| ↳ | Software Development Engineer I | Vienna, VA | 🔒 | 1mo |
+| **[Esri](https://simplify.jobs/c/Esri?utm_source=GHList&utm_medium=company)** | Software Development Engineer I | Vienna, VA | 🔒 | 1mo |
 | **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I | Toronto, ON, Canada | 🔒 | 1mo |
 | **[Comcast](https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company)** | Engineer 1 - Software Development & Engineering | Philadelphia, PA | 🔒 | 1mo |
 | **[World Kinect](https://simplify.jobs/c/World-Kinect?utm_source=GHList&utm_medium=company)** | IT Software Engineer I | Miami, FL | 🔒 | 1mo |
@@ -649,7 +649,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)** | Associate – New Grad - Software Engineer - OR049161 | Toronto, ON, Canada | 🔒 | 7mo |
 | **[Wayfair](https://simplify.jobs/c/Wayfair?utm_source=GHList&utm_medium=company)** | Software Engineer I – Experienced Graduates - Fall 2024 Start | Boston, MA | 🔒 | 7mo |
 | **[Affirm](https://simplify.jobs/c/Affirm?utm_source=GHList&utm_medium=company)** | Software Engineer I - Data Platform | Remote in USA | 🔒 | 7mo |
-| **[PolyAI](https://simplify.jobs/c/PolyAI?utm_source=GHList&utm_medium=company)** | Software Engineer – Graduate / Junior - Project - Must be in Toronto | Toronto, ON, Canada | 🔒 | 7mo |
+| **[PolyAI](https://simplify.jobs/c/PolyAI?utm_source=GHList&utm_medium=company)** | Software Engineer – Graduate / Junior - Project - Must be in Toronto | Toronto, ON, Canada | 🔒 | 8mo |
 | **[Grand Rounds](https://simplify.jobs/c/Grand-Rounds?utm_source=GHList&utm_medium=company)** | Full Stack Software Engineer – New College Grad - Treat Team | Remote in USA | 🔒 | 8mo |
 | IBM | Entry Level Back End Developer: 2025 | Tucson, AZ</br>Austin, TX</br>San Jose, CA | 🔒 | 8mo |
 | **[Splunk](https://simplify.jobs/c/Splunk?utm_source=GHList&utm_medium=company)** | Fedramp Software Engineer – Early Career - Raleigh - NC - Jan 2025 or sooner start date ONLY | Raleigh, NC | 🔒 | 8mo |
