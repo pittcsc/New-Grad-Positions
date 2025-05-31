@@ -24911,5 +24911,56 @@
         "company_url": "https://simplify.jobs/c/Vertex",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Omnicell",
+        "id": "8b19b2e3-8b48-40eb-a831-c08675f7a01c",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1748658660,
+        "date_posted": 1748658660,
+        "url": "https://elrj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/search/jobs/job/4261",
+        "locations": [
+            "Cranberry Twp, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Omnicell",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "3c515a8e-4de5-425e-9abb-309c6a085216",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1748657041,
+        "date_posted": 1748657041,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6937131",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Walt Disney Company",
+        "id": "01a1e675-6cb4-4452-a930-98a18207e857",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1748657163,
+        "date_posted": 1748657163,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-I_10121473-1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
