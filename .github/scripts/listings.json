@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Konrad Group",
-        "id": "fa797771-52ff-4d34-b455-4ea452679bdb",
-        "title": "Mobile Developer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1717716152,
-        "date_posted": 1717716152,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6015617003",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Konrad-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Autotrader.ca",
         "id": "d7bde62b-4a19-4146-80b5-4acdf159c540",
         "title": "Junior Android Engineer",
@@ -10775,38 +10759,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/The-Voleon-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Konrad Group",
-        "id": "441fa90b-db14-4efc-845a-cd096be59b1d",
-        "title": "IOS Developer",
-        "active": false,
-        "date_updated": 1717716152,
-        "date_posted": 1717716152,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6015615003",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Konrad-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Konrad Group",
-        "id": "64682c45-e00e-495c-b635-2417cb6e1b78",
-        "title": "Android Developer",
-        "active": false,
-        "date_updated": 1717716150,
-        "date_posted": 1717716150,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6015613003",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Konrad-Group",
         "is_visible": true,
         "sponsorship": "Other"
     },
