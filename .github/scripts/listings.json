@@ -24446,7 +24446,7 @@
         "company_name": "Jerry",
         "id": "25ec6ebd-33b7-4de4-8826-96a5f3cd7d90",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1748377582,
         "date_posted": 1748377582,
         "url": "https://jobs.ashbyhq.com/Jerry/f5fcf725-2c2a-42f7-aed9-e2a7b2e40f6f/application",
@@ -24463,7 +24463,7 @@
         "company_name": "Jerry",
         "id": "2048b645-c67e-401d-81ee-03307c7271b1",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1748377583,
         "date_posted": 1748377583,
         "url": "https://jobs.ashbyhq.com/Jerry/80da1e07-dbc2-4c10-a8ba-002e8e970bdc/application",
@@ -24727,7 +24727,7 @@
         "company_name": "Chewy",
         "id": "3c515a8e-4de5-425e-9abb-309c6a085216",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1748657041,
         "date_posted": 1748657041,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6937131",
@@ -24768,6 +24768,23 @@
         "locations": [
             "Toronto, ON, Canada",
             "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "e9f8bb59-dad9-4b95-89cd-7734a5e13f56",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1748894912,
+        "date_posted": 1748894912,
+        "url": "https://jobs.ashbyhq.com/Jerry/9b0f472a-e1a2-484b-af4b-53134df3e39d/application",
+        "locations": [
+            "SF"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
