@@ -24806,5 +24806,21 @@
         "company_url": "https://simplify.jobs/c/TD-Bank",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1748897636,
+        "url": "https://jobs.ashbyhq.com/mandolin/30bae6c7-6739-4cd6-97c4-fdb7662edf3b",
+        "company_name": "Mandolin",
+        "title": "Software Engineer I",
+        "locations": [
+            "San Fransisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Mandolin-RoshanT",
+        "id": "912501d1-5cc5-4ffb-8ea2-399004013cca",
+        "date_posted": 1748897636,
+        "company_url": "",
+        "is_visible": true
     }
 ]
