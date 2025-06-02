@@ -20674,7 +20674,7 @@
         "company_name": "Splunk",
         "id": "07ffc73d-aed6-4d82-9fc5-371e2650d332",
         "title": "Fedramp Machine Learning Engineer - Early in Career",
-        "active": true,
+        "active": false,
         "date_updated": 1741822135,
         "date_posted": 1741822135,
         "url": "https://jobs.jobvite.com/splunk-careers/job/o6QAvfwL?nl=1&nl=1&fr=false",
@@ -21334,7 +21334,7 @@
         "company_name": "Sierra Nevada Coporation",
         "id": "655c3fce-8de0-4783-b341-9b0565b8968d",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1743017870,
         "date_posted": 1742872919,
         "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Sofware-Engineer-I_R0027092",
@@ -24838,5 +24838,22 @@
         "date_posted": 1748897902,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "b93502c9-30b8-4122-adc8-57b52d142df9",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1748901307,
+        "date_posted": 1748901307,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Junior-Software-Developer--TS-SCI-with-Poly_308758-1",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
