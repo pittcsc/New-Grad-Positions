@@ -11490,22 +11490,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Pollen Mobile",
-        "id": "79a02e5b-32a5-41d7-91e5-e6b098706fe4",
-        "title": "Junior Software Engineer",
-        "active": false,
-        "date_updated": 1720486190,
-        "date_posted": 1717764512,
-        "url": "https://jobs.lever.co/pronto-ai/575d882e-624c-4259-9114-260fe7aa860c/apply",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Pollen-Mobile",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Qloo",
         "id": "68b3d370-8179-438e-ad4c-8b067ee6607b",
         "title": "Junior Data Engineer",
