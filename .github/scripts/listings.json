@@ -756,22 +756,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Welocalize",
-        "id": "c6cd12fe-2403-42c4-8c68-25d223ad9fdc",
-        "title": "Entry-Level AI Response Evaluator - Japanese - United States",
-        "active": false,
-        "date_updated": 1718045910,
-        "date_posted": 1717866586,
-        "url": "https://jobs.lever.co/welocalize/110953c3-74d5-494a-a598-1c1fa8034fbc/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Welocalize",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -24797,7 +24781,7 @@
         "company_name": "CACI",
         "id": "b93502c9-30b8-4122-adc8-57b52d142df9",
         "title": "Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1748901307,
         "date_posted": 1748901307,
         "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Junior-Software-Developer--TS-SCI-with-Poly_308758-1",
