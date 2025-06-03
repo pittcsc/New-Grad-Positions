@@ -772,22 +772,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Veeva Systems",
-        "id": "6770055a-7548-4e7b-bd26-7cda7d1b59b8",
-        "title": "Associate Software Engineer in Test",
-        "active": false,
-        "date_updated": 1718150683,
-        "date_posted": 1717863833,
-        "url": "https://jobs.lever.co/veeva/8683a486-a11b-44be-8824-d3afdaa37b2d/apply",
-        "locations": [
-            "Pleasanton, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Veeva-Systems",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
