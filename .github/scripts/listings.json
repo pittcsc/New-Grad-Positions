@@ -24855,5 +24855,22 @@
         "company_url": "https://simplify.jobs/c/CACI",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Yahoo",
+        "id": "66ecc266-39a4-49c3-9cea-bbabfb5a82cd",
+        "title": "Software Dev Engineer I - Data Platforms",
+        "active": true,
+        "date_updated": 1748911934,
+        "date_posted": 1748911934,
+        "url": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Software-Dev-Engineer-I--Data-Platforms_JR0025606",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Yahoo",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
