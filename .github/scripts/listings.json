@@ -24826,5 +24826,23 @@
         "company_url": "https://simplify.jobs/c/Numeric-IO",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Medtronic",
+        "id": "41927ec0-6ad7-4e3b-9295-bac0476c0ad1",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1748997800,
+        "date_posted": 1748997800,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Northridge-California-United-States-of-America/Software-Engineer-I_R33444-1",
+        "locations": [
+            "Northridge, LA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
