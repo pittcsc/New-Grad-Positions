@@ -24845,5 +24845,22 @@
         "company_url": "https://simplify.jobs/c/Robert-Half",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Magical",
+        "id": "c4525cfe-fce3-483f-ab1d-50ad350da242",
+        "title": "Software Engineer \u2013 New Grad - AI",
+        "active": true,
+        "date_updated": 1749065450,
+        "date_posted": 1748567513,
+        "url": "https://jobs.ashbyhq.com/magical/5d001754-2817-44d0-af08-a36525848a15/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/82f71d0b-1b62-419e-a151-644b20c06ecd",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
