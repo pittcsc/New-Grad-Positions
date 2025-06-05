@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Autotrader.ca",
-        "id": "d7bde62b-4a19-4146-80b5-4acdf159c540",
-        "title": "Junior Android Engineer",
-        "active": false,
-        "date_updated": 1718039117,
-        "date_posted": 1718039117,
-        "url": "https://jobs.lever.co/trader/c73888ca-83f5-44b3-a01a-27eee2e2e572/apply",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/AutoTrader-CA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "NVIDIA",
         "id": "61f56def-c822-4305-b5f3-b91e8a14d41a",
         "title": "System Software Engineer \u2013 New College Grad 2024 - Graphics Developer Tool",
@@ -24630,7 +24614,7 @@
         "company_name": "Omnicell",
         "id": "8b19b2e3-8b48-40eb-a831-c08675f7a01c",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1748658660,
         "date_posted": 1748658660,
         "url": "https://elrj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/search/jobs/job/4261",
