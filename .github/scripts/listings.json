@@ -24933,5 +24933,22 @@
         "company_url": "https://simplify.jobs/c/Truist",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Omnicell",
+        "id": "e55927c8-69f7-49bd-b1cd-7427d9c9187b",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1749159921,
+        "date_posted": 1749159921,
+        "url": "https://elrj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/search/jobs/job/4131",
+        "locations": [
+            "Cranberry Twp, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Omnicell",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
