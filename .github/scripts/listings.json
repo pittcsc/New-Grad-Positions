@@ -24879,5 +24879,23 @@
         "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Qualtrics",
+        "id": "0b9b6974-8f0d-4554-a8cf-0b1ef24954aa",
+        "title": "Software Engineer I - Foundation",
+        "active": true,
+        "date_updated": 1749082663,
+        "date_posted": 1749082663,
+        "url": "https://www.qualtrics.com/careers/us/en/job/6808655?gh_jid=6808655",
+        "locations": [
+            "Seattle, WA",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualtrics",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
