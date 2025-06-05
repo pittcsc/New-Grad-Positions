@@ -24897,5 +24897,40 @@
         "company_url": "https://simplify.jobs/c/Qualtrics",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "ac124f7e-452f-40b2-803f-3f9ba0caf4e1",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1749090517,
+        "date_posted": 1749090517,
+        "url": "https://jobs.ashbyhq.com/Jerry/ef71b5ab-8849-4d81-adc3-a150ef83a77b/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "f284567b-1315-487d-8c8d-0367f1563831",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1749090027,
+        "date_posted": 1749090027,
+        "url": "https://jobs.ashbyhq.com/Jerry/1cba1452-a2cc-4d93-9413-d8406b0bcea7/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
