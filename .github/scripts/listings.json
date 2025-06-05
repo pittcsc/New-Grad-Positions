@@ -24967,5 +24967,22 @@
         "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Medtronic",
+        "id": "376b97b2-4585-4174-8a8f-96c650222429",
+        "title": "Hardware Engineer I",
+        "active": true,
+        "date_updated": 1749164795,
+        "date_posted": 1749164795,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Hardware-Engineer-I--_R33867",
+        "locations": [
+            "Lafayette, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
