@@ -691,22 +691,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Collectors",
-        "id": "d4fd6201-30ef-4275-9ff9-2fd819148233",
-        "title": "Research Specialist - PM Shift - Temp-to-hire",
-        "active": false,
-        "date_updated": 1719342980,
-        "date_posted": 1718100679,
-        "url": "https://boards.greenhouse.io/collectorsuniverse/jobs/5200906004",
-        "locations": [
-            "Orange, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Collectors",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
