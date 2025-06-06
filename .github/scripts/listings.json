@@ -25052,5 +25052,22 @@
         "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "a4e7658a-a929-45c6-9253-9296e7897bcd",
+        "title": "Engineer 1 - Software Dev/Eng - Full Stack",
+        "active": true,
+        "date_updated": 1749191553,
+        "date_posted": 1749191553,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Dev-Eng-----Full-Stack_R413401",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
