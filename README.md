@@ -128,7 +128,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (764)</summary>
+<summary>🗃️ Inactive roles (763)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
@@ -895,7 +895,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Arsiem Corporation](https://simplify.jobs/c/Arsiem-Corporation?utm_source=GHList&utm_medium=company)** | Junior Software Engineer | Odenton, MD | 🔒 | 11mo |
 | **[Search Discovery](https://simplify.jobs/c/SearchDiscovery?utm_source=GHList&utm_medium=company)** | Data Engineer I | Cleveland, OH | 🔒 | 11mo |
 | **[UiPath](https://simplify.jobs/c/UiPath?utm_source=GHList&utm_medium=company)** | Software Engineer I | Bellevue, WA | 🔒 | 11mo |
-| **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | System Software Engineer – New College Grad 2024 - Graphics Developer Tool | Austin, TX</br>Santa Clara, CA | 🔒 | 11mo |
 
 
 </details>
