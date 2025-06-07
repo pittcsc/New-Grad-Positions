@@ -23850,7 +23850,7 @@
         "company_name": "Qualtrics",
         "id": "5e532cb7-48b0-4834-96a7-d87b3fdeced1",
         "title": "Software Engineer I - Foundation",
-        "active": false,
+        "active": true,
         "date_updated": 1747677958,
         "date_posted": 1747677958,
         "url": "https://www.qualtrics.com/careers/us/en/job/6897875?gh_jid=6897875",
@@ -24837,7 +24837,7 @@
         "company_name": "Qualtrics",
         "id": "0b9b6974-8f0d-4554-a8cf-0b1ef24954aa",
         "title": "Software Engineer I - Foundation",
-        "active": false,
+        "active": true,
         "date_updated": 1749082663,
         "date_posted": 1749082663,
         "url": "https://www.qualtrics.com/careers/us/en/job/6808655?gh_jid=6808655",
@@ -25034,6 +25034,41 @@
             "Philadelphia, PA"
         ],
         "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "4478d71d-1724-4037-a8dc-0d74c18d81c6",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1749244765,
+        "date_posted": 1749244765,
+        "url": "https://jobs.ashbyhq.com/Jerry/1ad199e1-668c-436c-8125-2ce019979fc7/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "38f288c6-281c-4954-a79b-61319230f507",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1749256429,
+        "date_posted": 1749256429,
+        "url": "https://jobs.ashbyhq.com/Jerry/bf3c29df-7967-4e12-b84e-d0c725f33261/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
     }
