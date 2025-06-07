@@ -10426,54 +10426,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "minware",
-        "id": "e8e651bb-f2dd-422d-b23e-1cd6687cbdc3",
-        "title": "Front End Engineer",
-        "active": false,
-        "date_updated": 1718225952,
-        "date_posted": 1718225952,
-        "url": "https://boards.greenhouse.io/minware/jobs/4405259005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Minware",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "minware",
-        "id": "00841873-98cb-4a3a-ada4-bebc8eb31846",
-        "title": "Front End Engineer",
-        "active": false,
-        "date_updated": 1718225939,
-        "date_posted": 1718225939,
-        "url": "https://boards.greenhouse.io/minware/jobs/4405268005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Minware",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "ExodusPoint",
-        "id": "510de715-b730-44a0-9a67-ba46dc1cbb82",
-        "title": "Risk Developer",
-        "active": false,
-        "date_updated": 1718225471,
-        "date_posted": 1718225471,
-        "url": "https://boards.greenhouse.io/exoduspoint/jobs/6980709002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/ExodusPoint",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
