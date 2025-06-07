@@ -643,22 +643,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Diligent Robotics",
-        "id": "21048f42-2611-411d-b407-13af2c43dc82",
-        "title": "Part Time \u2013 Clinical Robot Associate - Chicago - IL",
-        "active": false,
-        "date_updated": 1718189535,
-        "date_posted": 1718189535,
-        "url": "https://boards.greenhouse.io/diligentrobotics/jobs/6021249003",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Diligent-Robotics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
