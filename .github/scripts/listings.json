@@ -25055,5 +25055,22 @@
         "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Relativity Space",
+        "id": "18a63e15-0822-4fcf-965d-19765771fb6b",
+        "title": "Software Engineer I - Factory Platform",
+        "active": true,
+        "date_updated": 1749265082,
+        "date_posted": 1749265082,
+        "url": "https://boards.greenhouse.io/relativity/jobs/8029393002",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Relativity-Space",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
