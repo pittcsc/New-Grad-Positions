@@ -10314,70 +10314,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Prelim",
-        "id": "df7c06ff-3ac7-447d-90e8-301f534dcdef",
-        "title": "Software Engineer In Test - NY Remote",
-        "active": false,
-        "date_updated": 1720486402,
-        "date_posted": 1718230380,
-        "url": "https://jobs.lever.co/prelim/75262bad-f83c-40a3-8f1f-29a2c4fce011/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Prelim",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Prelim",
-        "id": "92f8f4f6-bb4f-4290-bd01-be90d716358f",
-        "title": "Software Engineer In Test - LA Remote",
-        "active": false,
-        "date_updated": 1720486642,
-        "date_posted": 1718230384,
-        "url": "https://jobs.lever.co/prelim/e0bf1295-d4d9-468c-8aae-f4ab8690f383/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Prelim",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Prelim",
-        "id": "77548f27-9286-4cbb-abc9-8688c5cf3cb0",
-        "title": "Software Engineer In Test - SF Remote",
-        "active": false,
-        "date_updated": 1720486387,
-        "date_posted": 1718230377,
-        "url": "https://jobs.lever.co/prelim/a4444c2d-e66a-448a-b4b0-85525c01335f/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Prelim",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Tombras",
-        "id": "3826162e-eb28-467b-a3db-327ca13a7d29",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1718230425,
-        "date_posted": 1718230425,
-        "url": "https://jobs.lever.co/tombras/59331e88-3f1f-45dd-a056-2a602a1b633c/apply",
-        "locations": [
-            "Knoxville, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Tombras",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
@@ -11634,22 +11570,6 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Chime",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Arsiem Corporation",
-        "id": "17854bb2-4069-4ad1-bc33-7eaf2e3ce692",
-        "title": "Junior Software Engineer",
-        "active": false,
-        "date_updated": 1718229625,
-        "date_posted": 1718229625,
-        "url": "https://jobs.lever.co/arsiem/1704e662-12d0-481e-8d2f-6571d12b4d65/apply",
-        "locations": [
-            "Odenton, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
         "is_visible": true,
         "sponsorship": "Other"
     },
