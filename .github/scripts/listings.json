@@ -1,38 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Search Discovery",
-        "id": "78b06b8d-21a2-4ad0-896c-0a51dfb8318f",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1718187003,
-        "date_posted": 1718187003,
-        "url": "https://boards.greenhouse.io/searchdiscovery/jobs/6034491",
-        "locations": [
-            "Cleveland, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/SearchDiscovery",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "UiPath",
-        "id": "5e9167d8-f42f-4865-adc7-5e6603ba4a87",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1718186466,
-        "date_posted": 1718186466,
-        "url": "https://careers.uipath.com/jobs/9169?lang=en-us&icims=1",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/UiPath",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Kalderos",
         "id": "e74ead1f-1d0b-438d-a594-37dc9b21096f",
         "title": "Software Engineer I",
