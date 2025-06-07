@@ -10266,38 +10266,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Bandwidth",
-        "id": "11683186-b7bc-45ba-b05f-bab84a56a76b",
-        "title": "Internal Applications Engineer",
-        "active": false,
-        "date_updated": 1718232896,
-        "date_posted": 1718232896,
-        "url": "https://boards.greenhouse.io/bandwidth/jobs/6031102",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Bandwidth",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "dunnhumby",
-        "id": "21979e4f-8da4-4171-b49c-f2519fc4d69d",
-        "title": "Engineer",
-        "active": false,
-        "date_updated": 1718232545,
-        "date_posted": 1718232545,
-        "url": "https://www.dunnhumby.com/jobs/?gh_jid=6017475003",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/dunnhumby",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
