@@ -130,7 +130,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (762)</summary>
+<summary>🗃️ Inactive roles (761)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
@@ -895,7 +895,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Iterative Health](https://simplify.jobs/c/Iterative-Health?utm_source=GHList&utm_medium=company)** | Software Engineer I - Backend - Future Openings | Remote in USA | 🔒 | 11mo |
 | **[Pulley](https://simplify.jobs/c/4e2de8f1-e787-417c-9d6d-5e86e5c33a22?utm_source=GHList&utm_medium=company)** | Founding Engineer | SF | 🔒 | 11mo |
 | **[Kalderos](https://simplify.jobs/c/Kalderos?utm_source=GHList&utm_medium=company)** | Software Engineer I | Remote in USA | 🔒 | 11mo |
-| **[Replo](https://simplify.jobs/c/Replo?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad | SF | 🔒 | 11mo |
 
 
 </details>
