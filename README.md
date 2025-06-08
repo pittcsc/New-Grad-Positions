@@ -252,7 +252,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Synchrony Financial](https://simplify.jobs/c/Synchrony-Financial?utm_source=GHList&utm_medium=company)** | Android Engineer I - Digital Servicing | <details><summary>**12 locations**</summary>Newport Beach, CA</br>Stamford, CT</br>Dallas, TX</br>Chicago, IL</br>Altamonte Springs, FL</br>Charlotte, NC</br>Alpharetta, GA</br>Rapid City, SD</br>NYC</br>Kansas City, KS</br>St Paul, MN</br>Cincinnati, OH</details> | 🔒 | 1mo |
 | **[Amentum](https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company)** | Entry Level Software Engineer | Fredericksburg, VA</br>Dahlgren, VA | 🔒 | 1mo |
 | ↳ | Entry Level Software Engineer | Fredericksburg, VA</br>Dahlgren, VA | 🔒 | 1mo |
-| **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Developer – Entry level | Lawton, OK | 🔒 | 1mo |
+| **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Developer – Entry level | Lawton, OK | 🔒 | 2mo |
 | **[Mastercard](https://simplify.jobs/c/Mastercard?utm_source=GHList&utm_medium=company)** | Software Engineer I | Vancouver, BC, Canada | 🔒 | 2mo |
 | **[LexisNexis Risk Solutions](https://simplify.jobs/c/9a8ce602-42f0-4474-9ff5-edf7d8868b76?utm_source=GHList&utm_medium=company)** | Software Engineer I | Miamisburg, OH | 🔒 | 2mo |
 | **[Airbnb](https://simplify.jobs/c/Airbnb?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad - Search Feed | Remote in USA | 🔒 | 2mo |
@@ -729,7 +729,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[KLA](https://simplify.jobs/c/KLA?utm_source=GHList&utm_medium=company)** | Software Engineer – New College Grad | Milpitas, CA | 🔒 | 8mo |
 | **[Adobe](https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company)** | Software Engineer - University Graduate 2025 | New York, NY | 🔒 | 8mo |
 | **[Wiley Edge](https://simplify.jobs/c/WileyEdge?utm_source=GHList&utm_medium=company)** | Junior Software Engineer - Open to relocation - Sheffield - Birmingham - Bournemouth - Newcastle & Glasgow | <details><summary>**5 locations**</summary>Christchurch, UK</br>Newcastle upon Tyne, UK</br>Birmingham, UK</br>Sheffield, UK</br>Glasgow, UK</details> | 🔒 | 8mo |
-| ↳ | Mthree – Junior Software Engineer - Chester & Sheffield | Sheffield, UK</br>Liverpool, UK | 🔒 | 8mo |
+| **[Wiley Edge](https://simplify.jobs/c/WileyEdge?utm_source=GHList&utm_medium=company)** | Mthree – Junior Software Engineer - Chester & Sheffield | Sheffield, UK</br>Liverpool, UK | 🔒 | 9mo |
 | **[Disney Careers](https://simplify.jobs/c/f4ca773e-168e-4f3d-bc3d-e0cc32345fc6?utm_source=GHList&utm_medium=company)** | Software Engineer I | Santa Monica, CA</br>NYC | 🔒 | 9mo |
 | **[Subsplash](https://simplify.jobs/c/Subsplash?utm_source=GHList&utm_medium=company)** | Software Development Engineer I - Front-end | Remote in USA | 🔒 | 9mo |
 | ↳ | Software Development Engineer I - Back-end | Remote in USA | 🔒 | 9mo |
