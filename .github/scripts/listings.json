@@ -579,22 +579,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Mediabrands",
-        "id": "c79ca512-cb75-468c-b6c7-91c8d1adf52b",
-        "title": "Kinesso \u2013 Associate - Addressable Activation",
-        "active": false,
-        "date_updated": 1718320074,
-        "date_posted": 1718320074,
-        "url": "https://boards.greenhouse.io/mediabrands/jobs/4398165007",
-        "locations": [
-            "Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Mediabrands",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -10070,54 +10054,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/ManticoreGames",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Axiom Space",
-        "id": "860ac63a-8763-425f-91b1-087014d16d60",
-        "title": "RF Software Engineer",
-        "active": false,
-        "date_updated": 1718320494,
-        "date_posted": 1718320494,
-        "url": "https://axiomspace.bamboohr.com/careers/865/",
-        "locations": [
-            "Webster, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AxiomSpace",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Axiom Space",
-        "id": "a887487e-efcf-4031-9b98-4cf492b0606a",
-        "title": "AI&T Technician",
-        "active": false,
-        "date_updated": 1718320486,
-        "date_posted": 1718320486,
-        "url": "https://axiomspace.bamboohr.com/careers/641/",
-        "locations": [
-            "Webster, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AxiomSpace",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Analytic Partners",
-        "id": "0eec6c41-f528-470b-8700-50e88f221702",
-        "title": "Data Scientist",
-        "active": false,
-        "date_updated": 1718319956,
-        "date_posted": 1718319956,
-        "url": "https://jobs.lever.co/analyticpartners/0584a8f8-ce64-4f38-963b-5ecf5382cd80/apply",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Analytic-Partners",
         "is_visible": true,
         "sponsorship": "Other"
     },
