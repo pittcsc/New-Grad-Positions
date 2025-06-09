@@ -563,22 +563,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Telesat",
-        "id": "7cbb1cb2-93e5-4378-85b7-8912197d7db5",
-        "title": "Software Developer",
-        "active": false,
-        "date_updated": 1718406625,
-        "date_posted": 1718406625,
-        "url": "https://jobs.lever.co/telesat/c635dc25-5dcd-4fc2-b24b-db1ab1d42d89/apply",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Telesat",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -10038,22 +10022,6 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/Lyft",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Manticore Games",
-        "id": "2d5b3df5-4d57-4147-bae2-7f557cb5f2cd",
-        "title": "Software Engineer - Build",
-        "active": false,
-        "date_updated": 1718406719,
-        "date_posted": 1718406719,
-        "url": "https://www.manticoregames.com/careers/?gh_jid=7095077002",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/ManticoreGames",
         "is_visible": true,
         "sponsorship": "Other"
     },
