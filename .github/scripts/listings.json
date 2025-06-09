@@ -547,22 +547,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Diligent Robotics",
-        "id": "25fbebce-34f6-46aa-8855-a7c49ac06aab",
-        "title": "Clinical Robot Associate - Columbus - OH",
-        "active": false,
-        "date_updated": 1718407501,
-        "date_posted": 1718407501,
-        "url": "https://boards.greenhouse.io/diligentrobotics/jobs/6026478003",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Diligent-Robotics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -10006,22 +9990,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sylvera",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Lyft",
-        "id": "cbc91f3c-c19e-4fb8-9bed-7ae20deeb1ff",
-        "title": "Software Engineer - Security Foundations",
-        "active": false,
-        "date_updated": 1718407071,
-        "date_posted": 1718407071,
-        "url": "https://app.careerpuck.com/job-board/lyft/job/7495795002?gh_jid=7495795002",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lyft",
         "is_visible": true,
         "sponsorship": "Other"
     },
