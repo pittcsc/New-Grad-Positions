@@ -24545,5 +24545,21 @@
         "company_url": "https://simplify.jobs/c/Chewy",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1749489255,
+        "url": "https://jobs.ashbyhq.com/n1/73724fe2-9a93-4a60-b349-4fd3d2efa94a",
+        "company_name": "N1",
+        "title": "New Grad Software Engineer (Full Stack)",
+        "locations": [
+            "New York"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Orazej",
+        "id": "0466e15a-b254-4e00-adeb-31680d73f854",
+        "date_posted": 1749489255,
+        "company_url": "",
+        "is_visible": true
     }
 ]
