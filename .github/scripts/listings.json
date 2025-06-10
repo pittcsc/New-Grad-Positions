@@ -20565,7 +20565,7 @@
         "company_name": "Sierra Nevada Coporation",
         "id": "655c3fce-8de0-4783-b341-9b0565b8968d",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1743017870,
         "date_posted": 1742872919,
         "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Sofware-Engineer-I_R0027092",
@@ -24128,7 +24128,7 @@
         "company_name": "Medtronic",
         "id": "41927ec0-6ad7-4e3b-9295-bac0476c0ad1",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1748997800,
         "date_posted": 1748997800,
         "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Northridge-California-United-States-of-America/Software-Engineer-I_R33444-1",
@@ -24301,7 +24301,7 @@
         "company_name": "Medtronic",
         "id": "376b97b2-4585-4174-8a8f-96c650222429",
         "title": "Hardware Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1749164795,
         "date_posted": 1749164795,
         "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Hardware-Engineer-I--_R33867",
@@ -24318,7 +24318,7 @@
         "company_name": "Fifth Third Bank",
         "id": "8f892f39-ee4b-4b15-b635-682274f05a01",
         "title": "Data Engineer I - Regulatory Reporting",
-        "active": true,
+        "active": false,
         "date_updated": 1749165633,
         "date_posted": 1749165633,
         "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Data-Engineer-I---Regulatory-Reporting_R59266",
@@ -24455,7 +24455,7 @@
         "company_name": "Chewy",
         "id": "904a6d2f-35f5-4628-a253-66e50a77d8f4",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1749368316,
         "date_posted": 1749368316,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6824705",
@@ -24513,5 +24513,108 @@
         "date_posted": 1749489300,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cadence Design Systems",
+        "id": "0d6000d5-0ddb-48a5-b519-fbb06776a040",
+        "title": "C++ Software Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1749579830,
+        "date_posted": 1749579830,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/Burlington-MA/C---Software-Engineer--New-College-Grad--Burlington--MA---Greater-Boston-_R50468-1",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "7bacd203-41b1-43fe-9233-014b3b7ae09d",
+        "title": "3D Software Engineer I - Scene Layers",
+        "active": true,
+        "date_updated": 1749541482,
+        "date_posted": 1749541482,
+        "url": "https://www.esri.com/careers/4756374007?gh_jid=4756374007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "b829ef6e-52bc-4ef3-97c5-7fba018a4eca",
+        "title": "C++ Software Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1749534445,
+        "date_posted": 1749534445,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/Burlington-MA/C---Software-Engineer--New-College-Grad--Burlington--MA---Greater-Boston-_R50467-1",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Numeric",
+        "id": "f048af16-1b47-4bba-910e-a1cf1b5d1588",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1749526495,
+        "date_posted": 1749526495,
+        "url": "https://jobs.ashbyhq.com/numeric/75fb980e-623a-4b92-932b-4ff3ae6fc2e8/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Numeric-IO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "8bd18807-d5ab-46a2-a54e-7dea706dd5c8",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1749522423,
+        "date_posted": 1749522423,
+        "url": "https://jobs.ashbyhq.com/Jerry/0ec66e16-fad9-470c-be90-19a3e23c34f8/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "ad5ce0cf-12b0-4661-adcf-824d965cdecb",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1749518786,
+        "date_posted": 1749518786,
+        "url": "https://jobs.ashbyhq.com/Jerry/38d57863-8edb-43fa-8f5e-ffc81e34aad6/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
