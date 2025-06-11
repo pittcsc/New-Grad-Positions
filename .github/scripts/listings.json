@@ -24634,5 +24634,22 @@
         "company_url": "https://simplify.jobs/c/1fc3eace-0b69-4dfa-97e0-43c2ec980796",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "c0d2de5a-494d-4e7c-942a-21081d454716",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1749607045,
+        "date_posted": 1749607045,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HTX38-1717-E-Cityline-Drive-1717-E-Cityline-Drive-Building-C17-Richardson-TX-75082-USA/Software-Engineer-I--Onsite-_01773128",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
