@@ -24841,5 +24841,22 @@
         "company_url": "https://simplify.jobs/c/Nutanix",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Taco Bell",
+        "id": "8e36922e-f0b8-456e-973f-d5be216fc17f",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1749762927,
+        "date_posted": 1749762927,
+        "url": "https://job-boards.greenhouse.io/tacobell/jobs/6843093",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TacoBell",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
