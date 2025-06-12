@@ -24756,5 +24756,22 @@
         "company_url": "https://simplify.jobs/c/Relativity-Space",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Procter & Gamble (P&G)",
+        "id": "7f2f7c82-d34f-44c8-83b0-ef1e3a65c34d",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1749696025,
+        "date_posted": 1749696025,
+        "url": "https://pg.wd5.myworkdayjobs.com/1000/job/COBALT-PARK-GO/Junior-Software-Developer_R000133283",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
