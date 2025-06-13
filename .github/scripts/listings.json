@@ -1,23 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Aquatic Capital Management",
-        "id": "fb85f521-0b44-4728-bb9f-3a936fdf0eae",
-        "title": "Software Engineer \u2013 Data: Early Career - 2024",
-        "active": false,
-        "date_updated": 1718752972,
-        "date_posted": 1718752972,
-        "url": "https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/7500291002",
-        "locations": [
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Wayfair",
         "id": "c43c87c7-9e74-4bd1-b164-5b2dc4eb1276",
         "title": "Software Engineer I - IOS",
@@ -8205,38 +8188,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/VideoAmp",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Xylem",
-        "id": "b861d4aa-a6a8-47fb-8691-50b0b6d9a635",
-        "title": "Application Engineer II",
-        "active": false,
-        "date_updated": 1718753194,
-        "date_posted": 1718753194,
-        "url": "https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Holland-Michigan/Application-Engineer-II_R36273",
-        "locations": [
-            "Holland, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Xylem",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Datadog",
-        "id": "03469f3d-49da-4324-8d34-a2c003656dd4",
-        "title": "Manager I \u2013 Engineering - Data Streams Monitoring",
-        "active": false,
-        "date_updated": 1719516598,
-        "date_posted": 1718753167,
-        "url": "https://careers.datadoghq.com/detail/6050566/?gh_jid=6050566",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Datadog",
         "is_visible": true,
         "sponsorship": "Other"
     },
