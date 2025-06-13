@@ -483,22 +483,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Relativity Space",
-        "id": "1cc524d1-1445-4640-be84-25f75c639783",
-        "title": "Software Simulation Engineer I",
-        "active": false,
-        "date_updated": 1718686331,
-        "date_posted": 1718686331,
-        "url": "https://boards.greenhouse.io/relativity/jobs/7060327002",
-        "locations": [
-            "Long Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Relativity-Space",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
