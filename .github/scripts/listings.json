@@ -9946,22 +9946,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Niantic",
-        "id": "8e5b89ce-0971-457e-8d69-daf3a270bf94",
-        "title": "Software Engineer - Web/Fullstack",
-        "active": false,
-        "date_updated": 1718910660,
-        "date_posted": 1718676085,
-        "url": "https://boards.greenhouse.io/niantic/jobs/7500843002",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Niantic",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
