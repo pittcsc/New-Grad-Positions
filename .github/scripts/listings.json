@@ -467,22 +467,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Flashpoint",
-        "id": "301eeae6-5b80-45a4-835f-bc98589abcda",
-        "title": "Analyst I \u2013 Ttm",
-        "active": false,
-        "date_updated": 1718690594,
-        "date_posted": 1718690594,
-        "url": "https://boards.greenhouse.io/flashpoint/jobs/7484820002",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Flashpoint",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -9634,38 +9618,6 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/collectivei",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Neuralink",
-        "id": "3f8bbf3b-52b5-460d-a1ea-0e226ad54850",
-        "title": "Software Engineer - Lab Systems",
-        "active": false,
-        "date_updated": 1718690513,
-        "date_posted": 1718690513,
-        "url": "https://boards.greenhouse.io/neuralink/jobs/5996423003",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Neuralink",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "adMarketplace",
-        "id": "f6ea6ba6-6d9c-4479-84c4-d79bd8416f2b",
-        "title": "Publisher Specialist",
-        "active": false,
-        "date_updated": 1719861840,
-        "date_posted": 1718690496,
-        "url": "https://job-boards.greenhouse.io/admarketplaceinc/jobs/4423779005",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/adMarketplace",
         "is_visible": true,
         "sponsorship": "Other"
     },
