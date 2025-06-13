@@ -9866,22 +9866,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Paperless Parts",
-        "id": "06f1b371-cd1b-4875-9468-19e200e642f2",
-        "title": "Services Engineer",
-        "active": false,
-        "date_updated": 1718679085,
-        "date_posted": 1718679085,
-        "url": "https://boards.greenhouse.io/paperlessparts/jobs/4433480005",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Paperless-Parts",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
@@ -24760,6 +24744,23 @@
             "Irvine, CA"
         ],
         "company_url": "https://simplify.jobs/c/TacoBell",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "b2aecd49-2ada-460b-9b3e-775b0c71003a",
+        "title": "Software Engineer I - Embedded Communications",
+        "active": true,
+        "date_updated": 1749783195,
+        "date_posted": 1749783195,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I----Embedded-Communications--Onsite-_01773093",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other"
     }
