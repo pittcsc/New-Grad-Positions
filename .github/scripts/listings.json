@@ -9705,38 +9705,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Anduril",
-        "id": "835794ef-10d6-499f-9c57-e599f82db24f",
-        "title": "Software Engineer - Tracking & Estimation",
-        "active": false,
-        "date_updated": 1718687490,
-        "date_posted": 1718687490,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4385520007",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Anduril",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Applied Intuition",
-        "id": "c3f410a8-8f78-454f-bcaa-44937fb9268b",
-        "title": "Software Engineer - Rendering",
-        "active": false,
-        "date_updated": 1718686920,
-        "date_posted": 1718686920,
-        "url": "https://boards.greenhouse.io/appliedintuition/jobs/4045255005",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Intuition",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
