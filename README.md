@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 89 New Grad Roles by Category
+### Browse 88 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (74)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (73)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (6)
 
@@ -74,7 +74,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | ↳ | Entry Level Software Engineer | Fredericksburg, VA</br>Dahlgren, VA | <div align="center"><a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0140458?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/47ebe178-d299-43bf-95e4-e124d2404a24?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
 | ↳ | Entry Level Software Engineer | Fredericksburg, VA</br>Dahlgren, VA | <div align="center"><a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0140460?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7f96b1fe-e630-4032-add1-8e2e4a11ac4d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
 | **[Relativity Space](https://simplify.jobs/c/Relativity-Space?utm_source=GHList&utm_medium=company)** | Software Engineer I - Factory Platform | Long Beach, CA | <div align="center"><a href="https://boards.greenhouse.io/relativity/jobs/8031811002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/92b236e9-f2d6-4b02-a956-0ec292ed153f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
-| **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Software Engineer I | Richardson, TX | <div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HTX38-1717-E-Cityline-Drive-1717-E-Cityline-Drive-Building-C17-Richardson-TX-75082-USA/Software-Engineer-I--Onsite-_01772591?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/10af6c3d-717c-4f0c-a470-f52b5512a65d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Software Development Engineer I | Bristol, RI | <div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI101-1847-W-Main-Rd-1847-W-Main-Road-Nimitz-Building-Portsmouth-RI-02871-USA/XMLNAME-2025-Fulltime---Raytheon-Software-Development-Engineer-I--Onsite-_01773046?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9d4d3b61-6b7c-4942-8463-9ecb596b8602?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2d |
 | ↳ | Software Engineer I | Richardson, TX | <div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HTX38-1717-E-Cityline-Drive-1717-E-Cityline-Drive-Building-C17-Richardson-TX-75082-USA/Software-Engineer-I--Onsite-_01773128?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c0d2de5a-494d-4e7c-942a-21081d454716?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2d |
 | **[Hyperproof](https://simplify.jobs/c/1fc3eace-0b69-4dfa-97e0-43c2ec980796?utm_source=GHList&utm_medium=company)** | Entry Level Full Stack AI Engineer | Remote in USA</br>Remote in Canada | <div align="center"><a href="https://hyperproof.io/job-listings/?gh_jid=4573371005&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d3b5b5b0-7f90-4c02-8e8d-2f2099ff0338?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2d |
@@ -141,10 +140,11 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (771)</summary>
+<summary>🗃️ Inactive roles (772)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
+| **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Software Engineer I | Richardson, TX | 🔒 | 1d |
 | **[Esri](https://simplify.jobs/c/Esri?utm_source=GHList&utm_medium=company)** | 3D Software Engineer I - Scene Layers | West Redlands, Redlands, CA | 🔒 | 2d |
 | **[Chewy](https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company)** | Software Engineer I | Boston, MA | 🔒 | 4d |
 | **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I | Toronto, ON, Canada</br>Greater Toronto Area, ON, Canada | 🔒 | 6d |
@@ -390,7 +390,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Software Engineer I | Marlborough, MA | 🔒 | 3mo |
 | **[Cox](https://simplify.jobs/c/Cox?utm_source=GHList&utm_medium=company)** | Software Engineer I | Atlanta, GA | 🔒 | 3mo |
 | **[Sierra Nevada Coporation](https://simplify.jobs/c/Sierra-Nevada-Coporation?utm_source=GHList&utm_medium=company)** | Software Engineer I | Lone Tree, CO | 🔒 | 3mo |
-| ↳ | Software Engineer I | Lone Tree, CO | 🔒 | 3mo |
+| **[Sierra Nevada Coporation](https://simplify.jobs/c/Sierra-Nevada-Coporation?utm_source=GHList&utm_medium=company)** | Software Engineer I | Lone Tree, CO | 🔒 | 3mo |
 | ↳ | Software Engineer I | Lone Tree, CO | 🔒 | 3mo |
 | ↳ | Software Engineer I - Test | Reston, VA | 🔒 | 3mo |
 | **[Apple](https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company)** | Software Development Engineer in Test – Early Career - Retail Engineering |  | 🔒 | 3mo |
