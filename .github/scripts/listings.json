@@ -23253,5 +23253,22 @@
         "company_url": "https://simplify.jobs/c/Ultra-Intelligence-And-Communications",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Truist",
+        "id": "ceb4bb2b-1182-4adb-aad0-7cde078e9465",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1749853698,
+        "date_posted": 1749853698,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/Software-Engineer-I_R0103666-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Truist",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
