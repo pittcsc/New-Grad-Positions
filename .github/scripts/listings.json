@@ -531,22 +531,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Prelim",
-        "id": "812962c5-6789-41ec-bbe4-c125a05a17e7",
-        "title": "Software Engineer - NY Remote",
-        "active": false,
-        "date_updated": 1718678235,
-        "date_posted": 1718678235,
-        "url": "https://jobs.lever.co/prelim/0acefd90-0d1a-491f-a4b2-f4e037e223eb/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Prelim",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -9894,38 +9878,6 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Paperless-Parts",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Vistar Media",
-        "id": "f9981157-e2a3-4a4b-bcea-737710986724",
-        "title": "Frontend Web Designer",
-        "active": false,
-        "date_updated": 1718678421,
-        "date_posted": 1718678421,
-        "url": "https://jobs.lever.co/vistarmedia-2/c16e37c7-ff82-42a9-a3c6-140e59d57a27/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Vistar-Media",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Prelim",
-        "id": "b397470e-94bc-43ab-b29c-40523d1b4131",
-        "title": "Software Engineer - SF Remote",
-        "active": false,
-        "date_updated": 1720485653,
-        "date_posted": 1718678234,
-        "url": "https://jobs.lever.co/prelim/8a0cfbf8-9613-40d9-8817-0967374678b5/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Prelim",
         "is_visible": true,
         "sponsorship": "Other"
     },
