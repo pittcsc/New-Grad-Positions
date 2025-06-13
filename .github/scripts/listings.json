@@ -515,22 +515,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "1848Ventures",
-        "id": "0fccd011-c22c-44f7-8dfb-20abb46936b1",
-        "title": "Technologist",
-        "active": false,
-        "date_updated": 1718680216,
-        "date_posted": 1718680216,
-        "url": "https://boards.greenhouse.io/1848ventures/jobs/5188690004",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/1848Ventures",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -9846,22 +9830,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/MongoDB",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "1848Ventures",
-        "id": "8a4610c2-e756-4ec4-8ba4-e10b53002830",
-        "title": "Full Stack Software Engineer",
-        "active": false,
-        "date_updated": 1718680167,
-        "date_posted": 1718680167,
-        "url": "https://boards.greenhouse.io/1848ventures/jobs/5188687004",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/1848Ventures",
         "is_visible": true,
         "sponsorship": "Other"
     },
