@@ -306,22 +306,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Unit 410",
-        "id": "1e66673e-4924-4fd2-9ebc-d52391ce2c94",
-        "title": "Protocol Specialist - Remote USA",
-        "active": false,
-        "date_updated": 1718723619,
-        "date_posted": 1718723619,
-        "url": "https://boards.greenhouse.io/u410/jobs/4615762004",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Unit410",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -8429,38 +8413,6 @@
             "Remote in UK"
         ],
         "company_url": "https://simplify.jobs/c/Canonical",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "minware",
-        "id": "5f818d9a-3550-4141-8365-f09d0934603d",
-        "title": "Front End Engineer",
-        "active": false,
-        "date_updated": 1718723597,
-        "date_posted": 1718723597,
-        "url": "https://boards.greenhouse.io/minware/jobs/4405257005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Minware",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "minware",
-        "id": "3f72afe2-6ca4-49c5-9287-d887cf33cada",
-        "title": "Front End Engineer",
-        "active": false,
-        "date_updated": 1718723598,
-        "date_posted": 1718723598,
-        "url": "https://boards.greenhouse.io/minware/jobs/4405261005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Minware",
         "is_visible": true,
         "sponsorship": "Other"
     },
