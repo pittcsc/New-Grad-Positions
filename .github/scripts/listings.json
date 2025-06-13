@@ -354,54 +354,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Welocalize",
-        "id": "368645e2-ad96-4690-a6a3-fa736913e3ee",
-        "title": "Data Specialist",
-        "active": false,
-        "date_updated": 1719019114,
-        "date_posted": 1718695694,
-        "url": "https://jobs.lever.co/welocalize/562f3b99-a157-4b18-9cb9-432bbc8999f7/apply",
-        "locations": [
-            "Portland, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Welocalize",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Verkada",
-        "id": "48744471-0a69-4461-bc08-a48174f7597f",
-        "title": "Frontend Engineer - Search & Computer Vision",
-        "active": false,
-        "date_updated": 1719343243,
-        "date_posted": 1718695233,
-        "url": "https://boards.greenhouse.io/verkada/jobs/4128663007",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Verkada",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Art of Problem Solving",
-        "id": "b2b05a8b-fe55-4742-acb7-045df50290f5",
-        "title": "Math Instructor",
-        "active": false,
-        "date_updated": 1718694979,
-        "date_posted": 1718694979,
-        "url": "https://artofproblemsolving.com/careers/job/5971928003?gh_jid=5971928003",
-        "locations": [
-            "South Orange, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Art-of-Problem-Solving",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -751,22 +703,6 @@
             "San Bruno, CA"
         ],
         "company_url": "https://simplify.jobs/c/SimbeRobotics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Welocalize",
-        "id": "3faec6fa-7780-4227-b4b0-0da71a0ac3fa",
-        "title": "Scout Search Quality Rater - Spanish - USA",
-        "active": false,
-        "date_updated": 1719516998,
-        "date_posted": 1718695634,
-        "url": "https://jobs.lever.co/welocalize/8c5d74a0-775b-420a-bf87-5bc20ba5a48e/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Welocalize",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -8973,88 +8909,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/QarikGroup",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cohere",
-        "id": "f8e79e25-88f2-4d28-97be-89ab03055a8f",
-        "title": "Member of Technical Staff - Search",
-        "active": false,
-        "date_updated": 1719238539,
-        "date_posted": 1718695783,
-        "url": "https://jobs.lever.co/cohere/96c34a55-cc04-4ff8-9b41-2bb3b124e7a3/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Cohere",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Lyft",
-        "id": "b3a6541a-5e22-416c-920c-61c9b6f19a5e",
-        "title": "Software Engineer - Rider",
-        "active": false,
-        "date_updated": 1718695772,
-        "date_posted": 1718695772,
-        "url": "https://app.careerpuck.com/job-board/lyft/job/7313796002?gh_jid=7313796002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Lyft",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Verkada",
-        "id": "ab1a4737-8d7a-45a3-b21e-ed523ee293a7",
-        "title": "Software Engineer - Data Platform",
-        "active": false,
-        "date_updated": 1719516883,
-        "date_posted": 1718695303,
-        "url": "https://boards.greenhouse.io/verkada/jobs/4129304007",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Verkada",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Normal Computing",
-        "id": "3d5b0522-c635-46c8-a960-5a4a8f06c41f",
-        "title": "AI Resident",
-        "active": false,
-        "date_updated": 1719256787,
-        "date_posted": 1718695046,
-        "url": "https://jobs.ashbyhq.com/Normal%20Computing%20AI/975c754f-e5dd-4137-9e3e-63c81405d84f/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/NormalComputing",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Anthropic",
-        "id": "fff678b7-a1ae-4257-9aa9-277552b3f89c",
-        "title": "Policy Research Analyst",
-        "active": false,
-        "date_updated": 1718996848,
-        "date_posted": 1718695008,
-        "url": "https://boards.greenhouse.io/anthropic/jobs/4035151008",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Anthropic",
         "is_visible": true,
         "sponsorship": "Other"
     },
