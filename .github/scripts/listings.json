@@ -258,54 +258,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Iterative Health",
-        "id": "2dd7617b-c54d-4b85-be29-5cc84821ee2d",
-        "title": "Software Engineer I - Backend - Future Openings",
-        "active": false,
-        "date_updated": 1718724485,
-        "date_posted": 1718724485,
-        "url": "https://boards.greenhouse.io/iterativehealth/jobs/4009474006",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Iterative-Health",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Welocalize",
-        "id": "350cfdb9-8982-41e4-8e05-f3f740c15a6e",
-        "title": "Scout Search Quality Rater - English - UK",
-        "active": false,
-        "date_updated": 1718724477,
-        "date_posted": 1718724477,
-        "url": "https://jobs.lever.co/welocalize/70522b25-5543-4fa1-a511-158e27a64386/apply",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Welocalize",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Athelas",
-        "id": "108c9c55-7901-4e73-b817-4d3d6a1a7aca",
-        "title": "Data Operator",
-        "active": false,
-        "date_updated": 1718935188,
-        "date_posted": 1718724082,
-        "url": "https://jobs.ashbyhq.com/Athelas/ecf25b57-433f-4918-ae71-9c317972003b/application",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Athelas",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -8381,38 +8333,6 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/StackAdapt",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Canonical",
-        "id": "9ed0b3c6-f19e-4bdb-a31f-12fc5341d0a6",
-        "title": "Python Software Engineer - Ubuntu Hardware Certification Team",
-        "active": false,
-        "date_updated": 1718724514,
-        "date_posted": 1718724514,
-        "url": "https://boards.greenhouse.io/canonical/jobs/3658005",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Canonical",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Canonical",
-        "id": "ed31b8e0-323c-479c-a917-6feeaf19b08a",
-        "title": "C \u2013 Golang Software Engineer working on dqlite - A Raft extension for Sqlite",
-        "active": false,
-        "date_updated": 1718724485,
-        "date_posted": 1718724485,
-        "url": "https://boards.greenhouse.io/canonical/jobs/4124053",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Canonical",
         "is_visible": true,
         "sponsorship": "Other"
     },
