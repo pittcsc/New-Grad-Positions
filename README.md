@@ -135,7 +135,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (777)</summary>
+<summary>🗃️ Inactive roles (776)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
@@ -189,7 +189,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Cox](https://simplify.jobs/c/Cox?utm_source=GHList&utm_medium=company)** | Software Engineer I | Austin, TX | 🔒 | 23d |
 | **[Global Payments](https://simplify.jobs/c/Global-Payments?utm_source=GHList&utm_medium=company)** | Mainframe Software Engineer I or Above | Columbus, GA | 🔒 | 23d |
 | **[Marqeta](https://simplify.jobs/c/Marqeta?utm_source=GHList&utm_medium=company)** | Software Engineer I - Cloud Database Engineering | Toronto, ON, Canada</br>Vancouver, BC, Canada | 🔒 | 23d |
-| **[TailorCare](https://simplify.jobs/c/TailorCare?utm_source=GHList&utm_medium=company)** | Software Engineer I | Nashville, TN | 🔒 | 23d |
+| **[TailorCare](https://simplify.jobs/c/TailorCare?utm_source=GHList&utm_medium=company)** | Software Engineer I | Nashville, TN | 🔒 | 24d |
 | **[RELX](https://simplify.jobs/c/1495091e-1f19-4c30-a48a-5afa4aa5e7dd?utm_source=GHList&utm_medium=company)** | Software Engineer I Hybrid | Horsham, PA | 🔒 | 24d |
 | **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I | SF | 🔒 | 24d |
 | ↳ | Software Engineer I | Toronto, ON, Canada</br>Greater Toronto Area, ON, Canada | 🔒 | 24d |
@@ -197,7 +197,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Qualtrics](https://simplify.jobs/c/Qualtrics?utm_source=GHList&utm_medium=company)** | Software Development Engineer I - Customer Experience | Seattle, WA | 🔒 | 24d |
 | **[Marqeta](https://simplify.jobs/c/Marqeta?utm_source=GHList&utm_medium=company)** | Software Engineer I - Core Edge Processing | Toronto, ON, Canada</br>Vancouver, BC, Canada | 🔒 | 27d |
 | **[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)** | Testing Software Engineer I | Charlotte, NC | 🔒 | 27d |
-| **[Marqeta](https://simplify.jobs/c/Marqeta?utm_source=GHList&utm_medium=company)** | Software Engineer I - Transaction Engine Foundation | Toronto, ON, Canada</br>Vancouver, BC, Canada | 🔒 | 27d |
+| **[Marqeta](https://simplify.jobs/c/Marqeta?utm_source=GHList&utm_medium=company)** | Software Engineer I - Transaction Engine Foundation | Toronto, ON, Canada</br>Vancouver, BC, Canada | 🔒 | 28d |
 | **[CACI](https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company)** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | 28d |
 | **[Global Payments](https://simplify.jobs/c/Global-Payments?utm_source=GHList&utm_medium=company)** | Mainframe Software Engineer I or Above | Alpharetta, GA</br>Columbus, GA | 🔒 | 29d |
 | **[Qualtrics](https://simplify.jobs/c/Qualtrics?utm_source=GHList&utm_medium=company)** | Software Development Engineer I - Customer Experience | Reston, VA | 🔒 | 29d |
@@ -915,7 +915,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[SimpliSafe](https://simplify.jobs/c/SimpliSafe?utm_source=GHList&utm_medium=company)** | Software Engineer I | Cambridge, MA | 🔒 | 11mo |
 | **[Wayfair](https://simplify.jobs/c/Wayfair?utm_source=GHList&utm_medium=company)** | Software Engineer I - IOS | Cambridge, MA | 🔒 | 11mo |
 | ↳ | Software Engineer I - Backend | Cambridge, MA | 🔒 | 11mo |
-| **[Aquatic Capital Management](https://simplify.jobs/c/Aquatic-Capital-Management?utm_source=GHList&utm_medium=company)** | Software Engineer – Data: Early Career - 2024 | Chicago, IL</br>NYC | 🔒 | 11mo |
 
 
 </details>
@@ -945,7 +944,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
-| **[Fifth Third Bank](https://simplify.jobs/c/Fifth-Third-Bank?utm_source=GHList&utm_medium=company)** | Data Engineer I - Regulatory Reporting | Cincinnati, OH | 🔒 | 7d |
+| **[Fifth Third Bank](https://simplify.jobs/c/Fifth-Third-Bank?utm_source=GHList&utm_medium=company)** | Data Engineer I - Regulatory Reporting | Cincinnati, OH | 🔒 | 8d |
 | **[USAA](https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63?utm_source=GHList&utm_medium=company)** | Data Engineer – Entry Level | Plano, TX | 🔒 | 9d |
 | **[Centene](https://simplify.jobs/c/Centene?utm_source=GHList&utm_medium=company)** | Data Engineer I | California</br>Florida</br>North Carolina | 🔒 | 13d |
 | **[Fifth Third Bank](https://simplify.jobs/c/Fifth-Third-Bank?utm_source=GHList&utm_medium=company)** | Data Engineer I - Finance IT | Cincinnati, OH | 🔒 | 23d |
