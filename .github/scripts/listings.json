@@ -322,22 +322,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Verkada",
-        "id": "e3caee75-b6d7-4157-9808-ba6f2a19d609",
-        "title": "Software Engineer - Engineering Productivity",
-        "active": false,
-        "date_updated": 1719342666,
-        "date_posted": 1718696771,
-        "url": "https://boards.greenhouse.io/verkada/jobs/4128987007",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Verkada",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -8477,54 +8461,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Minware",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Xylem",
-        "id": "3d39b361-565a-4ebb-9220-98056121040f",
-        "title": "Application Engineer II",
-        "active": false,
-        "date_updated": 1718696779,
-        "date_posted": 1718696779,
-        "url": "https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Colorado-Springs-Colorado/Application-Engineer-II_R36308",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Xylem",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Vatic Investments",
-        "id": "23894828-e082-4590-b0bf-b6af86ba42b1",
-        "title": "Quantitative Researcher \u2013 2025 Grads - Full Time",
-        "active": false,
-        "date_updated": 1718696789,
-        "date_posted": 1718696789,
-        "url": "https://boards.greenhouse.io/vaticlabs/jobs/53549",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Vatic-Investments",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "AppZen",
-        "id": "c0a679fb-efac-4562-a0af-25116ba50908",
-        "title": "AI Sales Development Representative - London",
-        "active": false,
-        "date_updated": 1719019258,
-        "date_posted": 1718696758,
-        "url": "https://jobs.lever.co/appzen/c622e327-91b3-4b34-989a-c1c615953cc4/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/AppZen",
         "is_visible": true,
         "sponsorship": "Other"
     },
