@@ -226,38 +226,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "ZoomInfo",
-        "id": "821b71bf-cfc9-414c-b2a3-3b2951ff2786",
-        "title": "Research Specialist I",
-        "active": false,
-        "date_updated": 1718752390,
-        "date_posted": 1718752390,
-        "url": "https://www.zoominfo.com/about/careers?gh_jid=7493560002",
-        "locations": [
-            "Vancouver, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ZoomInfo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "ZoomInfo",
-        "id": "f4ce9800-558b-4263-b331-953cfaadea19",
-        "title": "Research Specialist I",
-        "active": false,
-        "date_updated": 1718752389,
-        "date_posted": 1718752389,
-        "url": "https://www.zoominfo.com/about/careers?gh_jid=7493615002",
-        "locations": [
-            "Waltham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/ZoomInfo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -8269,54 +8237,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Datadog",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "ReadMe",
-        "id": "42cc2b67-e0be-4f6e-9532-89b18b10795b",
-        "title": "Front End Engineer",
-        "active": false,
-        "date_updated": 1718962658,
-        "date_posted": 1718752114,
-        "url": "https://jobs.ashbyhq.com/readme/83dca29c-e9f5-4c2d-a251-37b9fab0b6e9/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/ReadMe",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Niantic",
-        "id": "8f783523-ce84-4295-9563-7d565f4ad122",
-        "title": "Software Engineer - Web/Fullstack",
-        "active": false,
-        "date_updated": 1718910716,
-        "date_posted": 1718751976,
-        "url": "https://boards.greenhouse.io/niantic/jobs/7500987002",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Niantic",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Fullscript",
-        "id": "474e5f13-28e2-483b-bffe-0209bdf0351c",
-        "title": "Fullstack Developer - Canada",
-        "active": false,
-        "date_updated": 1718751948,
-        "date_posted": 1718751948,
-        "url": "https://jobs.lever.co/fullscript/47b17fb0-7242-4b1a-a091-39e41c584b2b/apply",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/FullScript",
         "is_visible": true,
         "sponsorship": "Other"
     },
