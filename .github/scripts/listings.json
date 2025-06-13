@@ -9670,41 +9670,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "DoorDash",
-        "id": "98b5dbcd-11f2-4982-80b9-01a3d3aac014",
-        "title": "Software Engineer - IOS - All Teams",
-        "active": false,
-        "date_updated": 1718690311,
-        "date_posted": 1718690311,
-        "url": "https://boards.greenhouse.io/doordash/jobs/5630454",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "NYC",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/DoorDash",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Anduril",
-        "id": "0936efbe-81ee-4310-a397-2f579dbc5f8b",
-        "title": "Full Stack Software Engineer - Android",
-        "active": false,
-        "date_updated": 1720638967,
-        "date_posted": 1718689987,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4159488007",
-        "locations": [
-            "Newport Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Anduril",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
