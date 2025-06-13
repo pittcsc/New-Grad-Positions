@@ -499,22 +499,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Zynga",
-        "id": "66456b67-de24-458e-b54b-7400b7645657",
-        "title": "Software Engineer-1",
-        "active": false,
-        "date_updated": 1718684362,
-        "date_posted": 1718684362,
-        "url": "https://boards.greenhouse.io/zynga/jobs/4389760004",
-        "locations": [
-            "Urbana, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Zynga",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -9781,23 +9765,6 @@
             "Edinburgh, UK"
         ],
         "company_url": "https://simplify.jobs/c/Rockstar-Games",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "GitLab",
-        "id": "df2dad71-a30e-49dd-9d0f-9c337ea7be97",
-        "title": "Backend Engineer - Plan: Project Management",
-        "active": false,
-        "date_updated": 1718684885,
-        "date_posted": 1718684885,
-        "url": "https://boards.greenhouse.io/gitlab/jobs/7500534002",
-        "locations": [
-            "Remote in USA",
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/GitLab",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -24499,7 +24466,7 @@
         "company_name": "RTX",
         "id": "10af6c3d-717c-4f0c-a470-f52b5512a65d",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1749631263,
         "date_posted": 1749631263,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HTX38-1717-E-Cityline-Drive-1717-E-Cityline-Drive-Building-C17-Richardson-TX-75082-USA/Software-Engineer-I--Onsite-_01772591",
