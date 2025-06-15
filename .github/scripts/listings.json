@@ -193,22 +193,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Astranis",
-        "id": "15947fd4-fb02-4751-af03-2e2d8a7e6862",
-        "title": "Production Development - Associate Program - Fall 2024",
-        "active": false,
-        "date_updated": 1718844584,
-        "date_posted": 1718844584,
-        "url": "https://boards.greenhouse.io/astranis/jobs/4337928006",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Astranis",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -8140,38 +8124,6 @@
             "Holland, MI"
         ],
         "company_url": "https://simplify.jobs/c/Xylem",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Jane Street",
-        "id": "9482f12e-d141-458d-8d45-02772414d7c9",
-        "title": "Front End Software Engineer",
-        "active": false,
-        "date_updated": 1718845143,
-        "date_posted": 1718845143,
-        "url": "https://boards.greenhouse.io/janestreet/jobs/6184529002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cloudflare",
-        "id": "57e03e74-229f-4c7a-adb9-d4f410ad28c1",
-        "title": "Sales Operations Data Analyst",
-        "active": false,
-        "date_updated": 1718844565,
-        "date_posted": 1718844565,
-        "url": "https://boards.greenhouse.io/cloudflare/jobs/6035674",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cloudflare",
         "is_visible": true,
         "sponsorship": "Other"
     },
