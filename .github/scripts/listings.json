@@ -8063,55 +8063,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "48forty Solutions",
-        "id": "0e311f5d-c3af-4247-8488-da8a41928d72",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1718896389,
-        "date_posted": 1718896389,
-        "url": "https://boards.greenhouse.io/48fortysolutions/jobs/4435393005",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/48forty-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Via",
-        "id": "4f577016-e970-490d-b5bf-7b74d4470360",
-        "title": "Transportation Data Analyst - Citymapper",
-        "active": false,
-        "date_updated": 1718896436,
-        "date_posted": 1718896436,
-        "url": "https://boards.greenhouse.io/via/jobs/7504938002",
-        "locations": [
-            "London, UK",
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Via",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Breeze Airways",
-        "id": "812c5678-aad4-4907-a19f-2a89de2244d2",
-        "title": "Cloud Engineer",
-        "active": false,
-        "date_updated": 1718896045,
-        "date_posted": 1718896045,
-        "url": "https://boards.greenhouse.io/breezeairways/jobs/5995495003",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Breeze-Airways",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
