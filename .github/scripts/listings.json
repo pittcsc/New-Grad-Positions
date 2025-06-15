@@ -1,38 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Wayfair",
-        "id": "c43c87c7-9e74-4bd1-b164-5b2dc4eb1276",
-        "title": "Software Engineer I - IOS",
-        "active": false,
-        "date_updated": 1718897126,
-        "date_posted": 1718897126,
-        "url": "https://www.wayfair.com/careers/jobs/7471733002?gh_jid=7471733002",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Wayfair",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Wayfair",
-        "id": "741af77f-23d5-4a65-b273-68eb622a7e78",
-        "title": "Software Engineer I - Backend",
-        "active": false,
-        "date_updated": 1718897120,
-        "date_posted": 1718897120,
-        "url": "https://www.wayfair.com/careers/jobs/7502993002?gh_jid=7502993002",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Wayfair",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "SimpliSafe",
         "id": "4623274c-aa5b-4987-abb6-0d44af521387",
         "title": "Software Engineer I",
@@ -8043,22 +8011,6 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/XPengMotors",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Jane Street",
-        "id": "6b51a0ac-f794-4e5c-8901-9ff7fa1c735f",
-        "title": "Market Data Specialist - Metadata",
-        "active": false,
-        "date_updated": 1718897135,
-        "date_posted": 1718897135,
-        "url": "https://boards.greenhouse.io/janestreet/jobs/7216850002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
         "is_visible": true,
         "sponsorship": "Other"
     },
