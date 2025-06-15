@@ -145,22 +145,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Anaplan",
-        "id": "a852404d-6e99-42e0-a1d7-d4be91cffadb",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1718925236,
-        "date_posted": 1718925236,
-        "url": "https://boards.greenhouse.io/anaplan/jobs/7506601002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Anaplan",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
