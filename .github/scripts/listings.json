@@ -65,22 +65,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "BitGo",
-        "id": "fc6ecf6a-d434-4bcb-9b58-425486c3141f",
-        "title": "Data Engineer",
-        "active": false,
-        "date_updated": 1719012374,
-        "date_posted": 1719012374,
-        "url": "https://boards.greenhouse.io/bitgo/jobs/7508780002",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BitGo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
