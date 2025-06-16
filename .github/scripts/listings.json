@@ -2274,22 +2274,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Ascend Analytics",
-        "id": "6ffcf3d4-b6fd-43ff-b2fd-a9c8ab4eac57",
-        "title": "Energy Analyst - General Interest",
-        "active": false,
-        "date_updated": 1720034480,
-        "date_posted": 1718965188,
-        "url": "https://boards.greenhouse.io/ascendanalytics/jobs/4384286005",
-        "locations": [
-            "Boulder, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/AscendAnalytics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Match Group",
         "id": "c508abbd-a1c9-4d82-b660-d62d3aa04a7e",
         "title": "Data Scientist I - Marketing Analytics",
@@ -7947,22 +7931,6 @@
             "United Kingdom"
         ],
         "company_url": "https://simplify.jobs/c/Keywords-Studios",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Netskope",
-        "id": "29c5e7b6-1787-4c4c-92bd-7f1a1e96b901",
-        "title": "Linux Operations Engineer - Fedramp - Contractor",
-        "active": false,
-        "date_updated": 1718965773,
-        "date_posted": 1718965773,
-        "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=5986339",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Netskope",
         "is_visible": true,
         "sponsorship": "Other"
     },
