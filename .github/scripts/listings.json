@@ -81,22 +81,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Mediabrands",
-        "id": "a8cbf680-7187-425d-8949-0cbb2d517137",
-        "title": "Associate \u2013 Programmatic",
-        "active": false,
-        "date_updated": 1719011365,
-        "date_posted": 1719011365,
-        "url": "https://boards.greenhouse.io/mediabrands/jobs/4365650007",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mediabrands",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -7770,38 +7754,6 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Arcteryx-Equipment",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "The Voleon Group",
-        "id": "c5ae6328-02cf-439e-87b3-b2b9dcf8bb26",
-        "title": "Trading Operations Analyst",
-        "active": false,
-        "date_updated": 1719011532,
-        "date_posted": 1719011532,
-        "url": "https://jobs.lever.co/voleon/56c11e51-099c-4124-9883-cff318543ec7/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Voleon-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "MiQ",
-        "id": "c291f367-2610-4c3b-bec5-242402afca9d",
-        "title": "Associate Programmatic Trader - Advertising",
-        "active": false,
-        "date_updated": 1719011715,
-        "date_posted": 1719011715,
-        "url": "https://www.wearemiq.com/careers/job?gh_jid=7507820002",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/MiQ",
         "is_visible": true,
         "sponsorship": "Other"
     },
