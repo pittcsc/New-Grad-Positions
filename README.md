@@ -155,8 +155,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I | Toronto, ON, Canada</br>Greater Toronto Area, ON, Canada | 🔒 | 9d |
 | **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I | SF | 🔒 | 10d |
 | **[Comcast](https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company)** | Engineer 1 - Software Dev/Eng - Full Stack | Philadelphia, PA | 🔒 | 10d |
-| **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Software Engineer I - Java | Fulton, MD | 🔒 | 10d |
-| **[Cox](https://simplify.jobs/c/Cox?utm_source=GHList&utm_medium=company)** | Software Engineer 1 | Carmel, IN | 🔒 | 10d |
+| **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Software Engineer I - Java | Fulton, MD | 🔒 | 11d |
+| **[Cox](https://simplify.jobs/c/Cox?utm_source=GHList&utm_medium=company)** | Software Engineer 1 | Carmel, IN | 🔒 | 11d |
 | **[Omnicell](https://simplify.jobs/c/Omnicell?utm_source=GHList&utm_medium=company)** | Software Engineer I | Cranberry Twp, PA | 🔒 | 11d |
 | **[Amentum](https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company)** | Entry Level Software Developer | Dahlgren, VA | 🔒 | 11d |
 | **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I | SF | 🔒 | 11d |
@@ -192,7 +192,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Horace Mann](https://simplify.jobs/c/Horace-Mann?utm_source=GHList&utm_medium=company)** | Software Engineer I | Springfield, IL</br>Addison, TX | 🔒 | 25d |
 | **[Cox](https://simplify.jobs/c/Cox?utm_source=GHList&utm_medium=company)** | Software Engineer I | Austin, TX | 🔒 | 26d |
 | **[Global Payments](https://simplify.jobs/c/Global-Payments?utm_source=GHList&utm_medium=company)** | Mainframe Software Engineer I or Above | Columbus, GA | 🔒 | 26d |
-| **[Marqeta](https://simplify.jobs/c/Marqeta?utm_source=GHList&utm_medium=company)** | Software Engineer I - Cloud Database Engineering | Toronto, ON, Canada</br>Vancouver, BC, Canada | 🔒 | 26d |
+| **[Marqeta](https://simplify.jobs/c/Marqeta?utm_source=GHList&utm_medium=company)** | Software Engineer I - Cloud Database Engineering | Toronto, ON, Canada</br>Vancouver, BC, Canada | 🔒 | 27d |
 | **[TailorCare](https://simplify.jobs/c/TailorCare?utm_source=GHList&utm_medium=company)** | Software Engineer I | Nashville, TN | 🔒 | 27d |
 | **[RELX](https://simplify.jobs/c/1495091e-1f19-4c30-a48a-5afa4aa5e7dd?utm_source=GHList&utm_medium=company)** | Software Engineer I Hybrid | Horsham, PA | 🔒 | 27d |
 | **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I | SF | 🔒 | 27d |
@@ -332,7 +332,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Comcast](https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company)** | Data Engineer 1 | Chicago, IL</br>Reston, VA | 🔒 | 2mo |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Entry Level Software Engineer | Huntsville, AL | 🔒 | 2mo |
 | **[Chewy](https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company)** | Software Engineer I | Boston, MA | 🔒 | 2mo |
-| **[Amentum](https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company)** | Entry Level Software Engineer | Fredericksburg, VA | 🔒 | 2mo |
+| **[Amentum](https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company)** | Entry Level Software Engineer | Fredericksburg, VA | 🔒 | 3mo |
 | **[Fifth Third Bank](https://simplify.jobs/c/Fifth-Third-Bank?utm_source=GHList&utm_medium=company)** | Data Engineer 1 - Fdic | Cincinnati, OH | 🔒 | 3mo |
 | **[Cox](https://simplify.jobs/c/Cox?utm_source=GHList&utm_medium=company)** | Software Engineer I | Atlanta, GA | 🔒 | 3mo |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Entry Level Software Engineer | Huntsville, AL | 🔒 | 3mo |
