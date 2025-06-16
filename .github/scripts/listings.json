@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "SimpliSafe",
-        "id": "4623274c-aa5b-4987-abb6-0d44af521387",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1718982721,
-        "date_posted": 1718982721,
-        "url": "https://boards.greenhouse.io/simplisafe/jobs/6019248",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/SimpliSafe",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Advanced Technology Services (ATS)",
         "id": "34a2109e-c491-4143-b156-39bfa8cf7b98",
         "title": "Software Engineer I",
@@ -7786,22 +7770,6 @@
             "LA"
         ],
         "company_url": "https://simplify.jobs/c/System1",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "ElevenLabs",
-        "id": "e01a4b1d-a57d-467f-b331-cc2482db514d",
-        "title": "Fullstack Engineer - Frontend Leaning",
-        "active": false,
-        "date_updated": 1718982381,
-        "date_posted": 1718982381,
-        "url": "https://jobs.ashbyhq.com/elevenlabs/ef90b176-ca78-42bd-880a-bab3b0533629/application",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ElevenLabs",
         "is_visible": true,
         "sponsorship": "Other"
     },
