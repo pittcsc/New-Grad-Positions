@@ -22747,5 +22747,21 @@
         "company_url": "https://simplify.jobs/c/7shifts",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1750205383,
+        "url": "https://tally.so/r/w27qjg",
+        "company_name": "Anant LLC",
+        "title": "SWE Internships",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "yugoyal",
+        "id": "4ef08c3e-00d3-440f-a824-752a576b198c",
+        "date_posted": 1750205383,
+        "company_url": "",
+        "is_visible": true
     }
 ]
