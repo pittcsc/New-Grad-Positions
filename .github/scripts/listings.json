@@ -33,22 +33,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Forward",
-        "id": "69ee35be-0ef9-4b03-ab2b-941c9402d9db",
-        "title": "Software Engineer \u2013 Entry Level - Full Stack",
-        "active": false,
-        "date_updated": 1719271009,
-        "date_posted": 1719271009,
-        "url": "https://jobs.lever.co/goforward/073d1961-b3fd-4515-a7a4-a34a2eedb74a/apply",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Forward",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -7578,54 +7562,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Waterfall",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "LaunchDarkly",
-        "id": "6076f51a-bcb1-46d3-98b3-5a340bd0663a",
-        "title": "Software Engineer - SDK",
-        "active": false,
-        "date_updated": 1719271805,
-        "date_posted": 1719271805,
-        "url": "https://boards.greenhouse.io/launchdarkly/jobs/6035022003",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/LaunchDarkly",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Rhombus Power",
-        "id": "adffc3cb-6a70-4656-855b-6f0087e1caf0",
-        "title": "Model & Data Development Analyst",
-        "active": false,
-        "date_updated": 1719271267,
-        "date_posted": 1719271267,
-        "url": "https://boards.greenhouse.io/rhombuspower/jobs/6035047003",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Rhombus-Power",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Shift5",
-        "id": "796c5929-f8a1-4acf-9803-cd4e1ee15924",
-        "title": "Field Data Analyst - Onsite in FL",
-        "active": false,
-        "date_updated": 1719270971,
-        "date_posted": 1719270971,
-        "url": "https://boards.greenhouse.io/shift5/jobs/5214610004",
-        "locations": [
-            "Hurlburt Field, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Shift5",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -21610,7 +21546,7 @@
         "company_name": "Chewy",
         "id": "3c515a8e-4de5-425e-9abb-309c6a085216",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1748657041,
         "date_posted": 1748657041,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6937131",
