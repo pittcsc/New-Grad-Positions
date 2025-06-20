@@ -16,22 +16,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Venture Global LNG",
-        "id": "a457210c-8b99-4b37-8bc2-399b8bc07531",
-        "title": "Scheduler \u2013 Natural Gas",
-        "active": false,
-        "date_updated": 1719429658,
-        "date_posted": 1719358258,
-        "url": "https://boards.greenhouse.io/venturegloballng/jobs/7512263002",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Venture-Global-Lng",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1719444276,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1730183/Software-Engineer",
         "company_name": "Microsoft",
@@ -22628,6 +22612,23 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/CollectiveHub",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Qualtrics",
+        "id": "dac33903-bd48-461f-b704-7b8b877634ce",
+        "title": "Software Engineer I - Research Methodologies",
+        "active": true,
+        "date_updated": 1750462937,
+        "date_posted": 1750462937,
+        "url": "https://www.qualtrics.com/careers/us/en/job/6963280?gh_jid=6963280",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualtrics",
         "is_visible": true,
         "sponsorship": "Other"
     }
