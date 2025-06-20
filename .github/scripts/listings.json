@@ -7518,54 +7518,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Rhombus",
-        "id": "2d0b91c4-4d48-4697-aaa3-86787d938e96",
-        "title": "API Integrations Engineer",
-        "active": false,
-        "date_updated": 1719364721,
-        "date_posted": 1719299551,
-        "url": "https://jobs.lever.co/rhombus-systems/69b86ad5-0fd5-4180-be60-5057c159ea95/apply",
-        "locations": [
-            "Sacramento, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Rhombus-Systems",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Connectly",
-        "id": "bfe19dc6-9508-499e-a0f3-778b8467ec99",
-        "title": "Generative AI Software Engineer",
-        "active": false,
-        "date_updated": 1719299373,
-        "date_posted": 1719299373,
-        "url": "https://jobs.lever.co/connectly/15a42d7d-62df-45fa-b443-18a732d75a41/apply",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Connectly",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Waterfall",
-        "id": "e8d55620-0001-4e80-ab04-46019e343758",
-        "title": "Smart Contract Engineer - Evm",
-        "active": false,
-        "date_updated": 1719299282,
-        "date_posted": 1719299282,
-        "url": "https://jobs.lever.co/waterfall/546c36d8-f568-458e-9e3a-19c5704a6a95/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Waterfall",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
