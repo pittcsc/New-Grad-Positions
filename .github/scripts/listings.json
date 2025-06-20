@@ -32,23 +32,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Aquatic Capital Management",
-        "id": "9489bce0-5fcd-45d3-8146-b479668b7153",
-        "title": "Quantitative Researcher \u2013 Early Career - 2025",
-        "active": true,
-        "date_updated": 1719357834,
-        "date_posted": 1719357834,
-        "url": "https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/7468705002",
-        "locations": [
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1719444276,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1730183/Software-Engineer",
         "company_name": "Microsoft",
@@ -7335,38 +7318,6 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/TrueAnomaly",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Epic Games",
-        "id": "c30e74ad-9891-430a-a338-2ebbf6292d1a",
-        "title": "Development Coordinator",
-        "active": false,
-        "date_updated": 1719357497,
-        "date_posted": 1719357497,
-        "url": "https://boards.greenhouse.io/epicgames/jobs/5193847004",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Epic-Games",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Zoox",
-        "id": "c2b8ead6-aa66-47c3-98b5-860e6d42ea13",
-        "title": "Machine Learning Engineer - Agent Simulation",
-        "active": false,
-        "date_updated": 1719364371,
-        "date_posted": 1719357353,
-        "url": "https://jobs.lever.co/zoox/c62ac556-9c14-49c1-9332-067dd090abde/apply",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zoox",
         "is_visible": true,
         "sponsorship": "Other"
     },
