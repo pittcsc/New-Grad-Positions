@@ -16751,7 +16751,7 @@
         "company_name": "esri",
         "id": "80da21ce-b264-439a-a6e9-d6ba68a20436",
         "title": "Java Software Engineer I - Arcgis Enterprise",
-        "active": false,
+        "active": true,
         "date_updated": 1741222698,
         "date_posted": 1741222698,
         "url": "https://www.esri.com/careers/4660952007?gh_jid=4660952007",
@@ -22693,6 +22693,40 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blue Yonder",
+        "id": "d21da63a-497c-4043-a9ad-decd79101ff2",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1750458325,
+        "date_posted": 1750458325,
+        "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineer-I_252041-1",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aledade",
+        "id": "326c6d03-726e-45a0-84b5-3e69605a5998",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1750457840,
+        "date_posted": 1750457840,
+        "url": "https://jobs.lever.co/aledade/908df068-fde7-4547-abda-deccd3bc6c64/apply",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Aledade",
         "is_visible": true,
         "sponsorship": "Other"
     }
