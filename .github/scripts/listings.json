@@ -49,22 +49,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "SoundHound AI",
-        "id": "bfbca268-57bc-4cb8-bf33-47960b2ba82d",
-        "title": "UPCOMING: AI Service Analyst - Restaurants",
-        "active": false,
-        "date_updated": 1719356942,
-        "date_posted": 1719356942,
-        "url": "https://boards.greenhouse.io/soundhoundinc/jobs/7512306002",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/SoundHound-AI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1719444276,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1730183/Software-Engineer",
         "company_name": "Microsoft",
@@ -7383,57 +7367,6 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Zoox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "GitLab",
-        "id": "c920a92e-4c0b-4950-a514-969ab0a7cf67",
-        "title": "Backend Engineer - Core Platform: Geo - Ruby",
-        "active": false,
-        "date_updated": 1719357139,
-        "date_posted": 1719357139,
-        "url": "https://boards.greenhouse.io/gitlab/jobs/7512275002",
-        "locations": [
-            "Remote in USA",
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/GitLab",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Insurify",
-        "id": "b616a1fa-2739-439b-9b95-3b6d2b54096d",
-        "title": "Business Data Analyst",
-        "active": false,
-        "date_updated": 1719357099,
-        "date_posted": 1719357099,
-        "url": "https://boards.greenhouse.io/insurify/jobs/5215822004",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Insurify",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Shipt",
-        "id": "8c911e7e-99b1-43ad-a630-2bb3a1f61cd0",
-        "title": "Associate Engineer",
-        "active": false,
-        "date_updated": 1719356889,
-        "date_posted": 1719356889,
-        "url": "https://shipt.wd1.myworkdayjobs.com/en-US/Shipt_External/job/AL-Birmingham-Shipt-Tower/Associate-Engineer_R3399",
-        "locations": [
-            "SF",
-            "Birmingham, AL",
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Shipt",
         "is_visible": true,
         "sponsorship": "Other"
     },
