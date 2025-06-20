@@ -6,13 +6,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 88 New Grad Roles by Category
+### Browse 87 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (75)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (5)
 
-📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (1)
+📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (0)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (7)
 
@@ -739,9 +739,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Wyetech](https://simplify.jobs/c/Wyetech-LLC?utm_source=GHList&utm_medium=company)** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | 8mo |
 | ↳ | Software Engineer 1 - Telework | Annapolis Junction, MD | 🔒 | 8mo |
 | ↳ | Software Engineer 0 | Annapolis Junction, MD | 🔒 | 8mo |
-| **[Nominal](https://simplify.jobs/c/Nominal?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad | Austin, TX | 🔒 | 8mo |
-| ↳ | Software Engineer – New Grad 🇺🇸 | LA | 🔒 | 8mo |
-| ↳ | Software Engineer – New Grad | NYC | 🔒 | 8mo |
+| **[Nominal](https://simplify.jobs/c/Nominal?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad | Austin, TX | 🔒 | 9mo |
+| ↳ | Software Engineer – New Grad 🇺🇸 | LA | 🔒 | 9mo |
+| ↳ | Software Engineer – New Grad | NYC | 🔒 | 9mo |
 | Microsoft | Software Engineer - Frontend | Redmond, WA | 🔒 | 9mo |
 | Bloomberg | Software Engineer (New Grad) | New York, NY | 🔒 | 9mo |
 | **[Rocket Software](https://simplify.jobs/c/ff0e403d-7fb1-43cf-81ba-a2f00c99612b?utm_source=GHList&utm_medium=company)** | Software Engineer I | Remote in UK | 🔒 | 9mo |
@@ -956,7 +956,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Tyson Foods](https://simplify.jobs/c/Tyson-Foods?utm_source=GHList&utm_medium=company)** | Data Engineer I | Springdale, AR | 🔒 | 0d |
 | **[Tyson Foods](https://simplify.jobs/c/Tyson-Foods?utm_source=GHList&utm_medium=company)** | Data Engineer I | Springdale, AR | 🔒 | 2d |
 | **[Taco Bell](https://simplify.jobs/c/TacoBell?utm_source=GHList&utm_medium=company)** | Data Engineer I | Irvine, CA | 🔒 | 8d |
-| **[Fifth Third Bank](https://simplify.jobs/c/Fifth-Third-Bank?utm_source=GHList&utm_medium=company)** | Data Engineer I - Regulatory Reporting | Cincinnati, OH | 🔒 | 14d |
+| **[Fifth Third Bank](https://simplify.jobs/c/Fifth-Third-Bank?utm_source=GHList&utm_medium=company)** | Data Engineer I - Regulatory Reporting | Cincinnati, OH | 🔒 | 15d |
 | **[USAA](https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63?utm_source=GHList&utm_medium=company)** | Data Engineer – Entry Level | Plano, TX | 🔒 | 16d |
 | **[TD Bank](https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer I | Toronto, ON, Canada | 🔒 | 18d |
 | **[Centene](https://simplify.jobs/c/Centene?utm_source=GHList&utm_medium=company)** | Data Engineer I | California</br>Florida</br>North Carolina | 🔒 | 20d |
@@ -1010,11 +1010,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 ## 📈 Quantitative Finance New Grad Roles
 
 [Back to top](#2025-new-grad-positions-by-coder-quad-and-simplify)
-
-| Company | Role | Location | Application | Age |
-| ------- | ---- | -------- | ---------- | --- |
-| **[Aquatic Capital Management](https://simplify.jobs/c/Aquatic-Capital-Management?utm_source=GHList&utm_medium=company)** | Quantitative Researcher – Early Career - 2025 | Chicago, IL</br>NYC | <div align="center"><a href="https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/7468705002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9489bce0-5fcd-45d3-8146-b479668b7153?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 11mo |
-
 
 <details>
 <summary>🗃️ Inactive roles (4)</summary>
