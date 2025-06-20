@@ -17,22 +17,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Stoke Space",
-        "id": "2bf62290-baf6-4c1e-9842-086e8fad8d78",
-        "title": "Full Stack Software Development Engineer",
-        "active": false,
-        "date_updated": 1719328076,
-        "date_posted": 1719328076,
-        "url": "https://stokespace.com/careers/current-openings?gh_jid=5215279004",
-        "locations": [
-            "Kent, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Stoke-Space",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -7466,22 +7450,6 @@
             "Minneapolis, MN"
         ],
         "company_url": "https://simplify.jobs/c/Shipt",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "ProcessUnity",
-        "id": "29d1ad73-a2db-456d-a077-5f3a0ef49f04",
-        "title": "Gainsight Administrator",
-        "active": false,
-        "date_updated": 1719328153,
-        "date_posted": 1719328153,
-        "url": "https://jobs.lever.co/processunity/254aa155-3c02-4145-a76c-fc84f7dc9325/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/ProcessUnity",
         "is_visible": true,
         "sponsorship": "Other"
     },
