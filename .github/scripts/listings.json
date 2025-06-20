@@ -7486,38 +7486,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "LayerZero Labs",
-        "id": "6b55330c-01c1-407b-bfd4-8459342f85b5",
-        "title": "Smart Contract Engineer",
-        "active": false,
-        "date_updated": 1719299780,
-        "date_posted": 1719299780,
-        "url": "https://boards.greenhouse.io/layerzerolabs/jobs/4795865004",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/LayerZeroLabs",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Kumo",
-        "id": "00cc3553-0ef7-4a6b-b63a-6412c1a7272c",
-        "title": "Software Engineer - Contract",
-        "active": false,
-        "date_updated": 1720552793,
-        "date_posted": 1719299810,
-        "url": "https://jobs.lever.co/kumo/b4fe11f1-a9dd-4d52-a69e-16da25fced0a/apply",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Kumo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
