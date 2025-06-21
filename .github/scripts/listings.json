@@ -1,21 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "company_name": "DriveWealth",
-        "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
-        "title": "Software Development Engineer 1",
-        "active": false,
-        "date_updated": 1719415645,
-        "date_posted": 1719415645,
-        "url": "https://boards.greenhouse.io/drivewealth/jobs/6024839003",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/DriveWealth",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1719444276,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1730183/Software-Engineer",
         "company_name": "Microsoft",
@@ -7270,22 +7254,6 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Square",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Fieldguide",
-        "id": "54d3b4ab-a3bf-4f11-8dcb-5b69d045124d",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1719415193,
-        "date_posted": 1719415193,
-        "url": "https://jobs.ashbyhq.com/fieldguide/297ce8aa-ca8e-46c5-98e2-45b11c17557e/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Fieldguide",
         "is_visible": true,
         "sponsorship": "Other"
     },
