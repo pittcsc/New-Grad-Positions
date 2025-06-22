@@ -65,22 +65,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Luna Physical Therapy",
-        "id": "bf8fdc11-dc1e-4f45-a108-e673941bd600",
-        "title": "Clinical Data Analyst",
-        "active": false,
-        "date_updated": 1719530032,
-        "date_posted": 1719530032,
-        "url": "https://jobs.lever.co/lunaphysicaltherapy/5630c6a9-76a0-48d2-b37e-41a6be9d7cc6/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Luna-Physical-Therapy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Welocalize",
         "id": "270bd3c1-c941-4f8a-af07-add23d4057ee",
         "title": "Search Satisfaction Grader - Spanish - US - Language",
@@ -3104,38 +3088,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Kpler",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Arize AI",
-        "id": "9025d175-9951-4fa1-bdfe-29c484f772ed",
-        "title": "Open Source Fullstack Engineer",
-        "active": false,
-        "date_updated": 1719530039,
-        "date_posted": 1719530039,
-        "url": "https://boards.greenhouse.io/arizeai/jobs/5213435004",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/ArizeAI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Anchorage",
-        "id": "b11de18c-b705-4a58-a8a7-8917eb3eabf9",
-        "title": "Member of Technical Staff - Security Engineering - Monitoring & Testing Focus",
-        "active": false,
-        "date_updated": 1720207359,
-        "date_posted": 1719529721,
-        "url": "https://jobs.lever.co/anchorage/7120239f-3111-4855-90c0-dcc1f5f175ea/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Anchorage",
         "is_visible": true,
         "sponsorship": "Other"
     },
