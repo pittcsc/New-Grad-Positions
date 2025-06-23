@@ -33,38 +33,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Garner Health",
-        "id": "1e38ed5f-99b5-47fc-a77b-20a6e71c03f4",
-        "title": "Feed Integrations Specialist",
-        "active": false,
-        "date_updated": 1719587596,
-        "date_posted": 1719587596,
-        "url": "https://boards.greenhouse.io/garnerhealth/jobs/5219462004",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Garner-Health",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Jerry",
-        "id": "362e07b3-ade0-4a3d-9b1d-ba6823c22c07",
-        "title": "Software Engineer I - Toronto",
-        "active": false,
-        "date_updated": 1719587612,
-        "date_posted": 1719587612,
-        "url": "https://jobs.ashbyhq.com/Jerry/a9c7c0d9-4524-4b05-900e-e6d26ddf8e0d/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Welocalize",
         "id": "270bd3c1-c941-4f8a-af07-add23d4057ee",
         "title": "Search Satisfaction Grader - Spanish - US - Language",
@@ -3072,22 +3040,6 @@
             "Battle Creek, MI"
         ],
         "company_url": "https://simplify.jobs/c/TRAMGROUP",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Kpler",
-        "id": "b92b7573-da74-4c12-abc0-72b64472eaf6",
-        "title": "Mobile Software Engineer",
-        "active": false,
-        "date_updated": 1720016040,
-        "date_posted": 1719587217,
-        "url": "https://jobs.lever.co/kpler/9e252ac0-f380-42e1-92de-c54fe609cc1b/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Kpler",
         "is_visible": true,
         "sponsorship": "Other"
     },
