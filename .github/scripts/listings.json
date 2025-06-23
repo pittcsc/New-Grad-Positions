@@ -1,38 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Diligent Robotics",
-        "id": "1bff44b4-1291-4d0c-a67d-5d1770216034",
-        "title": "Part Time \u2013 Clinical Robot Associate - Dallas - TX",
-        "active": false,
-        "date_updated": 1719588339,
-        "date_posted": 1719588339,
-        "url": "https://boards.greenhouse.io/diligentrobotics/jobs/6040046003",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Diligent-Robotics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Nium",
-        "id": "ba2a7f99-4dc4-487e-8c4f-8f6a9b61fce7",
-        "title": "Backend Engineer - Sde I",
-        "active": false,
-        "date_updated": 1719587733,
-        "date_posted": 1719587733,
-        "url": "https://jobs.lever.co/nium/bc54a3d5-489f-443c-9cc3-1575bf60ab85/apply",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Nium",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Welocalize",
         "id": "270bd3c1-c941-4f8a-af07-add23d4057ee",
         "title": "Search Satisfaction Grader - Spanish - US - Language",
@@ -3024,22 +2992,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/GOAT-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Tokai Rika Group",
-        "id": "ee8dbb53-00a9-4ecd-a618-0e0f1da555af",
-        "title": "Production Engineer",
-        "active": false,
-        "date_updated": 1720015882,
-        "date_posted": 1719587969,
-        "url": "https://jobs.lever.co/tramgroup/aec0e549-792e-4f4e-a3a0-a59136e0a43a/apply",
-        "locations": [
-            "Battle Creek, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/TRAMGROUP",
         "is_visible": true,
         "sponsorship": "Other"
     },
