@@ -569,22 +569,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Level AI",
-        "id": "82618d55-27e8-4e2e-b289-8bb7c8f16b00",
-        "title": "AI Analyst - Delhi - India",
-        "active": false,
-        "date_updated": 1719615428,
-        "date_posted": 1719615428,
-        "url": "https://jobs.lever.co/levelai/e96adb66-218d-46f6-988f-f353bed10830/apply",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Level-AI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Palantir",
         "id": "ebf96118-757e-4330-8907-6871eeb1650f",
         "title": "Software Engineer \u2013 New Grad - US Government",
@@ -2944,54 +2928,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/OrderlyNetwork",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Yassir",
-        "id": "91408924-5a47-4353-99c5-760093414fe6",
-        "title": "Backend Software Engineer",
-        "active": false,
-        "date_updated": 1719615521,
-        "date_posted": 1719615521,
-        "url": "https://jobs.lever.co/Yassir/010628b3-b386-45f4-b153-904c5e6d1ee6/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Yassir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "HiHello",
-        "id": "8a3dfe50-c2ba-47e5-80d2-e9983083d048",
-        "title": "Backend Software Engineer",
-        "active": false,
-        "date_updated": 1720486201,
-        "date_posted": 1719615513,
-        "url": "https://jobs.lever.co/hihello/b57f8168-5dde-4ed4-8475-97cdb491a788/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/HiHello",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "GOAT Group",
-        "id": "15372d12-6a09-4d13-981c-eca46772a6ad",
-        "title": "Software Engineer II",
-        "active": false,
-        "date_updated": 1719615496,
-        "date_posted": 1719615496,
-        "url": "https://boards.greenhouse.io/goatgroup/jobs/4434619005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/GOAT-Group",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -17713,7 +17649,7 @@
         "company_name": "Amentum",
         "id": "7f96b1fe-e630-4032-add1-8e2e4a11ac4d",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1749693231,
         "date_posted": 1749693231,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0140460",
