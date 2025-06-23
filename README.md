@@ -144,7 +144,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (771)</summary>
+<summary>🗃️ Inactive roles (770)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
@@ -658,7 +658,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Fieldwire](https://simplify.jobs/c/02aeb92e-5fbf-4181-a45d-054399d1b7dc?utm_source=GHList&utm_medium=company)** | Junior Android Engineer | Remote in USA | 🔒 | 7mo |
 | **[Forward](https://simplify.jobs/c/Forward?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad | SF | 🔒 | 7mo |
 | **[ClearEdge](https://simplify.jobs/c/ClearEdge?utm_source=GHList&utm_medium=company)** | Software Engineer I | Annapolis Junction, MD | 🔒 | 7mo |
-| **[ClearEdge](https://simplify.jobs/c/ClearEdge?utm_source=GHList&utm_medium=company)** | Software Engineer I 🛂 | San Fransisco | 🔒 | 7mo |
+| ↳ | Software Engineer I 🛂 | San Fransisco | 🔒 | 7mo |
 | **[Grand Rounds](https://simplify.jobs/c/Grand-Rounds?utm_source=GHList&utm_medium=company)** | Backend Engineer I - Customer Experience | Remote in USA | 🔒 | 7mo |
 | **[Mastercard](https://simplify.jobs/c/Mastercard?utm_source=GHList&utm_medium=company)** | Software Engineer I | O'Fallon, MO</br>Remote in USA | 🔒 | 7mo |
 | **[Northrop Grumman](https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7?utm_source=GHList&utm_medium=company)** | Junior Software Engineer | Annapolis Junction, MD | 🔒 | 8mo |
@@ -732,7 +732,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Chime](https://simplify.jobs/c/Chime?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad - Pay Anyone | SF | 🔒 | 8mo |
 | **[Wyetech](https://simplify.jobs/c/Wyetech-LLC?utm_source=GHList&utm_medium=company)** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | 8mo |
 | ↳ | Software Engineer 1 | Odenton, MD | 🔒 | 8mo |
-| **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)** | Associate – New Grad - Software Engineer - OR049160 | Toronto, ON, Canada | 🔒 | 8mo |
+| **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)** | Associate – New Grad - Software Engineer - OR049160 | Toronto, ON, Canada | 🔒 | 9mo |
 | **[Sprocket Security](https://simplify.jobs/c/38830c5c-616a-4e08-be48-d4ce6c915024?utm_source=GHList&utm_medium=company)** | Software Engineer - Early Careers | Remote in USA | 🔒 | 9mo |
 | **[Amplitude](https://simplify.jobs/c/Amplitude?utm_source=GHList&utm_medium=company)** | Software Engineer I - Growth | SF | 🔒 | 9mo |
 | **[ManTech](https://simplify.jobs/c/c6651565-44c8-4050-8412-111c54942390?utm_source=GHList&utm_medium=company)** | Junior Software Engineer | Chantilly, VA | 🔒 | 9mo |
@@ -900,7 +900,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[OpenGov](https://simplify.jobs/c/OpenGov?utm_source=GHList&utm_medium=company)** | Software Engineer I - Rev | Atlanta, GA | 🔒 | 11mo |
 | ElectronX | New Grad: Software Engineer | New York, NY</br>Chicago, IL | 🔒 | 11mo |
 | **[Square](https://simplify.jobs/c/Square?utm_source=GHList&utm_medium=company)** | Junior Software Engineer - Android - Mobile Developer Experience | SF</br>Remote in USA | 🔒 | 11mo |
-| **[Nium](https://simplify.jobs/c/Nium?utm_source=GHList&utm_medium=company)** | Backend Engineer - Sde I | San Francisco, CA | 🔒 | 11mo |
+| Nium | Backend Engineer - Sde I | San Francisco, CA | 🔒 | 11mo |
 | SIG | Network Engineer | Bala Cynwyd (Philadelphia Area), Pennsylvania | 🔒 | 11mo |
 | Old Mission Capital | Junior Software Engineer | Chicago, IL, USA | 🔒 | 11mo |
 | Optiver | Graduate Software Engineer | Austin, TX</br>Chicago, IL | 🔒 | 11mo |
@@ -918,7 +918,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | ↳ | Forward Deployed Software Engineer – New Grad - US Government | Washington, DC | 🔒 | 11mo |
 | ↳ | Forward Deployed Software Engineer – New Grad - US Government | NYC | 🔒 | 11mo |
 | ↳ | Forward Deployed Software Engineer – New Grad | NYC | 🔒 | 11mo |
-| **[Nium](https://simplify.jobs/c/Nium?utm_source=GHList&utm_medium=company)** | Backend Engineer - Sde I | SF | 🔒 | 12mo |
 
 
 </details>
