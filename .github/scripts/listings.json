@@ -535,40 +535,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Singularity 6",
-        "id": "844bbb7d-0364-4317-94e2-449bf2d04895",
-        "title": "Data Application Drop Box",
-        "active": false,
-        "date_updated": 1719616038,
-        "date_posted": 1719616038,
-        "url": "https://www.singularity6.com/careers?gh_jid=4930918004",
-        "locations": [
-            "LA",
-            "Irvine, CA",
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Singularity6",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Alchemy",
-        "id": "e466e004-6e57-4d38-bb66-1367f180c6d9",
-        "title": "Alchemy Analyst - Technical Writer - Part or Full Time",
-        "active": false,
-        "date_updated": 1719615931,
-        "date_posted": 1719615931,
-        "url": "https://boards.greenhouse.io/alchemy/jobs/4282639005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Alchemy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Palantir",
         "id": "ebf96118-757e-4330-8907-6871eeb1650f",
         "title": "Software Engineer \u2013 New Grad - US Government",
@@ -997,22 +963,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Regrello",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Granicus",
-        "id": "1a10f1ec-d680-432f-96e9-dd5a934b8f70",
-        "title": "Implementation Associate - Address ID & Validation",
-        "active": false,
-        "date_updated": 1720486387,
-        "date_posted": 1719616214,
-        "url": "https://jobs.lever.co/granicus/e5451632-f0bd-4f16-be0f-9296777eebf4/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Granicus",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -2816,118 +2766,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Corbalt",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Syndio",
-        "id": "bb6690d8-2b6a-49db-96f6-f4aeb5467558",
-        "title": "Software Engineer - Backend",
-        "active": false,
-        "date_updated": 1719616465,
-        "date_posted": 1719616465,
-        "url": "https://synd.io/careers/?gh_jid=5217006004",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Syndio",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "SpruceID",
-        "id": "0b54e3a8-897b-4d25-b3c1-e6858e3c1ab1",
-        "title": "Software Engineer - Cross-Platform Rust",
-        "active": false,
-        "date_updated": 1719616416,
-        "date_posted": 1719616416,
-        "url": "https://jobs.lever.co/sprucesystems/cf2bb70b-a33a-48d9-8d83-2f547850eaf4/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpruceID",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Orderly Network",
-        "id": "65ca6093-5500-4f08-8ed7-c75b061d6838",
-        "title": "Software Engineer - Java",
-        "active": false,
-        "date_updated": 1719616019,
-        "date_posted": 1719616019,
-        "url": "https://boards.greenhouse.io/orderlynetwork/jobs/5427335003",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/OrderlyNetwork",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Orderly Network",
-        "id": "3aba5955-e64f-4a4e-8bda-b4a50ba36435",
-        "title": "Software Engineer - Front-end - React",
-        "active": false,
-        "date_updated": 1719616019,
-        "date_posted": 1719616019,
-        "url": "https://boards.greenhouse.io/orderlynetwork/jobs/5107887003",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/OrderlyNetwork",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Orderly Network",
-        "id": "9113bc11-8cd8-4952-9af4-824eaa4e717e",
-        "title": "Software Engineer - Solidity",
-        "active": false,
-        "date_updated": 1719616019,
-        "date_posted": 1719616019,
-        "url": "https://boards.greenhouse.io/orderlynetwork/jobs/5640109003",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/OrderlyNetwork",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Orderly Network",
-        "id": "495b519e-0150-4937-a817-4f24291d7bab",
-        "title": "Blockchain Researcher",
-        "active": false,
-        "date_updated": 1719616018,
-        "date_posted": 1719616018,
-        "url": "https://boards.greenhouse.io/orderlynetwork/jobs/5661610003",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/OrderlyNetwork",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Orderly Network",
-        "id": "baf7c694-d0c3-4ff0-b321-3221c070c5a4",
-        "title": "Graduates Software Engineer",
-        "active": false,
-        "date_updated": 1719616017,
-        "date_posted": 1719616017,
-        "url": "https://boards.greenhouse.io/orderlynetwork/jobs/5961939003",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/OrderlyNetwork",
         "is_visible": true,
         "sponsorship": "Other"
     },
