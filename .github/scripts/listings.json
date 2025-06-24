@@ -16217,7 +16217,7 @@
         "company_name": "Relativity Space",
         "id": "92b236e9-f2d6-4b02-a956-0ec292ed153f",
         "title": "Software Engineer I - Factory Platform",
-        "active": false,
+        "active": true,
         "date_updated": 1749693098,
         "date_posted": 1749693098,
         "url": "https://boards.greenhouse.io/relativity/jobs/8031811002",
@@ -16876,6 +16876,40 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SMX",
+        "id": "7463c287-498f-48f5-86ff-0443c74dc683",
+        "title": "Junior Software Engineer - Ts/Sci CI Poly",
+        "active": true,
+        "date_updated": 1750722293,
+        "date_posted": 1750722293,
+        "url": "https://www.smxtech.com/careers/?gh_jid=6618208003",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Smx",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cadence Design Systems",
+        "id": "365b7673-11c2-4848-8252-c82cd2814343",
+        "title": "C++ Software Engineer \u2013 New College Graduate",
+        "active": true,
+        "date_updated": 1750721940,
+        "date_posted": 1750721940,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/HOME-MA/C---Software-Engineer---New-College-Graduate--Boston-_R50667-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
         "is_visible": true,
         "sponsorship": "Other"
     }
