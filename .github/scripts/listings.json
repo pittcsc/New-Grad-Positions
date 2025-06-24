@@ -16826,5 +16826,23 @@
         "company_url": "https://simplify.jobs/c/Sentry",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1750726332,
+        "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-2025-university-graduate-us/",
+        "company_name": "Citadel Securities",
+        "title": "Quantitative Research Analyst",
+        "locations": [
+            "Chicago, IL",
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "aad2962a-fde1-4333-b6a9-2ff459a897f3",
+        "date_posted": 1750726332,
+        "company_url": "",
+        "is_visible": true
     }
 ]

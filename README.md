@@ -6,13 +6,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 84 New Grad Roles by Category
+### Browse 85 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (72)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (5)
 
-📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (0)
+📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (1)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (7)
 
@@ -1002,6 +1002,11 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 ## 📈 Quantitative Finance New Grad Roles
 
 [Back to top](#2025-new-grad-positions-by-coder-quad-and-simplify)
+
+| Company | Role | Location | Application | Age |
+| ------- | ---- | -------- | ---------- | --- |
+| Citadel Securities | Quantitative Research Analyst | Chicago, IL</br>Miami, FL</br>New York, NY | <a href="https://www.citadel.com/careers/details/quantitative-research-analyst-2025-university-graduate-us/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
+
 
 <details>
 <summary>🗃️ Inactive roles (3)</summary>
