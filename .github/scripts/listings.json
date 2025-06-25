@@ -16947,5 +16947,39 @@
         "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USAA",
+        "id": "d3f775c8-7ee2-4b66-aa3b-9d6fd945d0e1",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1750813369,
+        "date_posted": 1750813369,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer-I_R0110441",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Guidewire",
+        "id": "edfced35-ecac-4306-b9bd-2a3536f637e5",
+        "title": "Machine Learning Engineer I - Generative AI",
+        "active": true,
+        "date_updated": 1750813323,
+        "date_posted": 1750813323,
+        "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---San-Mateo-CA/Machine-Learning-Engineer-I--Generative-AI_JR_13363",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Guidewire",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
