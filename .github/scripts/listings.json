@@ -2666,7 +2666,7 @@
         "company_name": "WebFX",
         "id": "a7bff833-62a9-4727-8191-01b4949dc26f",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1722065815,
         "date_posted": 1722065815,
         "url": "https://jobs.lever.co/webfx/7c15f9e7-6ca5-4188-887e-3b147485c58f/apply",
@@ -14318,7 +14318,7 @@
         "company_name": "Ciena",
         "id": "7fb9cfc6-2b8c-4a41-9b3c-ea60476f4436",
         "title": "Electro-Optics Hardware Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1746838619,
         "date_posted": 1746838619,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electro-Optics-Hardware-Engineer-New-Grad_R027951",
@@ -16979,6 +16979,23 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Guidewire",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "0ff73278-936e-4b1b-887e-58e6abb11ee3",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1750812825,
+        "date_posted": 1750782599,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6988045",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
         "is_visible": true,
         "sponsorship": "Other"
     }
