@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Salesforce",
-        "id": "0e3999fb-1a40-463c-858d-fc0903e62bc2",
-        "title": "Software Engineering AMTS/MTS \u2013 New Grad",
-        "active": false,
-        "date_updated": 1722119292,
-        "date_posted": 1719875851,
-        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS--New-Grad-_JR244479-1",
-        "locations": [
-            "Cambridge, MA Seattle, WA Indianapolis, IN SF Remote in USA McLean, VA Chicago, IL NYC Bellevue, WA Atlanta, GA Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Salesforce",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Triumvirate Environmental",
         "id": "fce85f94-cb7d-436e-bc2f-f89af295616e",
         "title": "Technical Services Associate",
@@ -1253,55 +1237,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/PerplexityAI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Red Ventures",
-        "id": "2fb551a0-408c-4d86-bbfc-39e8510bcf4f",
-        "title": "Associate Software Engineer - Red Platform",
-        "active": false,
-        "date_updated": 1719947919,
-        "date_posted": 1719876308,
-        "url": "https://www.redventures.com/careers/overview?gh_jid=6060240",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Red-Ventures",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Collaborative Robotics",
-        "id": "c8a66cc5-00cb-444c-9283-f23eaae733aa",
-        "title": "Software Engineer - Integration Platform",
-        "active": false,
-        "date_updated": 1719970107,
-        "date_posted": 1719875831,
-        "url": "https://boards.greenhouse.io/collaborativerobotics/jobs/4421799007",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Collaborative-Robotics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Yodlee",
-        "id": "274d82ac-7a09-4f2c-9417-cb591ab3e8fc",
-        "title": "Data Quality Associate I",
-        "active": false,
-        "date_updated": 1719875827,
-        "date_posted": 1719875827,
-        "url": "https://jobs.jobvite.com/yodlee/job/oYM0tfwX?nl=1&nl=1&fr=false",
-        "locations": [
-            "Pennsylvania",
-            "North Carolina"
-        ],
-        "company_url": "https://simplify.jobs/c/Yodlee",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -16958,6 +16893,23 @@
             "Liberty Lake, WA"
         ],
         "company_url": "https://simplify.jobs/c/OpenEye",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "da728c26-5b91-4bd6-82d3-32ae451cf902",
+        "title": "Embedded Cybersecurity Software Engineer I",
+        "active": true,
+        "date_updated": 1750979727,
+        "date_posted": 1750979727,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01776844",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other"
     }
