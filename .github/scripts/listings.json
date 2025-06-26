@@ -17015,5 +17015,22 @@
         "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dell Technologies",
+        "id": "e097616a-224c-4c1e-bf4d-fd77f732f834",
+        "title": "Hardware Engineer 1",
+        "active": true,
+        "date_updated": 1750904375,
+        "date_posted": 1750904375,
+        "url": "https://dell.wd1.myworkdayjobs.com/External/job/Hopkinton-Massachusetts-United-States/Hardware-Engineer-1_R268814-1",
+        "locations": [
+            "Westborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
