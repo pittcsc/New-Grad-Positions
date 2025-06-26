@@ -16942,5 +16942,22 @@
         "company_url": "https://simplify.jobs/c/Expedia-Group",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "52bdcc8b-f877-4ece-ae91-486f1dc6885e",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1750955104,
+        "date_posted": 1750955104,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6995304",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
