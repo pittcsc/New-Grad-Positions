@@ -129,22 +129,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Akuna Capital",
-        "id": "8c2c422f-682a-4e33-98ee-3a969594ebe4",
-        "title": "Akuna Capital\u2019s 2024 Virtual Quant Trading Challenge",
-        "active": false,
-        "date_updated": 1719860685,
-        "date_posted": 1719846633,
-        "url": "https://www.akunacapital.com/job-details?gh_jid=5652055",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Akuna-Capital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Salesforce",
         "id": "0e3999fb-1a40-463c-858d-fc0903e62bc2",
         "title": "Software Engineering AMTS/MTS \u2013 New Grad",
@@ -1462,22 +1446,6 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Matroid",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Larian Studios",
-        "id": "3ef61633-f9b9-43de-882b-7d1200e8feca",
-        "title": "Tools Programmer",
-        "active": false,
-        "date_updated": 1719846790,
-        "date_posted": 1719846790,
-        "url": "https://jobs.lever.co/larian/7d8ff5b6-a270-43c4-b969-f42facc72ed6/apply",
-        "locations": [
-            "Stillwater, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Larian-Studios",
         "is_visible": true,
         "sponsorship": "Other"
     },
