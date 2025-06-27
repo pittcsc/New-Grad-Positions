@@ -1193,54 +1193,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Stripe",
-        "id": "f8c96584-e905-4ff0-be77-e19982c9a854",
-        "title": "Full Stack Engineer - Optimized Checkout & Link",
-        "active": false,
-        "date_updated": 1719905145,
-        "date_posted": 1719905145,
-        "url": "https://stripe.com/jobs/search?gh_jid=5685463",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Stripe",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Perplexity AI",
-        "id": "0c0aa012-172b-4aa8-9b36-dfd088ce82b8",
-        "title": "LLM Teacher - Contract - Remote",
-        "active": false,
-        "date_updated": 1719905144,
-        "date_posted": 1719905144,
-        "url": "https://boards.greenhouse.io/perplexityai/jobs/4421520007",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/PerplexityAI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Perplexity AI",
-        "id": "004a8c50-ebc5-49ad-8d8e-92397036d99f",
-        "title": "LLM Teacher - Technical - Contract - Remote",
-        "active": false,
-        "date_updated": 1719905144,
-        "date_posted": 1719905144,
-        "url": "https://boards.greenhouse.io/perplexityai/jobs/4421513007",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/PerplexityAI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
