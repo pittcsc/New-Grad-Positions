@@ -16807,5 +16807,39 @@
         "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Expedia",
+        "id": "868353a4-02b8-429c-b657-dfe34e440499",
+        "title": "Eggp \u2013 Software Development Engineer I",
+        "active": true,
+        "date_updated": 1751067814,
+        "date_posted": 1751067814,
+        "url": "https://expedia.wd5.myworkdayjobs.com/search/job/Washington---Seattle-Campus/EGGP---Software-Development-Engineer-I_R-96183",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox",
+        "id": "7706e560-2350-4da4-826c-0cdd8440f8bc",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1751067595,
+        "date_posted": 1751067595,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Software-Engineer-I_R202563969",
+        "locations": [
+            "Draper, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
