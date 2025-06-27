@@ -33,22 +33,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Veeva Systems",
-        "id": "0ed8b19a-cee7-4d7f-9b54-1c3863536432",
-        "title": "Associate Software Engineer \u2013 Seeking 2024 Grads",
-        "active": false,
-        "date_updated": 1719961909,
-        "date_posted": 1719961909,
-        "url": "https://jobs.lever.co/veeva/689b64ea-1518-483e-9c47-b41fd72fdcfa/apply",
-        "locations": [
-            "Pleasanton, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Veeva-Systems",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Match Group",
         "id": "c508abbd-a1c9-4d82-b660-d62d3aa04a7e",
         "title": "Data Scientist I - Marketing Analytics",
@@ -1109,54 +1093,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Optiver",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Ascend Analytics",
-        "id": "0408d140-3edd-4ac2-9725-238e2f79ca56",
-        "title": "Database Administrator",
-        "active": false,
-        "date_updated": 1719961910,
-        "date_posted": 1719961910,
-        "url": "https://boards.greenhouse.io/ascendanalytics/jobs/4439784005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/AscendAnalytics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "FanDuel",
-        "id": "a55cfb3c-13f7-4eaa-b529-5ab580c83025",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1719961800,
-        "date_posted": 1719961800,
-        "url": "https://www.fanduel.careers/open-positions?gh_jid=5842536",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/FanDuel",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Mediabrands",
-        "id": "99a0a912-8975-44ff-9df4-30d4f1e6a281",
-        "title": "Kinesso \u2013 Campaign Manager - Programmatic",
-        "active": false,
-        "date_updated": 1719961685,
-        "date_posted": 1719961685,
-        "url": "https://boards.greenhouse.io/mediabrands/jobs/4408163007",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Mediabrands",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -14879,7 +14815,7 @@
         "company_name": "Cadence Design Systems",
         "id": "710b0d6c-c433-4628-8de0-67819044c855",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1748483357,
         "date_posted": 1748483357,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Engineer-II_R48302",
