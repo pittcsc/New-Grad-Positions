@@ -16849,5 +16849,22 @@
         "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Xapien",
+        "id": "e4f11117-380a-46f0-9b2f-d854686bc7a2",
+        "title": "Junior Applied Research Engineer \u2013 Graduate",
+        "active": true,
+        "date_updated": 1751038997,
+        "date_posted": 1751038997,
+        "url": "https://jobs.smartrecruiters.com/Xapien/744000067429395",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Xapien",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
