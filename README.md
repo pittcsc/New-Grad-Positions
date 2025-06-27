@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 93 New Grad Roles by Category
+### Browse 92 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (74)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (73)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (5)
 
@@ -74,7 +74,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Rockwell Automation](https://simplify.jobs/c/Rockwell-Automation?utm_source=GHList&utm_medium=company)** | Early in Career Windows Software Engineer - C++ - C# | Phoenix, AZ | <div align="center"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Phoenix-Arizona-United-States/Early-in-Career-Windows-Software-Engineer--C----C--_R25-5268-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c1a259b0-9363-4f65-b75b-179ab72993d2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 7d |
 | **[7shifts](https://simplify.jobs/c/7shifts?utm_source=GHList&utm_medium=company)** | Junior Software Developer | Toronto, ON, Canada | <div align="center"><a href="https://job-boards.greenhouse.io/7shifts/jobs/5567427004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7756364a-3f30-4889-b775-278cbf59fdb3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 9d |
 | ↳ | Junior Software Developer | Saskatoon, SK, Canada | <div align="center"><a href="https://job-boards.greenhouse.io/7shifts/jobs/5563827004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ee439f91-f222-4f4b-b52e-b24be8115ef9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 9d |
-| **[Nutanix](https://simplify.jobs/c/Nutanix?utm_source=GHList&utm_medium=company)** | Software Engineer 1 / Early Career - C++/Go/Linux/AWS-S3 | Durham, NC | <div align="center"><a href="https://jobs.jobvite.com/nutanix/job/od3Jufwd?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6c613844-7f1a-47bf-a3bd-174439762a3b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 14d |
+| **[Nutanix](https://simplify.jobs/c/Nutanix?utm_source=GHList&utm_medium=company)** | Software Engineer 1 / Early Career - C++/Go/Linux/AWS-S3 | Durham, NC | <div align="center"><a href="https://jobs.jobvite.com/nutanix/job/od3Jufwd?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6c613844-7f1a-47bf-a3bd-174439762a3b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 15d |
 | **[Affirm](https://simplify.jobs/c/Affirm?utm_source=GHList&utm_medium=company)** | Software Engineer I - Backend - Identity Decisioning | Remote in Canada | <div align="center"><a href="https://job-boards.greenhouse.io/affirm/jobs/6605722003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/148f33c0-78be-4f05-af96-c10e696ee96d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 15d |
 | ↳ | Software Engineer I - Backend - Identity Decisioning | Remote in USA | <div align="center"><a href="https://job-boards.greenhouse.io/affirm/jobs/6605721003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c51f55af-91b8-4dbc-b0bd-93a96e0f3ec7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 15d |
 | **[Procter & Gamble (P&G)](https://simplify.jobs/c/Procter-Gamble-Company?utm_source=GHList&utm_medium=company)** | Junior Software Developer | Newcastle upon Tyne, UK | <div align="center"><a href="https://pg.wd5.myworkdayjobs.com/1000/job/COBALT-PARK-GO/Junior-Software-Developer_R000133283?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7f2f7c82-d34f-44c8-83b0-ef1e3a65c34d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 15d |
@@ -91,8 +91,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)** | Software Engineer I / Ncino Developer | Atlanta, GA | <div align="center"><a href="https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Software-Engineer-I---nCino-Developer_R0102738?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/e40eda45-74fb-49e3-bb44-1f0eeafc6957?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 22d |
 | **[Qualtrics](https://simplify.jobs/c/Qualtrics?utm_source=GHList&utm_medium=company)** | Software Engineer I - Foundation | Seattle, WA</br>Reston, VA | <div align="center"><a href="https://www.qualtrics.com/careers/us/en/job/6808655?gh_jid=6808655&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0b9b6974-8f0d-4554-a8cf-0b1ef24954aa?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 22d |
 | **[Numeric](https://simplify.jobs/c/Numeric-IO?utm_source=GHList&utm_medium=company)** | Software Engineer – Early Career | SF</br>NYC | <div align="center"><a href="https://jobs.ashbyhq.com/numeric/f9c9e075-7799-414f-8601-f770c0cd9061/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c1940def-1b0f-4f57-8517-4b6abdb3b22a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 24d |
-| Mandolin | Forward Deployed Engineer | San Fransisco, CA | <a href="https://jobs.ashbyhq.com/mandolin/703bd697-dd8f-4a42-8df3-999402605c2f?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 24d |
-| ↳ | Software Engineer I | San Fransisco, CA | <a href="https://jobs.ashbyhq.com/mandolin/30bae6c7-6739-4cd6-97c4-fdb7662edf3b?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 24d |
+| Mandolin | Forward Deployed Engineer | San Fransisco, CA | <a href="https://jobs.ashbyhq.com/mandolin/703bd697-dd8f-4a42-8df3-999402605c2f?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 25d |
+| ↳ | Software Engineer I | San Fransisco, CA | <a href="https://jobs.ashbyhq.com/mandolin/30bae6c7-6739-4cd6-97c4-fdb7662edf3b?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 25d |
 | **[IXL Learning](https://simplify.jobs/c/IXL-Learning?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad | San Mateo, CA | <div align="center"><a href="https://www.ixl.com/company/jobs?gh_jid=8017366002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4b858632-a5f2-4767-8088-55f190f02083?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 28d |
 | ↳ | Software Engineer – New Grad | Raleigh, NC | <div align="center"><a href="https://www.ixl.com/company/jobs?gh_jid=8017370002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5550e98f-f9ff-41ac-b243-92c980a1e204?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 28d |
 | **[Blue Yonder](https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05?utm_source=GHList&utm_medium=company)** | Software Engineer I | Dallas, TX | <div align="center"><a href="https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineer-I_251265?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5f565819-56ce-4ea6-8c0f-973c2568f7f0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 28d |
@@ -105,7 +105,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Esri](https://simplify.jobs/c/Esri?utm_source=GHList&utm_medium=company)** | C++ Software Development Engineer I | Edinburgh, UK | <div align="center"><a href="https://www.esri.com/careers/4725259007?gh_jid=4725259007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b4dc5eb2-d1ac-4754-bcd1-19e3964e6858?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 | **[Higher Logic](https://simplify.jobs/c/Higher-Logic?utm_source=GHList&utm_medium=company)** | Junior Software Developer | Remote in USA | <div align="center"><a href="https://job-boards.greenhouse.io/higherlogic/jobs/6565676003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2f480a53-6f41-400f-bf17-bb93dc4b9d83?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 | **[Tower Research Capital](https://simplify.jobs/c/Tower-Research-Capital?utm_source=GHList&utm_medium=company)** | New Grad C++ Software Engineer | Montreal, QC, Canada | <div align="center"><a href="https://www.tower-research.com/open-positions/?gh_jid=6855851&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3024ecd6-2e55-431c-8c8f-d62ccd0e0e51?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
-| **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Developer – Entry level | Lawton, OK | <div align="center"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Sill-OK/Software-Developer---Entry-level_R-00158332?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/00a3d650-494e-4b27-9b55-85a291e5e75e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 | **[Parity](https://simplify.jobs/c/Parity?utm_source=GHList&utm_medium=company)** | Founding Engineer - Applied AI | SF | <div align="center"><a href="https://simplify.jobs/p/4f0f90f5-bcff-4b63-8994-acebb7188d2f?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4f0f90f5-bcff-4b63-8994-acebb7188d2f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2mo |
 | **[Sev1Tech](https://simplify.jobs/c/Sev1Tech?utm_source=GHList&utm_medium=company)** | Software Developer – Entry Level 🇺🇸 | Lawton, OK | <div align="center"><a href="https://careers-sev1tech.icims.com/jobs/8793/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/944e985f-b58f-4373-8d24-a453b692eb61?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2mo |
 | **[North Atlantic Industries](https://simplify.jobs/c/North-Atlantic-Industries?utm_source=GHList&utm_medium=company)** | Software Engineer I | Long Island, New York | <div align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/3197298?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8d6114f3-edc1-4d57-888b-80d78a34fd40?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2mo |
@@ -141,7 +140,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (775)</summary>
+<summary>🗃️ Inactive roles (776)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
@@ -158,15 +157,15 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Aledade](https://simplify.jobs/c/Aledade?utm_source=GHList&utm_medium=company)** | Software Engineer I | Bethesda, MD | 🔒 | 6d |
 | **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I | Toronto, ON, Canada</br>Greater Toronto Area, ON, Canada | 🔒 | 7d |
 | ↳ | Software Engineer I | SF | 🔒 | 7d |
-| **[Mastercard](https://simplify.jobs/c/Mastercard?utm_source=GHList&utm_medium=company)** | Software Engineer I | London, UK | 🔒 | 8d |
+| **[Mastercard](https://simplify.jobs/c/Mastercard?utm_source=GHList&utm_medium=company)** | Software Engineer I | London, UK | 🔒 | 9d |
 | **[Persona](https://simplify.jobs/c/Persona?utm_source=GHList&utm_medium=company)** | Software engineer – New grad | SF | 🔒 | 9d |
 | **[Twilio](https://simplify.jobs/c/Twilio?utm_source=GHList&utm_medium=company)** | Software Engineer – Early Career - Messaging API | Remote in USA | 🔒 | 9d |
-| **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I | Toronto, ON, Canada</br>Greater Toronto Area, ON, Canada | 🔒 | 10d |
-| ↳ | Software Engineer I | SF | 🔒 | 10d |
+| **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I | Toronto, ON, Canada</br>Greater Toronto Area, ON, Canada | 🔒 | 11d |
+| ↳ | Software Engineer I | SF | 🔒 | 11d |
 | **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I | SF | 🔒 | 13d |
 | ↳ | Software Engineer I | Toronto, ON, Canada</br>Greater Toronto Area, ON, Canada | 🔒 | 13d |
 | **[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)** | Software Engineer I | NYC | 🔒 | 13d |
-| **[Ultra Intelligence and Communications](https://simplify.jobs/c/Ultra-Intelligence-And-Communications?utm_source=GHList&utm_medium=company)** | Software Engineer 1 | Austin, TX</br>Huntsville, AL | 🔒 | 13d |
+| **[Ultra Intelligence and Communications](https://simplify.jobs/c/Ultra-Intelligence-And-Communications?utm_source=GHList&utm_medium=company)** | Software Engineer 1 | Austin, TX</br>Huntsville, AL | 🔒 | 14d |
 | **[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)** | Software Engineer I (broken link) | NYC | 🔒 | 14d |
 | **[Tower Research Capital](https://simplify.jobs/c/Tower-Research-Capital?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad - C++ | NYC | 🔒 | 15d |
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Software Engineer I | Richardson, TX | 🔒 | 16d |
@@ -183,20 +182,20 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Software Engineer I - Java | Fulton, MD | 🔒 | 21d |
 | **[Cox](https://simplify.jobs/c/Cox?utm_source=GHList&utm_medium=company)** | Software Engineer 1 | Carmel, IN | 🔒 | 21d |
 | **[Omnicell](https://simplify.jobs/c/Omnicell?utm_source=GHList&utm_medium=company)** | Software Engineer I | Cranberry Twp, PA | 🔒 | 21d |
-| **[Amentum](https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company)** | Entry Level Software Developer | Dahlgren, VA | 🔒 | 21d |
+| **[Amentum](https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company)** | Entry Level Software Developer | Dahlgren, VA | 🔒 | 22d |
 | **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I | SF | 🔒 | 22d |
 | ↳ | Software Engineer I | Toronto, ON, Canada</br>Greater Toronto Area, ON, Canada | 🔒 | 22d |
-| **[Robert Half](https://simplify.jobs/c/Robert-Half?utm_source=GHList&utm_medium=company)** | Software Engineer I | San Ramon, CA | 🔒 | 22d |
+| **[Robert Half](https://simplify.jobs/c/Robert-Half?utm_source=GHList&utm_medium=company)** | Software Engineer I | San Ramon, CA | 🔒 | 23d |
 | **[Medtronic](https://simplify.jobs/c/Medtronic?utm_source=GHList&utm_medium=company)** | Software Engineer I | Northridge, LA</br>San Diego, CA | 🔒 | 23d |
 | **[Yahoo](https://simplify.jobs/c/Yahoo?utm_source=GHList&utm_medium=company)** | Software Dev Engineer I - Data Platforms | Urbana, IL | 🔒 | 24d |
 | **[CACI](https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company)** | Junior Software Developer | Dulles, VA | 🔒 | 24d |
-| **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I | SF | 🔒 | 24d |
-| ↳ | Software Engineer I | Toronto, ON, Canada</br>Greater Toronto Area, ON, Canada | 🔒 | 24d |
+| **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I | SF | 🔒 | 25d |
+| ↳ | Software Engineer I | Toronto, ON, Canada</br>Greater Toronto Area, ON, Canada | 🔒 | 25d |
 | **[Omnicell](https://simplify.jobs/c/Omnicell?utm_source=GHList&utm_medium=company)** | Software Engineer I | Cranberry Twp, PA | 🔒 | 27d |
 | **[The Walt Disney Company](https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company)** | Software Engineer I | Seattle, WA | 🔒 | 27d |
 | **[Chewy](https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company)** | Software Engineer I | Minneapolis, MN | 🔒 | 27d |
 | **[Vertex](https://simplify.jobs/c/Vertex?utm_source=GHList&utm_medium=company)** | Software Developer – New Grad | Remote in USA</br>Remote in Canada | 🔒 | 27d |
-| **[The Walt Disney Company](https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company)** | Software Engineer I | <details><summary>**6 locations**</summary>Seattle, WA</br>Santa Monica, CA</br>SF</br>Bristol, CT</br>Glendale, CA</br>NYC</details> | 🔒 | 27d |
+| **[The Walt Disney Company](https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company)** | Software Engineer I | <details><summary>**6 locations**</summary>Seattle, WA</br>Santa Monica, CA</br>SF</br>Bristol, CT</br>Glendale, CA</br>NYC</details> | 🔒 | 28d |
 | **[Cox](https://simplify.jobs/c/Cox?utm_source=GHList&utm_medium=company)** | Software Engineer I | Atlanta, GA | 🔒 | 28d |
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | C/C++ and Java Software Development Engineer I | Bristol, RI | 🔒 | 28d |
 | **[Magical](https://simplify.jobs/c/82f71d0b-1b62-419e-a151-644b20c06ecd?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad - AI | SF | 🔒 | 28d |
@@ -250,10 +249,11 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Esri](https://simplify.jobs/c/Esri?utm_source=GHList&utm_medium=company)** | Software Engineer I - AI Assistant Framework - Arcgis Enterprise | West Redlands, Redlands, CA | 🔒 | 1mo |
 | **[Anaplan](https://simplify.jobs/c/Anaplan?utm_source=GHList&utm_medium=company)** | Junior Software Engineer | York, UK | 🔒 | 1mo |
 | **[Amentum](https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company)** | Entry Level Software Engineer | Dahlgren, VA | 🔒 | 1mo |
+| **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Developer – Entry level | Lawton, OK | 🔒 | 1mo |
 | **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I | Toronto, ON, Canada | 🔒 | 1mo |
 | ↳ | Software Engineer I | SF | 🔒 | 1mo |
 | **[Cox](https://simplify.jobs/c/Cox?utm_source=GHList&utm_medium=company)** | Software Engineer I | Atlanta, GA | 🔒 | 1mo |
-| **[Adobe](https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company)** | University Graduate - Software Engineer | NYC | 🔒 | 1mo |
+| **[Adobe](https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company)** | University Graduate - Software Engineer | NYC | 🔒 | 2mo |
 | **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I | SF | 🔒 | 2mo |
 | ↳ | Software Engineer I | Toronto, ON, Canada | 🔒 | 2mo |
 | **[Wex](https://simplify.jobs/c/788246ec-e89c-499a-bb15-9a02acb178a9?utm_source=GHList&utm_medium=company)** | Software Engineer 1 | Portland, ME | 🔒 | 2mo |
@@ -420,7 +420,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Software Engineer I | Marlborough, MA | 🔒 | 3mo |
 | **[Cox](https://simplify.jobs/c/Cox?utm_source=GHList&utm_medium=company)** | Software Engineer I | Atlanta, GA | 🔒 | 3mo |
 | **[Sierra Nevada Coporation](https://simplify.jobs/c/Sierra-Nevada-Coporation?utm_source=GHList&utm_medium=company)** | Software Engineer I | Lone Tree, CO | 🔒 | 3mo |
-| **[Sierra Nevada Coporation](https://simplify.jobs/c/Sierra-Nevada-Coporation?utm_source=GHList&utm_medium=company)** | Software Engineer I | Lone Tree, CO | 🔒 | 3mo |
+| ↳ | Software Engineer I | Lone Tree, CO | 🔒 | 3mo |
 | ↳ | Software Engineer I | Lone Tree, CO | 🔒 | 3mo |
 | ↳ | Software Engineer I - Test | Reston, VA | 🔒 | 3mo |
 | **[Apple](https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company)** | Software Development Engineer in Test – Early Career - Retail Engineering |  | 🔒 | 3mo |
@@ -486,7 +486,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Western Digital](https://simplify.jobs/c/Western-Digital?utm_source=GHList&utm_medium=company)** | New College Grad - Software Development Engineering - Apps | Irvine, CA | 🔒 | 4mo |
 | **[Nexxen](https://simplify.jobs/c/Nexxen?utm_source=GHList&utm_medium=company)** | Software Engineer I - Dsp - Demand Side Platform | NYC | 🔒 | 4mo |
 | **[Sensor Tower](https://simplify.jobs/c/Sensor-Tower?utm_source=GHList&utm_medium=company)** | Back End Developer – Entry Level - Ruby | Remote in UK | 🔒 | 4mo |
-| **[Global Payments](https://simplify.jobs/c/Global-Payments?utm_source=GHList&utm_medium=company)** | Software Engineer I or above | Columbus, GA | 🔒 | 4mo |
+| **[Global Payments](https://simplify.jobs/c/Global-Payments?utm_source=GHList&utm_medium=company)** | Software Engineer I or above | Columbus, GA | 🔒 | 5mo |
 | **[Apple](https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company)** | Software Engineer – Early Career - Enterprise Technology Services | Sunnyvale, CA | 🔒 | 5mo |
 | **[Acorns](https://simplify.jobs/c/Acorns?utm_source=GHList&utm_medium=company)** | Software Engineer I, Recent Graduate 🛂 | Remote | 🔒 | 5mo |
 | **[Mintel](https://simplify.jobs/c/d12e128c-67fc-4f21-b1de-d239e884bafa?utm_source=GHList&utm_medium=company)** | Software Engineer I | Chicago, IL | 🔒 | 5mo |
@@ -529,7 +529,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Nominal](https://simplify.jobs/c/Nominal?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad | NYC | 🔒 | 5mo |
 | **[FICO](https://simplify.jobs/c/c0d581f7-6346-4205-96a6-0fb804352421?utm_source=GHList&utm_medium=company)** | Software Engineering - Engineer I | Birmingham, UK | 🔒 | 5mo |
 | **[Wiley Edge](https://simplify.jobs/c/WileyEdge?utm_source=GHList&utm_medium=company)** | Junior Software Engineer | United States | 🔒 | 5mo |
-| ↳ | Junior Software Engineer | NYC | 🔒 | 5mo |
+| **[Wiley Edge](https://simplify.jobs/c/WileyEdge?utm_source=GHList&utm_medium=company)** | Junior Software Engineer | NYC | 🔒 | 5mo |
 | **[Snorkel AI](https://simplify.jobs/c/Snorkel-AI?utm_source=GHList&utm_medium=company)** | Software Engineer – Recent University Graduate | San Carlos, CA | 🔒 | 5mo |
 | **[Wiley Edge](https://simplify.jobs/c/WileyEdge?utm_source=GHList&utm_medium=company)** | Mthree – Junior Software Developer | United Kingdom | 🔒 | 5mo |
 | **[GitHub](https://simplify.jobs/c/GitHub?utm_source=GHList&utm_medium=company)** | Software Engineer I - Copilot Agent Services | Remote in UK | 🔒 | 5mo |
@@ -590,7 +590,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | ↳ | Junior Software Developer - Hybrid | Scott AFB, IL</br>United States | 🔒 | 7mo |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Software Engineer – New College Grad 2025 - Virtualization | Santa Clara, CA | 🔒 | 7mo |
 | **[HashiCorp](https://simplify.jobs/c/HashiCorp?utm_source=GHList&utm_medium=company)** | Software Engineer I - Backend - HCP Terraform | Remote in USA | 🔒 | 7mo |
-| ↳ | Software Engineer I - Backend - HCP Terraform | Remote in USA | 🔒 | 7mo |
+| **[HashiCorp](https://simplify.jobs/c/HashiCorp?utm_source=GHList&utm_medium=company)** | Software Engineer I - Backend - HCP Terraform | Remote in USA | 🔒 | 7mo |
 | **[Collaborative Robotics](https://simplify.jobs/c/Collaborative-Robotics?utm_source=GHList&utm_medium=company)** | Software Engineer – University Grad - Robotics |  | 🔒 | 7mo |
 | ↳ | Software Engineer – University Grad - Test | Santa Clara, CA | 🔒 | 7mo |
 | **[ConnectWise](https://simplify.jobs/c/ConnectWise?utm_source=GHList&utm_medium=company)** | Software Engineer I | Florida | 🔒 | 7mo |
@@ -661,7 +661,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[MSD](https://simplify.jobs/c/175953b9-17d1-4a2f-b0af-b77706477183?utm_source=GHList&utm_medium=company)** | Junior Data Engineer | San Jose, CA | 🔒 | 7mo |
 | **[Two Six Technologies](https://simplify.jobs/c/Two-Six-Technologies?utm_source=GHList&utm_medium=company)** | Junior Software Engineer | Cherry Hills Village, CO | 🔒 | 7mo |
 | ↳ | Junior Software Engineer | Reston, VA | 🔒 | 7mo |
-| **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Research Engineer – New College Grad 2025 - Architecture | Austin, TX</br>Santa Clara, CA</br>Westford, MA | 🔒 | 7mo |
+| **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Research Engineer – New College Grad 2025 - Architecture | Austin, TX</br>Santa Clara, CA</br>Westford, MA | 🔒 | 8mo |
 | **[Cambridge Mobile Telematics](https://simplify.jobs/c/4deb12d2-2054-45da-b1c8-a49bc3f15c6a?utm_source=GHList&utm_medium=company)** | Software Engineer I - Android SDK | Remote in USA | 🔒 | 8mo |
 | **[Supernova Technology](https://simplify.jobs/c/4019ae9c-3cfa-47fe-83fd-758f3b050277?utm_source=GHList&utm_medium=company)** | Junior Software Engineer | Chicago, IL | 🔒 | 8mo |
 | **[Electric Mind](https://simplify.jobs/c/51123b55-9be2-4c4f-a980-2c22c96aa4bf?utm_source=GHList&utm_medium=company)** | Junior Software Developer - Full Stack | Toronto, ON, Canada | 🔒 | 8mo |
@@ -739,7 +739,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[SMX](https://simplify.jobs/c/Smx?utm_source=GHList&utm_medium=company)** | Junior Software Engineer - Ts/Sci CI Poly | Chantilly, VA | 🔒 | 8mo |
 | **[Codazen](https://simplify.jobs/c/Codazen?utm_source=GHList&utm_medium=company)** | Full-Stack Engineer Summer 2025 New Grad | Salt Lake City, UT | 🔒 | 8mo |
 | **[Accenture Federal Services](https://simplify.jobs/c/AccentureFederalServices?utm_source=GHList&utm_medium=company)** | Junior Software Developer | Huntsville, AL | 🔒 | 8mo |
-| **[Booz Allen](https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company)** | Software Developer - Junior | McLean, VA | 🔒 | 8mo |
+| **[Booz Allen](https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company)** | Software Developer - Junior | McLean, VA | 🔒 | 9mo |
 | **[Snap Inc.](https://simplify.jobs/c/Snap?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad Engineer - Full Stack | Seattle, WA | 🔒 | 9mo |
 | **[Chime](https://simplify.jobs/c/Chime?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad - Pay Anyone | SF | 🔒 | 9mo |
 | **[Wyetech](https://simplify.jobs/c/Wyetech-LLC?utm_source=GHList&utm_medium=company)** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | 9mo |
@@ -752,7 +752,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[The Walt Disney Company](https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company)** | Software Engineer I | Seattle, WA | 🔒 | 9mo |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Compiler Engineer – New College Grad 2024 - LLVM | Austin, TX</br>Redmond, WA</br>Santa Clara, CA | 🔒 | 9mo |
 | **[Wyetech](https://simplify.jobs/c/Wyetech-LLC?utm_source=GHList&utm_medium=company)** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | 9mo |
-| ↳ | Software Engineer 1 - Telework | Annapolis Junction, MD | 🔒 | 9mo |
+| **[Wyetech](https://simplify.jobs/c/Wyetech-LLC?utm_source=GHList&utm_medium=company)** | Software Engineer 1 - Telework | Annapolis Junction, MD | 🔒 | 9mo |
 | ↳ | Software Engineer 0 | Annapolis Junction, MD | 🔒 | 9mo |
 | **[Nominal](https://simplify.jobs/c/Nominal?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad | Austin, TX | 🔒 | 9mo |
 | ↳ | Software Engineer – New Grad 🇺🇸 | LA | 🔒 | 9mo |
@@ -951,10 +951,10 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Tyson Foods](https://simplify.jobs/c/Tyson-Foods?utm_source=GHList&utm_medium=company)** | Data Engineer I | Springdale, AR | 🔒 | 7d |
 | **[Meta](https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company)** | Data Engineer – University Grad | London, UK | 🔒 | 7d |
 | **[Tyson Foods](https://simplify.jobs/c/Tyson-Foods?utm_source=GHList&utm_medium=company)** | Data Engineer I | Springdale, AR | 🔒 | 8d |
-| **[Taco Bell](https://simplify.jobs/c/TacoBell?utm_source=GHList&utm_medium=company)** | Data Engineer I | Irvine, CA | 🔒 | 14d |
+| **[Taco Bell](https://simplify.jobs/c/TacoBell?utm_source=GHList&utm_medium=company)** | Data Engineer I | Irvine, CA | 🔒 | 15d |
 | **[Fifth Third Bank](https://simplify.jobs/c/Fifth-Third-Bank?utm_source=GHList&utm_medium=company)** | Data Engineer I - Regulatory Reporting | Cincinnati, OH | 🔒 | 21d |
 | **[USAA](https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63?utm_source=GHList&utm_medium=company)** | Data Engineer – Entry Level | Plano, TX | 🔒 | 22d |
-| **[TD Bank](https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer I | Toronto, ON, Canada | 🔒 | 24d |
+| **[TD Bank](https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer I | Toronto, ON, Canada | 🔒 | 25d |
 | **[Centene](https://simplify.jobs/c/Centene?utm_source=GHList&utm_medium=company)** | Data Engineer I | California</br>Florida</br>North Carolina | 🔒 | 27d |
 | **[Fifth Third Bank](https://simplify.jobs/c/Fifth-Third-Bank?utm_source=GHList&utm_medium=company)** | Data Engineer I - Finance IT | Cincinnati, OH | 🔒 | 1mo |
 | **[Credit Genie](https://simplify.jobs/c/Credit-Genie?utm_source=GHList&utm_medium=company)** | New Grad-Data Scientist - Cmu | Conshohocken, PA | 🔒 | 1mo |
@@ -1018,7 +1018,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
-| **[AQR Capital Management](https://simplify.jobs/c/AQR-Capital-Management?utm_source=GHList&utm_medium=company)** | Junior Software Engineer-Quantitative Research | Greenwich, CT | 🔒 | 8mo |
+| **[AQR Capital Management](https://simplify.jobs/c/AQR-Capital-Management?utm_source=GHList&utm_medium=company)** | Junior Software Engineer-Quantitative Research | Greenwich, CT | 🔒 | 9mo |
 | **[DV Trading](https://simplify.jobs/c/DV-Trading?utm_source=GHList&utm_medium=company)** | Junior Quantitative Developer | Toronto, ON, Canada | 🔒 | 9mo |
 | **[Belvedere Trading](https://simplify.jobs/c/Belvedere-Trading?utm_source=GHList&utm_medium=company)** | Quantitative Trader – Entry Level 2025 | Chicago, IL | 🔒 | 10mo |
 
@@ -1056,7 +1056,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Dell Technologies](https://simplify.jobs/c/Dell-Technologies?utm_source=GHList&utm_medium=company)** | Hardware Engineer 1 | Westborough, MA | 🔒 | 1d |
 | **[The Boeing Company](https://simplify.jobs/c/Boeing?utm_source=GHList&utm_medium=company)** | Entry Level Software Engineer | Hazelwood, MO | 🔒 | 10d |
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Software Engineer I - Embedded Communications | Cedar Rapids, IA | 🔒 | 14d |
-| **[Cadence Design Systems](https://simplify.jobs/c/Cadence-Design-Systems?utm_source=GHList&utm_medium=company)** | C++ Software Engineer – New College Grad | Burlington, MA | 🔒 | 16d |
+| **[Cadence Design Systems](https://simplify.jobs/c/Cadence-Design-Systems?utm_source=GHList&utm_medium=company)** | C++ Software Engineer – New College Grad | Burlington, MA | 🔒 | 17d |
 | **[Medtronic](https://simplify.jobs/c/Medtronic?utm_source=GHList&utm_medium=company)** | Hardware Engineer I | Lafayette, CO | 🔒 | 21d |
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Software Engineer I - C++ | Fulton, MD | 🔒 | 21d |
 | **[Medtronic](https://simplify.jobs/c/Medtronic?utm_source=GHList&utm_medium=company)** | Software Engineer I - Neuro | Minneapolis, MN | 🔒 | 1mo |
