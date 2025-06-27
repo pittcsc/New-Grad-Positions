@@ -17,22 +17,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "CesiumAstro",
-        "id": "bab4e6a8-aada-4e99-9e7d-90684e671710",
-        "title": "Embedded Software Engineer I",
-        "active": false,
-        "date_updated": 1719962162,
-        "date_posted": 1719962162,
-        "url": "https://jobs.lever.co/CesiumAstro/a7adad7c-bcf8-4431-b04a-91c7ce005b07/apply",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/CesiumAstro",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Match Group",
         "id": "c508abbd-a1c9-4d82-b660-d62d3aa04a7e",
         "title": "Data Scientist I - Marketing Analytics",
@@ -1045,54 +1029,6 @@
             "Belfast, UK"
         ],
         "company_url": "https://simplify.jobs/c/aPriori",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "BuzzFeed",
-        "id": "5a765f70-5307-41c9-b126-a5a91a18993e",
-        "title": "IOS Software Engineer",
-        "active": false,
-        "date_updated": 1719962437,
-        "date_posted": 1719962437,
-        "url": "https://boards.greenhouse.io/buzzfeed/jobs/6086132",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/BuzzFeed",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Alphataraxia",
-        "id": "a5159b01-1657-4385-8e61-3607ce38a5af",
-        "title": "Investment Analyst - LA",
-        "active": false,
-        "date_updated": 1719962365,
-        "date_posted": 1719962365,
-        "url": "https://boards.greenhouse.io/alphataraxia/jobs/4422448007",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Alphataraxia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Optiver",
-        "id": "5f56215a-021f-47c6-9ced-4d52f97c6e6b",
-        "title": "Trading Operations Analyst",
-        "active": false,
-        "date_updated": 1719962255,
-        "date_posted": 1719962255,
-        "url": "https://optiver.com/working-at-optiver/career-opportunities/7511032002/?gh_jid=7511032002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Optiver",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -16817,6 +16753,58 @@
             "Fulton, MD"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Plusgrade",
+        "id": "793856dc-03bb-4726-af22-eb74bb565bb0",
+        "title": "Junior Software Developer / D\u00e9veloppeur logiciel junior",
+        "active": true,
+        "date_updated": 1751066724,
+        "date_posted": 1751066724,
+        "url": "https://jobs.lever.co/plusgrade/9c9728f3-031d-4df5-b3a3-f060e338f684/apply",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Plusgrade",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "d862d01e-68b9-42cf-944e-3f9d20b53e1d",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1751066571,
+        "date_posted": 1751066571,
+        "url": "https://jobs.ashbyhq.com/Jerry/28faa3d6-ef77-4a80-83f1-4104087b391f/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "5502e169-2db9-41e6-96a6-38faa48d73b4",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1751066571,
+        "date_posted": 1751066571,
+        "url": "https://jobs.ashbyhq.com/Jerry/fc7c1a2d-ad09-411c-afdc-36d7329ec3d6/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
     }
