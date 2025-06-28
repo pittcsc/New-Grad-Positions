@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Match Group",
-        "id": "c508abbd-a1c9-4d82-b660-d62d3aa04a7e",
-        "title": "Data Scientist I - Marketing Analytics",
-        "active": false,
-        "date_updated": 1720048707,
-        "date_posted": 1720048707,
-        "url": "https://jobs.lever.co/matchgroup/d1083f08-dde7-437b-a922-a40a7bf77cfc/apply",
-        "locations": [
-            "Hollywood, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Match-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Jerry",
         "id": "fb72e240-9bf3-41f5-b801-a42abe9200aa",
         "title": "Software Engineer I - Toronto",
@@ -786,70 +770,6 @@
             "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Lightspeed-Commerce",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Uber",
-        "id": "1b72565a-bc7d-4f69-bef6-5133fb86e235",
-        "title": "Software Engineer II - Full stack",
-        "active": false,
-        "date_updated": 1720049195,
-        "date_posted": 1720049195,
-        "url": "https://www.uber.com/global/en/careers/list/131652/",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Veritone",
-        "id": "c685306b-0ce9-42d6-a89a-f707515ed18a",
-        "title": "Campaign Manager",
-        "active": false,
-        "date_updated": 1720049043,
-        "date_posted": 1720049043,
-        "url": "https://boards.greenhouse.io/veritone/jobs/6039135003",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Veritone",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Sofar Ocean",
-        "id": "e6d0aaf3-447e-4013-a57a-1401b9feacf2",
-        "title": "Maritime Data Analyst",
-        "active": false,
-        "date_updated": 1720465804,
-        "date_posted": 1720048949,
-        "url": "https://boards.greenhouse.io/sofarocean/jobs/6046193003",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/SofarOcean",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Applied Intuition",
-        "id": "3a6be2f6-9641-4be4-9e70-f3a6b5e60793",
-        "title": "ML Runtime Optimization Engineer",
-        "active": false,
-        "date_updated": 1720048825,
-        "date_posted": 1720048825,
-        "url": "https://boards.greenhouse.io/appliedintuition/jobs/4435686005",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Intuition",
         "is_visible": true,
         "sponsorship": "Other"
     },
