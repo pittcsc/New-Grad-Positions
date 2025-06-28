@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Triumvirate Environmental",
-        "id": "fce85f94-cb7d-436e-bc2f-f89af295616e",
-        "title": "Technical Services Associate",
-        "active": false,
-        "date_updated": 1720019859,
-        "date_posted": 1720019859,
-        "url": "https://boards.greenhouse.io/triumvirateenvironmental/jobs/4382923006",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Triumvirate-Environmental",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Match Group",
         "id": "c508abbd-a1c9-4d82-b660-d62d3aa04a7e",
         "title": "Data Scientist I - Marketing Analytics",
