@@ -16841,5 +16841,22 @@
         "company_url": "https://simplify.jobs/c/Cox",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "USAA",
+        "id": "a4534f59-5baf-4b6e-a528-21c6f8b7964f",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1751077498,
+        "date_posted": 1751077498,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Data-Engineer-I_R0110546",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
