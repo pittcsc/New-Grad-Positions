@@ -1001,38 +1001,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Normal Computing",
-        "id": "043f1903-47ec-477f-900e-c7294dc5e156",
-        "title": "AI Engineer",
-        "active": false,
-        "date_updated": 1720019492,
-        "date_posted": 1720019492,
-        "url": "https://jobs.ashbyhq.com/Normal%20Computing%20AI/39578fc9-3836-46a4-b2c7-63448ebeddcf/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/NormalComputing",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "aPriori",
-        "id": "1ed68697-8302-4003-9dce-46f0ff5fa209",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1720189166,
-        "date_posted": 1720019472,
-        "url": "https://boards.greenhouse.io/aprioritechnologies/jobs/5222609004",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/aPriori",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
