@@ -140,7 +140,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (779)</summary>
+<summary>🗃️ Inactive roles (777)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
@@ -184,14 +184,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Comcast](https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company)** | Engineer 1 - Software Dev/Eng - Full Stack | Philadelphia, PA | 🔒 | 24d |
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Software Engineer I - Java | Fulton, MD | 🔒 | 24d |
 | **[Cox](https://simplify.jobs/c/Cox?utm_source=GHList&utm_medium=company)** | Software Engineer 1 | Carmel, IN | 🔒 | 24d |
-| **[Omnicell](https://simplify.jobs/c/Omnicell?utm_source=GHList&utm_medium=company)** | Software Engineer I | Cranberry Twp, PA | 🔒 | 24d |
+| **[Omnicell](https://simplify.jobs/c/Omnicell?utm_source=GHList&utm_medium=company)** | Software Engineer I | Cranberry Twp, PA | 🔒 | 25d |
 | **[Amentum](https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company)** | Entry Level Software Developer | Dahlgren, VA | 🔒 | 25d |
 | **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I | SF | 🔒 | 25d |
 | ↳ | Software Engineer I | Toronto, ON, Canada</br>Greater Toronto Area, ON, Canada | 🔒 | 25d |
 | **[Robert Half](https://simplify.jobs/c/Robert-Half?utm_source=GHList&utm_medium=company)** | Software Engineer I | San Ramon, CA | 🔒 | 26d |
 | **[Medtronic](https://simplify.jobs/c/Medtronic?utm_source=GHList&utm_medium=company)** | Software Engineer I | Northridge, LA</br>San Diego, CA | 🔒 | 26d |
 | **[Yahoo](https://simplify.jobs/c/Yahoo?utm_source=GHList&utm_medium=company)** | Software Dev Engineer I - Data Platforms | Urbana, IL | 🔒 | 27d |
-| **[CACI](https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company)** | Junior Software Developer | Dulles, VA | 🔒 | 27d |
+| **[CACI](https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company)** | Junior Software Developer | Dulles, VA | 🔒 | 28d |
 | **[Jerry](https://simplify.jobs/c/Jerry?utm_source=GHList&utm_medium=company)** | Software Engineer I | SF | 🔒 | 28d |
 | ↳ | Software Engineer I | Toronto, ON, Canada</br>Greater Toronto Area, ON, Canada | 🔒 | 28d |
 | **[Omnicell](https://simplify.jobs/c/Omnicell?utm_source=GHList&utm_medium=company)** | Software Engineer I | Cranberry Twp, PA | 🔒 | 1mo |
@@ -849,7 +849,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Stripe](https://simplify.jobs/c/Stripe?utm_source=GHList&utm_medium=company)** | Software Engineer, New Grad | Toronto, ON, Canada | 🔒 | 10mo |
 | **[Verkada](https://simplify.jobs/c/Verkada?utm_source=GHList&utm_medium=company)** | Frontend Software Engineer - University Graduate 2025 | San Mateo, CA | 🔒 | 10mo |
 | ↳ | iOS Software Engineer - University Graduate 2025 | San Mateo, CA | 🔒 | 10mo |
-| **[Verkada](https://simplify.jobs/c/Verkada?utm_source=GHList&utm_medium=company)** | Security Software Engineer - University Graduate 2025 | San Mateo, CA | 🔒 | 10mo |
+| ↳ | Security Software Engineer - University Graduate 2025 | San Mateo, CA | 🔒 | 10mo |
 | ↳ | Backend Software Engineer - University Graduate 2025 | San Mateo, CA | 🔒 | 10mo |
 | ↳ | Android Software Engineer - University Graduate 2025 | San Mateo, CA | 🔒 | 10mo |
 | **[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad | Seattle, WA | 🔒 | 10mo |
@@ -921,8 +921,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | Old Mission Capital | Junior Software Engineer | Chicago, IL, USA | 🔒 | 11mo |
 | Optiver | Graduate Software Engineer | Austin, TX</br>Chicago, IL | 🔒 | 11mo |
 | Google | User Experience Designer | Mountain View, CA</br>San Francisco, CA | 🔒 | 11mo |
-| Citadel Securities | Software Engineer – 2025 University Graduate (US) | Miami, FL</br>New York, NY | 🔒 | 11mo |
-| JPMorgan Chase | 2025 Software Engineer Program 🛂 | <details><summary>**12 locations**</summary>Atlanta, GA</br>Austin, TX</br>Chicago, IL</br>Columbus, OH</br>Houston, TX</br>Jersey City, NJ</br>New York, NY</br>Palo Alto, CA</br>Plano, TX</br>Seattle, WA</br>Tampa, FL</br>Wilmington, DE</details> | 🔒 | 11mo |
 
 
 </details>
@@ -957,7 +955,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Tyson Foods](https://simplify.jobs/c/Tyson-Foods?utm_source=GHList&utm_medium=company)** | Data Engineer I | Springdale, AR | 🔒 | 11d |
 | **[Taco Bell](https://simplify.jobs/c/TacoBell?utm_source=GHList&utm_medium=company)** | Data Engineer I | Irvine, CA | 🔒 | 18d |
 | **[Fifth Third Bank](https://simplify.jobs/c/Fifth-Third-Bank?utm_source=GHList&utm_medium=company)** | Data Engineer I - Regulatory Reporting | Cincinnati, OH | 🔒 | 24d |
-| **[USAA](https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63?utm_source=GHList&utm_medium=company)** | Data Engineer – Entry Level | Plano, TX | 🔒 | 25d |
+| **[USAA](https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63?utm_source=GHList&utm_medium=company)** | Data Engineer – Entry Level | Plano, TX | 🔒 | 26d |
 | **[TD Bank](https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer I | Toronto, ON, Canada | 🔒 | 28d |
 | **[Centene](https://simplify.jobs/c/Centene?utm_source=GHList&utm_medium=company)** | Data Engineer I | California</br>Florida</br>North Carolina | 🔒 | 1mo |
 | **[Fifth Third Bank](https://simplify.jobs/c/Fifth-Third-Bank?utm_source=GHList&utm_medium=company)** | Data Engineer I - Finance IT | Cincinnati, OH | 🔒 | 1mo |
