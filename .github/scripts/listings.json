@@ -16542,5 +16542,39 @@
         "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Noom",
+        "id": "6de98a8c-05f7-4927-90dd-387ec16996b2",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1751327039,
+        "date_posted": 1751327039,
+        "url": "https://www.noom.com/careers/job-listings/?gh_jid=6955637",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/48d1021b-1679-4383-bba6-8a73ac654f64",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "1be7d2bd-653d-44c2-bd70-152f9e16cef2",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1751326105,
+        "date_posted": 1751326105,
+        "url": "https://jobs.ashbyhq.com/Jerry/2f351dfa-4c5c-437c-98ad-471c1444bd77/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
