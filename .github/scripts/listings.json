@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Regrello",
-        "id": "66043d79-b1e1-42b7-a522-d0ddf82abe52",
-        "title": "Software Engineer - Backend - Forms Engine",
-        "active": false,
-        "date_updated": 1720220836,
-        "date_posted": 1720220836,
-        "url": "https://jobs.lever.co/regrello/466cc193-dc1e-49e0-86e4-8fd4b9b74d6f/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Regrello",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Civis Analytics",
         "id": "1a8bfe10-b7a7-453e-b3aa-13922eeaa2b8",
         "title": "Applied Data Scientist I - Contract",
@@ -694,22 +678,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Fastly",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Lightspeed Commerce",
-        "id": "34f2f086-a7e1-407c-838c-2897892e197c",
-        "title": "Analytics Engineer - Financial Services",
-        "active": false,
-        "date_updated": 1720220867,
-        "date_posted": 1720220867,
-        "url": "https://boards.greenhouse.io/lightspeedhq/jobs/6015617",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Lightspeed-Commerce",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -16537,6 +16505,23 @@
             "San Antonio, TX"
         ],
         "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FourKites",
+        "id": "de6552c1-f7f4-4d1a-bc13-ff388f55378d",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1751324804,
+        "date_posted": 1751324804,
+        "url": "https://job-boards.greenhouse.io/fourkites/jobs/7002143",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/FourKites",
         "is_visible": true,
         "sponsorship": "Other"
     }
