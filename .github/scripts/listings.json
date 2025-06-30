@@ -1,21 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "company_name": "Jerry",
-        "id": "fb72e240-9bf3-41f5-b801-a42abe9200aa",
-        "title": "Software Engineer I - Toronto",
-        "active": false,
-        "date_updated": 1720192298,
-        "date_posted": 1720192298,
-        "url": "https://jobs.ashbyhq.com/Jerry/288e3c48-5428-4397-90c9-5448ab57cc27/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1720217188,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210527372",
         "company_name": "JPMorgan Chase",
