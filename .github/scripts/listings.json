@@ -16764,5 +16764,43 @@
         "company_url": "https://simplify.jobs/c/Iridium-Communications",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Candid Health",
+        "id": "8098037f-f4db-4feb-a7ea-2a17e108f871",
+        "title": "Forward Deployed Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1751413471,
+        "date_posted": 1751413471,
+        "url": "https://jobs.ashbyhq.com/candidhealth/8d1922f8-e89d-433e-a21f-b724eabc003b/application",
+        "locations": [
+            "SF",
+            "NYC",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Candid-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Candid Health",
+        "id": "0e1e4210-db26-4d8c-b905-6f99a8c98483",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1751413478,
+        "date_posted": 1751413478,
+        "url": "https://jobs.ashbyhq.com/candidhealth/f0e529c1-b8d8-4add-aaef-23b174053b8b/application",
+        "locations": [
+            "SF",
+            "NYC",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Candid-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
