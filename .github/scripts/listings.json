@@ -1476,7 +1476,7 @@
         "company_name": "Palantir",
         "id": "7e134007-3fa8-4732-84ca-e7119c8f4116",
         "title": "Software Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1724101393,
         "date_posted": 1721868821,
         "url": "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply",
@@ -2155,7 +2155,7 @@
         "company_name": "Palantir",
         "id": "f0bfc241-81bc-4e41-9302-f5eca6339fdf",
         "title": "Software Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1724456004,
         "date_posted": 1724456004,
         "url": "https://jobs.lever.co/palantir/dea9d3d5-75b2-4588-b7bd-585a47b79c8c/apply",
@@ -16574,6 +16574,159 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "a8ce51d6-0756-4ce0-949a-618e2f755b99",
+        "title": "Software Engineer \u2013 New Grad - Production Infrastructure",
+        "active": true,
+        "date_updated": 1751385401,
+        "date_posted": 1751385401,
+        "url": "https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "645100d8-0e6e-414b-aa7c-96ecb3ea36e4",
+        "title": "Software Engineer \u2013 New Grad - Defense",
+        "active": true,
+        "date_updated": 1751385398,
+        "date_posted": 1751385398,
+        "url": "https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "345a57b5-fae1-45c1-8deb-5bbec4479e03",
+        "title": "Software Engineer \u2013 New Grad - Defense",
+        "active": true,
+        "date_updated": 1751385397,
+        "date_posted": 1751385397,
+        "url": "https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "0a14e404-4828-4af4-bb63-2fb23a5a061f",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1751385393,
+        "date_posted": 1751385393,
+        "url": "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "28d1f6a3-0734-4ec4-9e9f-d57b3429cabf",
+        "title": "Software Engineer \u2013 New Grad - Infrastructure",
+        "active": true,
+        "date_updated": 1751385403,
+        "date_posted": 1751385403,
+        "url": "https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "057e0386-1d1a-425c-b6a6-d6e3374a3d52",
+        "title": "Software Engineer \u2013 New Grad - Defense",
+        "active": true,
+        "date_updated": 1751385398,
+        "date_posted": 1751385398,
+        "url": "https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "1448f4ee-fa48-4c3e-807a-2faf4016ae0f",
+        "title": "Software Engineer \u2013 New Grad - Production Infrastructure",
+        "active": true,
+        "date_updated": 1751385401,
+        "date_posted": 1751385401,
+        "url": "https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af/apply",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "1f6bee99-9cca-467c-a0b3-899d61139a03",
+        "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
+        "active": true,
+        "date_updated": 1751385332,
+        "date_posted": 1751385332,
+        "url": "https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "f6f83b45-cf4c-4a3e-8f32-4c64672610a1",
+        "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
+        "active": true,
+        "date_updated": 1751385330,
+        "date_posted": 1751385330,
+        "url": "https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
         "is_visible": true,
         "sponsorship": "Other"
     }
