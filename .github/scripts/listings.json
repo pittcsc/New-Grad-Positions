@@ -16820,5 +16820,22 @@
         "company_url": "https://simplify.jobs/c/Boeing",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Gentex Corporation",
+        "id": "10e588e5-4833-4dd8-8990-e81c6c05a51a",
+        "title": "Software Engineer I - Plm",
+        "active": true,
+        "date_updated": 1751480986,
+        "date_posted": 1751480986,
+        "url": "https://gentex.wd5.myworkdayjobs.com/talentacquisitionprivatepostings/job/Zeeland-MI/Software-Engineer-I--PLM-_REQ024929-2",
+        "locations": [
+            "Holland, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Gentex-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
