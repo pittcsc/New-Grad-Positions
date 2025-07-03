@@ -66,22 +66,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Tower Research Capital",
-        "id": "94fb4e14-f70c-4a17-b8e0-d3fca91e7698",
-        "title": "Quantitative Trader - 2025",
-        "active": false,
-        "date_updated": 1720481014,
-        "date_posted": 1720481014,
-        "url": "https://www.tower-research.com/open-positions/?gh_jid=6072033",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1720558816,
         "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6009326003",
         "company_name": "Old Mission Capital",
@@ -466,39 +450,6 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Arista-Networks",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Aptos Labs",
-        "id": "b77ac67c-6d29-4747-bddc-72928eab789e",
-        "title": "Software Engineer - Programming Languages",
-        "active": false,
-        "date_updated": 1720481010,
-        "date_posted": 1720481010,
-        "url": "https://boards.greenhouse.io/aptoslabs/jobs/4346121005",
-        "locations": [
-            "Palo Alto, CA",
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Aptos-Labs",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "BitGo",
-        "id": "f289520c-4155-4967-ad50-5f8e83d035c2",
-        "title": "Software Engineer - Toronto",
-        "active": false,
-        "date_updated": 1720480822,
-        "date_posted": 1720480822,
-        "url": "https://boards.greenhouse.io/bitgo/jobs/7521838002",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BitGo",
         "is_visible": true,
         "sponsorship": "Other"
     },
