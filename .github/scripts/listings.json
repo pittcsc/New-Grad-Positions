@@ -82,25 +82,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Regrello",
-        "id": "0fd5c74a-e2e7-4b03-a2e1-d8a0cc6545dd",
-        "title": "Software Engineer - Frontend - Forms Engine",
-        "active": false,
-        "date_updated": 1720484851,
-        "date_posted": 1720480055,
-        "url": "https://jobs.lever.co/regrello/5d0cccdc-c5a1-44e0-9ff6-b08d586462f1/apply",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "Austin, TX",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Regrello",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1720558816,
         "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6009326003",
         "company_name": "Old Mission Capital",
@@ -518,70 +499,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/BitGo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Zoox",
-        "id": "bb3b0558-0240-4730-a2ee-06d4b8d68193",
-        "title": "Software Engineer - Rider Support Tools",
-        "active": false,
-        "date_updated": 1720480348,
-        "date_posted": 1720480348,
-        "url": "https://jobs.lever.co/zoox/d7e5ea0d-4a32-496f-b48f-012443d75638/apply",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zoox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Democratic National Committee (DNC)",
-        "id": "b3114e54-264a-4e07-83c6-17856eaf268b",
-        "title": "Analytics Engineer",
-        "active": false,
-        "date_updated": 1720480415,
-        "date_posted": 1720480415,
-        "url": "https://jobs.lever.co/dnc/935a5c18-ea84-4a1f-8985-8905f4858fa0/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/DNC",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cboe",
-        "id": "c8a6dc84-6119-4c6b-8703-8615657d1923",
-        "title": "Python Software Engineer",
-        "active": false,
-        "date_updated": 1720479998,
-        "date_posted": 1720479998,
-        "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Amsterdam-NL/Software-Engineer--Data-Pipeline-Engineering_R-3500",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Cboe",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Hotspex Media",
-        "id": "22303532-1c03-4439-9f12-23d202c5ea6d",
-        "title": "Programmatic Campaign Coordinator",
-        "active": false,
-        "date_updated": 1720480069,
-        "date_posted": 1720480069,
-        "url": "https://jobs.ashbyhq.com/hotspexmedia/8ed0095a-a45a-4043-9da0-506a012d2342/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Hotspex-Media",
         "is_visible": true,
         "sponsorship": "Other"
     },
