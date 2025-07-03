@@ -1,21 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "company_name": "Civis Analytics",
-        "id": "1a8bfe10-b7a7-453e-b3aa-13922eeaa2b8",
-        "title": "Applied Data Scientist I - Contract",
-        "active": false,
-        "date_updated": 1720452226,
-        "date_posted": 1720452226,
-        "url": "https://boards.greenhouse.io/civisanalytics/jobs/6098079",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Civis-Analytics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1730944366,
         "url": "https://www.google.com/about/careers/applications/jobs/results/142022721218192070-user-experience-designer",
         "company_name": "Google",
@@ -598,86 +582,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Hotspex-Media",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "DRW",
-        "id": "9d26ef2b-179d-42ca-af13-59dc5c4a012f",
-        "title": "Quantitative Trading Analyst",
-        "active": false,
-        "date_updated": 1720451992,
-        "date_posted": 1720451992,
-        "url": "https://boards.greenhouse.io/drweng/jobs/6066242",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/DRW",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "DRW",
-        "id": "5b2de796-160e-4d7f-b90b-a1101c5af173",
-        "title": "C++ Software Developer",
-        "active": false,
-        "date_updated": 1720451987,
-        "date_posted": 1720451987,
-        "url": "https://boards.greenhouse.io/drweng/jobs/6041682",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/DRW",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "DRW",
-        "id": "e883ec5c-c60b-4bd6-8719-51f6754b9ff5",
-        "title": "Quantitative Researcher",
-        "active": false,
-        "date_updated": 1720451990,
-        "date_posted": 1720451990,
-        "url": "https://boards.greenhouse.io/drweng/jobs/5985326",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/DRW",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "DRW",
-        "id": "0fcb19c3-1372-4f42-9f61-7df592325abe",
-        "title": "Software Developer",
-        "active": false,
-        "date_updated": 1720451997,
-        "date_posted": 1720451997,
-        "url": "https://boards.greenhouse.io/drweng/jobs/5889745",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/DRW",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Fastly",
-        "id": "3ecef848-ae74-44c1-b404-c0ed468a7756",
-        "title": "Software Engineer - Bot Management and Anti-Fraud",
-        "active": false,
-        "date_updated": 1720451944,
-        "date_posted": 1720451944,
-        "url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5960548",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Fastly",
         "is_visible": true,
         "sponsorship": "Other"
     },
