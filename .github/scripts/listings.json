@@ -16856,5 +16856,22 @@
         "company_url": "https://simplify.jobs/c/Uber",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "d48cfade-867f-4121-8743-d5458899b695",
+        "title": "Entry Level Software Engineer \u2013 University Graduate - Voice and Music Team - Software Engineering",
+        "active": true,
+        "date_updated": 1751553636,
+        "date_posted": 1739521761,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446703767811",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
