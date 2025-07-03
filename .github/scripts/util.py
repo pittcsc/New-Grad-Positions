@@ -32,8 +32,12 @@ CATEGORIES = {
 }
 
 def setOutput(key, value):
-    with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
-        print(f'{key}={value}', file=fh)
+    if 'GITHUB_OUTPUT' in os.environ:
+        with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
+            print(f'{key}={value}', file=fh)
+    else:
+        # Safe fallback for local/dev use
+        print(f'[set-output] {key}={value}')
         
 def fail(why):
     setOutput("error_message", why)
