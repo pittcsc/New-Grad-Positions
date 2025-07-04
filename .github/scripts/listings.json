@@ -1,39 +1,5 @@
 [
     {
-        "date_updated": 1730944366,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/142022721218192070-user-experience-designer",
-        "company_name": "Google",
-        "title": "User Experience Designer",
-        "locations": [
-            "Mountain View, CA",
-            "San Francisco, CA"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "seanlewertow",
-        "id": "28b36095-22fd-4c60-9022-e08b74fa67b2",
-        "date_posted": 1720489300,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1720489342,
-        "url": "https://optiver.com/working-at-optiver/career-opportunities/7498618002/",
-        "company_name": "Optiver",
-        "title": "Graduate Software Engineer",
-        "locations": [
-            "Austin, TX",
-            "Chicago, IL"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "angelz913",
-        "id": "e4c5fe5b-c340-436b-901a-4be8d2936111",
-        "date_posted": 1720489342,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "company_name": "Vermont Information Processing",
         "id": "48b3be5d-b068-4357-a76c-66d211d998bd",
