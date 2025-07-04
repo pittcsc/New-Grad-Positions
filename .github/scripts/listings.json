@@ -16628,5 +16628,22 @@
         "company_url": "https://simplify.jobs/c/d1ef45b2-fd52-4e9d-9d7d-dc3d5386744f",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "af1ffb61-76d1-469e-99bb-c8bc1d2677b3",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1751624071,
+        "date_posted": 1751624071,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Surrey/Software-Engineer-I_R96548",
+        "locations": [
+            "Surrey, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/9a8ce602-42f0-4474-9ff5-edf7d8868b76",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
