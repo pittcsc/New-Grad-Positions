@@ -1,37 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "company_name": "Vermont Information Processing",
-        "id": "48b3be5d-b068-4357-a76c-66d211d998bd",
-        "title": "Item Catalog Data Specialist",
-        "active": false,
-        "date_updated": 1720538644,
-        "date_posted": 1720538644,
-        "url": "https://boards.greenhouse.io/vipvermontinformationprocessing/jobs/4020854007",
-        "locations": [
-            "Burlington, VT"
-        ],
-        "company_url": "https://simplify.jobs/c/Vermont-Information-Processing",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "HealthJoy",
-        "id": "9ada8f5d-98c1-411b-9efd-e03f362882a6",
-        "title": "Associate Data Scientist",
-        "active": false,
-        "date_updated": 1720538413,
-        "date_posted": 1720538413,
-        "url": "https://boards.greenhouse.io/healthjoy/jobs/7487584002",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/HealthJoy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1720558816,
         "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6009326003",
         "company_name": "Old Mission Capital",
