@@ -64,22 +64,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "MongoDB",
-        "id": "8b521a34-8840-46b7-befd-ad17ac312afa",
-        "title": "Software Engineer - Cloud Insights & Telemetry",
-        "active": false,
-        "date_updated": 1720621051,
-        "date_posted": 1720595449,
-        "url": "https://www.mongodb.com/careers/job/?gh_jid=6098164",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/MongoDB",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
