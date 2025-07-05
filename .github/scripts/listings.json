@@ -1,37 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "company_name": "Konrad Group",
-        "id": "aeb7008c-9117-4fa3-a02e-fb36cedb6e35",
-        "title": "IOS Developer",
-        "active": false,
-        "date_updated": 1720625082,
-        "date_posted": 1720625082,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6046951003",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Konrad-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Konrad Group",
-        "id": "38275aad-b821-498b-90dc-d45a07ea288d",
-        "title": "Android Developer",
-        "active": false,
-        "date_updated": 1720625076,
-        "date_posted": 1720625076,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6046939003",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Konrad-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
