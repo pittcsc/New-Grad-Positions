@@ -710,22 +710,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Seneca Nation Group",
-        "id": "2b6c2f0d-ade1-4005-b0ff-ab42375998ee",
-        "title": "Junior Data Scientist",
-        "active": false,
-        "date_updated": 1720797499,
-        "date_posted": 1720797499,
-        "url": "https://senecaholdings.com/jobs/?gh_jid=4443216005",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Seneca-Nation-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Qloo",
         "id": "68b3d370-8179-438e-ad4c-8b067ee6607b",
         "title": "Junior Data Engineer",
