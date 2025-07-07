@@ -16267,20 +16267,20 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1751932230,
+        "date_updated": 1751932494,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1835561/",
         "company_name": "Microsoft",
         "title": "Software Engineer - Fullstack",
         "locations": [
             "Redmond, WA"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AshkanArabim",
         "id": "982f026e-0439-4c67-aba1-704aebb2b6fc",
         "date_posted": 1751932230,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1751932303,
