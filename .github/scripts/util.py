@@ -11,6 +11,12 @@ SQUARE_SIMPLIFY_BUTTON = "https://i.imgur.com/aVnQdox.png"
 LONG_APPLY_BUTTON = "https://i.imgur.com/G5Bzlx3.png"
 INACTIVE_THRESHOLD_MONTHS = 4
 
+# Set of Simplify company URLs to block from appearing in the README
+# Add Simplify company URLs to block them (e.g., "https://simplify.jobs/c/Jerry")
+BLOCKED_COMPANIES = {
+    "https://simplify.jobs/c/Jerry",
+}
+
 # Define categories with their correct anchor formats and emojis
 CATEGORIES = {
     "Software": {
@@ -130,8 +136,17 @@ def filterListings(listings, earliest_date):
     final_listings = []
     inclusion_terms = ["software eng", "software dev", "data scientist", "data engineer", "founding eng", "research eng", "product manage", "apm", "frontend", "front end", "front-end", "backend", "back end", "full-stack", "full stack", "full-stack", "devops", "android", "ios", "mobile dev", "sre", "site reliability eng", "quantitative trad", "quantitative research", "quantitative trad", "quantitative dev", "security eng", "compiler eng", "machine learning eng", "hardware eng", "firmware eng", "infrastructure eng"]
     new_grad_terms = ["new grad", "early career", "college grad", "entry level", "founding", "early in career", "university grad", "fresh grad", "2024 grad", "2025 grad", "engineer 0", "engineer 1", "engineer i ", "junior", "sde 1", "sde i"]
+    
+    # Convert blocked URLs to lowercase for case-insensitive comparison
+    blocked_urls_lower = {url.lower() for url in BLOCKED_COMPANIES}
+    
     for listing in listings:
         if listing["is_visible"] and listing["date_posted"] > earliest_date:
+            # Check if listing is from a blocked company
+            company_url = listing.get("company_url", "").lower()
+            if any(blocked_url in company_url for blocked_url in blocked_urls_lower):
+                continue  # Skip blocked companies
+            
             if listing['source'] != "Simplify" or (any(term in listing["title"].lower() for term in inclusion_terms) and (any(term in listing["title"].lower() for term in new_grad_terms) or (listing["title"].lower().endswith("engineer i")))):
                 final_listings.append(listing)
 
