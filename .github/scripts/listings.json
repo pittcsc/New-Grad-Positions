@@ -12410,7 +12410,7 @@
         "company_name": "The Boeing Company",
         "id": "109c269f-cd68-40a9-9177-c7f4aa0ba9f3",
         "title": "Entry Level Flight Simulation Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1746151076,
         "date_posted": 1746151076,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2025454088",
@@ -16347,5 +16347,23 @@
         "date_posted": 1751933435,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "f7a0c536-7ba2-4d0b-ab43-13a883f5c3e3",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1751932903,
+        "date_posted": 1751932903,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6983872",
+        "locations": [
+            "Boston, MA",
+            "Fort Lauderdale, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
