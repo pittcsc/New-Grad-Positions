@@ -12049,7 +12049,7 @@
         "company_name": "Comcast",
         "id": "9658c843-6373-42a7-9055-d028d06f76d7",
         "title": "Engineer 1 - Software Development & Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1745522989,
         "date_posted": 1745522989,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Engineer-1--Software-Development---Engineering_R409766",
@@ -16313,5 +16313,23 @@
         "date_posted": 1751932331,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Meta",
+        "id": "0d446e91-2f00-4e93-b32c-fa4ddb9426e6",
+        "title": "Software Engineer \u2013 University Grad - Research Infrastructure",
+        "active": true,
+        "date_updated": 1751932205,
+        "date_posted": 1751932205,
+        "url": "https://www.metacareers.com/jobs/23968798566082979",
+        "locations": [
+            "Burlingame, CA",
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
