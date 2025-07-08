@@ -16382,5 +16382,22 @@
         "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "6cc8c463-d29b-4b4b-b4bd-1daa162792c7",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1751971689,
+        "date_posted": 1751971689,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Entry-Level-Software-Engineer_R55247",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
