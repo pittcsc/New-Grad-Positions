@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 58 New Grad Roles by Category
+### Browse 59 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (47)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (48)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (3)
 
@@ -64,6 +64,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
+| Ranger | Forward-Deployed Test Engineer 🛂 | San Francisco, CA | <a href="https://jobs.lever.co/ranger/38ef5184-0c8a-4980-836f-95e23e83ae7d?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Entry Level Software Engineer | Edinburgh, UK | <div align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Entry-Level-Software-Engineer_R55247?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6cc8c463-d29b-4b4b-b4bd-1daa162792c7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | Microsoft | Software Engineer - Systems | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1835564/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 1d |
 | **[Chewy](https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company)** | Software Engineer I | Boston, MA</br>Fort Lauderdale, FL | <div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=6983872&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f7a0c536-7ba2-4d0b-ab43-13a883f5c3e3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
@@ -208,7 +209,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
-| Citadel Securities | Quantitative Research Analyst | Chicago, IL</br>Miami, FL</br>New York, NY | <a href="https://www.citadel.com/careers/details/quantitative-research-analyst-2025-university-graduate-us/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 14d |
+| Citadel Securities | Quantitative Research Analyst | Chicago, IL</br>Miami, FL</br>New York, NY | <a href="https://www.citadel.com/careers/details/quantitative-research-analyst-2025-university-graduate-us/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 15d |
 
 
 
