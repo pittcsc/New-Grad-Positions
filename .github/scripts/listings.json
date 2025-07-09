@@ -16175,5 +16175,23 @@
         "date_posted": 1752022455,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sierra Nevada Coporation",
+        "id": "04be22ad-3bc4-47c8-8602-ec892cf5b4e4",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1752074727,
+        "date_posted": 1752074727,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-I_R0027824",
+        "locations": [
+            "Southern Pines, NC",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
