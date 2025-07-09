@@ -16193,5 +16193,22 @@
         "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Silvus Technologies",
+        "id": "7c0aac85-3ba5-4b5a-9b5c-f61d49a8a8d5",
+        "title": "Software Engineer I - Sqa",
+        "active": true,
+        "date_updated": 1752078283,
+        "date_posted": 1752078283,
+        "url": "https://job-boards.greenhouse.io/silvus/jobs/4772754008",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Silvus-Tech",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
