@@ -13739,20 +13739,20 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748897902,
+        "date_updated": 1752136056,
         "url": "https://jobs.ashbyhq.com/mandolin/703bd697-dd8f-4a42-8df3-999402605c2f",
         "company_name": "Mandolin",
         "title": "Forward Deployed Engineer",
         "locations": [
             "San Fransisco, CA"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "Mandolin-RoshanT",
         "id": "2a0111f3-9e8b-45fb-adfc-aac790590dda",
         "date_posted": 1748897902,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
