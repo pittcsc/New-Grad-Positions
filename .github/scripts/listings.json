@@ -582,22 +582,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "IXL Learning",
-        "id": "35cdb21e-9750-4e56-a9bf-25484eb799fd",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1721056746,
-        "date_posted": 1721056746,
-        "url": "https://www.ixl.com/company/jobs?gh_jid=7535059002",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/IXL-Learning",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Hudson River Trading",
         "id": "b1765552-e652-4f88-a20d-d926c26402ad",
         "title": "Software Engineer \u2013 2025 Grads - C++",
@@ -839,22 +823,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Pattern-Data",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "IXL Learning",
-        "id": "ee7c46a9-d26c-47fa-b4f4-9ae10f5935d2",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1721056749,
-        "date_posted": 1721056749,
-        "url": "https://www.ixl.com/company/jobs?gh_jid=7535470002",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/IXL-Learning",
         "is_visible": true,
         "sponsorship": "Other"
     },
