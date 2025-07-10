@@ -16213,5 +16213,22 @@
         "company_url": "https://simplify.jobs/c/Cox",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "72c508d4-e623-4eb8-bec5-752f6f35f948",
+        "title": "Software Engineer I - Hardware Test",
+        "active": true,
+        "date_updated": 1752185283,
+        "date_posted": 1752185283,
+        "url": "https://jobs.lever.co/shieldai/38178f1e-34c5-481d-9914-c18a2263776f/apply",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
