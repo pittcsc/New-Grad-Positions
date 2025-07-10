@@ -15041,7 +15041,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1750726332,
+        "date_updated": 1752136233,
         "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-2025-university-graduate-us/",
         "company_name": "Citadel Securities",
         "title": "Quantitative Research Analyst",
@@ -15050,13 +15050,13 @@
             "Miami, FL",
             "New York, NY"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "polinavishnev",
         "id": "aad2962a-fde1-4333-b6a9-2ff459a897f3",
         "date_posted": 1750726332,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
