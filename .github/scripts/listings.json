@@ -14435,7 +14435,7 @@
         "company_name": "Nutanix",
         "id": "6c613844-7f1a-47bf-a3bd-174439762a3b",
         "title": "Software Engineer 1 / Early Career - C++/Go/Linux/AWS-S3",
-        "active": true,
+        "active": false,
         "date_updated": 1749762513,
         "date_posted": 1749762513,
         "url": "https://jobs.jobvite.com/nutanix/job/od3Jufwd?nl=1&nl=1&fr=false",
@@ -16377,6 +16377,23 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/Expedia",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "USAA",
+        "id": "ad3e467e-26e1-44d6-a4a4-dc6ce1cadc85",
+        "title": "Data Engineer Cloud Solutions \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1752277777,
+        "date_posted": 1752277777,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Engineer-Cloud-Solutions---Entry-Level_R0109366",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
         "is_visible": true,
         "sponsorship": "Other"
     }
