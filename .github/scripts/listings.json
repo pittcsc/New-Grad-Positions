@@ -16137,7 +16137,7 @@
         "company_name": "Cox",
         "id": "f935ee5a-c392-44e1-809b-f9d430745018",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1752080193,
         "date_posted": 1752080193,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202564413",
@@ -16360,6 +16360,23 @@
             "Greater Toronto Area, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Expedia",
+        "id": "921be1d3-f7c0-4490-90d3-89d0f6b90fe7",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1752282350,
+        "date_posted": 1752282350,
+        "url": "https://expedia.wd5.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Data-Engineer-I_R-96645",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia",
         "is_visible": true,
         "sponsorship": "Other"
     }
