@@ -119,10 +119,10 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | ↳ | Software Engineer I | Oklahoma City, OK</br>Atlanta, GA | 🔒 | 5d |
 | **[Chewy](https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company)** | Software Engineer I | Boston, MA</br>Fort Lauderdale, FL | 🔒 | 6d |
 | **[LexisNexis Risk Solutions](https://simplify.jobs/c/9a8ce602-42f0-4474-9ff5-edf7d8868b76?utm_source=GHList&utm_medium=company)** | Software Engineer I | Surrey, BC, Canada | 🔒 | 10d |
-| **[State Street](https://simplify.jobs/c/d1ef45b2-fd52-4e9d-9d7d-dc3d5386744f?utm_source=GHList&utm_medium=company)** | Software Engineer I | Burlington, MA | 🔒 | 10d |
+| **[State Street](https://simplify.jobs/c/d1ef45b2-fd52-4e9d-9d7d-dc3d5386744f?utm_source=GHList&utm_medium=company)** | Software Engineer I | Burlington, MA | 🔒 | 11d |
 | **[Uber](https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company)** | Software Engineer I - Java Foundation | Seattle, WA</br>SF</br>Sunnyvale, CA | 🔒 | 11d |
-| **[Gentex Corporation](https://simplify.jobs/c/Gentex-Corporation?utm_source=GHList&utm_medium=company)** | Software Engineer I - Plm | Holland, MI | 🔒 | 11d |
-| **[The Boeing Company](https://simplify.jobs/c/Boeing?utm_source=GHList&utm_medium=company)** | Entry Level Full-Stack Software Engineer | Aurora, CO</br>Chantilly, VA | 🔒 | 11d |
+| **[Gentex Corporation](https://simplify.jobs/c/Gentex-Corporation?utm_source=GHList&utm_medium=company)** | Software Engineer I - Plm | Holland, MI | 🔒 | 12d |
+| **[The Boeing Company](https://simplify.jobs/c/Boeing?utm_source=GHList&utm_medium=company)** | Entry Level Full-Stack Software Engineer | Aurora, CO</br>Chantilly, VA | 🔒 | 12d |
 | **[Twilio](https://simplify.jobs/c/Twilio?utm_source=GHList&utm_medium=company)** | Software Engineer – Early Career - Messaging API | United States | 🔒 | 13d |
 | **[Noom](https://simplify.jobs/c/48d1021b-1679-4383-bba6-8a73ac654f64?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad | Princeton, NJ | 🔒 | 13d |
 | **[FourKites](https://simplify.jobs/c/FourKites?utm_source=GHList&utm_medium=company)** | Software Engineer I | Remote in USA | 🔒 | 13d |
