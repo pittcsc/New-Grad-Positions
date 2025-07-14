@@ -16431,5 +16431,23 @@
         "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Iridium Communications",
+        "id": "a966de7e-4dd1-4625-ba76-ccb5522b2da1",
+        "title": "Engineer I - Software Developer",
+        "active": true,
+        "date_updated": 1752535558,
+        "date_posted": 1752535558,
+        "url": "https://careers-iridium.icims.com/jobs/4596/job",
+        "locations": [
+            "Reston, VA",
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Iridium-Communications",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
