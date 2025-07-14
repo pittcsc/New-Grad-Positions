@@ -16380,5 +16380,21 @@
         "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1752472944,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1845733/Software-Engineer",
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "locations": [
+            "Redmond, Washington"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "laharigandrapu11",
+        "id": "304a7ded-72d0-47e6-bfba-a9de25f58228",
+        "date_posted": 1752472944,
+        "company_url": "",
+        "is_visible": true
     }
 ]
