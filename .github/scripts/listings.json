@@ -15209,7 +15209,7 @@
         "company_name": "Expedia Group",
         "id": "55977220-7e8c-4124-a334-f3c01386b5f4",
         "title": "Eggp \u2013 Software Development Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1750951070,
         "date_posted": 1750951070,
         "url": "https://expedia.wd5.myworkdayjobs.com/en-US/private/job/UK---London/EGGP---Software-Development-Engineer-I_R-96274",
@@ -15902,7 +15902,7 @@
         "company_name": "Ciena",
         "id": "f3f5a9e1-9b27-4535-a685-2419883e5517",
         "title": "New Grad: Wavelogic Software Development",
-        "active": true,
+        "active": false,
         "date_updated": 1751906827,
         "date_posted": 1751906827,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/New-Grad--Wavelogic-Software-Development_R028366",
@@ -16447,6 +16447,23 @@
             "Chandler, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Iridium-Communications",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Old Mission",
+        "id": "f0523704-6917-4869-82a6-536b484b8fac",
+        "title": "College Graduates - Full-Time - Junior Software Engineer",
+        "active": true,
+        "date_updated": 1752520275,
+        "date_posted": 1752520275,
+        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6602927003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Old-Mission",
         "is_visible": true,
         "sponsorship": "Other"
     }
