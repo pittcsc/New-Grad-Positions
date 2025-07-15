@@ -16517,5 +16517,22 @@
         "company_url": "https://simplify.jobs/c/Akuna-Capital",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Akamai Technologies",
+        "id": "09cabfc5-67b1-4553-87c6-0866a7d70657",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1752550111,
+        "date_posted": 1752550111,
+        "url": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/897",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Akamai",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
