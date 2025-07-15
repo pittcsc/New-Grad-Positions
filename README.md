@@ -6,13 +6,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 62 New Grad Roles by Category
+### Browse 63 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (46)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (4)
 
-📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (8)
+📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (9)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (4)
 
@@ -134,7 +134,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Software Engineer I - Java | Fulton, MD | 🔒 | 17d |
 | **[Chewy](https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company)** | Software Engineer I | Boston, MA | 🔒 | 18d |
 | **[Expedia Group](https://simplify.jobs/c/Expedia-Group?utm_source=GHList&utm_medium=company)** | Eggp – Software Development Engineer I | London, UK | 🔒 | 18d |
-| **[Uber](https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company)** | Software Engineer I - Authorization Platform | Seattle, WA</br>SF</br>Sunnyvale, CA | 🔒 | 18d |
+| **[Uber](https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company)** | Software Engineer I - Authorization Platform | Seattle, WA</br>SF</br>Sunnyvale, CA | 🔒 | 19d |
 | **[Chewy](https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company)** | Software Engineer I | Boston, MA | 🔒 | 20d |
 | **[Uber](https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company)** | Graduate 2025 Software Engineer I | Toronto, ON, Canada | 🔒 | 21d |
 | ↳ | Graduate 2025 Software Engineer I | Toronto, ON, Canada | 🔒 | 21d |
@@ -222,6 +222,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
 | **[Old Mission](https://simplify.jobs/c/Old-Mission?utm_source=GHList&utm_medium=company)** | College Graduates - Full-Time - Junior Quantitative Trader | London, UK | <div align="center"><a href="https://www.oldmissioncapital.com/careers/?gh_jid=6602928003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b09d07b6-2d11-469e-b3aa-b297ebd7f7a3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
+| ↳ | College Graduates - Full-Time - Junior Quantitative Trader | Chicago, IL | <div align="center"><a href="https://www.oldmissioncapital.com/careers/?gh_jid=6602920003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9e3271b2-bfd1-4924-80cc-6adf115fe3ac?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Akuna Capital](https://simplify.jobs/c/Akuna-Capital?utm_source=GHList&utm_medium=company)** | Junior Quantitative Developer & Strategist | Chicago, IL | <div align="center"><a href="https://www.akunacapital.com/job-details?gh_jid=7063563&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1ac52fdb-7e69-4fc6-a38c-2d98bf9c0ca9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | ↳ | Junior Quantitative Researcher | Chicago, IL | <div align="center"><a href="https://www.akunacapital.com/job-details?gh_jid=7053014&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/495799cb-e3e0-4046-92c5-52eaeee8ecee?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Citadel Securities](https://simplify.jobs/c/Citadel-Securities?utm_source=GHList&utm_medium=company)** | Quantitative Research Analyst – University Graduate | London, UK</br>Paris, France</br>Dublin, Ireland | <div align="center"><a href="https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/79054f04-0e8b-45fb-865d-bc789b4acfe9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4d |
