@@ -16500,5 +16500,22 @@
         "company_url": "https://simplify.jobs/c/Old-Mission",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Akuna Capital",
+        "id": "495799cb-e3e0-4046-92c5-52eaeee8ecee",
+        "title": "Junior Quantitative Researcher",
+        "active": true,
+        "date_updated": 1752518404,
+        "date_posted": 1752518404,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=7053014",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
