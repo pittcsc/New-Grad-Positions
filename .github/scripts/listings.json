@@ -15019,7 +15019,7 @@
         "company_name": "Cadence Design Systems",
         "id": "365b7673-11c2-4848-8252-c82cd2814343",
         "title": "C++ Software Engineer \u2013 New College Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1750721940,
         "date_posted": 1750721940,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/HOME-MA/C---Software-Engineer---New-College-Graduate--Boston-_R50667-1",
@@ -16549,6 +16549,40 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Old-Mission",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "f95f5d5d-ca68-42fe-9088-64cae078432e",
+        "title": "Entry Level Software Engineer - GUI Development",
+        "active": true,
+        "date_updated": 1752623971,
+        "date_posted": 1752623971,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Entry-Level-Software-Engineer--GUI-Development-_314487",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CACI",
+        "id": "e23f991b-f6bb-4037-a415-84cb81506adb",
+        "title": "Entry Level DSP Software Engineer",
+        "active": true,
+        "date_updated": 1752623968,
+        "date_posted": 1752623968,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Entry-Level-DSP-Software-Engineer_314488-1",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
         "is_visible": true,
         "sponsorship": "Other"
     }
