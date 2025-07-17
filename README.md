@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 66 New Grad Roles by Category
+### Browse 65 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (49)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (48)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (4)
 
@@ -75,7 +75,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Shield AI](https://simplify.jobs/c/Shield-AI?utm_source=GHList&utm_medium=company)** | Software Engineer I - Hardware Test | Dallas, TX | <div align="center"><a href="https://jobs.lever.co/shieldai/38178f1e-34c5-481d-9914-c18a2263776f/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/72c508d4-e623-4eb8-bec5-752f6f35f948?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 6d |
 | **[Silvus Technologies](https://simplify.jobs/c/Silvus-Tech?utm_source=GHList&utm_medium=company)** | Software Engineer I - Sqa 🇺🇸 | LA | <div align="center"><a href="https://job-boards.greenhouse.io/silvus/jobs/4772754008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7c0aac85-3ba5-4b5a-9b5c-f61d49a8a8d5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 7d |
 | Ranger | Forward-Deployed Test Engineer 🛂 | San Francisco, CA | <a href="https://jobs.lever.co/ranger/38ef5184-0c8a-4980-836f-95e23e83ae7d?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 8d |
-| **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Entry Level Software Engineer | Edinburgh, UK | <div align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Entry-Level-Software-Engineer_R55247?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6cc8c463-d29b-4b4b-b4bd-1daa162792c7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 9d |
 | Microsoft | Software Engineer - Systems | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1835564/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 9d |
 | ↳ | Software Engineer - Fullstack | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1835559/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 9d |
 | ↳ | Software Engineer - Security | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1835563/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 9d |
@@ -116,7 +115,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (55)</summary>
+<summary>🗃️ Inactive roles (56)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
@@ -125,6 +124,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Cox](https://simplify.jobs/c/Cox?utm_source=GHList&utm_medium=company)** | Software Engineer I | Atlanta, GA | 🔒 | 7d |
 | ↳ | Software Engineer I | Oklahoma City, OK</br>Atlanta, GA | 🔒 | 7d |
 | **[Sierra Nevada Coporation](https://simplify.jobs/c/Sierra-Nevada-Coporation?utm_source=GHList&utm_medium=company)** | Software Engineer I | Southern Pines, NC</br>Reston, VA | 🔒 | 7d |
+| **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Entry Level Software Engineer | Edinburgh, UK | 🔒 | 9d |
 | **[Chewy](https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company)** | Software Engineer I | Boston, MA</br>Fort Lauderdale, FL | 🔒 | 9d |
 | **[LexisNexis Risk Solutions](https://simplify.jobs/c/9a8ce602-42f0-4474-9ff5-edf7d8868b76?utm_source=GHList&utm_medium=company)** | Software Engineer I | Surrey, BC, Canada | 🔒 | 13d |
 | **[State Street](https://simplify.jobs/c/d1ef45b2-fd52-4e9d-9d7d-dc3d5386744f?utm_source=GHList&utm_medium=company)** | Software Engineer I | Burlington, MA | 🔒 | 13d |
