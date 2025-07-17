@@ -6,11 +6,11 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 74 New Grad Roles by Category
+### Browse 73 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (56)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (5)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (4)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (9)
 
@@ -202,17 +202,17 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
 | **[Caterpillar Inc.](https://simplify.jobs/c/Caterpillar-Inc?utm_source=GHList&utm_medium=company)** | Aftermarket Data Engineer I - Cat Digital | Chicago, IL | <div align="center"><a href="https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Aftermarket-Data-Engineer-I--Cat-Digital_R0000315183?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/34e53753-6e8f-4100-b6de-79df339cae27?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
-| **[Expedia](https://simplify.jobs/c/Expedia?utm_source=GHList&utm_medium=company)** | Data Engineer I | Seattle, WA | <div align="center"><a href="https://expedia.wd5.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Data-Engineer-I_R-96645?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/921be1d3-f7c0-4490-90d3-89d0f6b90fe7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
 | **[USAA](https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63?utm_source=GHList&utm_medium=company)** | Data Engineer I | San Antonio, TX | <div align="center"><a href="https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Data-Engineer-I_R0110546?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a4534f59-5baf-4b6e-a528-21c6f8b7964f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 19d |
 | **[EvenUp](https://simplify.jobs/c/a3893f84-8200-4d5f-aad7-2ff0d6d670dc?utm_source=GHList&utm_medium=company)** | Early Career Machine Learning Engineer | Toronto, ON, Canada</br>SF | <div align="center"><a href="https://jobs.ashbyhq.com/evenup/fe3d36b4-696b-4c47-be72-2186b266035b/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/bf85e278-1c60-40dd-a026-a10c6789b9ff?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 23d |
 | **[Capital Rx](https://simplify.jobs/c/Capital-Rx?utm_source=GHList&utm_medium=company)** | Data Engineer I | NYC</br>Denver, CO | <div align="center"><a href="https://job-boards.greenhouse.io/capitalrx/jobs/4750004008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ff409e69-5566-41e6-9960-7bc4c5720dfc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 24d |
 
 
 <details>
-<summary>🗃️ Inactive roles (11)</summary>
+<summary>🗃️ Inactive roles (12)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
+| **[Expedia](https://simplify.jobs/c/Expedia?utm_source=GHList&utm_medium=company)** | Data Engineer I | Seattle, WA | 🔒 | 5d |
 | **[USAA](https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63?utm_source=GHList&utm_medium=company)** | Data Engineer Cloud Solutions – Entry Level | Plano, TX | 🔒 | 5d |
 | **[Fifth Third Bank](https://simplify.jobs/c/Fifth-Third-Bank?utm_source=GHList&utm_medium=company)** | Consumer IT - Data Engineer I | Cincinnati, OH | 🔒 | 9d |
 | **[Xapien](https://simplify.jobs/c/Xapien?utm_source=GHList&utm_medium=company)** | Junior Applied Research Engineer – Graduate | London, UK | 🔒 | 20d |
