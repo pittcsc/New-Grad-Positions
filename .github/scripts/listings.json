@@ -582,24 +582,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Modular",
-        "id": "0cd4323c-0f23-4ea9-b0e5-ba79a3a4057c",
-        "title": "Junior AI Graph Compiler Engineer",
-        "active": false,
-        "date_updated": 1723491186,
-        "date_posted": 1721805847,
-        "url": "https://www.modular.com/company/career-post?4287507005&gh_jid=4287507005",
-        "locations": [
-            "Remote in USA",
-            "Mountain View, CA",
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Modular",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "NVIDIA",
         "id": "85821890-c265-4a65-8187-1194af902478",
         "title": "Deep Learning Compiler Engineer \u2013 New College Grad 2024 - Autonomous Vehicles",
