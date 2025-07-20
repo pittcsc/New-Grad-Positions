@@ -16864,5 +16864,22 @@
         "company_url": "https://simplify.jobs/c/Qualtrics",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "7e134007-3fa8-4732-84ca-e7119c8f4116",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1751385392,
+        "date_posted": 1751385392,
+        "url": "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
