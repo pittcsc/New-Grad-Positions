@@ -778,22 +778,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Jerry",
-        "id": "30b85505-621b-49b6-94cb-6a458bd2fa7a",
-        "title": "Software Engineer I - Toronto",
-        "active": false,
-        "date_updated": 1722008886,
-        "date_posted": 1722008886,
-        "url": "https://jobs.ashbyhq.com/Jerry/88113f9b-cff2-437e-aad3-81aa5b1959f6/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Belvedere Trading",
         "id": "6c6dfa90-d789-473d-972e-f82f3b874d81",
         "title": "Software Engineer \u2013 Entry Level 2025",
@@ -2167,22 +2151,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Gecko-Robotics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Jerry",
-        "id": "5b6a8aa7-a630-435d-a1c6-cabd222a297d",
-        "title": "New Graduate Software Engineer - Palo Alto",
-        "active": false,
-        "date_updated": 1725564438,
-        "date_posted": 1722008890,
-        "url": "https://jobs.ashbyhq.com/Jerry/2201b806-93b2-4b6a-986b-407120670b9d/application",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
     },
