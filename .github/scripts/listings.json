@@ -810,22 +810,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "WebFX",
-        "id": "a7bff833-62a9-4727-8191-01b4949dc26f",
-        "title": "Entry Level Software Engineer",
-        "active": true,
-        "date_updated": 1722065815,
-        "date_posted": 1722065815,
-        "url": "https://jobs.lever.co/webfx/7c15f9e7-6ca5-4188-887e-3b147485c58f/apply",
-        "locations": [
-            "Harrisburg, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/WebFX",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Palantir",
         "id": "7b0e9437-e5f3-4413-98c1-7ea5c125a2af",
         "title": "Forward Deployed Software Engineer \u2013 New Grad - UK Government",
