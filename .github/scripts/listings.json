@@ -16868,5 +16868,22 @@
         "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Coalition",
+        "id": "b70c7334-2f4e-43c5-b676-e430713cbd61",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753113665,
+        "date_posted": 1753113665,
+        "url": "https://www.coalitioninc.com/job-posting?gh_jid=4560711005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Coalition",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
