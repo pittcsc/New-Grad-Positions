@@ -16737,7 +16737,7 @@
         "company_name": "Jerry",
         "id": "f74c215f-f679-4382-ba30-752294713896",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1752880857,
         "date_posted": 1752880857,
         "url": "https://jobs.ashbyhq.com/Jerry/eb8a6a97-8177-4c5b-a607-afe98c8d4cfb/application",
@@ -16754,7 +16754,7 @@
         "company_name": "Jerry",
         "id": "3cfcb567-840d-47ed-ab5f-74a04168f3e9",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1752880856,
         "date_posted": 1752880856,
         "url": "https://jobs.ashbyhq.com/Jerry/b1126803-047b-4af5-97b1-70a2cc31d8f5/application",
@@ -16846,6 +16846,24 @@
         "url": "https://jobs.ashbyhq.com/Jerry/738a0eb0-f826-43c2-9e42-470e4726caca/application",
         "locations": [
             "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "6425ba3a-ef45-4548-8563-d4735b6d3cd1",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753141551,
+        "date_posted": 1753141551,
+        "url": "https://jobs.ashbyhq.com/Jerry/2dd7d70d-7794-4662-b0a9-48900db8d26c/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
