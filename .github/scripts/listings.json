@@ -16919,5 +16919,23 @@
         "date_posted": 1753196474,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "e3160033-b187-489b-9a2c-6ad90c7eb959",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753227701,
+        "date_posted": 1753227701,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7075000",
+        "locations": [
+            "Seattle, WA",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
