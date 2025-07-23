@@ -16937,5 +16937,22 @@
         "company_url": "https://simplify.jobs/c/Chewy",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "mthree",
+        "id": "4570d8ad-62e5-475b-a211-802e05fe95d3",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1753235271,
+        "date_posted": 1753235271,
+        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4586725006",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Mthree",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
