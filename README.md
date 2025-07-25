@@ -121,7 +121,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (63)</summary>
+<summary>🗃️ Inactive roles (62)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
@@ -140,7 +140,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[LexisNexis Risk Solutions](https://simplify.jobs/c/9a8ce602-42f0-4474-9ff5-edf7d8868b76?utm_source=GHList&utm_medium=company)** | Software Engineer I | Surrey, BC, Canada | 🔒 | 21d |
 | **[State Street](https://simplify.jobs/c/d1ef45b2-fd52-4e9d-9d7d-dc3d5386744f?utm_source=GHList&utm_medium=company)** | Software Engineer I | Burlington, MA | 🔒 | 21d |
 | **[Gentex Corporation](https://simplify.jobs/c/Gentex-Corporation?utm_source=GHList&utm_medium=company)** | Software Engineer I - Plm | Holland, MI | 🔒 | 22d |
-| **[Iridium Communications](https://simplify.jobs/c/Iridium-Communications?utm_source=GHList&utm_medium=company)** | Engineer I - Software Developer 🇺🇸 | Reston, VA</br>Chandler, AZ | 🔒 | 23d |
 | **[Twilio](https://simplify.jobs/c/Twilio?utm_source=GHList&utm_medium=company)** | Software Engineer – Early Career - Messaging API | United States | 🔒 | 23d |
 | **[Noom](https://simplify.jobs/c/48d1021b-1679-4383-bba6-8a73ac654f64?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad | Princeton, NJ | 🔒 | 24d |
 | **[FourKites](https://simplify.jobs/c/FourKites?utm_source=GHList&utm_medium=company)** | Software Engineer I | Remote in USA | 🔒 | 24d |
