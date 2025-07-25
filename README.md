@@ -6,11 +6,11 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 73 New Grad Roles by Category
+### Browse 72 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (55)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (6)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (5)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (9)
 
@@ -137,8 +137,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Cox](https://simplify.jobs/c/Cox?utm_source=GHList&utm_medium=company)** | Software Engineer I | Atlanta, GA | 🔒 | 15d |
 | ↳ | Software Engineer I | Oklahoma City, OK</br>Atlanta, GA | 🔒 | 15d |
 | **[Sierra Nevada Coporation](https://simplify.jobs/c/Sierra-Nevada-Coporation?utm_source=GHList&utm_medium=company)** | Software Engineer I | Southern Pines, NC</br>Reston, VA | 🔒 | 15d |
-| **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Entry Level Software Engineer | Edinburgh, UK | 🔒 | 16d |
-| **[LexisNexis Risk Solutions](https://simplify.jobs/c/9a8ce602-42f0-4474-9ff5-edf7d8868b76?utm_source=GHList&utm_medium=company)** | Software Engineer I | Surrey, BC, Canada | 🔒 | 20d |
+| **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Entry Level Software Engineer | Edinburgh, UK | 🔒 | 17d |
+| **[LexisNexis Risk Solutions](https://simplify.jobs/c/9a8ce602-42f0-4474-9ff5-edf7d8868b76?utm_source=GHList&utm_medium=company)** | Software Engineer I | Surrey, BC, Canada | 🔒 | 21d |
 | **[State Street](https://simplify.jobs/c/d1ef45b2-fd52-4e9d-9d7d-dc3d5386744f?utm_source=GHList&utm_medium=company)** | Software Engineer I | Burlington, MA | 🔒 | 21d |
 | **[Gentex Corporation](https://simplify.jobs/c/Gentex-Corporation?utm_source=GHList&utm_medium=company)** | Software Engineer I - Plm | Holland, MI | 🔒 | 22d |
 | **[Iridium Communications](https://simplify.jobs/c/Iridium-Communications?utm_source=GHList&utm_medium=company)** | Engineer I - Software Developer 🇺🇸 | Reston, VA</br>Chandler, AZ | 🔒 | 23d |
@@ -207,7 +207,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | ------- | ---- | -------- | ---------- | --- |
 | Goldman Sachs | New Analyst | New York, NY | <a href="https://higher.gs.com/roles/150845?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | **[Caterpillar Inc.](https://simplify.jobs/c/Caterpillar-Inc?utm_source=GHList&utm_medium=company)** | Aftermarket Data Engineer I - Cat Digital | Chicago, IL | <div align="center"><a href="https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Aftermarket-Data-Engineer-I--Cat-Digital_R0000315183?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/34e53753-6e8f-4100-b6de-79df339cae27?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 7d |
-| **[USAA](https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63?utm_source=GHList&utm_medium=company)** | Data Engineer Cloud Solutions – Entry Level | Plano, TX | <div align="center"><a href="https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Engineer-Cloud-Solutions---Entry-Level_R0109366?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ad3e467e-26e1-44d6-a4a4-dc6ce1cadc85?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 13d |
 | **[USAA](https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63?utm_source=GHList&utm_medium=company)** | Data Engineer I | San Antonio, TX | <div align="center"><a href="https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Data-Engineer-I_R0110546?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a4534f59-5baf-4b6e-a528-21c6f8b7964f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 27d |
 | **[EvenUp](https://simplify.jobs/c/a3893f84-8200-4d5f-aad7-2ff0d6d670dc?utm_source=GHList&utm_medium=company)** | Early Career Machine Learning Engineer | Toronto, ON, Canada</br>SF | <div align="center"><a href="https://jobs.ashbyhq.com/evenup/fe3d36b4-696b-4c47-be72-2186b266035b/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/bf85e278-1c60-40dd-a026-a10c6789b9ff?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 | **[Capital Rx](https://simplify.jobs/c/Capital-Rx?utm_source=GHList&utm_medium=company)** | Data Engineer I | NYC</br>Denver, CO | <div align="center"><a href="https://job-boards.greenhouse.io/capitalrx/jobs/4750004008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ff409e69-5566-41e6-9960-7bc4c5720dfc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
