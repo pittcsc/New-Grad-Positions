@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 71 New Grad Roles by Category
+### Browse 70 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (54)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (53)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (5)
 
@@ -64,7 +64,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
-| **[Franklin St](https://simplify.jobs/c/Franklin-St?utm_source=GHList&utm_medium=company)** | Software Engineer I | Tampa, FL | <div align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/3439993?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c3f9ea9a-bc61-4ef2-9206-158a41f33374?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[mthree](https://simplify.jobs/c/Mthree?utm_source=GHList&utm_medium=company)** | Junior Software Engineer | Dallas, TX | <div align="center"><a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4586725006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4570d8ad-62e5-475b-a211-802e05fe95d3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2d |
 | Coalition | Software Engineer I | Remote in Canada | <a href="https://www.coalitioninc.com/job-posting/4560712005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 2d |
 | ↳ | Software Engineer I | Remote in USA | <a href="https://www.coalitioninc.com/job-posting/4560711005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 2d |
@@ -121,10 +120,11 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (62)</summary>
+<summary>🗃️ Inactive roles (63)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
+| **[Franklin St](https://simplify.jobs/c/Franklin-St?utm_source=GHList&utm_medium=company)** | Software Engineer I | Tampa, FL | 🔒 | 0d |
 | **[Chewy](https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company)** | Software Engineer I | Seattle, WA</br>Bellevue, WA | 🔒 | 2d |
 | **[Qualtrics](https://simplify.jobs/c/Qualtrics?utm_source=GHList&utm_medium=company)** | Software Engineer I | Seattle, WA | 🔒 | 6d |
 | **[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)** | Testing Software Engineer I | Charlotte, NC | 🔒 | 6d |
@@ -140,7 +140,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[LexisNexis Risk Solutions](https://simplify.jobs/c/9a8ce602-42f0-4474-9ff5-edf7d8868b76?utm_source=GHList&utm_medium=company)** | Software Engineer I | Surrey, BC, Canada | 🔒 | 21d |
 | **[State Street](https://simplify.jobs/c/d1ef45b2-fd52-4e9d-9d7d-dc3d5386744f?utm_source=GHList&utm_medium=company)** | Software Engineer I | Burlington, MA | 🔒 | 21d |
 | **[Gentex Corporation](https://simplify.jobs/c/Gentex-Corporation?utm_source=GHList&utm_medium=company)** | Software Engineer I - Plm | Holland, MI | 🔒 | 22d |
-| **[Twilio](https://simplify.jobs/c/Twilio?utm_source=GHList&utm_medium=company)** | Software Engineer – Early Career - Messaging API | United States | 🔒 | 23d |
+| **[Twilio](https://simplify.jobs/c/Twilio?utm_source=GHList&utm_medium=company)** | Software Engineer – Early Career - Messaging API | United States | 🔒 | 24d |
 | **[Noom](https://simplify.jobs/c/48d1021b-1679-4383-bba6-8a73ac654f64?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad | Princeton, NJ | 🔒 | 24d |
 | **[FourKites](https://simplify.jobs/c/FourKites?utm_source=GHList&utm_medium=company)** | Software Engineer I | Remote in USA | 🔒 | 24d |
 | **[Expedia](https://simplify.jobs/c/Expedia?utm_source=GHList&utm_medium=company)** | Eggp – Software Development Engineer I | Seattle, WA | 🔒 | 27d |
