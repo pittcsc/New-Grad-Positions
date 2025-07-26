@@ -6207,7 +6207,7 @@
         "company_name": "Amentum",
         "id": "226019f0-bb4c-4e0f-9d7d-4b24a042c017",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1733429742,
         "date_posted": 1733429742,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0131117",
@@ -16985,6 +16985,109 @@
             "Tampa, FL"
         ],
         "company_url": "https://simplify.jobs/c/Franklin-St",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "91e3c508-4b87-475d-9cb1-3688326bb405",
+        "title": "Entry Level Software Developer",
+        "active": true,
+        "date_updated": 1753478832,
+        "date_posted": 1753478832,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0142817",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "b12a8329-3617-4c19-8314-a864143ec31a",
+        "title": "Entry Level Software Developer",
+        "active": true,
+        "date_updated": 1753478832,
+        "date_posted": 1753478832,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0142814",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "59669f06-ab37-4efd-9dcf-df3ce00de200",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1753475440,
+        "date_posted": 1753475440,
+        "url": "https://www.esri.com/careers/4799605007?gh_jid=4799605007",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "645f2ed7-1f3c-4fbd-ba6e-977758cdb035",
+        "title": "Entry Level Software Developer",
+        "active": true,
+        "date_updated": 1753478830,
+        "date_posted": 1753478830,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0142813",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "1b703188-0a92-41a2-a4ae-fd1777366cf6",
+        "title": "Entry Level Software Engineer/Software Tester",
+        "active": true,
+        "date_updated": 1753478813,
+        "date_posted": 1753478813,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer-Software-Tester_R0142800",
+        "locations": [
+            "Fredericksburg, VA",
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "c6a61c12-248b-47db-8533-c6478cef77b0",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1753475431,
+        "date_posted": 1753475431,
+        "url": "https://www.esri.com/careers/4795713007?gh_jid=4795713007",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
         "is_visible": true,
         "sponsorship": "Other"
     }
