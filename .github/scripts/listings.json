@@ -17090,5 +17090,57 @@
         "company_url": "https://simplify.jobs/c/Esri",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "18dbcf02-f035-4e6a-a809-d8571f139f14",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753480455,
+        "date_posted": 1753480455,
+        "url": "https://jobs.ashbyhq.com/Jerry/c01fd1bd-2737-4084-9320-ceae25096746/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "c1ce3e50-5855-4076-96b9-510aa65f7a03",
+        "title": "Entry Level Software Developer",
+        "active": true,
+        "date_updated": 1753478832,
+        "date_posted": 1753478832,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0142816",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "943def57-acaf-447f-b905-cd107cb76ed4",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753481907,
+        "date_posted": 1753481907,
+        "url": "https://jobs.ashbyhq.com/Jerry/8c751f13-33de-429b-9cb8-3c58bea0d904/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
