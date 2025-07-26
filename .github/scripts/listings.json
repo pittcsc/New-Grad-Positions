@@ -810,22 +810,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Ramp",
-        "id": "eb917aaa-747c-4cde-9e28-003d8c49fb5e",
-        "title": "University Grad 2025: Software Engineer - Frontend",
-        "active": false,
-        "date_updated": 1724959936,
-        "date_posted": 1722440887,
-        "url": "https://jobs.ashbyhq.com/ramp/12747eb1-e545-478d-b07c-f27f4a88cc12/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Ramp",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Chime",
         "id": "d3bfcecb-4ec2-4008-8c7b-4c2073cbc2f6",
         "title": "Software Engineer \u2013 New Grad - Identity & Access Management",
