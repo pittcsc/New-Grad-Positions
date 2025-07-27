@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 75 New Grad Roles by Category
+### Browse 76 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (58)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (59)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (5)
 
@@ -72,6 +72,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Esri](https://simplify.jobs/c/Esri?utm_source=GHList&utm_medium=company)** | Software Development Engineer I | St. Louis, MO | <div align="center"><a href="https://www.esri.com/careers/4799605007?gh_jid=4799605007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/59669f06-ab37-4efd-9dcf-df3ce00de200?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
 | ↳ | Software Development Engineer I | St. Louis, MO | <div align="center"><a href="https://www.esri.com/careers/4795713007?gh_jid=4795713007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c6a61c12-248b-47db-8533-c6478cef77b0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
 | **[Activate Group](https://simplify.jobs/c/Activate-Group?utm_source=GHList&utm_medium=company)** | Junior Software Developer | Remote in UK | <div align="center"><a href="https://activate-group-limited.breezy.hr/p/ce91d3dbfe2201/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/61a29eb8-d0c1-440f-8e60-f3c24f31a890?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
+| **[Broadcom Limited](https://simplify.jobs/c/Broadcom-Limited?utm_source=GHList&utm_medium=company)** | Junior R & D Software Engineer | Palo Alto, CA | <div align="center"><a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA---Promontory-E/Junior-R---D-Software-Engineer_R023410?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/323bd7d7-77ed-4cde-83a7-1a5badca5950?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
 | **[mthree](https://simplify.jobs/c/Mthree?utm_source=GHList&utm_medium=company)** | Junior Software Engineer | Dallas, TX | <div align="center"><a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4586725006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4570d8ad-62e5-475b-a211-802e05fe95d3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
 | Coalition | Software Engineer I | Remote in Canada | <a href="https://www.coalitioninc.com/job-posting/4560712005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 4d |
 | ↳ | Software Engineer I | Remote in USA | <a href="https://www.coalitioninc.com/job-posting/4560711005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 4d |
