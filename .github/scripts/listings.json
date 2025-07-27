@@ -17162,5 +17162,40 @@
         "company_url": "https://simplify.jobs/c/Broadcom-Limited",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Maybern",
+        "id": "1dbd172a-5bd7-46cc-bdeb-651eb76a9d90",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1753486335,
+        "date_posted": 1753486335,
+        "url": "https://jobs.ashbyhq.com/maybern/d1f5828f-fba9-4e0e-bb03-e03a3f0f54e4/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Maybern",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northslope Technologies",
+        "id": "89c2d6f9-9f51-4296-809a-7e8207949cd5",
+        "title": "Forward Deployed Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1753315722,
+        "date_posted": 1753315722,
+        "url": "https://jobs.ashbyhq.com/northslope-technologies/7ccd126f-b127-4526-87f1-57408919c30a/application",
+        "locations": [
+            "London, UK",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Northslope-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
