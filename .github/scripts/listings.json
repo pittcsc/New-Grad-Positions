@@ -891,22 +891,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Applied Materials",
-        "id": "61ff1603-a3c6-4f08-b1ca-b6b684444647",
-        "title": "Software Engineer I - C/C++ - Embedded programming",
-        "active": false,
-        "date_updated": 1725852910,
-        "date_posted": 1722525748,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-1----E1--New-College-Grad_R2415471",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AMAT",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "RVO Health",
         "id": "f4b018af-f2e8-4fc2-a187-4321c59b4345",
         "title": "2025 Early Career Program: Software Engineering",
