@@ -17135,5 +17135,40 @@
         "company_url": "https://simplify.jobs/c/Twitch",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "bc6193ad-e142-4cc1-a047-fe6c9a467962",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753745290,
+        "date_posted": 1753745290,
+        "url": "https://jobs.ashbyhq.com/Jerry/441a20b6-31e5-4887-8bfd-cc16a1e5bcae/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "c3ba297a-637d-41bf-b9a3-860740ec02ce",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753745288,
+        "date_posted": 1753745288,
+        "url": "https://jobs.ashbyhq.com/Jerry/0589ade1-1749-4fe3-8e40-cea85ed7cb6b/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
