@@ -17118,5 +17118,22 @@
         "company_url": "https://simplify.jobs/c/Machinify",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Twitch",
+        "id": "04aa6721-47f4-4bf9-aca9-4ad464ca844a",
+        "title": "Software Development Engineer I - Frontend & Mobile",
+        "active": true,
+        "date_updated": 1753744354,
+        "date_posted": 1753744354,
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8093301002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Twitch",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
