@@ -17304,5 +17304,26 @@
         "date_posted": 1753901163,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753902077,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career-2025-University-Grad_R50741",
+        "company_name": "Blue Origin",
+        "title": "Software Development Engineer I",
+        "locations": [
+            "Seattle, WA",
+            "Van Horn, TX",
+            "Huntsville, AL",
+            "Denver, CO",
+            "Space Coast, FL",
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "351eb7e6-4f6e-4a73-8d05-d8e223bd7452",
+        "date_posted": 1753902077,
+        "company_url": "",
+        "is_visible": true
     }
 ]
