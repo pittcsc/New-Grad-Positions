@@ -17288,5 +17288,21 @@
         "date_posted": 1753901043,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753901163,
+        "url": "https://townsquareignite.com/careers/?gh_jid=7093124#job-openings",
+        "company_name": "Townsquare Ignite",
+        "title": "Junior Data Analyst",
+        "locations": [
+            "Purchase, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "1ede91e9-bf84-408f-9f8d-78a9a7cfddde",
+        "date_posted": 1753901163,
+        "company_url": "",
+        "is_visible": true
     }
 ]
