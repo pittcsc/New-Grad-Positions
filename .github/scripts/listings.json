@@ -17341,5 +17341,21 @@
         "date_posted": 1753902176,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753902372,
+        "url": "https://jobs.ashbyhq.com/fable/c4c61b04-6215-447f-b6ac-16af7efc87b6",
+        "company_name": "Fable Security",
+        "title": "Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b246e19f-64e7-4a53-8e30-d4b4990e8968",
+        "date_posted": 1753902372,
+        "company_url": "",
+        "is_visible": true
     }
 ]
