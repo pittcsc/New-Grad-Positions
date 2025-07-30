@@ -17236,5 +17236,21 @@
         "date_posted": 1753886045,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753897889,
+        "url": "https://jobs.lever.co/spotify/21c24edb-f625-4895-ad23-5a6320d54813",
+        "company_name": "Spotify",
+        "title": "Associate Machine Learning Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "a511f7ae-4c18-4d15-84b8-373bebee7cf1",
+        "date_posted": 1753897889,
+        "company_url": "",
+        "is_visible": true
     }
 ]
