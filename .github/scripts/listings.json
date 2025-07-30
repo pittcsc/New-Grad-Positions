@@ -17220,5 +17220,21 @@
         "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1753886045,
+        "url": "https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/XMLNAME-2026-Technology-Development-Program---Software-Engineering_R72033",
+        "company_name": "M&T Bank",
+        "title": "Technology Development Program - Software Engineering",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "f31bd653-cebf-409f-99e7-bdbb99e9fd0b",
+        "date_posted": 1753886045,
+        "company_url": "",
+        "is_visible": true
     }
 ]
