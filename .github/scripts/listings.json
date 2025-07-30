@@ -17390,5 +17390,22 @@
         "company_url": "https://simplify.jobs/c/Esri",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Daifuku",
+        "id": "ac5ffdcf-21fe-4972-9d28-94e4e0872172",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753916149,
+        "date_posted": 1753916149,
+        "url": "https://careers-daifuku-america.icims.com/jobs/20436/job",
+        "locations": [
+            "Clearwater, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Daifuku",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
