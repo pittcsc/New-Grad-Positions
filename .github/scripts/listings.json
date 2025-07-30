@@ -17373,5 +17373,22 @@
         "date_posted": 1753902654,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "36e74f92-9b86-4fd3-ad81-cc172200ff92",
+        "title": ".NET/C# Software Development Engineer I - SDK",
+        "active": true,
+        "date_updated": 1753913543,
+        "date_posted": 1753913543,
+        "url": "https://www.esri.com/careers/4803095007?gh_jid=4803095007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
