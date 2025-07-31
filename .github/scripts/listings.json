@@ -17475,5 +17475,24 @@
         "company_url": "https://simplify.jobs/c/Aurora-Innovation",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1753986441,
+        "url": "https://eversource.wd1.myworkdayjobs.com/en-US/ExternalSite/job/Westwood-MA/IT-Associate-Software-Engineer--Hybrid-_R-028085",
+        "company_name": "Eversource Energy",
+        "title": "IT Associate Software Engineer (Hybrid)",
+        "locations": [
+            "Westwood, MA",
+            "Manchester, NH",
+            "Berlin, CT",
+            "Windsor, CT"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "d8a37546-8bde-4054-b447-9568f56ffdcd",
+        "date_posted": 1753986441,
+        "company_url": "",
+        "is_visible": true
     }
 ]
