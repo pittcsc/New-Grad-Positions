@@ -17431,15 +17431,15 @@
         "company_name": "Chewy",
         "id": "befdd2ad-c6df-458e-b0e0-ee8c8e1137fa",
         "title": "Software Engineer I",
-        "active": true,
-        "date_updated": 1753919144,
+        "active": false,
+        "date_updated": 1753970281,
         "date_posted": 1753919144,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7096822",
         "locations": [
             "Bellevue, WA"
         ],
         "company_url": "https://simplify.jobs/c/Chewy",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
