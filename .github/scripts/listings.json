@@ -14040,7 +14040,7 @@
         "company_name": "Amentum",
         "id": "47ebe178-d299-43bf-95e4-e124d2404a24",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1749693233,
         "date_posted": 1749693233,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0140458",
@@ -17437,6 +17437,41 @@
         "url": "https://boards.greenhouse.io/embed/job_app?token=7094171",
         "locations": [
             "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "f555971a-35b5-4db5-a78a-8ef74219acc1",
+        "title": "Software Engineer I - Platforms",
+        "active": true,
+        "date_updated": 1753919699,
+        "date_posted": 1753919699,
+        "url": "https://www.uber.com/global/en/careers/list/145880/",
+        "locations": [
+            "SF",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "befdd2ad-c6df-458e-b0e0-ee8c8e1137fa",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753919144,
+        "date_posted": 1753919144,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7096822",
+        "locations": [
+            "Bellevue, WA"
         ],
         "company_url": "https://simplify.jobs/c/Chewy",
         "is_visible": true,
