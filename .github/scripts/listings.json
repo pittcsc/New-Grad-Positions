@@ -17292,7 +17292,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753902176,
+        "date_updated": 1753970048,
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Associate----Software-Engineer_R10201149-1",
         "company_name": "Northrop Grumman",
         "title": "Associate Software Engineer",
@@ -17300,12 +17300,12 @@
             "Woodland Hills, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "d1e43d3a-7644-4e37-8262-5a7101b66b2c",
         "date_posted": 1753902176,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1753902372,
