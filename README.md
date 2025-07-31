@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 95 New Grad Roles by Category
+### Browse 96 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (75)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (76)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (8)
 
@@ -65,6 +65,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
 | **[Aurora Innovation](https://simplify.jobs/c/Aurora-Innovation?utm_source=GHList&utm_medium=company)** | Software Engineer I | Pittsburgh, PA | <div align="center"><a href="https://aurora.tech/jobs/8081673002?gh_jid=8081673002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0480e89b-c78b-4d7d-9ba3-f94a115f0330?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
+| **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Junior Software Engineer | Gaithersburg, MD | <div align="center"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Junior-Software-Engineer_R-00163540?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2807c62b-1f19-4c36-ad32-40967e3edbd7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Uber](https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company)** | Software Engineer I - Platforms | SF</br>Sunnyvale, CA | <div align="center"><a href="https://www.uber.com/global/en/careers/list/145880/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f555971a-35b5-4db5-a78a-8ef74219acc1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Chewy](https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company)** | Software Engineer I | Bellevue, WA | <div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=7096822&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/befdd2ad-c6df-458e-b0e0-ee8c8e1137fa?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | ↳ | Software Engineer I | Bellevue, WA | <div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=7081410&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/68821ceb-0090-4a87-8061-42789cb56646?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
@@ -142,11 +143,10 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (70)</summary>
+<summary>🗃️ Inactive roles (69)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
-| **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Junior Software Engineer | Gaithersburg, MD | 🔒 | 0d |
 | **[Maybern](https://simplify.jobs/c/Maybern?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad | NYC | 🔒 | 5d |
 | **[Amentum](https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company)** | Entry Level Software Developer | Dahlgren, VA | 🔒 | 5d |
 | **[Activate Group](https://simplify.jobs/c/Activate-Group?utm_source=GHList&utm_medium=company)** | Junior Software Developer | Remote in UK | 🔒 | 5d |
