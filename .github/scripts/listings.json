@@ -17596,5 +17596,39 @@
         "company_url": "https://simplify.jobs/c/Terex",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sentry",
+        "id": "8052f0a5-610c-4ede-9479-d5c72fd10773",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1754075670,
+        "date_posted": 1754075670,
+        "url": "https://jobs.ashbyhq.com/sentry/143811c1-ec03-458b-9edf-32f002c818f0/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sentry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sentry",
+        "id": "a721ada6-fcb0-4048-b53c-5ef7d4052d55",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1754075667,
+        "date_posted": 1754075667,
+        "url": "https://jobs.ashbyhq.com/sentry/96c8a4cc-23b9-4f3e-b360-38c1cc248491/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sentry",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
