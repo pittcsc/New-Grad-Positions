@@ -16785,7 +16785,7 @@
         "company_name": "Esri",
         "id": "59669f06-ab37-4efd-9dcf-df3ce00de200",
         "title": "Software Development Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1753475440,
         "date_posted": 1753475440,
         "url": "https://www.esri.com/careers/4799605007?gh_jid=4799605007",
@@ -17576,6 +17576,24 @@
             "Broomfield, CO"
         ],
         "company_url": "https://simplify.jobs/c/Quantinuum",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Terex",
+        "id": "5c51f5ae-cc65-4ef8-b061-5d8d83699764",
+        "title": "Software Engineer I - 3rd Eye",
+        "active": true,
+        "date_updated": 1754068499,
+        "date_posted": 1754068499,
+        "url": "https://terex.wd1.myworkdayjobs.com/terexcareers/job/USA-TX-Austin/Software-Engineer-I--3rd-Eye_REQ-9369",
+        "locations": [
+            "Austin, TX",
+            "Chattanooga, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Terex",
         "is_visible": true,
         "sponsorship": "Other"
     }
