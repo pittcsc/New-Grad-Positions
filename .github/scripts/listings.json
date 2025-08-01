@@ -17544,5 +17544,22 @@
         "company_url": "https://simplify.jobs/c/IMEG",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "fd97ae60-01a8-4cee-a8c2-95b9ecdd70cf",
+        "title": "Software Engineer \u2013 New Grad - Infrastructure",
+        "active": true,
+        "date_updated": 1754055703,
+        "date_posted": 1754055703,
+        "url": "https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
