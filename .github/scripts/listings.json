@@ -17431,5 +17431,94 @@
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Travelers Companies",
+        "id": "6b39d90a-9827-4ab8-ae94-bdae0ff6bb19",
+        "title": "Software Engineer I - Guidewire",
+        "active": true,
+        "date_updated": 1754031938,
+        "date_posted": 1754031938,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--Guidewire-_R-42652",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Travelers Companies",
+        "id": "6d548cc3-924a-4e77-a230-7be15f3166f7",
+        "title": "Software Engineer I - .Net / MERN / AWS",
+        "active": true,
+        "date_updated": 1754031932,
+        "date_posted": 1754031932,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Net---MERN---AWS-_R-43980",
+        "locations": [
+            "Sparks, MD",
+            "Hartford, CT",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Travelers Companies",
+        "id": "7fea6865-d7a3-40be-bc65-7c35d9e97f6e",
+        "title": "Software Engineer I - Aws - React - GenAI",
+        "active": true,
+        "date_updated": 1754031936,
+        "date_posted": 1754031936,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS--React--GenAI-_R-44034",
+        "locations": [
+            "Hartford, CT",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Travelers Companies",
+        "id": "4d1aca64-b187-4f97-adcc-5824d3b20dcb",
+        "title": "Software Engineer I - Java - Aws - Jsf",
+        "active": true,
+        "date_updated": 1754031804,
+        "date_posted": 1754031804,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Java--AWS--JSF-_R-45189",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Travelers Companies",
+        "id": "604f95b5-9b0a-4c6e-b75c-21d98b95d516",
+        "title": "Software Engineer I - Artificial Intelligence in Underwriting",
+        "active": true,
+        "date_updated": 1754031836,
+        "date_posted": 1754031836,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I---Artificial-Intelligence-in-Underwriting_R-45455",
+        "locations": [
+            "Hartford, CT",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
