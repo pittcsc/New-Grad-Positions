@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 90 New Grad Roles by Category
+### Browse 89 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (70)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (69)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (8)
 
@@ -106,7 +106,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | Microsoft | Software Engineer - Systems | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1835564/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 24d |
 | ↳ | Software Engineer - Fullstack | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1835559/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 24d |
 | ↳ | Software Engineer - Security | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1835563/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 24d |
-| **[Meta](https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company)** | Software Engineer – University Grad - Research Infrastructure | Burlingame, CA</br>Redmond, WA | <div align="center"><a href="https://www.metacareers.com/jobs/23968798566082979?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0d446e91-2f00-4e93-b32c-fa4ddb9426e6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 24d |
 | **[Sigma Computing](https://simplify.jobs/c/Sigma-Computing?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad Program | SF</br>NYC | <div align="center"><a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/6640194003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9f6380b7-4668-49fb-9b83-4e51e0815a76?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 26d |
 | **[Candid Health](https://simplify.jobs/c/Candid-Health?utm_source=GHList&utm_medium=company)** | Software Engineer New Grad | SF</br>NYC</br>Denver, CO | <div align="center"><a href="https://jobs.ashbyhq.com/candidhealth/f0e529c1-b8d8-4add-aaef-23b174053b8b/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0e1e4210-db26-4d8c-b905-6f99a8c98483?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 | ↳ | Forward Deployed Software Engineer New Grad | SF</br>NYC</br>Denver, CO | <div align="center"><a href="https://jobs.ashbyhq.com/candidhealth/8d1922f8-e89d-433e-a21f-b724eabc003b/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8098037f-f4db-4feb-a7ea-2a17e108f871?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
@@ -137,7 +136,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (73)</summary>
+<summary>🗃️ Inactive roles (74)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
@@ -159,6 +158,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Sierra Nevada Coporation](https://simplify.jobs/c/Sierra-Nevada-Coporation?utm_source=GHList&utm_medium=company)** | Software Engineer I | Southern Pines, NC</br>Reston, VA | 🔒 | 22d |
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Entry Level Software Engineer | Edinburgh, UK | 🔒 | 23d |
 | **[Chewy](https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company)** | Software Engineer I | Boston, MA</br>Fort Lauderdale, FL | 🔒 | 24d |
+| **[Meta](https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company)** | Software Engineer – University Grad - Research Infrastructure | Burlingame, CA</br>Redmond, WA | 🔒 | 24d |
 | **[LexisNexis Risk Solutions](https://simplify.jobs/c/9a8ce602-42f0-4474-9ff5-edf7d8868b76?utm_source=GHList&utm_medium=company)** | Software Engineer I | Surrey, BC, Canada | 🔒 | 27d |
 | **[State Street](https://simplify.jobs/c/d1ef45b2-fd52-4e9d-9d7d-dc3d5386744f?utm_source=GHList&utm_medium=company)** | Software Engineer I | Burlington, MA | 🔒 | 28d |
 | **[Gentex Corporation](https://simplify.jobs/c/Gentex-Corporation?utm_source=GHList&utm_medium=company)** | Software Engineer I - Plm | Holland, MI | 🔒 | 29d |
