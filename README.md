@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 94 New Grad Roles by Category
+### Browse 95 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (73)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (74)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (9)
 
@@ -69,6 +69,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | ↳ | Software Engineer I - .Net / MERN / AWS | Sparks, MD</br>Hartford, CT</br>St Paul, MN | <div align="center"><a href="https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Net---MERN---AWS-_R-43980?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6d548cc3-924a-4e77-a230-7be15f3166f7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | ↳ | Software Engineer I - Java - Aws - Jsf | St Paul, MN | <div align="center"><a href="https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Java--AWS--JSF-_R-45189?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4d1aca64-b187-4f97-adcc-5824d3b20dcb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Junior Software Developer | West Valley City, UT | <div align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/West-Valley-City-UT/Junior-Software-Developer_R55998-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f67c1936-5b21-4da6-98eb-07f4fa60271e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
+| **[IMEG](https://simplify.jobs/c/IMEG?utm_source=GHList&utm_medium=company)** | Full Stack Software Engineer 1 | <details><summary>**8 locations**</summary>Las Vegas, NV</br>Naperville, IL</br>Indianapolis, IN</br>Houston, TX</br>LA</br>Pasadena, CA</br>Phoenix, AZ</br>Davenport, IA</details> | <div align="center"><a href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Las-Vegas-NV/Full-Stack-Software-Engineer-1--Remote-_R-14878?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c2d7fcdd-c8fe-4c43-9dc1-de65608846a9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | Eversource Energy | IT Associate Software Engineer (Hybrid) | <details><summary>**4 locations**</summary>Westwood, MA</br>Manchester, NH</br>Berlin, CT</br>Windsor, CT</details> | <a href="https://eversource.wd1.myworkdayjobs.com/en-US/ExternalSite/job/Westwood-MA/IT-Associate-Software-Engineer--Hybrid-_R-028085?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Junior Software Engineer | Gaithersburg, MD | <div align="center"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Junior-Software-Engineer_R-00163540?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2807c62b-1f19-4c36-ad32-40967e3edbd7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
 | **[Chewy](https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company)** | Software Engineer I | Bellevue, WA | <div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=7081410&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/68821ceb-0090-4a87-8061-42789cb56646?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
@@ -149,7 +150,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Software Engineer I | Richardson, TX | 🔒 | 2d |
 | **[Maybern](https://simplify.jobs/c/Maybern?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad | NYC | 🔒 | 6d |
 | **[Amentum](https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company)** | Entry Level Software Developer | Dahlgren, VA | 🔒 | 6d |
-| **[Activate Group](https://simplify.jobs/c/Activate-Group?utm_source=GHList&utm_medium=company)** | Junior Software Developer | Remote in UK | 🔒 | 6d |
+| **[Activate Group](https://simplify.jobs/c/Activate-Group?utm_source=GHList&utm_medium=company)** | Junior Software Developer | Remote in UK | 🔒 | 7d |
 | **[Franklin St](https://simplify.jobs/c/Franklin-St?utm_source=GHList&utm_medium=company)** | Software Engineer I | Tampa, FL | 🔒 | 7d |
 | **[Chewy](https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company)** | Software Engineer I | Seattle, WA</br>Bellevue, WA | 🔒 | 9d |
 | **[Qualtrics](https://simplify.jobs/c/Qualtrics?utm_source=GHList&utm_medium=company)** | Software Engineer I | Seattle, WA | 🔒 | 13d |
