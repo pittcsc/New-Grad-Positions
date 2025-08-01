@@ -17698,5 +17698,22 @@
         "company_url": "https://simplify.jobs/c/PJM",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "8b9cd2a3-53ab-41cd-bbd0-c5bdb6e56732",
+        "title": "Software Engineer \u2013 New Grad - Production Infrastructure",
+        "active": true,
+        "date_updated": 1754055704,
+        "date_posted": 1754055704,
+        "url": "https://jobs.lever.co/palantir/3f4dd595-2f57-4b5f-a50a-8d3084641ef8/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
