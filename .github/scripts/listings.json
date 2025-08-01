@@ -17630,5 +17630,56 @@
         "company_url": "https://simplify.jobs/c/Sentry",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "ffe18d04-0fee-4c22-92c7-ee69659dc2e0",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1754055562,
+        "date_posted": 1754055562,
+        "url": "https://www.esri.com/careers/4810345007?gh_jid=4810345007",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "4cbc04d5-d651-438a-81ec-b82f768a6602",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1754055697,
+        "date_posted": 1754055697,
+        "url": "https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "09e4f8a6-10a8-498d-aed3-95b61b9e7fbc",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1754055565,
+        "date_posted": 1754055565,
+        "url": "https://www.esri.com/careers/4810344007?gh_jid=4810344007",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
