@@ -712,22 +712,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Cockroach Labs",
-        "id": "366df603-5f51-4282-9ddc-612ea7d46da7",
-        "title": "Software Engineer \u2013 New Grad - Backend - Migrations - Toronto",
-        "active": false,
-        "date_updated": 1723072573,
-        "date_posted": 1723072573,
-        "url": "https://www.cockroachlabs.com/careers/job/?gh_jid=6145671",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Cockroach-Labs",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Verkada",
         "id": "fc6f06da-06c1-42c1-a421-a038eb9081fe",
         "title": "Security Software Engineer \u2013 Early Career",
