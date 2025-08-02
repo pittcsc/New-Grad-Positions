@@ -17715,5 +17715,56 @@
         "company_url": "https://simplify.jobs/c/Palantir",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TripAdvisor",
+        "id": "c86a9cb2-fa64-4418-b4df-d55f61688156",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753715923,
+        "date_posted": 1753715923,
+        "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/7095831",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TripAdvisor",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Global Payments",
+        "id": "ad85e523-b5ae-49c4-82cc-2e0893694bef",
+        "title": "Mainframe Software Engineer I or Above",
+        "active": true,
+        "date_updated": 1754002259,
+        "date_posted": 1754002259,
+        "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Mainframe-Software-Engineer-I-or-Above_R0064692",
+        "locations": [
+            "Columbus, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Payments",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Perforce",
+        "id": "560f3e04-2328-4836-962f-e38062fc833f",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753709334,
+        "date_posted": 1753709334,
+        "url": "https://jobs.lever.co/perforce/44b37b45-6756-489d-bd3a-668ba2352f9b/apply",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Perforce",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
