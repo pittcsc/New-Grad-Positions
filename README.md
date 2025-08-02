@@ -6,11 +6,11 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 103 New Grad Roles by Category
+### Browse 104 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (82)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (9)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (10)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (9)
 
@@ -164,7 +164,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | ↳ | Software Development Engineer I | St. Louis, MO | 🔒 | 7d |
 | **[Activate Group](https://simplify.jobs/c/Activate-Group?utm_source=GHList&utm_medium=company)** | Junior Software Developer | Remote in UK | 🔒 | 7d |
 | **[Franklin St](https://simplify.jobs/c/Franklin-St?utm_source=GHList&utm_medium=company)** | Software Engineer I | Tampa, FL | 🔒 | 7d |
-| **[mthree](https://simplify.jobs/c/Mthree?utm_source=GHList&utm_medium=company)** | Junior Software Engineer | Dallas, TX | 🔒 | 9d |
+| **[mthree](https://simplify.jobs/c/Mthree?utm_source=GHList&utm_medium=company)** | Junior Software Engineer | Dallas, TX | 🔒 | 10d |
 | **[Chewy](https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company)** | Software Engineer I | Seattle, WA</br>Bellevue, WA | 🔒 | 10d |
 | **[Qualtrics](https://simplify.jobs/c/Qualtrics?utm_source=GHList&utm_medium=company)** | Software Engineer I | Seattle, WA | 🔒 | 13d |
 | **[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)** | Testing Software Engineer I | Charlotte, NC | 🔒 | 14d |
@@ -214,7 +214,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | ↳ | Entry Level Software Engineer | Fredericksburg, VA</br>Dahlgren, VA | 🔒 | 1mo |
 | **[Relativity Space](https://simplify.jobs/c/Relativity-Space?utm_source=GHList&utm_medium=company)** | Software Engineer I - Factory Platform | Long Beach, CA | 🔒 | 1mo |
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Software Engineer I | Richardson, TX | 🔒 | 1mo |
-| ↳ | Software Development Engineer I | Bristol, RI | 🔒 | 1mo |
+| **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Software Development Engineer I | Bristol, RI | 🔒 | 1mo |
 | ↳ | Software Engineer I | Richardson, TX | 🔒 | 1mo |
 | **[Hyperproof](https://simplify.jobs/c/1fc3eace-0b69-4dfa-97e0-43c2ec980796?utm_source=GHList&utm_medium=company)** | Entry Level Full Stack AI Engineer | Remote in USA</br>Remote in Canada | 🔒 | 1mo |
 | **[Esri](https://simplify.jobs/c/Esri?utm_source=GHList&utm_medium=company)** | 3D Software Engineer I - Scene Layers | West Redlands, Redlands, CA | 🔒 | 1mo |
@@ -248,6 +248,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
+| **[PJM](https://simplify.jobs/c/PJM?utm_source=GHList&utm_medium=company)** | Data Engineer I | King of Prussia, PA | <div align="center"><a href="https://pjm.wd5.myworkdayjobs.com/pjmcareers/job/Audubon-PA/Data-Engineer-I--II-_REQ-2025-4047-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3d340e56-0a69-43ff-9367-8bdd7ddf6b05?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[The Travelers Companies](https://simplify.jobs/c/Travelers?utm_source=GHList&utm_medium=company)** | Software Engineer I - Artificial Intelligence in Underwriting | Hartford, CT</br>St Paul, MN | <div align="center"><a href="https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I---Artificial-Intelligence-in-Underwriting_R-45455?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/604f95b5-9b0a-4c6e-b75c-21d98b95d516?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | Townsquare Ignite | Junior Data Analyst | Purchase, NY | <a href="https://townsquareignite.com/careers/?gh_jid=7093124#job-openings&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 2d |
 | LMI | Junior Data Analyst - TS/SCI Required 🛂 | Washington DC | <a href="https://careers-lmi.icims.com/jobs/12942/junior-data-analyst---ts-sci-required/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 2d |
@@ -260,11 +261,10 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (14)</summary>
+<summary>🗃️ Inactive roles (13)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
-| **[PJM](https://simplify.jobs/c/PJM?utm_source=GHList&utm_medium=company)** | Data Engineer I | King of Prussia, PA | 🔒 | 0d |
 | **[EvenUp](https://simplify.jobs/c/a3893f84-8200-4d5f-aad7-2ff0d6d670dc?utm_source=GHList&utm_medium=company)** | Early Career Machine Learning Engineer | Toronto, ON, Canada | 🔒 | 3d |
 | **[Caterpillar Inc.](https://simplify.jobs/c/Caterpillar-Inc?utm_source=GHList&utm_medium=company)** | Aftermarket Data Engineer I - Cat Digital | Chicago, IL | 🔒 | 15d |
 | **[Expedia](https://simplify.jobs/c/Expedia?utm_source=GHList&utm_medium=company)** | Data Engineer I | Seattle, WA | 🔒 | 21d |
