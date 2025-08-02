@@ -728,22 +728,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "RVO Health",
-        "id": "f4b018af-f2e8-4fc2-a187-4321c59b4345",
-        "title": "2025 Early Career Program: Software Engineering",
-        "active": false,
-        "date_updated": 1723072249,
-        "date_posted": 1723072249,
-        "url": "https://job-boards.greenhouse.io/rvohealth/jobs/4455898005",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/RVO-Health",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Verkada",
         "id": "fc6f06da-06c1-42c1-a421-a038eb9081fe",
         "title": "Security Software Engineer \u2013 Early Career",
