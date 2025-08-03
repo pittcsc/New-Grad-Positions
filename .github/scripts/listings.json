@@ -17804,5 +17804,21 @@
         "date_posted": 1754190110,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754190176,
+        "url": "https://lifeattiktok.com/search/7532436539684702471",
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer/Mobile Engineer Graduate (Monetization Technology - Ads Core Demonstration)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "5ddd398d-3a62-4e27-afd0-16d073e7300e",
+        "date_posted": 1754190176,
+        "company_url": "",
+        "is_visible": true
     }
 ]
