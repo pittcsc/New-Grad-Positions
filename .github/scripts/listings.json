@@ -17788,5 +17788,21 @@
         "date_posted": 1754190061,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754190110,
+        "url": "https://lifeattiktok.com/search/7531158608336242962",
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Machine Learning Engineer (Commerce Ads)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "11bfc92a-90b8-4751-aade-9608d7027299",
+        "date_posted": 1754190110,
+        "company_url": "",
+        "is_visible": true
     }
 ]

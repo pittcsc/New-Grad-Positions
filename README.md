@@ -6,11 +6,11 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 107 New Grad Roles by Category
+### Browse 108 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (83)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (12)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (13)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (9)
 
@@ -250,7 +250,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
-| TikTok | New Grad 2026: Machine Learning/Research Engineer (Ads Core Global) | San Jose, CA | <a href="https://lifeattiktok.com/search/7532349111480273159?spread=5MWH5CQ&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
+| TikTok | New Grad 2026: Machine Learning Engineer (Commerce Ads) | San Jose, CA | <a href="https://lifeattiktok.com/search/7531158608336242962?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
+| ↳ | New Grad 2026: Machine Learning/Research Engineer (Ads Core Global) | San Jose, CA | <a href="https://lifeattiktok.com/search/7532349111480273159?spread=5MWH5CQ&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | ↳ | New Grad 2026: Software Engineer (Ads ML Infrastructure) | San Jose, CA | <a href="https://lifeattiktok.com/search/7531158600791705874?spread=5MWH5CQ&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | **[PJM](https://simplify.jobs/c/PJM?utm_source=GHList&utm_medium=company)** | Data Engineer I | King of Prussia, PA | <div align="center"><a href="https://pjm.wd5.myworkdayjobs.com/pjmcareers/job/Audubon-PA/Data-Engineer-I--II-_REQ-2025-4047-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3d340e56-0a69-43ff-9367-8bdd7ddf6b05?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
 | **[The Travelers Companies](https://simplify.jobs/c/Travelers?utm_source=GHList&utm_medium=company)** | Software Engineer I - Artificial Intelligence in Underwriting | Hartford, CT</br>St Paul, MN | <div align="center"><a href="https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I---Artificial-Intelligence-in-Underwriting_R-45455?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/604f95b5-9b0a-4c6e-b75c-21d98b95d516?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
