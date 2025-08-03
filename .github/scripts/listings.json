@@ -17772,5 +17772,21 @@
         "company_url": "https://simplify.jobs/c/Clarity-Innovations",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1754190061,
+        "url": "https://lifeattiktok.com/search/7532349111480273159?spread=5MWH5CQ",
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Machine Learning/Research Engineer (Ads Core Global)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "5283fee7-7b86-4cbd-87bc-269618862471",
+        "date_posted": 1754190061,
+        "company_url": "",
+        "is_visible": true
     }
 ]
