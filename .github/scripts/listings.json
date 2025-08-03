@@ -17736,5 +17736,41 @@
         "date_posted": 1754189960,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Expedia",
+        "id": "b70a274e-bd49-4aa1-9783-b02a85cd35f1",
+        "title": "Security Engineer I",
+        "active": true,
+        "date_updated": 1753168828,
+        "date_posted": 1753168828,
+        "url": "https://expedia.wd5.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Security-Engineer-I_R-96894",
+        "locations": [
+            "Seattle, WA",
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Clarity Innovations",
+        "id": "000ae1de-ef6c-4970-9032-96be016c3c60",
+        "title": "Junior Information System Security Engineer - Isse",
+        "active": true,
+        "date_updated": 1753119004,
+        "date_posted": 1753119004,
+        "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/4789602007",
+        "locations": [
+            "Reston, VA",
+            "Columbia, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Clarity-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
