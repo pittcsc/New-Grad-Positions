@@ -519,22 +519,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Konrad Group",
-        "id": "6baf7235-65ab-415c-b0e7-e982f11951e0",
-        "title": "Software Developer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1723246690,
-        "date_posted": 1723246690,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6084188003",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Konrad-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Pattern Data",
         "id": "34858b56-8a32-4f10-b5d5-e76e1fad2229",
         "title": "Software Engineer I",
@@ -551,22 +535,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Belvedere Trading",
-        "id": "0c126d54-19b1-45cf-8655-3cc3bbfecde9",
-        "title": "Quantitative Trader \u2013 Entry Level 2025",
-        "active": false,
-        "date_updated": 1723598087,
-        "date_posted": 1723246982,
-        "url": "https://jobs.lever.co/belvederetrading/69de6697-e9d4-426e-ae22-bad4c6e04cf8/apply",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Belvedere-Trading",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Stripe",
         "id": "aeb7718a-4a2d-4347-8c9b-4d206378b6f8",
         "title": "Software Engineer \u2013 New Grad",
@@ -578,38 +546,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Stripe",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Konrad Group",
-        "id": "3ef0f95b-7742-4447-a3de-44b0d83373fd",
-        "title": "Mobile Developer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1723246687,
-        "date_posted": 1723246687,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6084310003",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Konrad-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Belvedere Trading",
-        "id": "6c6dfa90-d789-473d-972e-f82f3b874d81",
-        "title": "Software Engineer \u2013 Entry Level 2025",
-        "active": false,
-        "date_updated": 1723597767,
-        "date_posted": 1723246712,
-        "url": "https://jobs.lever.co/belvederetrading/f994033f-80f7-4f1d-afdf-a0ada8ed9a8b/apply",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Belvedere-Trading",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -17840,5 +17776,22 @@
         "date_posted": 1754344367,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zoro",
+        "id": "e825cd57-2482-4e89-b28a-901424d7269b",
+        "title": "Software Engineer I - Release Platform",
+        "active": true,
+        "date_updated": 1754351086,
+        "date_posted": 1754351086,
+        "url": "https://zoro.com/careers/jobs?gh_jid=4589860006",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoro",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
