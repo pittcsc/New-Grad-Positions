@@ -17647,8 +17647,8 @@
         "company_name": "Expedia",
         "id": "b70a274e-bd49-4aa1-9783-b02a85cd35f1",
         "title": "Security Engineer I",
-        "active": true,
-        "date_updated": 1753168828,
+        "active": false,
+        "date_updated": 1754416461,
         "date_posted": 1753168828,
         "url": "https://expedia.wd5.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Security-Engineer-I_R-96894",
         "locations": [
@@ -17656,7 +17656,7 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Expedia",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
