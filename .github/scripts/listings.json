@@ -17971,5 +17971,21 @@
         "date_posted": 1754362635,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754362715,
+        "url": "https://lifeattiktok.com/search/7530752375372466439",
+        "company_name": "TikTok",
+        "title": "Backend Software Engineer, Trust and Safety - 2026 Start (BS/MS)",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "9c5168c8-5784-41a2-874c-faf45a76055b",
+        "date_posted": 1754362715,
+        "company_url": "",
+        "is_visible": true
     }
 ]
