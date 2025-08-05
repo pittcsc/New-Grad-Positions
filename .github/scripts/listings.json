@@ -17084,7 +17084,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1753902654,
+        "date_updated": 1754416691,
         "url": "https://careers-daifuku-america.icims.com/jobs/20436/ilus-software-engineer-i/job",
         "company_name": "Daifuku",
         "title": "Software Engineer I",
@@ -17092,12 +17092,12 @@
             "Clearwater, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "42c719ca-74de-4d52-90db-eef55d267193",
         "date_posted": 1753902654,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
