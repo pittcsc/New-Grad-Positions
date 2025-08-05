@@ -18083,5 +18083,21 @@
         "date_posted": 1754363304,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754363478,
+        "url": "https://lifeattiktok.com/search/7530759738491226386",
+        "company_name": "TikTok",
+        "title": "Software Engineer, Risk and Response - 2026 Start (BS/ MS)",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "85636c74-27dc-4833-a198-ae16dc4ffe12",
+        "date_posted": 1754363478,
+        "company_url": "",
+        "is_visible": true
     }
 ]
