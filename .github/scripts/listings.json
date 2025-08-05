@@ -18067,5 +18067,21 @@
         "date_posted": 1754363233,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754363304,
+        "url": "https://lifeattiktok.com/search/7530771170938865928",
+        "company_name": "TikTok",
+        "title": "Research Scientist - CV/NLP/Multimodal LLM, Trust and Safety - 2026 Start (BS/MS)",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c88995d2-2686-4cfa-b936-27bdf2fb7f42",
+        "date_posted": 1754363304,
+        "company_url": "",
+        "is_visible": true
     }
 ]
