@@ -18163,5 +18163,21 @@
         "date_posted": 1754363781,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754363856,
+        "url": "https://jobs.bytedance.com/en/position/7527836662400026898/detail",
+        "company_name": "ByteDance",
+        "title": "Backend Software Engineer (Customer Service Platform) - 2026 Start (BS/MS)",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "ade01c44-7b80-4f58-b6df-85d702159762",
+        "date_posted": 1754363856,
+        "company_url": "",
+        "is_visible": true
     }
 ]
