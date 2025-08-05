@@ -17809,5 +17809,30 @@
         "date_posted": 1754358986,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754359170,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649912",
+        "company_name": "JPMorganChase",
+        "title": "Software Engineer",
+        "locations": [
+            "Austin, TX",
+            "Chicago, IL",
+            "Columbus, OH",
+            "Houston, TX",
+            "Jersey City, NJ",
+            "New York, NY",
+            "Palo Alto, CA",
+            "Plano, TX",
+            "Tampa, FL",
+            "Wilmington, DE"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b1693eec-c5f3-4da3-9190-0354c4579293",
+        "date_posted": 1754359170,
+        "company_url": "",
+        "is_visible": true
     }
 ]
