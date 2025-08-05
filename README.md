@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 109 New Grad Roles by Category
+### Browse 108 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (85)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (84)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (12)
 
@@ -106,7 +106,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | ↳ | Software Engineer I | Remote in USA | <a href="https://www.coalitioninc.com/job-posting/4560711005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 13d |
 | **[Expedia](https://simplify.jobs/c/Expedia?utm_source=GHList&utm_medium=company)** | Security Engineer I | Seattle, WA</br>Austin, TX | <div align="center"><a href="https://expedia.wd5.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Security-Engineer-I_R-96894?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b70a274e-bd49-4aa1-9783-b02a85cd35f1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 13d |
 | **[Clarity Innovations](https://simplify.jobs/c/Clarity-Innovations?utm_source=GHList&utm_medium=company)** | Junior Information System Security Engineer - Isse | Reston, VA</br>Columbia, MD | <div align="center"><a href="https://job-boards.greenhouse.io/clarityinnovates/jobs/4789602007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/000ae1de-ef6c-4970-9032-96be016c3c60?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 14d |
-| **[Qualtrics](https://simplify.jobs/c/Qualtrics?utm_source=GHList&utm_medium=company)** | Software Engineer I - Foundation | Provo, UT | <div align="center"><a href="https://www.qualtrics.com/careers/us/en/job/7071372?gh_jid=7071372&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/be5e98af-2684-4b4b-8de3-e4607b69e672?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 17d |
 | **[mthree](https://simplify.jobs/c/Mthree?utm_source=GHList&utm_medium=company)** | Junior Software Engineer | <details><summary>**4 locations**</summary>Salt Lake City, UT</br>Houston, TX</br>Dallas, TX</br>NYC</details> | <div align="center"><a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4406180006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0032aa81-0d90-454a-a690-bd48849678fe?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 18d |
 | ↳ | Mthree – Junior Software Developer | United Kingdom | <div align="center"><a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4431281006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0264972c-40b5-4636-8ab2-4fc5056ea829?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 18d |
 | ↳ | Mthree – Junior Software Engineer | Sheffield, UK</br>Liverpool, UK | <div align="center"><a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4401897006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/be06c7f9-8d6c-4516-8f37-cb90fa6016b7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 18d |
@@ -152,7 +151,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (84)</summary>
+<summary>🗃️ Inactive roles (85)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
@@ -169,10 +168,11 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Esri](https://simplify.jobs/c/Esri?utm_source=GHList&utm_medium=company)** | Software Development Engineer I | St. Louis, MO | 🔒 | 10d |
 | ↳ | Software Development Engineer I | St. Louis, MO | 🔒 | 10d |
 | **[Activate Group](https://simplify.jobs/c/Activate-Group?utm_source=GHList&utm_medium=company)** | Junior Software Developer | Remote in UK | 🔒 | 10d |
-| **[Franklin St](https://simplify.jobs/c/Franklin-St?utm_source=GHList&utm_medium=company)** | Software Engineer I | Tampa, FL | 🔒 | 10d |
+| **[Franklin St](https://simplify.jobs/c/Franklin-St?utm_source=GHList&utm_medium=company)** | Software Engineer I | Tampa, FL | 🔒 | 11d |
 | **[mthree](https://simplify.jobs/c/Mthree?utm_source=GHList&utm_medium=company)** | Junior Software Engineer | Dallas, TX | 🔒 | 13d |
 | **[Chewy](https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company)** | Software Engineer I | Seattle, WA</br>Bellevue, WA | 🔒 | 13d |
 | **[Qualtrics](https://simplify.jobs/c/Qualtrics?utm_source=GHList&utm_medium=company)** | Software Engineer I | Seattle, WA | 🔒 | 16d |
+| **[Qualtrics](https://simplify.jobs/c/Qualtrics?utm_source=GHList&utm_medium=company)** | Software Engineer I - Foundation | Provo, UT | 🔒 | 17d |
 | **[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)** | Testing Software Engineer I | Charlotte, NC | 🔒 | 17d |
 | **[Iridium Communications](https://simplify.jobs/c/Iridium-Communications?utm_source=GHList&utm_medium=company)** | Engineer I - Software Developer | Reston, VA</br>Chandler, AZ | 🔒 | 19d |
 | **[Akamai Technologies](https://simplify.jobs/c/Akamai?utm_source=GHList&utm_medium=company)** | Software Engineer I | Remote in USA | 🔒 | 20d |
@@ -275,7 +275,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
-| **[EvenUp](https://simplify.jobs/c/a3893f84-8200-4d5f-aad7-2ff0d6d670dc?utm_source=GHList&utm_medium=company)** | Early Career Machine Learning Engineer | Toronto, ON, Canada | 🔒 | 6d |
+| **[EvenUp](https://simplify.jobs/c/a3893f84-8200-4d5f-aad7-2ff0d6d670dc?utm_source=GHList&utm_medium=company)** | Early Career Machine Learning Engineer | Toronto, ON, Canada | 🔒 | 7d |
 | **[Machinify](https://simplify.jobs/c/Machinify?utm_source=GHList&utm_medium=company)** | Data Engineer I | Palo Alto, CA | 🔒 | 12d |
 | **[Caterpillar Inc.](https://simplify.jobs/c/Caterpillar-Inc?utm_source=GHList&utm_medium=company)** | Aftermarket Data Engineer I - Cat Digital | Chicago, IL | 🔒 | 18d |
 | **[Expedia](https://simplify.jobs/c/Expedia?utm_source=GHList&utm_medium=company)** | Data Engineer I | Seattle, WA | 🔒 | 24d |
