@@ -15464,20 +15464,20 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1751933435,
+        "date_updated": 1754416326,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1835564/",
         "company_name": "Microsoft",
         "title": "Software Engineer - Systems",
         "locations": [
             "Redmond, WA"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AshkanArabim",
         "id": "bbec85ce-e198-4fb0-af7f-3b414645eae2",
         "date_posted": 1751933435,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
