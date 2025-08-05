@@ -18195,5 +18195,21 @@
         "date_posted": 1754364267,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754364327,
+        "url": "https://jobs.ashbyhq.com/ramp/83075cf0-9c22-4475-9c6b-e21923a96df8",
+        "company_name": "Ramp",
+        "title": "Software Engineer - Backend",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b754db34-4c23-450f-b881-2c897de087f8",
+        "date_posted": 1754364327,
+        "company_url": "",
+        "is_visible": true
     }
 ]
