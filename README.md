@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 117 New Grad Roles by Category
+### Browse 118 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (90)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (91)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (15)
 
@@ -64,7 +64,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
-| TikTok | Software Engineer (Monetization Technology - Ads Creative) - 2026 Start (BS/MS) | San Jose, CA | <a href="https://lifeattiktok.com/search/7532457296103295239?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
+| TikTok | Software Development, Engineer in Test (Trust and Safety) - 2026 Start (BS/MS) | San Jose, CA | <a href="https://lifeattiktok.com/search/7530765464767826184?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
+| ↳ | Software Engineer (Monetization Technology - Ads Creative) - 2026 Start (BS/MS) | San Jose, CA | <a href="https://lifeattiktok.com/search/7532457296103295239?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | ↳ | Software Engineer, Music - 2026 Start (BS/MS) | San Jose, CA | <a href="https://lifeattiktok.com/search/7532627066714753288?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | ↳ | Backend Software Engineer, Trust and Safety - 2026 Start (BS/MS) | Seattle, WA | <a href="https://lifeattiktok.com/search/7530752375372466439?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | ↳ | Product Manager (TikTok-Product-Social and Creation) - 2025 Start (BS/MS) | San Jose, CA | <a href="https://lifeattiktok.com/search/7400808756194461961?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
