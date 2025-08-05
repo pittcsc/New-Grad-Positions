@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 115 New Grad Roles by Category
+### Browse 116 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (88)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (89)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (15)
 
@@ -64,7 +64,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
-| TikTok | Backend Software Engineer, Trust and Safety - 2026 Start (BS/MS) | Seattle, WA | <a href="https://lifeattiktok.com/search/7530752375372466439?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
+| TikTok | Research Scientist - CV/NLP/Multimodal LLM, Trust and Safety - 2026 Start (BS/MS) | San Jose, CA | <a href="https://lifeattiktok.com/search/7530772847212644616?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
+| ↳ | Backend Software Engineer, Trust and Safety - 2026 Start (BS/MS) | Seattle, WA | <a href="https://lifeattiktok.com/search/7530752375372466439?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | ↳ | Product Manager (TikTok-Product-Social and Creation) - 2025 Start (BS/MS) | San Jose, CA | <a href="https://lifeattiktok.com/search/7400808756194461961?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | **[Qualtrics](https://simplify.jobs/c/Qualtrics?utm_source=GHList&utm_medium=company)** | Software Engineer I - PAAS 🛂 | Seattle, WA | <a href="https://www.qualtrics.com/careers/us/en/job/QUALUS6922762EXTERNALENUS/Software-Engineer-I-PAAS?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | ServiceNow | Associate Systems Engineer | San Diego, CA | <a href="https://careers.servicenow.com/jobs/744000073378905/associate-systems-engineer/?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
@@ -265,7 +266,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Qualtrics](https://simplify.jobs/c/Qualtrics?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer 🛂 | Seattle, WA | <a href="https://www.qualtrics.com/careers/us/en/job/QUALUS6580294EXTERNALENUS/Machine-Learning-Engineer?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | TikTok | New Grad 2026: Machine Learning Engineer (Commerce Ads) | San Jose, CA | <a href="https://lifeattiktok.com/search/7531158608336242962?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 1d |
 | ↳ | New Grad 2026: Machine Learning/Research Engineer (Ads Core Global) | San Jose, CA | <a href="https://lifeattiktok.com/search/7532349111480273159?spread=5MWH5CQ&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 1d |
-| ↳ | New Grad 2026: Software Engineer (Ads ML Infrastructure) | San Jose, CA | <a href="https://lifeattiktok.com/search/7531158600791705874?spread=5MWH5CQ&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 1d |
+| TikTok | New Grad 2026: Software Engineer (Ads ML Infrastructure) | San Jose, CA | <a href="https://lifeattiktok.com/search/7531158600791705874?spread=5MWH5CQ&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 2d |
 | **[PJM](https://simplify.jobs/c/PJM?utm_source=GHList&utm_medium=company)** | Data Engineer I | King of Prussia, PA | <div align="center"><a href="https://pjm.wd5.myworkdayjobs.com/pjmcareers/job/Audubon-PA/Data-Engineer-I--II-_REQ-2025-4047-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3d340e56-0a69-43ff-9367-8bdd7ddf6b05?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
 | **[The Travelers Companies](https://simplify.jobs/c/Travelers?utm_source=GHList&utm_medium=company)** | Software Engineer I - Artificial Intelligence in Underwriting | Hartford, CT</br>St Paul, MN | <div align="center"><a href="https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I---Artificial-Intelligence-in-Underwriting_R-45455?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/604f95b5-9b0a-4c6e-b75c-21d98b95d516?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
 | Townsquare Ignite | Junior Data Analyst | Purchase, NY | <a href="https://townsquareignite.com/careers/?gh_jid=7093124#job-openings&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 5d |
