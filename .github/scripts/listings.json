@@ -15414,20 +15414,20 @@
         "is_visible": false
     },
     {
-        "date_updated": 1751932303,
+        "date_updated": 1754416030,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1835563/",
         "company_name": "Microsoft",
         "title": "Software Engineer - Security",
         "locations": [
             "Redmond, WA"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AshkanArabim",
         "id": "fffde5fe-9c59-4944-833e-1c28d393094a",
         "date_posted": 1751932303,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1751932331,
