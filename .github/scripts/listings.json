@@ -17793,5 +17793,21 @@
         "company_url": "https://simplify.jobs/c/Zoro",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1754358986,
+        "url": "https://www.nuro.ai/careersitem?gh_jid=6932596",
+        "company_name": "Nuro",
+        "title": "Software Engineer, Autonomy",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "65523d2c-ea44-4d52-840f-edd8f42982ed",
+        "date_posted": 1754358986,
+        "company_url": "",
+        "is_visible": true
     }
 ]
