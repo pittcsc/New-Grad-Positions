@@ -18211,5 +18211,22 @@
         "date_posted": 1754364327,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "e8df5761-a982-4af8-8501-5cc4b128d4b1",
+        "title": "Back End Processing Network Engineer I",
+        "active": true,
+        "date_updated": 1754364097,
+        "date_posted": 1754364097,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI101-1847-W-Main-Rd-1847-W-Main-Road-Nimitz-Building-Portsmouth-RI-02871-USA/Back-End-Processing-Network-Engineer-I-Portsmouth-RI-Onsite_01784264",
+        "locations": [
+            "Bristol, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
