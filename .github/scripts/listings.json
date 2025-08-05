@@ -18179,5 +18179,21 @@
         "date_posted": 1754363856,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754364267,
+        "url": "https://jobs.ashbyhq.com/ramp/a1229aec-1105-4c47-8533-b912e732ed89",
+        "company_name": "Ramp",
+        "title": "Software Engineer - Frontend",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b512a3b2-034b-41fd-b8df-fb033998df9e",
+        "date_posted": 1754364267,
+        "company_url": "",
+        "is_visible": true
     }
 ]
