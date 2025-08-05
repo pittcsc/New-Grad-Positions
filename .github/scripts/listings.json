@@ -17875,5 +17875,21 @@
         "date_posted": 1754359833,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754361546,
+        "url": "https://careers.servicenow.com/jobs/744000073378905/associate-systems-engineer/?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
+        "company_name": "ServiceNow",
+        "title": "Associate Systems Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b59cf00f-e020-4e99-bb65-423b0ad83cf7",
+        "date_posted": 1754361546,
+        "company_url": "",
+        "is_visible": true
     }
 ]
