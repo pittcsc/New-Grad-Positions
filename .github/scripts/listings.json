@@ -16979,7 +16979,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753898131,
+        "date_updated": 1754476695,
         "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6330949",
         "company_name": "DoorDash",
         "title": "Software Engineer I, Entry-Level",
@@ -16990,13 +16990,13 @@
             "Seattle, WA",
             "Sunnyvale, CA"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "polinavishnev",
         "id": "a93325b4-95dc-4822-b5b7-bab5a2905640",
         "date_posted": 1753898131,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1753901043,
