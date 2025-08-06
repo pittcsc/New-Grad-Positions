@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 122 New Grad Roles by Category
+### Browse 121 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (96)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (95)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (14)
 
@@ -67,7 +67,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[The Boeing Company](https://simplify.jobs/c/Boeing?utm_source=GHList&utm_medium=company)** | Software Engineer – Entry Level or Associate | Albuquerque, NM | <div align="center"><a href="https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Kirtland-AFB-NM/Software-Engineer--Entry-Level-or-Associate-_JR2025466020-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d52df6c0-4d3c-42d3-8437-e5f8609667b5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Medtronic](https://simplify.jobs/c/Medtronic?utm_source=GHList&utm_medium=company)** | Software Engineer I - CRM | Blaine, MN | <div align="center"><a href="https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Engineer-I---CRM_R38781-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9d10f271-23f6-45b7-b460-6bd613fda2c6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Broadcom Limited](https://simplify.jobs/c/Broadcom-Limited?utm_source=GHList&utm_medium=company)** | Entry level Mainframe Software Development Engineer | Downers Grove, IL | <div align="center"><a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-IL-Lisle-Warrenville-Road/Entry-level-Mainframe-Software-Development-Engineer_R023490-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/078470df-4ce4-4ea5-942f-cff77cdefc9e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
-| **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Software Engineer I | Burlington, MA | <div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA311-Woburn-MA-225-Presidential-225-Presidential-Way-Goddard-Building-27-Woburn-MA-01801-USA/XMLNAME-2025-Fulltime--Raytheon-Software-Engineer-I--Onsite-_01784333?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/fb96780d-b990-4c79-9972-b2c78120da32?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Bree](https://simplify.jobs/c/Bree?utm_source=GHList&utm_medium=company)** | Software Engineer – New Graduate | Toronto, ON, Canada | <div align="center"><a href="http://jobs.ashbyhq.com/bree/a337beb6-37a1-45f8-b650-602937a9adab/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9e901729-f24c-4d15-bb93-13dc12fd9a74?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[BRM](https://simplify.jobs/c/BRM?utm_source=GHList&utm_medium=company)** | Entry Level Software Engineer | SF | <div align="center"><a href="https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/59f2623e-1e7c-4a2c-b675-38ba8bdba66f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
 | SimIS | Junior Software Developer - Modeling & Simulation 🇺🇸 | Suffolk, VA | <a href="https://simisinc.applytojob.com/apply/ViiE78Quow/Junior-Software-Developer-Modeling-Simulation?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 1d |
@@ -163,10 +162,11 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (90)</summary>
+<summary>🗃️ Inactive roles (91)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
+| **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Software Engineer I | Burlington, MA | 🔒 | 0d |
 | **[Quantinuum](https://simplify.jobs/c/Quantinuum?utm_source=GHList&utm_medium=company)** | Software Engineer I 🇺🇸 | Broomfield, CO | 🔒 | 5d |
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Junior Software Developer | West Valley City, UT | 🔒 | 5d |
 | **[IMEG](https://simplify.jobs/c/IMEG?utm_source=GHList&utm_medium=company)** | Full Stack Software Engineer 1 | <details><summary>**8 locations**</summary>Las Vegas, NV</br>Naperville, IL</br>Indianapolis, IN</br>Houston, TX</br>LA</br>Pasadena, CA</br>Phoenix, AZ</br>Davenport, IA</details> | 🔒 | 5d |
@@ -195,7 +195,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Akamai Technologies](https://simplify.jobs/c/Akamai?utm_source=GHList&utm_medium=company)** | Software Engineer I | Remote in USA | 🔒 | 22d |
 | **[Iridium Communications](https://simplify.jobs/c/Iridium-Communications?utm_source=GHList&utm_medium=company)** | Engineer I - Software Developer | Reston, VA</br>Chandler, AZ | 🔒 | 22d |
 | **[Cox](https://simplify.jobs/c/Cox?utm_source=GHList&utm_medium=company)** | Software Engineer I | Atlanta, GA | 🔒 | 27d |
-| ↳ | Software Engineer I | Oklahoma City, OK</br>Atlanta, GA | 🔒 | 27d |
+| **[Cox](https://simplify.jobs/c/Cox?utm_source=GHList&utm_medium=company)** | Software Engineer I | Oklahoma City, OK</br>Atlanta, GA | 🔒 | 28d |
 | **[Sierra Nevada Coporation](https://simplify.jobs/c/Sierra-Nevada-Coporation?utm_source=GHList&utm_medium=company)** | Software Engineer I | Southern Pines, NC</br>Reston, VA | 🔒 | 28d |
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Entry Level Software Engineer | Edinburgh, UK | 🔒 | 29d |
 | **[Chewy](https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company)** | Software Engineer I | Boston, MA</br>Fort Lauderdale, FL | 🔒 | 29d |
@@ -349,7 +349,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
-| **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | New Grad: Wavelogic Software Development | Ottawa, ON, Canada | 🔒 | 29d |
+| **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | New Grad: Wavelogic Software Development | Ottawa, ON, Canada | 🔒 | 1mo |
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Software Engineer I - Embedded Communications | Fort Wayne, IN | 🔒 | 1mo |
 | ↳ | Embedded Cybersecurity Software Engineer I | Cedar Rapids, IA | 🔒 | 1mo |
 | **[Cadence Design Systems](https://simplify.jobs/c/Cadence-Design-Systems?utm_source=GHList&utm_medium=company)** | C++ Software Engineer – New College Graduate | Boston, MA | 🔒 | 1mo |
