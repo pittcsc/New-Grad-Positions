@@ -18329,5 +18329,22 @@
         "company_url": "https://simplify.jobs/c/Medtronic",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "d52df6c0-4d3c-42d3-8437-e5f8609667b5",
+        "title": "Software Engineer \u2013 Entry Level or Associate",
+        "active": true,
+        "date_updated": 1754453558,
+        "date_posted": 1754453558,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Kirtland-AFB-NM/Software-Engineer--Entry-Level-or-Associate-_JR2025466020-1",
+        "locations": [
+            "Albuquerque, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
