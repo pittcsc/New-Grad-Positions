@@ -14881,7 +14881,7 @@
         "company_name": "USAA",
         "id": "a4534f59-5baf-4b6e-a528-21c6f8b7964f",
         "title": "Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1751077498,
         "date_posted": 1751077498,
         "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Data-Engineer-I_R0110546",
@@ -18461,5 +18461,22 @@
         "date_posted": 1754543197,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Travelers Companies",
+        "id": "181fef0d-cef2-4ea1-ac5d-6b490862aef8",
+        "title": "Software Engineer I - Aws",
+        "active": true,
+        "date_updated": 1754547187,
+        "date_posted": 1754547187,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MD---Baltimore/Software-Engineer-I---AWS_R-46038",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
