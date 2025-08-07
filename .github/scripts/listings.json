@@ -18362,5 +18362,24 @@
         "date_posted": 1754528498,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754540980,
+        "url": "https://app.ripplematch.com/v2/public/job/340fb9c1",
+        "company_name": "RippleMatch",
+        "title": "Software Engineer",
+        "locations": [
+            "Chicago, IL",
+            "San Francisco, CA",
+            "Los Angeles, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "10784ba8-c863-49da-a882-bebd394b86a9",
+        "date_posted": 1754540980,
+        "company_url": "",
+        "is_visible": true
     }
 ]
