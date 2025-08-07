@@ -18478,5 +18478,39 @@
         "company_url": "https://simplify.jobs/c/Travelers",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Roblox",
+        "id": "ce300a36-bfdf-407a-87e7-909f736c9e2a",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1754548068,
+        "date_posted": 1754548068,
+        "url": "https://careers.roblox.com/jobs/7114754?gh_jid=7114754",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roblox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "979a8376-f452-4f5b-8465-3536217517a5",
+        "title": "Software Engineer I - Backend",
+        "active": true,
+        "date_updated": 1754547720,
+        "date_posted": 1754547720,
+        "url": "https://www.uber.com/global/en/careers/list/146900/",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
