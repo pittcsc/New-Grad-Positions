@@ -18364,17 +18364,16 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754540980,
+        "date_updated": 1754594605,
         "url": "https://app.ripplematch.com/v2/public/job/340fb9c1",
-        "company_name": "RippleMatch",
-        "title": "Software Engineer",
+        "company_name": "Reddit",
+        "title": "Software Engineer - New Grad",
         "locations": [
             "Chicago, IL",
             "San Francisco, CA",
-            "Los Angeles, CA",
-            "New York, NY"
+            "Los Angeles, CA"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "10784ba8-c863-49da-a882-bebd394b86a9",
