@@ -18429,5 +18429,21 @@
         "date_posted": 1754542900,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754542970,
+        "url": "https://apply.workable.com/trexquant/j/A634E0E3F4/",
+        "company_name": "Trexquant",
+        "title": "Quantitative Researcher",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "a15d5309-6cc9-4b9f-972d-a0ec2c3d4188",
+        "date_posted": 1754542970,
+        "company_url": "",
+        "is_visible": true
     }
 ]
