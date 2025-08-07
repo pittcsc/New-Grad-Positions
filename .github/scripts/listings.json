@@ -387,22 +387,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Radiant",
-        "id": "cbfa5543-1f6a-40a1-b323-9cbf8b20844a",
-        "title": "Software Engineer \u2013 New Graduates",
-        "active": false,
-        "date_updated": 1723505784,
-        "date_posted": 1723505784,
-        "url": "https://job-boards.greenhouse.io/radiant/jobs/4460385005",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Radiant",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Qloo",
         "id": "68b3d370-8179-438e-ad4c-8b067ee6607b",
         "title": "Junior Data Engineer",
@@ -18510,6 +18494,30 @@
             "Stamford, CT"
         ],
         "company_url": "https://simplify.jobs/c/Trexquant",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blue Origin",
+        "id": "f37865a3-2377-4049-a582-75c3fc52d4b2",
+        "title": "Intern Conversion: \u2013 Early Career - Avionics Software Engineer I",
+        "active": true,
+        "date_updated": 1754610266,
+        "date_posted": 1754610266,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Intern-Conversion---Early-Career--Avionics-Software-Engineer-I_R54003",
+        "locations": [
+            "Seattle, WA",
+            "Washington, DC",
+            "LA",
+            "Cape Canaveral, FL",
+            "Phoenix, AZ",
+            "Denver, CO",
+            "Huntsville, AL",
+            "Van Horn, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
         "is_visible": true,
         "sponsorship": "Other"
     }
