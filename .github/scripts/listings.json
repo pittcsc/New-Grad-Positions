@@ -18511,5 +18511,22 @@
         "company_url": "https://simplify.jobs/c/Uber",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Trexquant",
+        "id": "0c176474-32a7-45e5-84eb-b8e956800bf8",
+        "title": "Quantitative Researcher \u2013 Early Career",
+        "active": true,
+        "date_updated": 1754604410,
+        "date_posted": 1754604410,
+        "url": "https://apply.workable.com/trexquant/j/A634E0E3F4/apply",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Trexquant",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
