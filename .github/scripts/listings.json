@@ -18750,5 +18750,21 @@
         "date_posted": 1754649712,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754649789,
+        "url": "https://job-boards.greenhouse.io/cooksys/jobs/4872299008",
+        "company_name": "Cook Systems",
+        "title": "Software Developer",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "84ea0eef-b51b-47f6-b7d9-800f3cfb2a0f",
+        "date_posted": 1754649789,
+        "company_url": "",
+        "is_visible": true
     }
 ]
