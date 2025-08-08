@@ -18622,5 +18622,21 @@
         "date_posted": 1754642042,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754642138,
+        "url": "http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481",
+        "company_name": "Iowa State University",
+        "title": "Software Developer I - AI Developer",
+        "locations": [
+            "Remote, IA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b2c3b509-3077-4e43-8818-395c67f30753",
+        "date_posted": 1754642138,
+        "company_url": "",
+        "is_visible": true
     }
 ]
