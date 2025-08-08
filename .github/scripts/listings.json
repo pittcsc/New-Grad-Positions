@@ -504,22 +504,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Databricks",
-        "id": "ea29c605-ae90-4d90-9e3f-3790c81943c8",
-        "title": "Data Scientist \u2013 New Grad - 2025 Start",
-        "active": false,
-        "date_updated": 1725047809,
-        "date_posted": 1723591647,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6866554002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Databricks",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Palantir",
         "id": "f0bfc241-81bc-4e41-9302-f5eca6339fdf",
         "title": "Software Engineer \u2013 New Grad",
@@ -5777,7 +5761,7 @@
         "company_name": "Amazon",
         "id": "c86c9add-6977-442d-8e79-cb62705f1231",
         "title": "Software Development Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1733862163,
         "date_posted": 1733862163,
         "url": "https://amazon.jobs/en/jobs/2850044/software-development-engineer-i-2025",
