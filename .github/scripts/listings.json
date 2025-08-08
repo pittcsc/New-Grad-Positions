@@ -18782,5 +18782,21 @@
         "date_posted": 1754650158,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754650227,
+        "url": "https://job-boards.greenhouse.io/celonis/jobs/6616403003?gh_jid=6616403003",
+        "company_name": "Celonis",
+        "title": "Associate Value Engineer (AI-Driven Data Science & Analytics)",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c1bda983-4826-4916-b7d0-13de88f2cbe8",
+        "date_posted": 1754650227,
+        "company_url": "",
+        "is_visible": true
     }
 ]
