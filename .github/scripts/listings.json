@@ -18768,20 +18768,20 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754650158,
+        "date_updated": 1754662042,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Texas/Data-Analyst-I_R99153",
         "company_name": "LexisNexis",
         "title": "Data Analyst I",
         "locations": [
             "TX"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "dbfb9c5c-d22f-4e23-ba87-1f200060adb9",
         "date_posted": 1754650158,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754650227,
