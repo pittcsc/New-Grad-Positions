@@ -18814,5 +18814,21 @@
         "date_posted": 1754650390,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754676244,
+        "url": "https://lifeattiktok.com/search/7533739605041645832?spread=5MWH5CQ",
+        "company_name": "TikTok",
+        "title": "SDET, Software Development Engineer in Test",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "90c8a174-8ced-4a23-935a-761dbcc3fea0",
+        "date_posted": 1754676244,
+        "company_url": "",
+        "is_visible": true
     }
 ]
