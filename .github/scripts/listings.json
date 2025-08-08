@@ -11389,7 +11389,7 @@
         "company_name": "Leidos",
         "id": "00a3d650-494e-4b27-9b55-85a291e5e75e",
         "title": "Software Developer \u2013 Entry level",
-        "active": false,
+        "active": true,
         "date_updated": 1745961507,
         "date_posted": 1745961507,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Sill-OK/Software-Developer---Entry-level_R-00158332",
@@ -18586,6 +18586,23 @@
             "Lawton, OK"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boston Scientific",
+        "id": "848f9975-f362-46d1-bdf9-04b8b79018b5",
+        "title": "Software Engineer I - Engineering - Development",
+        "active": true,
+        "date_updated": 1754630569,
+        "date_posted": 1754630569,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602803067424",
+        "locations": [
+            "Roseville, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Scientific",
         "is_visible": true,
         "sponsorship": "Other"
     }
