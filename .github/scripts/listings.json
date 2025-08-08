@@ -18382,20 +18382,20 @@
         "is_visible": false
     },
     {
-        "date_updated": 1754542900,
+        "date_updated": 1754661674,
         "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Functions---Quantitative-Risk-Management--Full-Time-Analyst--Buffalo---USA--2026_25893592",
         "company_name": "Citi",
         "title": "Functions - Quantitative Risk Management, Full Time Analyst",
         "locations": [
             "Getzville, NY"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "9befb1bc-7880-493a-a3da-02e9a834bf84",
         "date_posted": 1754542900,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754542970,

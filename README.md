@@ -6,13 +6,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 145 New Grad Roles by Category
+### Browse 144 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (113)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (15)
 
-📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (12)
+📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (11)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (5)
 
@@ -345,7 +345,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | ------- | ---- | -------- | ---------- | --- |
 | **[Trexquant](https://simplify.jobs/c/Trexquant?utm_source=GHList&utm_medium=company)** | Quantitative Researcher – Early Career | Stamford, CT | <div align="center"><a href="https://apply.workable.com/trexquant/j/A634E0E3F4/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0c176474-32a7-45e5-84eb-b8e956800bf8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Trexquant](https://simplify.jobs/c/Trexquant?utm_source=GHList&utm_medium=company)** | Quantitative Researcher | Stamford, CT | <a href="https://apply.workable.com/trexquant/j/A634E0E3F4/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 1d |
-| Citi | Functions - Quantitative Risk Management, Full Time Analyst 🛂 | Getzville, NY | <a href="https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Functions---Quantitative-Risk-Management--Full-Time-Analyst--Buffalo---USA--2026_25893592?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 1d |
 | **[Old Mission](https://simplify.jobs/c/Old-Mission?utm_source=GHList&utm_medium=company)** | College Graduates - Full-Time - Junior Quantitative Trader | London, UK | <div align="center"><a href="https://www.oldmissioncapital.com/careers/?gh_jid=6602928003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b09d07b6-2d11-469e-b3aa-b297ebd7f7a3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 24d |
 | ↳ | College Graduates - Full-Time - Junior Quantitative Trader | Chicago, IL | <div align="center"><a href="https://www.oldmissioncapital.com/careers/?gh_jid=6602920003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9e3271b2-bfd1-4924-80cc-6adf115fe3ac?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 24d |
 | **[Akuna Capital](https://simplify.jobs/c/Akuna-Capital?utm_source=GHList&utm_medium=company)** | Junior Quantitative Developer & Strategist | Chicago, IL | <div align="center"><a href="https://www.akunacapital.com/job-details?gh_jid=7063563&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1ac52fdb-7e69-4fc6-a38c-2d98bf9c0ca9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 24d |
