@@ -18830,5 +18830,21 @@
         "date_posted": 1754676244,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754676325,
+        "url": "https://lifeattiktok.com/search/7534641634584185095?spread=5MWH5CQ",
+        "company_name": "TikTok",
+        "title": "Machine Learning Engineer - Search E-Commerce",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c7f00278-2abf-40e3-a84f-c6d8fdee9900",
+        "date_posted": 1754676325,
+        "company_url": "",
+        "is_visible": true
     }
 ]
