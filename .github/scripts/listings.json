@@ -18686,5 +18686,21 @@
         "date_posted": 1754642427,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754642817,
+        "url": "https://jobs.royalcaribbeangroup.com/job/Miramar-Associate-Engineer%2C-Software-FL-33132/1314694500",
+        "company_name": "Royal Carribean Group",
+        "title": "Associate Engineer, Software",
+        "locations": [
+            "Miramar, FL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "6e1f2c33-4a57-4f51-a2bb-2cd3de84d5b5",
+        "date_posted": 1754642817,
+        "company_url": "",
+        "is_visible": true
     }
 ]
