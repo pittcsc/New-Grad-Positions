@@ -18702,5 +18702,21 @@
         "date_posted": 1754642817,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754642937,
+        "url": "https://job-boards.greenhouse.io/pingidentity/jobs/8084784002",
+        "company_name": "Ping Identity",
+        "title": "Software Engineer I",
+        "locations": [
+            "Denver, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b85f9a7d-08ab-407f-bed2-9b773c7b5aba",
+        "date_posted": 1754642937,
+        "company_url": "",
+        "is_visible": true
     }
 ]
