@@ -19032,5 +19032,22 @@
         "date_posted": 1754748680,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754755775,
+        "url": "https://jobs.lever.co/lumafield/0bdaed8e-3234-4073-afa6-410d1362fe25",
+        "company_name": "Lumafield",
+        "title": "Embedded Systems Engineer",
+        "locations": [
+            "Boston, MA",
+            "Everett, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "2494635c-0be1-4065-b0d6-fd28c52d0841",
+        "date_posted": 1754755775,
+        "company_url": "",
+        "is_visible": true
     }
 ]
