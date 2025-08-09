@@ -18952,5 +18952,21 @@
         "date_posted": 1754747781,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754747940,
+        "url": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Torrance-CA/Eng--Assc_R-25-13250",
+        "company_name": "Moog",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "locations Torrance, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c6b8a184-a9cc-4100-9774-4ef13b0c7570",
+        "date_posted": 1754747940,
+        "company_url": "",
+        "is_visible": true
     }
 ]
