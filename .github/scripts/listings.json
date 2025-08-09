@@ -18834,5 +18834,40 @@
         "company_url": "https://simplify.jobs/c/Databricks",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "771d2792-5d1c-41f4-aa36-d5fc6bd60af3",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1754711609,
+        "date_posted": 1754711609,
+        "url": "https://jobs.ashbyhq.com/Jerry/4dcfcfa6-7d55-40a9-9b9d-d7195ae88fd3/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "bf169a76-72de-42e1-ae62-e464af8b92ea",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1754711084,
+        "date_posted": 1754711084,
+        "url": "https://jobs.ashbyhq.com/Jerry/19d84e98-6a93-4e5b-937d-170f6f36ea46/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
