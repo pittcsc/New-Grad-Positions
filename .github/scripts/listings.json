@@ -18903,5 +18903,21 @@
         "company_url": "https://simplify.jobs/c/Global-Relay",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1754747431,
+        "url": "https://www.tesla.com/careers/search/job/247659",
+        "company_name": "Tesla",
+        "title": "Machine Learning Engineer, Model Optimization & Deployment, Optimus",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "f10df930-2707-43a7-8c03-f5fe269294f5",
+        "date_posted": 1754747431,
+        "company_url": "",
+        "is_visible": true
     }
 ]
