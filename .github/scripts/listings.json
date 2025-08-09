@@ -18511,7 +18511,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1754642042,
+        "date_updated": 1754753470,
         "url": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---California---Thousand-Oaks/Junior-Software-Engineer_R-222252",
         "company_name": "Amgen",
         "title": "Junior Software Engineer",
@@ -18519,13 +18519,13 @@
             "Thousand Oaks, CA",
             "Tampa, FL"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "669bff20-bc17-4752-acc8-b2297819b6ae",
         "date_posted": 1754642042,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754642138,
