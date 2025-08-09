@@ -19049,5 +19049,22 @@
         "date_posted": 1754755775,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "4de1ec5a-28f6-48a5-ad70-109b6693bc01",
+        "title": "Cyber/Electronic Warfare Research Engineer I",
+        "active": true,
+        "date_updated": 1754741015,
+        "date_posted": 1753478704,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MD720-9861-Broken-Land-Pkwy-Columbia-9861-Broken-Land-Parkway-Suite-400-Columbia-MD-21046-USA/Cyber-Electronic-Warfare-Engineer_01782149",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
