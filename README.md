@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 156 New Grad Roles by Category
+### Browse 155 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (122)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (121)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (19)
 
@@ -78,7 +78,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | TikTok | SDET, Software Development Engineer in Test | San Jose, CA | <a href="https://lifeattiktok.com/search/7533739605041645832?spread=5MWH5CQ&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | NVIDIA | Research Scientist, Robotics Research | Seattle, WA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research---New-College-Grad-2025_JR2001017?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 1d |
 | Cook Systems | Software Developer 🛂 | Nashville, TN | <a href="https://job-boards.greenhouse.io/cooksys/jobs/4872299008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 1d |
-| Detroit Defense | Software Test Engineer | Troy, MI | <a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/3477495?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 1d |
 | Ping Identity | Software Engineer I | Denver, CO | <a href="https://job-boards.greenhouse.io/pingidentity/jobs/8084784002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 1d |
 | Royal Carribean Group | Associate Engineer, Software | Miramar, FL | <a href="https://jobs.royalcaribbeangroup.com/job/Miramar-Associate-Engineer%2C-Software-FL-33132/1314694500?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 1d |
 | Radiance Technologies | Junior Full Stack Software Engineer 🇺🇸 | locations Beavercreek, OH | <a href="https://radiancetech.wd12.myworkdayjobs.com/en-US/radiance_external/job/Beavercreek-OH/Junior-Full-Stack-Software-Engineer_HR101733?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 1d |

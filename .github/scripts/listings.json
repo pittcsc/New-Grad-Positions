@@ -18640,20 +18640,20 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754649712,
+        "date_updated": 1754753697,
         "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3477495",
         "company_name": "Detroit Defense",
         "title": "Software Test Engineer",
         "locations": [
             "Troy, MI"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "c970b2d3-4e10-414c-8ef1-849d778e5262",
         "date_posted": 1754649712,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754649789,
