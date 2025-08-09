@@ -10698,7 +10698,7 @@
         "company_name": "Sev1Tech",
         "id": "944e985f-b58f-4373-8d24-a453b692eb61",
         "title": "Software Developer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1750205446,
         "date_posted": 1744912668,
         "url": "https://careers-sev1tech.icims.com/jobs/8793/job",
@@ -18867,6 +18867,40 @@
             "Greater Toronto Area, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SS&C",
+        "id": "ea4d0d87-ebb6-40a8-a09e-ae57b991c344",
+        "title": "Junior AI-Assisted Software Engineer",
+        "active": true,
+        "date_updated": 1754712418,
+        "date_posted": 1754712418,
+        "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Union-NJ/Junior-AI-Assisted-Software-Engineer_R36039",
+        "locations": [
+            "South Orange, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/SSC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Global Relay",
+        "id": "96d32e79-92f2-46af-9675-a4acc65d81a2",
+        "title": "Junior Software Developer Engineer in Test - C#",
+        "active": true,
+        "date_updated": 1754712043,
+        "date_posted": 1754712043,
+        "url": "https://www.globalrelay.com/careers/jobs?gh_jid=5616305004",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Relay",
         "is_visible": true,
         "sponsorship": "Other"
     }
