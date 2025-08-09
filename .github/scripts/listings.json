@@ -18968,5 +18968,21 @@
         "date_posted": 1754747940,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754748271,
+        "url": "https://careers-peraton.icims.com/jobs/158789/software-engineering%2c-associate/job",
+        "company_name": "Peraton",
+        "title": "Software Engineering, Associate",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "ff31da1e-4ae5-46da-8714-dd3695505784",
+        "date_posted": 1754748271,
+        "company_url": "",
+        "is_visible": true
     }
 ]
