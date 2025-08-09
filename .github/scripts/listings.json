@@ -18782,5 +18782,22 @@
         "date_posted": 1754676794,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "9a6f812d-609f-427f-b3b9-df17c9810f03",
+        "title": "Software Developer Engineer I",
+        "active": true,
+        "date_updated": 1754702367,
+        "date_posted": 1754702367,
+        "url": "https://www.esri.com/careers/4818461007?gh_jid=4818461007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
