@@ -19066,5 +19066,22 @@
         "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DIRECTV",
+        "id": "700bbf44-6c06-4816-a5a4-061de72bcb00",
+        "title": "IT Software Engineer 1",
+        "active": true,
+        "date_updated": 1754781479,
+        "date_posted": 1754781479,
+        "url": "https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/IT-Software-Engineer-1_R250209",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DIRECTV",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
