@@ -19448,5 +19448,22 @@
         "date_posted": 1755035727,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "e31c7e60-47e7-40ec-86e9-f01ebc4caefb",
+        "title": "Graduate 2025 Software Engineer I",
+        "active": true,
+        "date_updated": 1755036609,
+        "date_posted": 1755036609,
+        "url": "https://www.uber.com/global/en/careers/list/147250/",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
