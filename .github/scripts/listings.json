@@ -19416,5 +19416,21 @@
         "date_posted": 1755035689,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755035710,
+        "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4489211005",
+        "company_name": "Applied Intuition",
+        "title": "Research Scientist - New Grad",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "6a32d638-3914-427f-affa-a38322e94088",
+        "date_posted": 1755035710,
+        "company_url": "",
+        "is_visible": true
     }
 ]
