@@ -19232,5 +19232,22 @@
         "date_posted": 1755007024,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755007633,
+        "url": "https://www.databricks.com/company/careers/university-recruiting/data-scientist---new-grad-2026-start-6866554002?gh_jid=6866554002",
+        "company_name": "Databricks",
+        "title": "Data Scientist",
+        "locations": [
+            "Mountain View, CA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "2a99602b-1ec5-4b99-9050-41fc36613ffb",
+        "date_posted": 1755007633,
+        "company_url": "",
+        "is_visible": true
     }
 ]
