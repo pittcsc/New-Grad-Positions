@@ -19152,5 +19152,21 @@
         "date_posted": 1754990716,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754990871,
+        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4776690007?gh_jid=4776690007&gh_src=",
+        "company_name": "Anduril Industries",
+        "title": "Software Engineer, Connected Warfare",
+        "locations": [
+            "Costa Mesa, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "5832ef95-34cc-4b52-9a23-d2b9507b739d",
+        "date_posted": 1754990871,
+        "company_url": "",
+        "is_visible": true
     }
 ]
