@@ -19333,5 +19333,39 @@
         "company_url": "https://simplify.jobs/c/Salesforce",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anduril",
+        "id": "41ff9380-1d22-490e-a190-d2eb855c621f",
+        "title": "Early Career Software Engineer",
+        "active": true,
+        "date_updated": 1755033256,
+        "date_posted": 1755033256,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4824364007",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anduril",
+        "id": "f44cb268-5b1f-4b8d-ada3-b7bb30dfaec2",
+        "title": "Early Career Software Engineer",
+        "active": true,
+        "date_updated": 1755033254,
+        "date_posted": 1755033254,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4824378007",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
