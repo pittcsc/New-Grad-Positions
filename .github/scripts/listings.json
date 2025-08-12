@@ -19384,5 +19384,21 @@
         "company_url": "https://simplify.jobs/c/Broadcom-Limited",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755035602,
+        "url": "https://university-uber.icims.com/jobs/147250/job",
+        "company_name": "Uber",
+        "title": "Graduate 2025 Software Engineer I, US",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "7147fcb0-68ba-4a67-949f-44ce269b1ac4",
+        "date_posted": 1755035602,
+        "company_url": "",
+        "is_visible": true
     }
 ]
