@@ -19101,5 +19101,24 @@
         "company_url": "https://simplify.jobs/c/TripAdvisor",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "HNTB",
+        "id": "0de26396-5f65-44e7-9dd4-da7b069f7eca",
+        "title": "Returning New Grad Software Engineer I",
+        "active": true,
+        "date_updated": 1754978782,
+        "date_posted": 1754978782,
+        "url": "https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Kansas-City-MO/Returning-New-Grad-Software-Engineer-I--Great-Lakes-Division--For-Current-Former-HNTB-Interns-Only_R-26770-1",
+        "locations": [
+            "Chicago, IL",
+            "Kansas City, MO",
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/HNTB",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
