@@ -19297,5 +19297,22 @@
         "date_posted": 1755008070,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Prosidian Consulting",
+        "id": "847cf082-1f75-43bb-9b76-0943ab77d698",
+        "title": "ITSM IT Security Engineer I",
+        "active": true,
+        "date_updated": 1755007381,
+        "date_posted": 1755007381,
+        "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999691677974",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
