@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 177 New Grad Roles by Category
+### Browse 176 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (136)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (135)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (23)
 
@@ -106,7 +106,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Roblox](https://simplify.jobs/c/Roblox?utm_source=GHList&utm_medium=company)** | Software Engineer – Early Career | San Mateo, CA | <div align="center"><a href="https://careers.roblox.com/jobs/7114754?gh_jid=7114754&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ce300a36-bfdf-407a-87e7-909f736c9e2a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
 | **[The Travelers Companies](https://simplify.jobs/c/Travelers?utm_source=GHList&utm_medium=company)** | Software Engineer I - Aws | Baltimore, MD | <div align="center"><a href="https://travelers.wd5.myworkdayjobs.com/External/job/MD---Baltimore/Software-Engineer-I---AWS_R-46038?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/181fef0d-cef2-4ea1-ac5d-6b490862aef8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
 | Five Rings | Software Developer | New York, NY | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4816999008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 5d |
-| Reddit | Software Engineer - New Grad | Chicago, IL</br>San Francisco, CA</br>Los Angeles, CA | <a href="https://app.ripplematch.com/v2/public/job/340fb9c1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 5d |
 | **[i3](https://simplify.jobs/c/I3?utm_source=GHList&utm_medium=company)** | Full-Stack Software Engineer 🇺🇸 | Hunstville, AL | <a href="https://careers-i3-corps.icims.com/jobs/4833/entry-level-full-stack-software-engineer/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 5d |
 | **[The Boeing Company](https://simplify.jobs/c/Boeing?utm_source=GHList&utm_medium=company)** | Software Engineer – Entry Level or Associate | Albuquerque, NM | <div align="center"><a href="https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Kirtland-AFB-NM/Software-Engineer--Entry-Level-or-Associate-_JR2025466020-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d52df6c0-4d3c-42d3-8437-e5f8609667b5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 6d |
 | **[Broadcom Limited](https://simplify.jobs/c/Broadcom-Limited?utm_source=GHList&utm_medium=company)** | Entry level Mainframe Software Development Engineer | Downers Grove, IL | <div align="center"><a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-IL-Lisle-Warrenville-Road/Entry-level-Mainframe-Software-Development-Engineer_R023490-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/078470df-4ce4-4ea5-942f-cff77cdefc9e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 7d |
@@ -222,7 +221,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Esri](https://simplify.jobs/c/Esri?utm_source=GHList&utm_medium=company)** | .NET/C# Software Development Engineer I - SDK | West Redlands, Redlands, CA | 🔒 | 13d |
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Software Engineer I | Richardson, TX | 🔒 | 14d |
 | **[TripAdvisor](https://simplify.jobs/c/TripAdvisor?utm_source=GHList&utm_medium=company)** | Software Engineer I | Remote in Canada | 🔒 | 15d |
-| **[Maybern](https://simplify.jobs/c/Maybern?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad | NYC | 🔒 | 17d |
+| **[Maybern](https://simplify.jobs/c/Maybern?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad | NYC | 🔒 | 18d |
 | **[Amentum](https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company)** | Entry Level Software Developer | Dahlgren, VA | 🔒 | 18d |
 | ↳ | Entry Level Software Developer | Dahlgren, VA | 🔒 | 18d |
 | ↳ | Entry Level Software Developer | Dahlgren, VA | 🔒 | 18d |
