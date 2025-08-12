@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 178 New Grad Roles by Category
+### Browse 179 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (136)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (137)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (23)
 
@@ -64,7 +64,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
-| Applied Intuition | Research Scientist - New Grad | Mountain View, CA | <a href="https://job-boards.greenhouse.io/appliedintuition/jobs/4489211005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
+| Applied Intuition | Software Engineer - New Grad | Mountain View, CA | <a href="https://job-boards.greenhouse.io/appliedintuition/jobs/4592025005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
+| ↳ | Research Scientist - New Grad | Mountain View, CA | <a href="https://job-boards.greenhouse.io/appliedintuition/jobs/4489211005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | **[Uber](https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company)** | Graduate 2025 Software Engineer I, US | San Francisco, CA | <a href="https://university-uber.icims.com/jobs/147250/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | **[Broadcom Limited](https://simplify.jobs/c/Broadcom-Limited?utm_source=GHList&utm_medium=company)** | Entry level Mainframe Software Development Engineer | Plano, TX | <div align="center"><a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Entry-level-Mainframe-Software-Development-Engineer_R023538?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/45d26c7a-c9d3-4ac2-a788-03830aab0c0c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Anduril](https://simplify.jobs/c/Anduril?utm_source=GHList&utm_medium=company)** | Early Career Software Engineer | Seattle, WA | <div align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/4824364007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/41ff9380-1d22-490e-a190-d2eb855c621f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
