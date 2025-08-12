@@ -19168,21 +19168,5 @@
         "date_posted": 1754990871,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "date_updated": 1754991006,
-        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4678342007?gh_jid=4678342007&gh_src=",
-        "company_name": "Anduril Industries",
-        "title": "Game Development Engineer",
-        "locations": [
-            "Costa Mesa, CA"
-        ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "b576697b-c861-40fb-a328-e1acb53ef212",
-        "date_posted": 1754991006,
-        "company_url": "",
-        "is_visible": true
     }
 ]
