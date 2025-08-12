@@ -19314,5 +19314,22 @@
         "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755008257,
+        "url": "https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Hampton-VA/AI-ML-Research-Associate_R-100359",
+        "company_name": "Analytical Mechanics Associates",
+        "title": "AI/ML Research Associate",
+        "locations": [
+            "Hampton, VA",
+            "Remote"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "7062f9fd-9d7c-44a4-bdef-bd2966e22a61",
+        "date_posted": 1755008257,
+        "company_url": "",
+        "is_visible": true
     }
 ]
