@@ -19120,5 +19120,21 @@
         "company_url": "https://simplify.jobs/c/HNTB",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1754990483,
+        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007&gh_src=",
+        "company_name": "Anduril",
+        "title": "Early Career Software Engineer",
+        "locations": [
+            "Costa Mesa, California, United States"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "Elisha-Edme",
+        "id": "e6fe73f7-dde0-4fb0-bfaa-04894ee449f2",
+        "date_posted": 1754990483,
+        "company_url": "",
+        "is_visible": true
     }
 ]
