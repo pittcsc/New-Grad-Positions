@@ -19200,5 +19200,21 @@
         "date_posted": 1754991338,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755006927,
+        "url": "https://ssctech.wd1.myworkdayjobs.com/en-US/ssctechnologies/job/Union-NJ/Junior-AI-Assisted-Software-Engineer_R36039",
+        "company_name": "SS&C",
+        "title": "Junior AI-Assisted Software Engineer",
+        "locations": [
+            "Union, NJ"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "0a1235f1-ce89-40a8-a94d-f053e58c9904",
+        "date_posted": 1755006927,
+        "company_url": "",
+        "is_visible": true
     }
 ]
