@@ -18606,20 +18606,20 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754649625,
+        "date_updated": 1755041520,
         "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25024266",
         "company_name": "Emerson",
         "title": "Embedded Software Engineer",
         "locations": [
             "Shakopee, MN"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "736ff7fd-9859-482b-b73b-e3b5ffd38452",
         "date_posted": 1754649625,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754753697,
