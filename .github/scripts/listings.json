@@ -19216,5 +19216,21 @@
         "date_posted": 1755006927,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755007024,
+        "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/Entry-Level-Controls---Software-Test-Engineer_R0000318546",
+        "company_name": "Solar Turbines",
+        "title": "Entry Level Controls & Software Test Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "9c770eb9-1372-4a9c-acbd-8585aa18053a",
+        "date_posted": 1755007024,
+        "company_url": "",
+        "is_visible": true
     }
 ]
