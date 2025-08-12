@@ -19136,5 +19136,21 @@
         "date_posted": 1754990483,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754990716,
+        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007&gh_src=",
+        "company_name": "Anduril Industries",
+        "title": "Air Dominance & Strike - Flight Software Engineer, Embedded C/C++",
+        "locations": [
+            "Costa Mesa, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "a9a21ff0-2246-44b3-8633-cb218964f107",
+        "date_posted": 1754990716,
+        "company_url": "",
+        "is_visible": true
     }
 ]
