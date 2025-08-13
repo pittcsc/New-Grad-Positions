@@ -18968,20 +18968,20 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754748405,
+        "date_updated": 1755081429,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Digital-Manufacturing-Data-Science-Analyst--2025-New-College-Graduate-_JR-2502012",
         "company_name": "GlobalFoundries",
         "title": "Digital Manufacturing Data Science Analyst",
         "locations": [
             "Malta, NY"
         ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "2ad991f6-5161-43b8-af8f-3be0ac68b1a8",
         "date_posted": 1754748405,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754748517,
