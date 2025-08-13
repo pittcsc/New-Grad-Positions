@@ -19465,5 +19465,21 @@
         "company_url": "https://simplify.jobs/c/Uber",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755045229,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1858310/Software-Engineer",
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Elisha-Edme",
+        "id": "f81de977-11f6-4e8f-8c28-558e716f56c7",
+        "date_posted": 1755045229,
+        "company_url": "",
+        "is_visible": true
     }
 ]
