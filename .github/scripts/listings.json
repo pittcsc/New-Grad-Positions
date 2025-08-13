@@ -19562,5 +19562,21 @@
         "date_posted": 1755052966,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755053017,
+        "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4592025005?gh_jid=4592025005",
+        "company_name": "Applied Intuition",
+        "title": "Software Engineer",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "0c3584aa-5224-43ae-960d-faa5dd6e5ae2",
+        "date_posted": 1755053017,
+        "company_url": "",
+        "is_visible": true
     }
 ]
