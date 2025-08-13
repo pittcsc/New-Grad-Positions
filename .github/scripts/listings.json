@@ -19578,5 +19578,22 @@
         "date_posted": 1755053017,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boston Scientific",
+        "id": "50db7037-287c-460f-a7d6-ce1abcb89b9c",
+        "title": "Software Engineer I - Engineering - Development",
+        "active": true,
+        "date_updated": 1755062669,
+        "date_posted": 1755062669,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602803102071",
+        "locations": [
+            "Roseville, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
