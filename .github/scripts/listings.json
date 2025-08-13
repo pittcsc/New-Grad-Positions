@@ -19546,5 +19546,21 @@
         "date_posted": 1755052904,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755052966,
+        "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4489211005?gh_jid=4489211005",
+        "company_name": "Applied Intuition",
+        "title": "Research Scientist",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "37534fef-92db-4930-aa0c-6c9a5cbd86ba",
+        "date_posted": 1755052966,
+        "company_url": "",
+        "is_visible": true
     }
 ]

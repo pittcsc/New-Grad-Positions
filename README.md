@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 177 New Grad Roles by Category
+### Browse 178 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (135)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (136)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (23)
 
@@ -64,6 +64,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
+| Applied Intuition | Research Scientist | Mountain View, CA | <a href="https://job-boards.greenhouse.io/appliedintuition/jobs/4489211005?gh_jid=4489211005&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | Gannett Fleming | Entry Level Software Developer 🛂 | San Diego, CA</br>Chicago, IL | <a href="https://careers-gannettfleming.icims.com/jobs/12404/entry-level-software-developer/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | Boeing | Software and Electrical Systems Simulation Integration Engineer 🛂 | Long Beach, CA | <a href="https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Long-Beach-CA/Software-and-Electrical-Systems-Simulation-Integration-Engineer--Entry-Level-or-Associate-_JR2025463055-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | ↳ | Software and Electrical Systems Simulation Integration Engineer 🛂 | Long Beach, CA | <a href="https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Long-Beach-CA/Software-and-Electrical-Systems-Simulation-Integration-Engineer--Entry-Level-or-Associate-_JR2025463055-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
