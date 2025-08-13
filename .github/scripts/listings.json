@@ -19386,20 +19386,20 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755035602,
+        "date_updated": 1755045285,
         "url": "https://university-uber.icims.com/jobs/147250/job",
         "company_name": "Uber",
         "title": "Graduate 2025 Software Engineer I, US",
         "locations": [
             "San Francisco, CA"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "polinavishnev",
         "id": "7147fcb0-68ba-4a67-949f-44ce269b1ac4",
         "date_posted": 1755035602,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755035689,
