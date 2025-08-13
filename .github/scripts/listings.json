@@ -19530,5 +19530,21 @@
         "date_posted": 1755052838,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755052904,
+        "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4592027005?gh_jid=4592027005",
+        "company_name": "Applied Intuition",
+        "title": "Embedded Software Engineer",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "30855501-03e4-44ce-98c1-cc68924ce170",
+        "date_posted": 1755052904,
+        "company_url": "",
+        "is_visible": true
     }
 ]
