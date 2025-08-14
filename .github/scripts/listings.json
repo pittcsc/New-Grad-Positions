@@ -19957,5 +19957,21 @@
         "date_posted": 1755171502,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755171568,
+        "url": "https://triafed.com/jobs/?gh_jid=4881899008",
+        "company_name": "Tria Federal",
+        "title": "Data Analyst-Level I",
+        "locations": [
+            "Falls Church, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "71e57d3c-74eb-4697-9e82-980a070f445a",
+        "date_posted": 1755171568,
+        "company_url": "",
+        "is_visible": true
     }
 ]
