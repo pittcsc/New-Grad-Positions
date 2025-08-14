@@ -19770,5 +19770,21 @@
         "date_posted": 1755169946,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755170018,
+        "url": "https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189",
+        "company_name": "BRM",
+        "title": "Entry Level Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "067a2ce0-ad8d-4bb8-9b8d-b0bfb7b187f2",
+        "date_posted": 1755170018,
+        "company_url": "",
+        "is_visible": true
     }
 ]
