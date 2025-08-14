@@ -17079,7 +17079,7 @@
         "company_name": "Aurora Innovation",
         "id": "0480e89b-c78b-4d7d-9ba3-f94a115f0330",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1753924502,
         "date_posted": 1753924502,
         "url": "https://aurora.tech/jobs/8081673002?gh_jid=8081673002",
@@ -19455,7 +19455,7 @@
         "company_name": "Uber",
         "id": "e31c7e60-47e7-40ec-86e9-f01ebc4caefb",
         "title": "Graduate 2025 Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1755192208,
         "date_posted": 1755036609,
         "url": "https://www.uber.com/global/en/careers/list/147250/",
@@ -19973,5 +19973,22 @@
         "date_posted": 1755171568,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Esri",
+        "id": "b81c7913-3326-4606-90b3-aa7695117167",
+        "title": "C++ Software Engineer I - Maps Sdks",
+        "active": true,
+        "date_updated": 1755191938,
+        "date_posted": 1755191938,
+        "url": "https://www.esri.com/careers/4826980007?gh_jid=4826980007",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
