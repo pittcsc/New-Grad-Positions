@@ -371,23 +371,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Figma",
-        "id": "2b580f47-60f5-4756-b1d9-7c8f2eac977d",
-        "title": "Data Scientist \u2013 Early Career - 2025",
-        "active": false,
-        "date_updated": 1724103281,
-        "date_posted": 1724103281,
-        "url": "https://job-boards.greenhouse.io/figma/jobs/5227981004",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Figma",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Stripe",
         "id": "7b44c5dc-3450-441f-9363-94b671266966",
         "title": "Software Engineer \u2013 New Grad",
@@ -432,23 +415,6 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Applied-Intuition",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Figma",
-        "id": "b94c2b4c-d3ba-4672-8310-8374cade8a24",
-        "title": "Software Engineer \u2013 Early Career - 2025",
-        "active": false,
-        "date_updated": 1724103339,
-        "date_posted": 1724103339,
-        "url": "https://job-boards.greenhouse.io/figma/jobs/5227935004",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Figma",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -18056,7 +18022,7 @@
         "company_name": "RTX",
         "id": "e8df5761-a982-4af8-8501-5cc4b128d4b1",
         "title": "Back End Processing Network Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1754364097,
         "date_posted": 1754364097,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI101-1847-W-Main-Rd-1847-W-Main-Road-Nimitz-Building-Portsmouth-RI-02871-USA/Back-End-Processing-Network-Engineer-I-Portsmouth-RI-Onsite_01784264",
