@@ -19893,5 +19893,21 @@
         "date_posted": 1755170963,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755171076,
+        "url": "https://peak6group.wd1.myworkdayjobs.com/en-US/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1",
+        "company_name": "Apex",
+        "title": "Software Engineer I (ALDP)",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "4929aa5d-6718-4db5-ad67-943ed00e9fa8",
+        "date_posted": 1755171076,
+        "company_url": "",
+        "is_visible": true
     }
 ]
