@@ -20026,5 +20026,22 @@
         "company_url": "https://simplify.jobs/c/Blue-Origin",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BlueCross BlueShield of Tennessee",
+        "id": "833d9a34-ab07-4ae2-83cc-7a6c49a138f6",
+        "title": "Associate Software Engineer I",
+        "active": true,
+        "date_updated": 1755205120,
+        "date_posted": 1755205120,
+        "url": "https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Associate-Software-Engineer-I_R-46776",
+        "locations": [
+            "Chattanooga, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/BlueCross-Blueshield-Of-Tennessee",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
