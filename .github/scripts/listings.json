@@ -19925,5 +19925,21 @@
         "date_posted": 1755171153,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755171219,
+        "url": "https://matic.com/careers/?gh_jid=5585225004",
+        "company_name": "Matic",
+        "title": "Data Analyst (entry-level)",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c78dabe2-7976-4f40-8688-02419728c90d",
+        "date_posted": 1755171219,
+        "company_url": "",
+        "is_visible": true
     }
 ]
