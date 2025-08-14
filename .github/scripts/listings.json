@@ -19990,5 +19990,41 @@
         "company_url": "https://simplify.jobs/c/Esri",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blue Origin",
+        "id": "0296a5d8-15c9-4d99-9837-ae8869168618",
+        "title": "Avionics Software Engineer 1 \u2013 Early Career 2025 University Grad",
+        "active": true,
+        "date_updated": 1755193215,
+        "date_posted": 1755193215,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Avionics-Software-Engineer-1---Early-Career-2025-University-Grad_R54112",
+        "locations": [
+            "Kent, WA",
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Blue Origin",
+        "id": "76bda980-7f17-4147-913d-c39234019082",
+        "title": "Machine Learning Engineer/Scientist I \u2013 Early Career 2025 University Grad",
+        "active": true,
+        "date_updated": 1755193156,
+        "date_posted": 1755193156,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Machine-Learning-Engineer-Scientist-I---Early-Career-2025-University-Grad_R54164",
+        "locations": [
+            "Seattle, WA",
+            "Kent, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
