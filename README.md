@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 189 New Grad Roles by Category
+### Browse 190 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (145)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (146)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (22)
 
@@ -64,6 +64,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
+| Sev1Tech | Software Developer - Entry Level 🇺🇸 | Fort Sill, OK | <a href="https://careers-sev1tech.icims.com/jobs/9092/software-developer---entry-level/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | Veterans United Home Loans | Associate Software Engineer | Remote, MO | <a href="https://veteransunited.wd1.myworkdayjobs.com/en-US/vuhl/job/Remote-MO/Associate-Software-Engineer_R5288?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | Thales | Software Engineer | Graduate | Melbourne, FL | <a href="https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Melbourne-FL/Software-Engineer_R0276710-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | TekSynap | Junior Software Developer 🇺🇸 | <details><summary>**12 locations**</summary>VA</br>AZ</br>AR</br>CT</br>DE</br>FL</br>GA</br>ID</br>IN</br>IA</br>KS</br>Various States</details> | <a href="https://careers-teksynap.icims.com/jobs/8306/junior-software-developer/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |

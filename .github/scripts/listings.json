@@ -19861,5 +19861,21 @@
         "date_posted": 1755170758,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755170921,
+        "url": "https://careers-sev1tech.icims.com/jobs/9092/software-developer---entry-level/job",
+        "company_name": "Sev1Tech",
+        "title": "Software Developer - Entry Level",
+        "locations": [
+            "Fort Sill, OK"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c4fb508a-96f2-497a-a116-33572aa2d59f",
+        "date_posted": 1755170921,
+        "company_url": "",
+        "is_visible": true
     }
 ]
