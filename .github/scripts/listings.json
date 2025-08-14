@@ -19515,7 +19515,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755052838,
+        "date_updated": 1755155700,
         "url": "https://careers-gannettfleming.icims.com/jobs/12404/entry-level-software-developer/job",
         "company_name": "Gannett Fleming",
         "title": "Entry Level Software Developer",
@@ -19523,13 +19523,13 @@
             "San Diego, CA",
             "Chicago, IL"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "f8afaa29-d90b-499f-bcd6-bdb1709071e9",
         "date_posted": 1755052838,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755052904,
