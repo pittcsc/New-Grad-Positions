@@ -19736,5 +19736,22 @@
         "date_posted": 1755169441,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755169558,
+        "url": "https://www.jumptrading.com/careers/7140611/?gh_jid=7140611",
+        "company_name": "Jump Trading",
+        "title": "Campus Quantitative Trader (Full-Time)",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "ef9a89c5-ed19-417d-81c3-285db2f4bf8e",
+        "date_posted": 1755169558,
+        "company_url": "",
+        "is_visible": true
     }
 ]
