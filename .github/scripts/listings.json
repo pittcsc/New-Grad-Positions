@@ -19612,5 +19612,22 @@
         "company_url": "https://simplify.jobs/c/ed242389-4231-41e2-bc85-a1f97fd15e44",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Becton, Dickinson and Company",
+        "id": "78c2a49e-da4c-4434-974e-85eb8b9c2bdd",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1755154524,
+        "date_posted": 1755154524,
+        "url": "https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Software-Engineer-I----Hybrid-_R-523411-1",
+        "locations": [
+            "Sparks, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Becton-Dickinson-And-Company",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
