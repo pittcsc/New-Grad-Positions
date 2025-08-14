@@ -19786,5 +19786,21 @@
         "date_posted": 1755170018,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755170106,
+        "url": "https://boards.greenhouse.io/embed/job_app?for=blackedgecapital&token=4595489005",
+        "company_name": "BlackEdge Capital",
+        "title": "Graduate Quantitative Developer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "5bf056f6-c8b7-4dcb-819f-91de0397f21e",
+        "date_posted": 1755170106,
+        "company_url": "",
+        "is_visible": true
     }
 ]
