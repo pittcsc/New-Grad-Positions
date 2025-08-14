@@ -19941,5 +19941,21 @@
         "date_posted": 1755171219,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755171502,
+        "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8112737002",
+        "company_name": "Samsung",
+        "title": "Health AI Scholar, Digital Health (PhD)",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "1efa1a96-858a-40e1-893d-3a3a9591226b",
+        "date_posted": 1755171502,
+        "company_url": "",
+        "is_visible": true
     }
 ]
