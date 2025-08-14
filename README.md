@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 186 New Grad Roles by Category
+### Browse 187 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (142)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (143)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (22)
 
@@ -64,6 +64,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
+| TekSynap | Junior Software Developer 🇺🇸 | <details><summary>**12 locations**</summary>VA</br>AZ</br>AR</br>CT</br>DE</br>FL</br>GA</br>ID</br>IN</br>IA</br>KS</br>Various States</details> | <a href="https://careers-teksynap.icims.com/jobs/8306/junior-software-developer/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | Amazon | Systems Development Engineer I, Ops Tech Solution (OTS) | Austin, TX | <a href="https://www.amazon.jobs/en/jobs/3057120/systems-development-engineer-i-ops-tech-solution-ots?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | **[BRM](https://simplify.jobs/c/BRM?utm_source=GHList&utm_medium=company)** | Entry Level Software Engineer | San Francisco, CA | <a href="https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | **[Citadel Securities](https://simplify.jobs/c/Citadel?utm_source=GHList&utm_medium=company)** | C++ Software Engineer | Miami, FL</br>London, UK | <a href="https://www.citadelsecurities.com/careers/details/c-software-engineer-4/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |

@@ -19802,5 +19802,32 @@
         "date_posted": 1755170203,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755170484,
+        "url": "https://careers-teksynap.icims.com/jobs/8306/junior-software-developer/job",
+        "company_name": "TekSynap",
+        "title": "Junior Software Developer",
+        "locations": [
+            "VA",
+            "AZ",
+            "AR",
+            "CT",
+            "DE",
+            "FL",
+            "GA",
+            "ID",
+            "IN",
+            "IA",
+            "KS",
+            "Various States"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "12b2a32d-8b3c-4a31-b114-273a8640fe2c",
+        "date_posted": 1755170484,
+        "company_url": "",
+        "is_visible": true
     }
 ]
