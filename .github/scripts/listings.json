@@ -19753,5 +19753,22 @@
         "date_posted": 1755169558,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755169946,
+        "url": "https://www.citadelsecurities.com/careers/details/c-software-engineer-4/",
+        "company_name": "Citadel Securities",
+        "title": "C++ Software Engineer",
+        "locations": [
+            "Miami, FL",
+            "London, UK"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "95b5ae68-c637-4f57-af6e-2240cdf8587d",
+        "date_posted": 1755169946,
+        "company_url": "",
+        "is_visible": true
     }
 ]
