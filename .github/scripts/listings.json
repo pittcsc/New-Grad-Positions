@@ -18300,20 +18300,20 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754543197,
+        "date_updated": 1755165964,
         "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/AUSTIN-TX/Data-Analyst--College-of-Pharmacy--PhARM-and-TXCORE_R_00041200",
         "company_name": "The University of Texas at Austin",
         "title": "Data Analyst, College of Pharmacy, PhARM and TXCORE",
         "locations": [
             "Austin, TX"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "fe81670b-36fc-4ad0-bf87-9b67f0b44b06",
         "date_posted": 1754543197,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
