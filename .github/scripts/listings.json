@@ -307,22 +307,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Hudson River Trading",
-        "id": "b1765552-e652-4f88-a20d-d926c26402ad",
-        "title": "Software Engineer \u2013 2025 Grads - C++",
-        "active": false,
-        "date_updated": 1724109993,
-        "date_posted": 1724109993,
-        "url": "https://boards.greenhouse.io/wehrtyou/jobs/6139130",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Qloo",
         "id": "68b3d370-8179-438e-ad4c-8b067ee6607b",
         "title": "Junior Data Engineer",
