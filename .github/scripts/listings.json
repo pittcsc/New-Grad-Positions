@@ -19786,5 +19786,21 @@
         "date_posted": 1755170018,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755170203,
+        "url": "https://www.amazon.jobs/en/jobs/3057120/systems-development-engineer-i-ops-tech-solution-ots",
+        "company_name": "Amazon",
+        "title": "Systems Development Engineer I, Ops Tech Solution (OTS)",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "cf3bff1b-96d9-42c8-aa16-d665aa659cda",
+        "date_posted": 1755170203,
+        "company_url": "",
+        "is_visible": true
     }
 ]
