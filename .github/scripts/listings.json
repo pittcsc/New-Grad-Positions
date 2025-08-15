@@ -17414,20 +17414,20 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1754189960,
+        "date_updated": 1755285251,
         "url": "https://lifeattiktok.com/search/7531158600791705874?spread=5MWH5CQ",
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer (Ads ML Infrastructure)",
         "locations": [
             "San Jose, CA"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "polinavishnev",
         "id": "926cc59d-daca-4107-b018-09ce24fbf175",
         "date_posted": 1754189960,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
