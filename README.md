@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 202 New Grad Roles by Category
+### Browse 203 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (148)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (149)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (28)
 
@@ -64,6 +64,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
+| TikTok | Software Engineer Graduate (Recommendation Platform) - 2026 Start (BS/MS) | San Jose, CA | <a href="https://lifeattiktok.com/search/7536356589390301458?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | Microsoft | Software Engineer: Microsoft AI Development Acceleration Program | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1860403/Software-Engineer%3A-Microsoft-AI-Development-Acceleration-Program%2C-Redmond?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | ByteDance | Network Engineer Graduate (Edge Network) - 2026 Start (BS/ MS) | San Jose, CA | <a href="https://joinbytedance.com/search/7537121677185534216?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | ↳ | Software Engineer Graduate (Dev Infra) - 2026 Start (BS/MS) | San Jose, CA | <a href="https://joinbytedance.com/search/7536272435440716040?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
