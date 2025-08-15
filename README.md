@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 211 New Grad Roles by Category
+### Browse 210 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (156)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (155)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (28)
 
@@ -162,10 +162,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | TikTok | New Grad 2026: Software Engineer/Mobile Engineer Graduate (Monetization Technology - Ads Core Demonstration) | San Jose, CA | <a href="https://lifeattiktok.com/search/7532436539684702471?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 12d |
 | **[Sentry](https://simplify.jobs/c/Sentry?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad 🛂 | Toronto, ON, Canada | <div align="center"><a href="https://jobs.ashbyhq.com/sentry/143811c1-ec03-458b-9edf-32f002c818f0/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8052f0a5-610c-4ede-9479-d5c72fd10773?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 13d |
 | ↳ | Software Engineer – New Grad 🛂 | SF | <div align="center"><a href="https://jobs.ashbyhq.com/sentry/96c8a4cc-23b9-4f3e-b360-38c1cc248491/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a721ada6-fcb0-4048-b53c-5ef7d4052d55?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 13d |
-| **[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad - Production Infrastructure | London, UK | <div align="center"><a href="https://jobs.lever.co/palantir/3f4dd595-2f57-4b5f-a50a-8d3084641ef8/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8b9cd2a3-53ab-41cd-bbd0-c5bdb6e56732?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 13d |
-| ↳ | Software Engineer – New Grad - Infrastructure | London, UK | <div align="center"><a href="https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/fd97ae60-01a8-4cee-a8c2-95b9ecdd70cf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 13d |
-| ↳ | Software Engineer – New Grad | London, UK | <div align="center"><a href="https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4cbc04d5-d651-438a-81ec-b82f768a6602?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 13d |
-| **[Esri](https://simplify.jobs/c/Esri?utm_source=GHList&utm_medium=company)** | Software Development Engineer I 🇺🇸 | St. Louis, MO | <div align="center"><a href="https://www.esri.com/careers/4810345007?gh_jid=4810345007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ffe18d04-0fee-4c22-92c7-ee69659dc2e0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 13d |
+| **[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)** | Software Engineer – New Grad - Production Infrastructure | London, UK | <div align="center"><a href="https://jobs.lever.co/palantir/3f4dd595-2f57-4b5f-a50a-8d3084641ef8/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8b9cd2a3-53ab-41cd-bbd0-c5bdb6e56732?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 14d |
+| ↳ | Software Engineer – New Grad - Infrastructure | London, UK | <div align="center"><a href="https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/fd97ae60-01a8-4cee-a8c2-95b9ecdd70cf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 14d |
+| ↳ | Software Engineer – New Grad | London, UK | <div align="center"><a href="https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4cbc04d5-d651-438a-81ec-b82f768a6602?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 14d |
 | **[The Travelers Companies](https://simplify.jobs/c/Travelers?utm_source=GHList&utm_medium=company)** | Software Engineer I - Guidewire | Atlanta, GA | <div align="center"><a href="https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--Guidewire-_R-42652?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6b39d90a-9827-4ab8-ae94-bdae0ff6bb19?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 14d |
 | ↳ | Software Engineer I - Aws - React - GenAI | Hartford, CT</br>St Paul, MN | <div align="center"><a href="https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS--React--GenAI-_R-44034?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7fea6865-d7a3-40be-bc65-7c35d9e97f6e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 14d |
 | ↳ | Software Engineer I - .Net / MERN / AWS | Sparks, MD</br>Hartford, CT</br>St Paul, MN | <div align="center"><a href="https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Net---MERN---AWS-_R-43980?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6d548cc3-924a-4e77-a230-7be15f3166f7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 14d |
@@ -223,7 +222,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (106)</summary>
+<summary>🗃️ Inactive roles (107)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
@@ -239,7 +238,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Zoro](https://simplify.jobs/c/Zoro?utm_source=GHList&utm_medium=company)** | Software Engineer I - Release Platform | Chicago, IL | 🔒 | 10d |
 | **[Terex](https://simplify.jobs/c/Terex?utm_source=GHList&utm_medium=company)** | Software Engineer I - 3rd Eye | Austin, TX</br>Chattanooga, TN | 🔒 | 13d |
 | **[Quantinuum](https://simplify.jobs/c/Quantinuum?utm_source=GHList&utm_medium=company)** | Software Engineer I 🇺🇸 | Broomfield, CO | 🔒 | 13d |
-| **[Esri](https://simplify.jobs/c/Esri?utm_source=GHList&utm_medium=company)** | Software Development Engineer I 🇺🇸 | St. Louis, MO | 🔒 | 13d |
+| **[Esri](https://simplify.jobs/c/Esri?utm_source=GHList&utm_medium=company)** | Software Development Engineer I 🇺🇸 | St. Louis, MO | 🔒 | 14d |
+| ↳ | Software Development Engineer I 🇺🇸 | St. Louis, MO | 🔒 | 14d |
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Junior Software Developer | West Valley City, UT | 🔒 | 14d |
 | **[IMEG](https://simplify.jobs/c/IMEG?utm_source=GHList&utm_medium=company)** | Full Stack Software Engineer 1 | <details><summary>**8 locations**</summary>Las Vegas, NV</br>Naperville, IL</br>Indianapolis, IN</br>Houston, TX</br>LA</br>Pasadena, CA</br>Phoenix, AZ</br>Davenport, IA</details> | 🔒 | 14d |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Junior Software Engineer 🇺🇸 | Gaithersburg, MD | 🔒 | 15d |
@@ -384,7 +384,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
-| **[PJM](https://simplify.jobs/c/PJM?utm_source=GHList&utm_medium=company)** | Data Engineer I | King of Prussia, PA | 🔒 | 13d |
+| **[PJM](https://simplify.jobs/c/PJM?utm_source=GHList&utm_medium=company)** | Data Engineer I | King of Prussia, PA | 🔒 | 14d |
 | **[EvenUp](https://simplify.jobs/c/a3893f84-8200-4d5f-aad7-2ff0d6d670dc?utm_source=GHList&utm_medium=company)** | Early Career Machine Learning Engineer | Toronto, ON, Canada | 🔒 | 17d |
 | **[Machinify](https://simplify.jobs/c/Machinify?utm_source=GHList&utm_medium=company)** | Data Engineer I | Palo Alto, CA | 🔒 | 22d |
 | **[Caterpillar Inc.](https://simplify.jobs/c/Caterpillar-Inc?utm_source=GHList&utm_medium=company)** | Aftermarket Data Engineer I - Cat Digital | Chicago, IL | 🔒 | 28d |
