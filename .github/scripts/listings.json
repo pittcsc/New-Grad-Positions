@@ -20077,5 +20077,21 @@
         "date_posted": 1755242512,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755242727,
+        "url": "https://www.hudsonrivertrading.com/hrt-job/algorithm-developer-quant-researcher-2026-grads/",
+        "company_name": "Hudson River Trading",
+        "title": "Algorithm Developer (Quant Researcher) \u2013 2026 Grads",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "30500b30-ad9e-469e-b4d9-91de127188ba",
+        "date_posted": 1755242727,
+        "company_url": "",
+        "is_visible": true
     }
 ]
