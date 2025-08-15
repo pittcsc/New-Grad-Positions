@@ -19565,12 +19565,13 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755168445,
+        "date_updated": 1755223131,
         "url": "https://jobs.ashbyhq.com/suno/991c9785-9bd5-499a-98aa-146e8c947752",
         "company_name": "Suno",
         "title": "Software Engineer",
         "locations": [
-            "Boston, NY"
+            "Boston, MA",
+            "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
