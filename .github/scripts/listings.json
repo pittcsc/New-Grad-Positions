@@ -20224,5 +20224,21 @@
         "date_posted": 1755246367,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755246471,
+        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4824362007?gh_jid=4824362007",
+        "company_name": "Anduril Industries",
+        "title": "New Early Career Software Engineer",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "826be62a-8eee-45dc-816f-986e9c4bc7bd",
+        "date_posted": 1755246471,
+        "company_url": "",
+        "is_visible": true
     }
 ]
