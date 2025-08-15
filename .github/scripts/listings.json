@@ -20441,5 +20441,40 @@
         "company_url": "https://simplify.jobs/c/Anduril",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Suno",
+        "id": "f74fd95d-537a-4714-8fe7-05c9c3d10072",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1755291852,
+        "date_posted": 1755291852,
+        "url": "https://jobs.ashbyhq.com/suno/991c9785-9bd5-499a-98aa-146e8c947752/application",
+        "locations": [
+            "Boston, MA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Suno",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "2399ab40-9836-4bd9-ab03-e62e992c5fdc",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1755289886,
+        "date_posted": 1755289886,
+        "url": "https://www.esri.com/careers/4829377007?gh_jid=4829377007",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
