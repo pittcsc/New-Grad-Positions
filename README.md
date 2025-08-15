@@ -218,11 +218,12 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (108)</summary>
+<summary>🗃️ Inactive roles (109)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
 | **[BlueCross BlueShield of Tennessee](https://simplify.jobs/c/BlueCross-Blueshield-Of-Tennessee?utm_source=GHList&utm_medium=company)** | Associate Software Engineer I | Chattanooga, TN | 🔒 | 0d |
+| Boeing | Software and Electrical Systems Simulation Integration Engineer | Miami, FL</br>New York, NY | 🔒 | 2d |
 | **[DIRECTV](https://simplify.jobs/c/DIRECTV?utm_source=GHList&utm_medium=company)** | IT Software Engineer 1 | Remote in USA | 🔒 | 5d |
 | **[SS&C](https://simplify.jobs/c/SSC?utm_source=GHList&utm_medium=company)** | Junior AI-Assisted Software Engineer | South Orange, NJ | 🔒 | 6d |
 | **[Esri](https://simplify.jobs/c/Esri?utm_source=GHList&utm_medium=company)** | Software Developer Engineer I | West Redlands, Redlands, CA | 🔒 | 6d |

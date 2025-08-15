@@ -19417,12 +19417,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755270713,
+        "date_updated": 1755270742,
         "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Long-Beach-CA/Software-and-Electrical-Systems-Simulation-Integration-Engineer--Entry-Level-or-Associate-_JR2025463055-2",
         "company_name": "Boeing",
         "title": "Software and Electrical Systems Simulation Integration Engineer",
         "locations": [
-            "Long Beach, CA"
+            "Miami, FL",
+            "New York, NY"
         ],
         "sponsorship": "Other",
         "active": false,
@@ -19430,7 +19431,7 @@
         "id": "9f9d4908-0ce6-435e-8455-57401d9d963c",
         "date_posted": 1755051837,
         "company_url": "",
-        "is_visible": false
+        "is_visible": true
     },
     {
         "date_updated": 1755270682,
