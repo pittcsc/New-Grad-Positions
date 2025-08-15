@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 212 New Grad Roles by Category
+### Browse 213 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (157)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (158)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (28)
 
@@ -64,6 +64,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
+| Disney | Software Engineer I | Seattle, WA | <a href="https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-I_10125661?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | General Dynamics Mission Systems | Entry Level Software Engineer 🇺🇸 | Pittsburgh, PA | <a href="https://careers-gdms.icims.com/jobs/67621/entry-level-software-engineer/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | **[Anduril Industries](https://simplify.jobs/c/Anduril?utm_source=GHList&utm_medium=company)** | Early Career Software Engineer 🇺🇸 | Atlanta, GA | <a href="https://job-boards.greenhouse.io/andurilindustries/jobs/4824378007?gh_jid=4824378007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | ↳ | Early Career Software Engineer 🇺🇸 | Washington, DC | <a href="https://job-boards.greenhouse.io/andurilindustries/jobs/4824369007?gh_jid=4824369007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |

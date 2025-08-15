@@ -20288,5 +20288,21 @@
         "date_posted": 1755247607,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755247729,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-I_10125661",
+        "company_name": "Disney",
+        "title": "Software Engineer I",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "8110ef4b-04c7-45a7-bb84-950c66cc1cdb",
+        "date_posted": 1755247729,
+        "company_url": "",
+        "is_visible": true
     }
 ]
