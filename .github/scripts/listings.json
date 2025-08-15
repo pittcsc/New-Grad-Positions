@@ -20520,5 +20520,41 @@
         "company_url": "https://simplify.jobs/c/Neo-Financial",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Travelers Companies",
+        "id": "ccb4493a-9e84-4363-a43d-039392325b74",
+        "title": "Software Engineer I - AWS/Node/React/AI",
+        "active": true,
+        "date_updated": 1755295920,
+        "date_posted": 1755295920,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS-Node-React-AI-_R-46121",
+        "locations": [
+            "Hartford, CT",
+            "Richardson, TX",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Travelers Companies",
+        "id": "171bcf21-e88a-4aa9-9d27-fe40754070c2",
+        "title": "Software Engineer I - AWS/Node/React/AI",
+        "active": true,
+        "date_updated": 1755295921,
+        "date_posted": 1755295921,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--AWS-Node-React-AI-_R-46114",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
