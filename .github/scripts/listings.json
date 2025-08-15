@@ -20476,5 +20476,32 @@
         "company_url": "https://simplify.jobs/c/Esri",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TekSynap",
+        "id": "c61a15f4-90de-477b-a363-5d6613484e97",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1755286292,
+        "date_posted": 1755286292,
+        "url": "https://careers-teksynap.icims.com/jobs/8306/job",
+        "locations": [
+            "Kansas",
+            "Delaware",
+            "Iowa",
+            "Florida",
+            "Waterbury, CT",
+            "Georgia",
+            "Arizona",
+            "Virginia",
+            "Arkansas",
+            "United States",
+            "Idaho"
+        ],
+        "company_url": "https://simplify.jobs/c/TekSynap",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
