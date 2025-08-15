@@ -20141,5 +20141,22 @@
         "date_posted": 1755243068,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755243207,
+        "url": "https://zoll.wd5.myworkdayjobs.com/en-US/zollmedicalcorp/job/Chelmsford-MA/Software-Engineer-I---Embedded-Devices_R16418",
+        "company_name": "Zoll",
+        "title": "Software Engineer I - Embedded Devices",
+        "locations": [
+            "Chelmsford, MA",
+            "Parsippany, NJ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "d21570f2-ec82-4986-bb44-c38b632207f1",
+        "date_posted": 1755243207,
+        "company_url": "",
+        "is_visible": true
     }
 ]
