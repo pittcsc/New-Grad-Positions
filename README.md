@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 213 New Grad Roles by Category
+### Browse 214 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (158)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (159)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (28)
 
@@ -64,6 +64,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
+| Choice Hotels | Software Engineer 1 🛂 | Scottsdale, AZ | <a href="https://choicehotels.wd5.myworkdayjobs.com/en-US/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R20319?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | Disney | Software Engineer I | Seattle, WA | <a href="https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-I_10125661?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | General Dynamics Mission Systems | Entry Level Software Engineer 🇺🇸 | Pittsburgh, PA | <a href="https://careers-gdms.icims.com/jobs/67621/entry-level-software-engineer/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | **[Anduril Industries](https://simplify.jobs/c/Anduril?utm_source=GHList&utm_medium=company)** | Early Career Software Engineer 🇺🇸 | Atlanta, GA | <a href="https://job-boards.greenhouse.io/andurilindustries/jobs/4824378007?gh_jid=4824378007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
@@ -125,7 +126,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | ↳ | SDET, Software Development Engineer in Test | San Jose, CA | <a href="https://lifeattiktok.com/search/7533739605041645832?spread=5MWH5CQ&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 6d |
 | NVIDIA | Research Scientist, Robotics Research | Seattle, WA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research---New-College-Grad-2025_JR2001017?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 6d |
 | Cook Systems | Software Developer 🛂 | Nashville, TN | <a href="https://job-boards.greenhouse.io/cooksys/jobs/4872299008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 6d |
-| Ping Identity | Software Engineer I | Denver, CO | <a href="https://job-boards.greenhouse.io/pingidentity/jobs/8084784002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 6d |
+| Ping Identity | Software Engineer I | Denver, CO | <a href="https://job-boards.greenhouse.io/pingidentity/jobs/8084784002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 7d |
 | Oracle | Undergrad Software Engineer 🛂 | Seattle, WA | <a href="https://careers.oracle.com/en/sites/jobsearch/job/304100?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 7d |
 | Maxar | Forward Deployed Software Engineer I | Herndon, VA | <a href="https://maxar.wd1.myworkdayjobs.com/en-US/Maxar/job/Herndon-VA/Forward-Deployed-Software-Engineer-I_R22647-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 7d |
 | **[Boston Scientific](https://simplify.jobs/c/Boston-Scientific?utm_source=GHList&utm_medium=company)** | Software Engineer I - Engineering - Development | Roseville, MN | <div align="center"><a href="https://bostonscientific.eightfold.ai/careers/job/563602803067424?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/848f9975-f362-46d1-bdf9-04b8b79018b5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 7d |
