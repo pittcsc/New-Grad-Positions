@@ -20590,5 +20590,39 @@
         "company_url": "https://simplify.jobs/c/Sev1Tech",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Prosidian Consulting",
+        "id": "4c21cbfb-5349-47be-ad4e-709883f9c09f",
+        "title": "ITSM IT Security Engineer I",
+        "active": true,
+        "date_updated": 1755298264,
+        "date_posted": 1755298264,
+        "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999692267870",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anduril",
+        "id": "213bf6e4-ad21-4a97-998f-4eee7440f3a9",
+        "title": "Early Career Software Engineer",
+        "active": true,
+        "date_updated": 1755297886,
+        "date_posted": 1755297886,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4824369007",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
