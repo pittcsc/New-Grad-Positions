@@ -17367,7 +17367,7 @@
         "company_name": "Global Payments",
         "id": "ad85e523-b5ae-49c4-82cc-2e0893694bef",
         "title": "Mainframe Software Engineer I or Above",
-        "active": true,
+        "active": false,
         "date_updated": 1754002259,
         "date_posted": 1754002259,
         "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Mainframe-Software-Engineer-I-or-Above_R0064692",
@@ -20220,8 +20220,8 @@
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "source": "AlmondCroffle",
-        "id": "381cbc2d-84a9-429e-bdb3-766052024f56",
+        "source": "Simplify",
+        "id": "bf34afd1-7291-4f4c-9c16-b4d19566d899",
         "date_posted": 1755246367,
         "company_url": "",
         "is_visible": true
@@ -20501,6 +20501,23 @@
             "Idaho"
         ],
         "company_url": "https://simplify.jobs/c/TekSynap",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Neo Financial",
+        "id": "c92690cc-8125-41d1-b8c8-b18520bfbb9d",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1755293379,
+        "date_posted": 1755293379,
+        "url": "https://ats.rippling.com/neo-financial/jobs/a2fd15b5-5bee-483e-b28f-66980dad691b",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Neo-Financial",
         "is_visible": true,
         "sponsorship": "Other"
     }
