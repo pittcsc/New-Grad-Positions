@@ -20624,5 +20624,57 @@
         "company_url": "https://simplify.jobs/c/Anduril",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox",
+        "id": "0d1d96cd-b44f-4f2b-b169-410992b6f31b",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1755298810,
+        "date_posted": 1755298810,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Exton-PA/Software-Engineer-I_R202564663-1",
+        "locations": [
+            "Austin, TX",
+            "Exton, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "dd980988-3959-443f-a2d9-a3d8f994b77d",
+        "title": "Systems/Software Engineer I",
+        "active": true,
+        "date_updated": 1755298787,
+        "date_posted": 1755298787,
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Systems-Software-Engineer-I_1192771-1",
+        "locations": [
+            "Spring, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "30dfbb90-c528-42cb-a136-c69f862081f5",
+        "title": "Electrical/Hardware Engineer I",
+        "active": true,
+        "date_updated": 1755298789,
+        "date_posted": 1755298789,
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/Electrical-Hardware-Engineer-I_1192941-1",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
