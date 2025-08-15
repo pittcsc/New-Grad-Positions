@@ -18853,7 +18853,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1754951019,
+        "date_updated": 1755270877,
         "url": "https://directv.wd1.myworkdayjobs.com/en-US/careers/job/El-Segundo-CA/IT-Software-Engineer-1_R250209",
         "company_name": "DIRECTV",
         "title": "IT Software Engineer 1",
@@ -18862,12 +18862,12 @@
             "Remote in USA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "6995c809-24ab-4413-98db-2a6e1c27e11d",
         "date_posted": 1754747781,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754963955,
