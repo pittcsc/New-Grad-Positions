@@ -20208,5 +20208,21 @@
         "date_posted": 1755243725,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755246367,
+        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Round-Lake-Illinois/Software-Engineer-I_JR-181377-1",
+        "company_name": "Baxter",
+        "title": "Software Engineer I",
+        "locations": [
+            "Round Lake, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "381cbc2d-84a9-429e-bdb3-766052024f56",
+        "date_posted": 1755246367,
+        "company_url": "",
+        "is_visible": true
     }
 ]
