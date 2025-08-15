@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 210 New Grad Roles by Category
+### Browse 211 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (155)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (156)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (28)
 
@@ -64,7 +64,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
-| Anduril Industries | Early Career Software Engineer 🇺🇸 | Washington, DC | <a href="https://job-boards.greenhouse.io/andurilindustries/jobs/4824369007?gh_jid=4824369007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
+| Anduril Industries | Early Career Software Engineer 🇺🇸 | Atlanta, GA | <a href="https://job-boards.greenhouse.io/andurilindustries/jobs/4824378007?gh_jid=4824378007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
+| ↳ | Early Career Software Engineer 🇺🇸 | Washington, DC | <a href="https://job-boards.greenhouse.io/andurilindustries/jobs/4824369007?gh_jid=4824369007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | ↳ | Early Career Software Engineer 🇺🇸 | Boston, MA | <a href="https://job-boards.greenhouse.io/andurilindustries/jobs/4824362007?gh_jid=4824362007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | Baxter | Software Engineer I | Round Lake, IL | <a href="https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Round-Lake-Illinois/Software-Engineer-I_JR-181377-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | Boeing | Entry Level Flight Simulation Software Engineer 🛂 | Berkeley, MO | <a href="https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2025454088?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |

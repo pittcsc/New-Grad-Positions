@@ -20256,5 +20256,21 @@
         "date_posted": 1755246784,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755246824,
+        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4824378007?gh_jid=4824378007",
+        "company_name": "Anduril Industries",
+        "title": "Early Career Software Engineer",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "5d44da7e-2d82-486a-9745-c25640724161",
+        "date_posted": 1755246824,
+        "company_url": "",
+        "is_visible": true
     }
 ]
