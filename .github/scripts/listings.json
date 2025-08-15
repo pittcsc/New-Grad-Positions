@@ -20556,5 +20556,39 @@
         "company_url": "https://simplify.jobs/c/Travelers",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Artefact",
+        "id": "c6af06d4-a624-41c0-8854-564d8c4dde4f",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1755297762,
+        "date_posted": 1755297762,
+        "url": "https://job-boards.greenhouse.io/artefact/jobs/8119158002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Artefact",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sev1Tech",
+        "id": "bee175bb-2728-4cbe-a38d-f82fa8ec7633",
+        "title": "Software Developer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1755297019,
+        "date_posted": 1755297019,
+        "url": "https://careers-sev1tech.icims.com/jobs/9092/job",
+        "locations": [
+            "Lawton, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sev1Tech",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
