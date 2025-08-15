@@ -20240,5 +20240,21 @@
         "date_posted": 1755246471,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755246784,
+        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4824369007?gh_jid=4824369007",
+        "company_name": "Anduril Industries",
+        "title": "Early Career Software Engineer",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c54c42b1-9017-469d-87db-dc5e53e2d3cb",
+        "date_posted": 1755246784,
+        "company_url": "",
+        "is_visible": true
     }
 ]
