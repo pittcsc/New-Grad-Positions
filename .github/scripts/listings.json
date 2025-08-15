@@ -20676,5 +20676,39 @@
         "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mastercard",
+        "id": "1e3ed3ad-963e-4860-adfd-b24288e46eaf",
+        "title": "Software Engineer I - Backend - Java",
+        "active": true,
+        "date_updated": 1755298469,
+        "date_posted": 1755298469,
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Engineer-I--Backend---Java-_R-258140",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mastercard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Prosidian Consulting",
+        "id": "cf2e08e1-7254-4b6f-bb08-e0f6a256c6e0",
+        "title": "ITSM IT Security Engineer I",
+        "active": true,
+        "date_updated": 1755298623,
+        "date_posted": 1755298623,
+        "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999691983726",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
