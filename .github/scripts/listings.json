@@ -20158,5 +20158,21 @@
         "date_posted": 1755243207,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755243482,
+        "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Colorado-Springs-Colorado/Software-Engineer-I_R2110482",
+        "company_name": "KBR",
+        "title": "Software Engineer I",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "aeacaa6e-d32d-4a0f-8918-d9d29578ce3c",
+        "date_posted": 1755243482,
+        "company_url": "",
+        "is_visible": true
     }
 ]
