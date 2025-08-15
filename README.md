@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 198 New Grad Roles by Category
+### Browse 199 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (146)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (147)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (27)
 
@@ -64,7 +64,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
-| ByteDance | Software Engineer Graduate (Dev Infra) - 2026 Start (BS/MS) | San Jose, CA | <a href="https://joinbytedance.com/search/7536272435440716040?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
+| ByteDance | Network Engineer Graduate (Edge Network) - 2026 Start (BS/ MS) | San Jose, CA | <a href="https://joinbytedance.com/search/7537121677185534216?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
+| ↳ | Software Engineer Graduate (Dev Infra) - 2026 Start (BS/MS) | San Jose, CA | <a href="https://joinbytedance.com/search/7536272435440716040?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | Amazon | Robotics Systems Engineer, Amazon Robotics Deployment Engineering | Austin, TX</br>Seattle, WA</br>North Reading, MA | <a href="https://www.amazon.jobs/en/jobs/3054843/robotics-systems-engineer-amazon-robotics-deployment-engineering?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | **[BlueCross BlueShield of Tennessee](https://simplify.jobs/c/BlueCross-Blueshield-Of-Tennessee?utm_source=GHList&utm_medium=company)** | Associate Software Engineer I | Chattanooga, TN | <div align="center"><a href="https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Associate-Software-Engineer-I_R-46776?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/833d9a34-ab07-4ae2-83cc-7a6c49a138f6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | Samsung | Health AI Scholar, Digital Health (PhD) | Mountain View, CA | <a href="https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8112737002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
