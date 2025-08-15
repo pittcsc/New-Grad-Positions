@@ -20192,5 +20192,21 @@
         "date_posted": 1755243638,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755243725,
+        "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2025454088",
+        "company_name": "Boeing",
+        "title": "Entry Level Flight Simulation Software Engineer",
+        "locations": [
+            "Berkeley, MO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "da762d87-8320-42ad-bf8d-a634b03b70ad",
+        "date_posted": 1755243725,
+        "company_url": "",
+        "is_visible": true
     }
 ]
