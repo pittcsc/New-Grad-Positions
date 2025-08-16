@@ -20762,5 +20762,22 @@
         "company_url": "https://simplify.jobs/c/Intuit",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "d7950fb8-db44-4a5e-abcd-231daa5f9037",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1755294176,
+        "date_posted": 1755294176,
+        "url": "https://www.esri.com/careers/4829378007?gh_jid=4829378007",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
