@@ -18090,7 +18090,7 @@
         "company_name": "Broadcom Limited",
         "id": "078470df-4ce4-4ea5-942f-cff77cdefc9e",
         "title": "Entry level Mainframe Software Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1754436601,
         "date_posted": 1754436601,
         "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-IL-Lisle-Warrenville-Road/Entry-level-Mainframe-Software-Development-Engineer_R023490-1",
@@ -20777,6 +20777,24 @@
             "St. Louis, MO"
         ],
         "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SoFi",
+        "id": "b9d94e6c-1a9a-4a79-a413-dfefe90329d3",
+        "title": "New Grad \u2013 Fullstack Software Engineer - Home Loans",
+        "active": true,
+        "date_updated": 1755292464,
+        "date_posted": 1755292464,
+        "url": "https://www.sofi.com/careers/sofi-university/6678813003?gh_jid=6678813003",
+        "locations": [
+            "Seattle, WA",
+            "Helena, MT"
+        ],
+        "company_url": "https://simplify.jobs/c/SoFi",
         "is_visible": true,
         "sponsorship": "Other"
     }
