@@ -307,22 +307,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Qloo",
-        "id": "68b3d370-8179-438e-ad4c-8b067ee6607b",
-        "title": "Junior Data Engineer",
-        "active": false,
-        "date_updated": 1724283287,
-        "date_posted": 1724283287,
-        "url": "https://jobs.lever.co/qloo/56d875f9-671c-447b-868e-5da9af79ffce/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Qloo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Flashpoint",
         "id": "766d0bee-e451-4b4d-9ee9-53b175d32a4c",
         "title": "Data Engineer I",
@@ -1504,23 +1488,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Gecko-Robotics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Vectra",
-        "id": "9a63bd39-e642-47f1-b2af-0665cb194cac",
-        "title": "Software Engineer \u2013 New College Graduate",
-        "active": false,
-        "date_updated": 1724283294,
-        "date_posted": 1724283294,
-        "url": "https://boards.greenhouse.io/vectranetworks/jobs/6142089",
-        "locations": [
-            "Austin, TX",
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Vectra",
         "is_visible": true,
         "sponsorship": "Other"
     },
