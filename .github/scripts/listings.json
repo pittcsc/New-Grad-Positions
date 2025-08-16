@@ -16944,7 +16944,7 @@
         "company_name": "Chewy",
         "id": "356831e8-e08e-4050-ad42-7760d1e33d27",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1753970216,
         "date_posted": 1753918469,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7094171",
@@ -20708,6 +20708,41 @@
             "Boulder, CO"
         ],
         "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citadel",
+        "id": "703ca800-7739-4af0-ac22-fe5aa240bd03",
+        "title": "Software Engineer \u2013 University Graduate",
+        "active": true,
+        "date_updated": 1755287791,
+        "date_posted": 1755287791,
+        "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-europe/",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ZOLL Medical Corporation",
+        "id": "3b2fc4f8-6b55-4895-9585-c325ced78ac1",
+        "title": "Software Engineer I - Embedded Devices",
+        "active": true,
+        "date_updated": 1755287553,
+        "date_posted": 1755287553,
+        "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Chelmsford-MA/Software-Engineer-I---Embedded-Devices_R16418",
+        "locations": [
+            "Lowell, MA",
+            "Parsippany-Troy Hills, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoll",
         "is_visible": true,
         "sponsorship": "Other"
     }
