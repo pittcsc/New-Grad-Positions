@@ -19643,7 +19643,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755170484,
+        "date_updated": 1755417997,
         "url": "https://careers-teksynap.icims.com/jobs/8306/junior-software-developer/job",
         "company_name": "TekSynap",
         "title": "Junior Software Developer",
@@ -19661,13 +19661,13 @@
             "KS",
             "Various States"
         ],
-        "sponsorship": "U.S. Citizenship is Required",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "12b2a32d-8b3c-4a31-b114-273a8640fe2c",
         "date_posted": 1755170484,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755270459,

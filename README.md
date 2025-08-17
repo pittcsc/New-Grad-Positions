@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 224 New Grad Roles by Category
+### Browse 223 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (169)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (168)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (25)
 
@@ -108,7 +108,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Sev1Tech](https://simplify.jobs/c/Sev1Tech?utm_source=GHList&utm_medium=company)** | Software Developer - Entry Level 🇺🇸 | Fort Sill, OK | <a href="https://careers-sev1tech.icims.com/jobs/9092/software-developer---entry-level/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 2d |
 | Veterans United Home Loans | Associate Software Engineer | Remote, MO | <a href="https://veteransunited.wd1.myworkdayjobs.com/en-US/vuhl/job/Remote-MO/Associate-Software-Engineer_R5288?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 2d |
 | Thales | Software Engineer - Graduate | Melbourne, FL | <a href="https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Melbourne-FL/Software-Engineer_R0276710-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 2d |
-| **[TekSynap](https://simplify.jobs/c/TekSynap?utm_source=GHList&utm_medium=company)** | Junior Software Developer 🇺🇸 | <details><summary>**12 locations**</summary>VA</br>AZ</br>AR</br>CT</br>DE</br>FL</br>GA</br>ID</br>IN</br>IA</br>KS</br>Various States</details> | <a href="https://careers-teksynap.icims.com/jobs/8306/junior-software-developer/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 2d |
 | Amazon | Systems Development Engineer I, Ops Tech Solution (OTS) | Austin, TX | <a href="https://www.amazon.jobs/en/jobs/3057120/systems-development-engineer-i-ops-tech-solution-ots?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 2d |
 | **[BRM](https://simplify.jobs/c/BRM?utm_source=GHList&utm_medium=company)** | Entry Level Software Engineer | San Francisco, CA | <a href="https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 2d |
 | **[Citadel Securities](https://simplify.jobs/c/Citadel-Securities?utm_source=GHList&utm_medium=company)** | C++ Software Engineer | Miami, FL</br>London, UK | <a href="https://www.citadelsecurities.com/careers/details/c-software-engineer-4/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 2d |
