@@ -20717,5 +20717,30 @@
         "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755418299,
+        "url": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Virginia-United-States/Junior-Computational-Linguist_R0031051-4",
+        "company_name": "Harris",
+        "title": "Junior Computational Linguist",
+        "locations": [
+            "VA",
+            "WI",
+            "AZ",
+            "TN",
+            "MI",
+            "MA",
+            "MO",
+            "CO",
+            "NM",
+            "Remote, London, UK"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "228b40ec-8006-4f43-9de2-653954ed72fa",
+        "date_posted": 1755418299,
+        "company_url": "",
+        "is_visible": true
     }
 ]
