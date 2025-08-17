@@ -259,22 +259,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Flashpoint",
-        "id": "766d0bee-e451-4b4d-9ee9-53b175d32a4c",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1724441470,
-        "date_posted": 1724369449,
-        "url": "https://job-boards.greenhouse.io/flashpoint/jobs/7608499002?gh_jid=7608499002",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Flashpoint",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Glean",
         "id": "0da72647-f3bd-4a07-9f55-235f98d6c874",
         "title": "Software Engineer \u2013 University Grad",
