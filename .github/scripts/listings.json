@@ -20774,5 +20774,21 @@
         "date_posted": 1755418438,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755418526,
+        "url": "https://jobs.lever.co/robinpowered/5b7a72e0-480a-49b6-a4cf-78ee0c6b6ce9/",
+        "company_name": "Robin",
+        "title": "Associate Software Engineer (AI-Native)",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "28cc3ac5-e492-4138-85d8-f7bb6205e3d6",
+        "date_posted": 1755418526,
+        "company_url": "",
+        "is_visible": true
     }
 ]
