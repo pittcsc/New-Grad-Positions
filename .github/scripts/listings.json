@@ -20742,5 +20742,21 @@
         "date_posted": 1755418299,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755418371,
+        "url": "https://l2tmediallc.applytojob.com/apply/b2dvJrHuSV/Junior-Digital-Media-Data-Analyst",
+        "company_name": "L2TMedia",
+        "title": "Junior Digital Media Data Analyst",
+        "locations": [
+            "Evanston, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b13d57c3-c943-4cc3-af4a-6a8a7f2152f1",
+        "date_posted": 1755418371,
+        "company_url": "",
+        "is_visible": true
     }
 ]
