@@ -19102,20 +19102,20 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755008070,
+        "date_updated": 1755417977,
         "url": "https://apply.workable.com/scitec/j/45B1B9BA15/",
         "company_name": "SciTec",
         "title": "Associate / Staff Mission Data Analyst",
         "locations": [
             "Boulder, CO"
         ],
-        "sponsorship": "U.S. Citizenship is Required",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "1541d447-9fbe-4d31-97e2-1cd93adb98d4",
         "date_posted": 1755008070,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
