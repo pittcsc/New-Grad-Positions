@@ -20806,5 +20806,21 @@
         "date_posted": 1755418718,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755418805,
+        "url": "https://jobs.baesystems.com/global/en/job/BAE1US115338BREXTERNAL/Junior-Software-Engineer",
+        "company_name": "BAE Systems",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Hill AFB, UT"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "36561c35-450e-4662-a8c2-84cd99283ea8",
+        "date_posted": 1755418805,
+        "company_url": "",
+        "is_visible": true
     }
 ]
