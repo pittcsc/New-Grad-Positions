@@ -20790,5 +20790,21 @@
         "date_posted": 1755418638,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755418718,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/Manufacturing-Software-Engineer--Test-Program-Applications---Automation--2026-New-College-Graduate_JR-2502329",
+        "company_name": "GlobalFoundries",
+        "title": "Manufacturing Software Engineer, Test Program Applications & Automation",
+        "locations": [
+            "Essex Junction, VT"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "4271b0fc-3586-43e3-8ed5-6cb096c013ca",
+        "date_posted": 1755418718,
+        "company_url": "",
+        "is_visible": true
     }
 ]
