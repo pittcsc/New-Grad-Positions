@@ -388,22 +388,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Verkada",
-        "id": "fc6f06da-06c1-42c1-a421-a038eb9081fe",
-        "title": "Security Software Engineer \u2013 Early Career",
-        "active": false,
-        "date_updated": 1724440781,
-        "date_posted": 1724284038,
-        "url": "https://job-boards.greenhouse.io/verkada/jobs/4488331007",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Verkada",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Palantir",
         "id": "f0bfc241-81bc-4e41-9302-f5eca6339fdf",
         "title": "Software Engineer \u2013 New Grad",
