@@ -259,55 +259,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Stripe",
-        "id": "7b44c5dc-3450-441f-9363-94b671266966",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1724398569,
-        "date_posted": 1724398569,
-        "url": "https://stripe.com/jobs/search?gh_jid=6142741",
-        "locations": [
-            "Seattle, WA",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Stripe",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Stripe",
-        "id": "aeb7718a-4a2d-4347-8c9b-4d206378b6f8",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1724398569,
-        "date_posted": 1724398569,
-        "url": "https://stripe.com/jobs/search?gh_jid=6025906",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Stripe",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Applied Intuition",
-        "id": "8acc4571-b11e-404c-89e6-8d6307c46119",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1724613235,
-        "date_posted": 1724398634,
-        "url": "https://boards.greenhouse.io/appliedintuition/jobs/4420849005",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Intuition",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Palantir",
         "id": "f0bfc241-81bc-4e41-9302-f5eca6339fdf",
         "title": "Software Engineer \u2013 New Grad",
