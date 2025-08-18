@@ -2706,22 +2706,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Pax8",
-        "id": "0475d339-069e-46be-aed1-8b2f9f000ead",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1727897502,
-        "date_posted": 1724455309,
-        "url": "https://www.pax8.com/en-us/careers/job-openings?gh_jid=4694725004",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Pax8",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Visa",
         "id": "04fc622e-bf02-4310-af04-5658fbee7856",
         "title": "Data Engineer \u2013 New College Grad",
