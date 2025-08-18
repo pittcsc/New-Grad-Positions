@@ -259,22 +259,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Palantir",
-        "id": "f0bfc241-81bc-4e41-9302-f5eca6339fdf",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": true,
-        "date_updated": 1724456004,
-        "date_posted": 1724456004,
-        "url": "https://jobs.lever.co/palantir/dea9d3d5-75b2-4588-b7bd-585a47b79c8c/apply",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "esri",
         "id": "2096e16b-e911-4b5d-ae4a-d6a517d6e5c4",
         "title": "C++ Software Development Engineer I",
