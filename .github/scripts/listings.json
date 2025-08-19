@@ -18712,20 +18712,24 @@
         "is_visible": false
     },
     {
-        "date_updated": 1754748517,
+        "date_updated": 1755645192,
         "url": "https://job-boards.greenhouse.io/celonis/jobs/6616403003",
         "company_name": "Celonis",
         "title": "Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program",
         "locations": [
             "New York, NY"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "ff7b6269-b3e1-4e8c-bcb1-6d796c23b551",
         "date_posted": 1754748517,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "category": "Other",
+        "degrees": [
+            "Master's"
+        ]
     },
     {
         "date_updated": 1754748680,
