@@ -13088,15 +13088,15 @@
         "company_name": "Chewy",
         "id": "904a6d2f-35f5-4628-a253-66e50a77d8f4",
         "title": "Software Engineer I",
-        "active": true,
-        "date_updated": 1749368316,
+        "active": false,
+        "date_updated": 1755588114,
         "date_posted": 1749368316,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6824705",
         "locations": [
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Chewy",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
