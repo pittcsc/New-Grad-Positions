@@ -20901,5 +20901,21 @@
         "date_posted": 1755593486,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755593570,
+        "url": "https://job-boards.greenhouse.io/chime/jobs/8101747002",
+        "company_name": "Chime",
+        "title": "Product Security Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b41e1299-755f-4e9a-ac9a-d9ecb25062e9",
+        "date_posted": 1755593570,
+        "company_url": "",
+        "is_visible": true
     }
 ]
