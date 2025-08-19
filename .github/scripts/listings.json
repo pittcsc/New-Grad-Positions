@@ -18410,20 +18410,24 @@
         "is_visible": false
     },
     {
-        "date_updated": 1754650390,
+        "date_updated": 1755640334,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research---New-College-Grad-2025_JR2001017",
         "company_name": "NVIDIA",
         "title": "Research Scientist, Robotics Research",
         "locations": [
             "Seattle, WA"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "20e564c1-72f3-4cbb-af1c-91cd9e5e6ea9",
         "date_posted": 1754650390,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Other",
+        "degrees": [
+            "Master's"
+        ]
     },
     {
         "date_updated": 1754676244,
