@@ -20576,8 +20576,8 @@
         "company_name": "SoFi",
         "id": "b9d94e6c-1a9a-4a79-a413-dfefe90329d3",
         "title": "New Grad \u2013 Fullstack Software Engineer - Home Loans",
-        "active": true,
-        "date_updated": 1755417958,
+        "active": false,
+        "date_updated": 1755590069,
         "date_posted": 1755292464,
         "url": "https://www.sofi.com/careers/sofi-university/6678813003?gh_jid=6678813003",
         "locations": [
@@ -20585,8 +20585,8 @@
             "Helena, MT"
         ],
         "company_url": "https://simplify.jobs/c/SoFi",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required"
+        "is_visible": false,
+        "sponsorship": "Other"
     },
     {
         "source": "Simplify",
