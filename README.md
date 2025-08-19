@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 231 New Grad Roles by Category
+### Browse 232 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (175)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (176)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (28)
 
@@ -64,7 +64,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
-| ByteDance | Cloud Network Engineer Graduate(Physical Network Infra) | Seattle, WA | <a href="https://joinbytedance.com/search/7538433821165259015?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
+| ByteDance | Network Engineer Graduate (Physical Network Infra) | San Jose, CA | <a href="https://joinbytedance.com/search/7538106304578963730?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
+| ↳ | Cloud Network Engineer Graduate(Physical Network Infra) | Seattle, WA | <a href="https://joinbytedance.com/search/7538433821165259015?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | ↳ | Software Engineer Graduate (Edge Platform) | San Jose, CA | <a href="https://joinbytedance.com/search/7538120693880834322?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | ↳ | Site Reliability Engineer Graduate (Data Infrastructure) | Seattle, WA | <a href="https://joinbytedance.com/search/7535903852755814674?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | Motorola Solutions | Software Engineer 🛂 | Schaumburg, IL</br>Chicago, IL | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Entry-Level-Software-Engineer_R56026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |

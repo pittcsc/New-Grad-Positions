@@ -21098,5 +21098,21 @@
         "date_posted": 1755615165,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755615194,
+        "url": "https://joinbytedance.com/search/7538106304578963730",
+        "company_name": "ByteDance",
+        "title": "Network Engineer Graduate (Physical Network Infra)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "1ced7c54-67ff-4ee3-a8be-6ef2e619bec2",
+        "date_posted": 1755615194,
+        "company_url": "",
+        "is_visible": true
     }
 ]
