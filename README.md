@@ -6,11 +6,11 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 229 New Grad Roles by Category
+### Browse 228 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (172)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (29)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (28)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (13)
 
@@ -382,7 +382,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | ↳ | Software Engineer Graduate (Applied Machine Learning - MLDev) - 2026 Start (BS/MS) | San Jose, CA | <a href="https://joinbytedance.com/search/7535233571066349842?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 3d |
 | **[Blue Origin](https://simplify.jobs/c/Blue-Origin?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer/Scientist I – Early Career 2025 University Grad | Seattle, WA</br>Kent, WA | <div align="center"><a href="https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Machine-Learning-Engineer-Scientist-I---Early-Career-2025-University-Grad_R54164?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/76bda980-7f17-4147-913d-c39234019082?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4d |
 | Tria Federal | Data Analyst-Level I 🇺🇸 | Falls Church, VA | <a href="https://triafed.com/jobs/?gh_jid=4881899008&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 4d |
-| Matic | Data Analyst (entry-level) 🛂 | Columbus, OH | <a href="https://matic.com/careers/?gh_jid=5585225004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 4d |
 | Jump Trading | Campus ML Engineer (Full-Time) | Chicago, IL</br>New York, NY | <a href="https://www.jumptrading.com/careers/7141620/?gh_jid=7141620&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 4d |
 | Analytical Mechanics Associates | AI/ML Research Associate 🇺🇸 | Hampton, VA</br>Remote | <a href="https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Hampton-VA/AI-ML-Research-Associate_R-100359?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 6d |
 | The Home Depot | Associate Data Scientist - MET 🛂 | Atlanta, GA | <a href="https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---MET_Req153698-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 6d |
