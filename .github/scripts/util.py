@@ -252,7 +252,7 @@ def classifyJobCategory(job):
             return "Hardware Engineering"
         elif category in ["quant", "quantitative finance"]:
             return "Quantitative Finance"
-        elif category in ["ai/ml/data", "data & analytics", "ai & machine learning", "data science"]:
+        elif category in ["ai/ml/data", "data & analytics", "ai & machine learning", "data science", "data science, ai & machine learning"]:
             return "Data Science, AI & Machine Learning"
         elif category in ["product", "product management"]:
             return "Product Management"
@@ -260,6 +260,10 @@ def classifyJobCategory(job):
             return "Software Engineering"
         elif category in ["other"]:
             return "Other"
+        
+        # If category is already in the correct format, return it as-is
+        if job["category"] in ["Hardware Engineering", "Quantitative Finance", "Data Science, AI & Machine Learning", "Product Management", "Software Engineering", "Other"]:
+            return job["category"]
     
     # If no category exists or it's not recognized, classify by title
     # Order of filtering based on title: hardware -> quant -> data science -> software eng -> product -> other
