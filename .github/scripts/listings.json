@@ -20421,8 +20421,8 @@
         "company_name": "Cox",
         "id": "0d1d96cd-b44f-4f2b-b169-410992b6f31b",
         "title": "Software Engineer I",
-        "active": true,
-        "date_updated": 1755418053,
+        "active": false,
+        "date_updated": 1755590154,
         "date_posted": 1755298810,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Exton-PA/Software-Engineer-I_R202564663-1",
         "locations": [
@@ -20430,8 +20430,8 @@
             "Exton, PA"
         ],
         "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Does Not Offer Sponsorship"
+        "is_visible": false,
+        "sponsorship": "Other"
     },
     {
         "source": "Simplify",
