@@ -20761,5 +20761,41 @@
         "company_url": "https://simplify.jobs/c/Notion",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Chord Energy",
+        "id": "141524f2-adf7-4b47-afb9-4115336e9871",
+        "title": "Junior Data Engineer Azure",
+        "active": true,
+        "date_updated": 1755566527,
+        "date_posted": 1755566527,
+        "url": "https://chordenergy.wd1.myworkdayjobs.com/external/job/Houston-TX---Corporate/Junior-Data-Engineer-Azure_R0002251-1",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/6318f491-c84d-4570-aca1-0d51c5e85b84",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pinterest",
+        "id": "d7feac2c-dad6-41c7-96f9-25652bbadef6",
+        "title": "Machine Learning Engineer I - Monetization Engineering",
+        "active": true,
+        "date_updated": 1755566145,
+        "date_posted": 1755566145,
+        "url": "https://www.pinterestcareers.com/job-form?gh_jid=7172308",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
