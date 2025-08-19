@@ -1062,8 +1062,8 @@
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "source": "YifengW86",
-        "id": "48b08de8-31b5-4dde-b181-47f7353aadf0",
+        "source": "Simplify",
+        "id": "f6db0437-48c7-4c28-89d5-76d6e4f15f71",
         "date_posted": 1725928018,
         "company_url": "",
         "is_visible": true
@@ -21146,5 +21146,656 @@
         "date_posted": 1755615250,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Western Digital",
+        "id": "f35998e0-2113-4d1f-962a-4bced53028e5",
+        "title": "New College Grad Software Engineer - Software Engineering Development - Apps",
+        "active": true,
+        "date_updated": 1755309064,
+        "date_posted": 1755309064,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000076460273",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "b87cc034-00f3-4e46-83b8-ee3c0f2f8a62",
+        "title": "Hiring Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1755194798,
+        "date_posted": 1755194798,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/112718194",
+        "locations": [
+            "Chesterfield, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "93eeb5a3-95d7-4ca2-8ec3-2d83ff5aa480",
+        "title": "Hiring Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1755194745,
+        "date_posted": 1755194745,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/113484514",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "7d2cd699-7b14-4a0d-8ec7-a5574fbb008a",
+        "title": "Hiring Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1755194688,
+        "date_posted": 1755194688,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999651709482",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "f6c336d1-df4b-4da5-add5-20ae022550f3",
+        "title": "Hiring Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1755194653,
+        "date_posted": 1755194653,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999653435829",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "2d58138f-f75f-4dc2-9546-ac3309fe2907",
+        "title": "Hiring Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1755194648,
+        "date_posted": 1755194648,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999655204204",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "ff9aee49-8272-4031-a062-8611a189e831",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1755194604,
+        "date_posted": 1755194604,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999655632519",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "41ab0e24-6232-45f7-bcc6-05f5acf9bb82",
+        "title": "Hiring Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1755194615,
+        "date_posted": 1755194615,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999653436079",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "76a85710-03ba-4bbb-9846-7ccb5db14615",
+        "title": "Entry Level Software Engineers",
+        "active": true,
+        "date_updated": 1755194557,
+        "date_posted": 1755194557,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999658747143",
+        "locations": [
+            "Galveston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "72276751-0fe5-4dbf-b457-77947ddcddb7",
+        "title": "Entry Level software engineer",
+        "active": true,
+        "date_updated": 1755194508,
+        "date_posted": 1755194508,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999658568718",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "c7a6d22b-bb87-4031-9cce-bcfaaa680061",
+        "title": "Hiring Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1755194413,
+        "date_posted": 1755194413,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999659664711",
+        "locations": [
+            "Casa Grande, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "b436d340-b5eb-4419-a709-6af74ee13256",
+        "title": "Hiring Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1755063903,
+        "date_posted": 1755063903,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999655719751",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "034a9d93-f51a-4886-b0fe-c2f771263fa5",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1755045533,
+        "date_posted": 1755045533,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/100730616",
+        "locations": [
+            "Chesterfield, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "399d1354-f5b5-4989-b9c4-8c64d157503c",
+        "title": "Hiring Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1755040138,
+        "date_posted": 1755040138,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/112610151",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "4cd6bf41-3d9b-4c7f-acd7-860beed0ea55",
+        "title": "Hiring Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1755030919,
+        "date_posted": 1755030919,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999655794970",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Databricks",
+        "id": "ca23bb6b-38c7-49e5-8890-cce71a429db4",
+        "title": "Associate Product Manager \u2013 New Grad - 2026 Start",
+        "active": true,
+        "date_updated": 1755622962,
+        "date_posted": 1755008671,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7586263002",
+        "locations": [
+            "SF",
+            "Bellevue, WA",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Databricks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "938e80f0-9d6e-4399-8180-d4b7b233e44d",
+        "title": "Hiring Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1754988034,
+        "date_posted": 1754988034,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999652483007",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "9d71b56b-2f64-4602-857d-71b5474251d3",
+        "title": "Hiring Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1754987786,
+        "date_posted": 1754987786,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999651146019",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "6417dd50-8d0b-4c21-bd91-73d7d5ec2d1c",
+        "title": "Hiring Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1754987679,
+        "date_posted": 1754987679,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/116232946",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "315c30ed-2818-4ab5-a99f-5d3bfd0db58c",
+        "title": "Hiring Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1754987740,
+        "date_posted": 1754987740,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999659380716",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "a4c52158-8915-444a-be9e-241b6711f875",
+        "title": "Hiring Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1754987440,
+        "date_posted": 1754987440,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999659489800",
+        "locations": [
+            "Flower Mound, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "01864a29-f685-449a-8b9a-abcaf7bc9c15",
+        "title": "Hiring Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1754972040,
+        "date_posted": 1754972040,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/108734797",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "7193bf93-cde3-42f5-b817-c679f55b1076",
+        "title": "Hiring Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1754971909,
+        "date_posted": 1754971909,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999655720227",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "43b55bb4-bbef-4b71-a42b-26c7f9782f9a",
+        "title": "Machine Learning Engineer \u2013 University Graduate - E-Commerce Risk Control - Phd",
+        "active": true,
+        "date_updated": 1754782127,
+        "date_posted": 1754621887,
+        "url": "https://lifeattiktok.com/search/7389784303494580490",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "075e3218-263c-4582-bebd-b74cc4567164",
+        "title": "Machine Learning Engineer \u2013 University Graduate - E-Commerce Recommendation/Search Alliance - Phd",
+        "active": true,
+        "date_updated": 1754756723,
+        "date_posted": 1754621621,
+        "url": "https://lifeattiktok.com/search/7374538073428478259",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SHEIN",
+        "id": "6d5d0a3a-f920-4c8f-9689-91cf1e30500c",
+        "title": "Big Data Engineer I",
+        "active": true,
+        "date_updated": 1753915290,
+        "date_posted": 1753915290,
+        "url": "https://job-boards.greenhouse.io/shein/jobs/4825893008",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SHEIN",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lyft",
+        "id": "1759e74f-657e-4b97-ad5f-573db29ae2a8",
+        "title": "PhD New Grad - Data Scientist - Algo - Inference - Driver Incentives",
+        "active": true,
+        "date_updated": 1753311815,
+        "date_posted": 1753311815,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8089317002?gh_jid=8089317002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pinterest",
+        "id": "47b59370-d74f-4114-888c-5d630133aee1",
+        "title": "Machine Learning Engineer I",
+        "active": true,
+        "date_updated": 1751499351,
+        "date_posted": 1751499351,
+        "url": "https://www.pinterestcareers.com/job-form?gh_jid=6864992",
+        "locations": [
+            "SF",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Google",
+        "id": "269cf6a4-44aa-4742-9359-25f3a26316af",
+        "title": "Silicon Development Engineer \u2013 University Graduate - Frontend - PhD",
+        "active": true,
+        "date_updated": 1749490317,
+        "date_posted": 1749246223,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/108642933007098566",
+        "locations": [
+            "Madison, WI",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "WeRide",
+        "id": "c0d9d327-19d8-4ea5-ad00-b08cd465b892",
+        "title": "New Grads 2025 - Software Engineer - Algorithm",
+        "active": true,
+        "date_updated": 1737560161,
+        "date_posted": 1726513966,
+        "url": "https://jobs.lever.co/weride/e77ec79c-1aa5-42f3-85b5-9000a146df6c/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Old Mission",
+        "id": "896dbe55-ef9b-431b-9a54-5c8eb5ad8c43",
+        "title": "Junior Quantitative Researcher - Ph.D",
+        "active": true,
+        "date_updated": 1751101380,
+        "date_posted": 1736800282,
+        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6309652003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Old-Mission",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Google",
+        "id": "0b5edb28-83c2-4056-8238-94ec8e4f823f",
+        "title": "Software Engineer \u2013 Early Career - Systems Research - PhD",
+        "active": true,
+        "date_updated": 1752582915,
+        "date_posted": 1738312318,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/76908711519363782",
+        "locations": [
+            "Seattle, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
