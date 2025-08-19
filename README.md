@@ -53,9 +53,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 🔒 Job application is closed
 
-🔥 The company is FAANG+
+🔥 FAANG+ company
 
-🎓 Requires an advanced degree (Master's or PhD)
+🎓 Advanced degree required (Master's, PhD, MBA)
 
 
 ---
@@ -67,7 +67,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ## 💻 Software Engineering New Grad Roles
 
-[Back to top](#2025-new-grad-positions-by-coder-quad-and-simplify)
+[Back to top](#2026-new-grad-positions-by-coder-quad-and-simplify)
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
@@ -382,7 +382,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ## 📱 Product Management New Grad Roles
 
-[Back to top](#2025-new-grad-positions-by-coder-quad-and-simplify)
+[Back to top](#2026-new-grad-positions-by-coder-quad-and-simplify)
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
@@ -394,7 +394,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ## 🤖 Data Science, AI & Machine Learning New Grad Roles
 
-[Back to top](#2025-new-grad-positions-by-coder-quad-and-simplify)
+[Back to top](#2026-new-grad-positions-by-coder-quad-and-simplify)
 
 > 📄 Here's the [resume template](https://docs.google.com/document/d/1azvJt51U2CbpvyO0ZkICqYFDhzdfGxU_lsPQTGhsn94/edit?usp=sharing) that Pitt CSC and Stanford CS share with software new grads.
 >
@@ -467,7 +467,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ## 📈 Quantitative Finance New Grad Roles
 
-[Back to top](#2025-new-grad-positions-by-coder-quad-and-simplify)
+[Back to top](#2026-new-grad-positions-by-coder-quad-and-simplify)
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
@@ -491,7 +491,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ## 🔧 Hardware Engineering New Grad Roles
 
-[Back to top](#2025-new-grad-positions-by-coder-quad-and-simplify)
+[Back to top](#2026-new-grad-positions-by-coder-quad-and-simplify)
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
@@ -541,7 +541,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ## 💼 Other New Grad Roles
 
-[Back to top](#2025-new-grad-positions-by-coder-quad-and-simplify)
+[Back to top](#2026-new-grad-positions-by-coder-quad-and-simplify)
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
@@ -563,4 +563,4 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
-[⬆️ Back to Top ⬆️](https://github.com/SimplifyJobs/New-Grad-Positions#2025-new-grad-positions-by-coder-quad-and-simplify)
+[⬆️ Back to Top ⬆️](https://github.com/SimplifyJobs/New-Grad-Positions#2026-new-grad-positions-by-coder-quad-and-simplify)
