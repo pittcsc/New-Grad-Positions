@@ -20965,5 +20965,21 @@
         "date_posted": 1755593822,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755593896,
+        "url": "https://lifeattiktok.com/search/7538213896365689096",
+        "company_name": "TikTok",
+        "title": "Software Engineer Graduate (Commerce Ads)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "911bec19-39a7-47d3-b58c-b3689264c611",
+        "date_posted": 1755593896,
+        "company_url": "",
+        "is_visible": true
     }
 ]
