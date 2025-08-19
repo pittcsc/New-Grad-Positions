@@ -20885,5 +20885,21 @@
         "company_url": "https://simplify.jobs/c/Travelers",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755593486,
+        "url": "https://job-boards.greenhouse.io/canonical/jobs/3257589",
+        "company_name": "Canonical",
+        "title": "Software Engineer - Python - Cloud",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "0890de9f-25df-4a97-b781-5879037ba32c",
+        "date_posted": 1755593486,
+        "company_url": "",
+        "is_visible": true
     }
 ]
