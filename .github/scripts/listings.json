@@ -17339,7 +17339,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1754344367,
+        "date_updated": 1755568123,
         "url": "https://www.metacareers.com/jobs/609052015548260",
         "company_name": "Meta",
         "title": "Product Security Engineer (University Grad)",
@@ -17347,13 +17347,13 @@
             "Bellevue, WA",
             "Menlo Park, CA"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "polinavishnev",
         "id": "0f71614a-cdc8-4185-9f86-9b731f4410f0",
         "date_posted": 1754344367,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
