@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 220 New Grad Roles by Category
+### Browse 221 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (165)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (166)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (28)
 
@@ -64,6 +64,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
+| Robin | Associate Software Engineer (AI-Native) | Boston, MA | <a href="https://jobs.lever.co/robinpowered/5b7a72e0-480a-49b6-a4cf-78ee0c6b6ce9?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | Chime | Product Security Engineer | San Francisco, CA | <a href="https://job-boards.greenhouse.io/chime/jobs/8101747002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | Canonical | Software Engineer - Python - Cloud 🛂 | Remote in USA | <a href="https://job-boards.greenhouse.io/canonical/jobs/3257589?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | **[The Travelers Companies](https://simplify.jobs/c/Travelers?utm_source=GHList&utm_medium=company)** | Software Engineer I - Enterprise AI for Operations - Aws - Python | Hartford, CT</br>St Paul, MN | <div align="center"><a href="https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---Enterprise-AI-for-Operations--AWS--Python-_R-45303-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f0c28371-b210-4c4e-bbc2-48c6aa38ea82?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
@@ -94,7 +95,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Citadel](https://simplify.jobs/c/Citadel?utm_source=GHList&utm_medium=company)** | Software Engineer – University Graduate | London, UK | <div align="center"><a href="https://www.citadel.com/careers/details/software-engineer-university-graduate-europe/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/703ca800-7739-4af0-ac22-fe5aa240bd03?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
 | **[KBR](https://simplify.jobs/c/KBR?utm_source=GHList&utm_medium=company)** | Software Developer – Entry Level | Maui, Hawaii | <div align="center"><a href="https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Kihei-Hawaii/Software-Developer--Entry-Level-_R2110680?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/e55579d8-c433-445a-9e2d-64ce06c317ff?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
 | **[Boston Scientific](https://simplify.jobs/c/Boston-Scientific?utm_source=GHList&utm_medium=company)** | Software Engineer I - Engineering - Development | Houston, TX</br>Roseville, MN | <div align="center"><a href="https://bostonscientific.eightfold.ai/careers/job/563602803142943?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8d43e1ff-67b2-4301-ab41-0b33be8ae0b3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
-| **[Choice Hotels](https://simplify.jobs/c/Choice-Hotels?utm_source=GHList&utm_medium=company)** | Software Engineer 1 🛂 | Scottsdale, AZ | <a href="https://choicehotels.wd5.myworkdayjobs.com/en-US/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R20319?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 3d |
+| **[Choice Hotels](https://simplify.jobs/c/Choice-Hotels?utm_source=GHList&utm_medium=company)** | Software Engineer 1 🛂 | Scottsdale, AZ | <a href="https://choicehotels.wd5.myworkdayjobs.com/en-US/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R20319?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 4d |
 | Disney | Software Engineer I | Seattle, WA | <a href="https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-I_10125661?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 4d |
 | General Dynamics Mission Systems | Entry Level Software Engineer 🇺🇸 | Pittsburgh, PA | <a href="https://careers-gdms.icims.com/jobs/67621/entry-level-software-engineer/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 4d |
 | **[Anduril Industries](https://simplify.jobs/c/Anduril?utm_source=GHList&utm_medium=company)** | Early Career Software Engineer 🇺🇸 | Atlanta, GA | <a href="https://job-boards.greenhouse.io/andurilindustries/jobs/4824378007?gh_jid=4824378007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 4d |
