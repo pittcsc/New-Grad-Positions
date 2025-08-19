@@ -19098,15 +19098,15 @@
         "company_name": "Broadcom Limited",
         "id": "45d26c7a-c9d3-4ac2-a788-03830aab0c0c",
         "title": "Entry level Mainframe Software Development Engineer",
-        "active": true,
-        "date_updated": 1755033597,
+        "active": false,
+        "date_updated": 1755589622,
         "date_posted": 1755033597,
         "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Entry-level-Mainframe-Software-Development-Engineer_R023538",
         "locations": [
             "Plano, TX"
         ],
         "company_url": "https://simplify.jobs/c/Broadcom-Limited",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
