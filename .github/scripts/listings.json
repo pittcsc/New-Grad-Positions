@@ -21082,5 +21082,21 @@
         "date_posted": 1755615135,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755615165,
+        "url": "https://joinbytedance.com/search/7538433821165259015",
+        "company_name": "ByteDance",
+        "title": "Cloud Network Engineer Graduate(Physical Network Infra)",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "d5268909-0683-45c1-846f-75693dab80f5",
+        "date_posted": 1755615165,
+        "company_url": "",
+        "is_visible": true
     }
 ]
