@@ -21045,7 +21045,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755594236,
+        "date_updated": 1755645644,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Entry-Level-Software-Engineer_R56026",
         "company_name": "Motorola Solutions",
         "title": "Software Engineer",
@@ -21053,13 +21053,15 @@
             "Schaumburg, IL",
             "Chicago, IL"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "bd8ad9d6-a0f4-4e02-82e2-77698da41b4b",
         "date_posted": 1755594236,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Other",
+        "degrees": []
     },
     {
         "date_updated": 1755615074,

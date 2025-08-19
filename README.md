@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 262 New Grad Roles by Category
+### Browse 261 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (182)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (181)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (2)
 
@@ -72,7 +72,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
 | **🔥 ByteDance** | Software Engineer Graduate (Edge Platform) | San Jose, CA | <a href="https://joinbytedance.com/search/7538120693880834322?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
-| **Motorola Solutions** | Software Engineer 🛂 | Schaumburg, IL</br>Chicago, IL | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Entry-Level-Software-Engineer_R56026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | **🔥 PayPal** | Software Engineer 🛂 | <details><summary>**5 locations**</summary>San Jose, CA</br>Chicago, IL</br>Scottsdale, AZ</br>Omaha, NE</br>Austin, TX</details> | <a href="https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0129930?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | **[🔥 TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)** | Software Engineer Graduate (Commerce Ads) | San Jose, CA | <a href="https://lifeattiktok.com/search/7538213896365689096?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
 | ↳ | Software Engineer Graduate (Media Platform) | San Jose, CA | <a href="https://lifeattiktok.com/search/7538318336657606930?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 0d |
@@ -265,7 +264,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[BlueCross BlueShield of Tennessee](https://simplify.jobs/c/BlueCross-Blueshield-Of-Tennessee?utm_source=GHList&utm_medium=company)** | Associate Software Engineer I | Chattanooga, TN | 🔒 | 5d |
 | **[🔥 Meta](https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company)** | Software Engineer (University Grad) 🛂 | <details><summary>**9 locations**</summary>Sunnyvale, CA</br>Bellevue, WA</br>Menlo Park, CA</br>Seattle, WA</br>Burlingame, CA</br>Washington, DC</br>Boston, MA</br>New York, NY</br>San Francisco, CA</details> | 🔒 | 5d |
 | **Boeing** | Software and Electrical Systems Simulation Integration Engineer | Miami, FL</br>New York, NY | 🔒 | 6d |
-| **[DIRECTV](https://simplify.jobs/c/DIRECTV?utm_source=GHList&utm_medium=company)** | IT Software Engineer 1 | Remote in USA | 🔒 | 9d |
+| **[DIRECTV](https://simplify.jobs/c/DIRECTV?utm_source=GHList&utm_medium=company)** | IT Software Engineer 1 | Remote in USA | 🔒 | 10d |
 | **[SS&C](https://simplify.jobs/c/SSC?utm_source=GHList&utm_medium=company)** | Junior AI-Assisted Software Engineer | South Orange, NJ | 🔒 | 10d |
 | **[Global Relay](https://simplify.jobs/c/Global-Relay?utm_source=GHList&utm_medium=company)** | Junior Software Developer Engineer in Test - C# | Vancouver, BC, Canada | 🔒 | 10d |
 | **[Esri](https://simplify.jobs/c/Esri?utm_source=GHList&utm_medium=company)** | Software Developer Engineer I | West Redlands, Redlands, CA | 🔒 | 10d |
@@ -521,7 +520,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[The Boeing Company](https://simplify.jobs/c/Boeing?utm_source=GHList&utm_medium=company)** | Entry Level Software Engineer - Developer | Oklahoma City, OK | 🔒 | 4d |
 | **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | New Grad: Wavelogic Software Development | Ottawa, ON, Canada | 🔒 | 1mo |
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Software Engineer I - Embedded Communications | Fort Wayne, IN | 🔒 | 1mo |
-| ↳ | Embedded Cybersecurity Software Engineer I | Cedar Rapids, IA | 🔒 | 1mo |
+| **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Embedded Cybersecurity Software Engineer I | Cedar Rapids, IA | 🔒 | 1mo |
 | **[Cadence Design Systems](https://simplify.jobs/c/Cadence-Design-Systems?utm_source=GHList&utm_medium=company)** | C++ Software Engineer – New College Graduate | Boston, MA | 🔒 | 1mo |
 | ↳ | C++ Software Engineer – New College Grad | Burlington, MA | 🔒 | 1mo |
 | **[Dell Technologies](https://simplify.jobs/c/Dell-Technologies?utm_source=GHList&utm_medium=company)** | Hardware Engineer 1 | Westborough, MA | 🔒 | 1mo |
@@ -559,6 +558,16 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **🔥 NVIDIA** | Research Scientist, Robotics Research 🎓 | Seattle, WA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research---New-College-Grad-2025_JR2001017?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 11d |
 | **Goldman Sachs** | New Analyst | New York, NY | <a href="https://higher.gs.com/roles/150845?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 26d |
 
+
+<details>
+<summary>🗃️ Inactive roles (1)</summary>
+
+| Company | Role | Location | Application | Age |
+| ------- | ---- | -------- | ---------- | --- |
+| **Motorola Solutions** | Software Engineer | Schaumburg, IL</br>Chicago, IL | 🔒 | 0d |
+
+
+</details>
 
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
