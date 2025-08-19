@@ -23,6 +23,10 @@ CATEGORIES = {
         "name": "Software Engineering",
         "emoji": "💻"
     },
+    "Product": {
+        "name": "Product Management",
+        "emoji": "📱"
+    },
     "AI/ML/Data": {
         "name": "Data Science, AI & Machine Learning",
         "emoji": "🤖"
@@ -34,7 +38,19 @@ CATEGORIES = {
     "Hardware": {
         "name": "Hardware Engineering",
         "emoji": "🔧"
+    },
+    "Other": {
+        "name": "Other",
+        "emoji": "💼"
     }
+}
+
+FAANG_PLUS = {
+    "airbnb", "adobe", "amazon", "apple", "asana", "atlassian", "bytedance", "cloudflare","coinbase", "databricks", "datadog",
+    "doordash", "dropbox", "duolingo", "figma", "google", "ibm", "instacart", "linkedin", "lyft", "meta", "microsoft",
+    "netflix", "notion", "nvidia", "openai", "oracle", "palantir", "paypal", "pinterest", "ramp", "reddit","rippling", "robinhood", "roblox",
+    "salesforce", "samsara", "shopify", "slack", "snap", "snapchat", "splunk","snowflake", "stripe", "square", "tesla", "tinder","tiktok", "uber",
+    "visa","waymo", "x"
 }
 
 def setOutput(key, value):
@@ -104,9 +120,16 @@ def create_md_table(listings):
     prev_days_active = None
 
     for listing in listings:
+        # Add fire emoji for FAANG+ companies
+        company_name = listing["company_name"]
+        if company_name.lower() in FAANG_PLUS:
+            company_name = f"🔥 {company_name}"
+            listing["company_name"] = company_name  # Update the listing as well
+        
         raw_url = listing.get("company_url", "").strip()
         company_url = raw_url + '?utm_source=GHList&utm_medium=company' if raw_url.startswith("http") else ""
-        company = f"**[{listing['company_name']}]({company_url})**" if company_url else listing["company_name"]
+        company = f"**[{company_name}]({company_url})**" if company_url else f"**{company_name}**"
+        
         location = getLocations(listing)
         position = listing["title"] + getSponsorship(listing)
         link = getLink(listing)
@@ -121,10 +144,10 @@ def create_md_table(listings):
             f"{days_active}d"
         )
 
-        if prev_company == listing['company_name'] and prev_days_active == days_active:
+        if prev_company == company_name and prev_days_active == days_active:
             company = "↳"
         else:
-            prev_company = listing['company_name']
+            prev_company = company_name
             prev_days_active = days_active
 
         table += f"| {company} | {position} | {location} | {link} | {days_display} |\n"
@@ -134,7 +157,7 @@ def create_md_table(listings):
 
 def filterListings(listings, earliest_date):
     final_listings = []
-    inclusion_terms = ["software eng", "software dev", "data scientist", "data engineer", "founding eng", "research eng", "product manage", "apm", "frontend", "front end", "front-end", "backend", "back end", "full-stack", "full stack", "full-stack", "devops", "android", "ios", "mobile dev", "sre", "site reliability eng", "quantitative trad", "quantitative research", "quantitative trad", "quantitative dev", "security eng", "compiler eng", "machine learning eng", "hardware eng", "firmware eng", "infrastructure eng"]
+    inclusion_terms = ["software eng", "software dev", "product engineer", "fullstack engineer", "frontend", "front end", "front-end", "backend", "back end", "full-stack", "full stack", "founding engineer", "mobile dev", "mobile engineer", "data scientist", "data engineer", "research eng", "product manag", "apm", "product", "devops", "android", "ios", "sre", "site reliability eng", "quantitative trad", "quantitative research", "quantitative dev", "security eng", "compiler eng", "machine learning eng", "hardware eng", "firmware eng", "infrastructure eng", "embedded", "fpga", "circuit", "chip", "silicon", "asic", "quant", "quantitative", "trading", "finance", "investment", "ai &", "machine learning", "ml", "analytics", "analyst", "research sci"]
     new_grad_terms = ["new grad", "early career", "college grad", "entry level", "founding", "early in career", "university grad", "fresh grad", "2024 grad", "2025 grad", "engineer 0", "engineer 1", "engineer i ", "junior", "sde 1", "sde i"]
     
     # Convert blocked URLs to lowercase for case-insensitive comparison
@@ -205,18 +228,40 @@ def classifyJobCategory(job):
             return "Quantitative Finance"
         elif category in ["ai/ml/data", "data & analytics", "ai & machine learning", "data science"]:
             return "Data Science, AI & Machine Learning"
+        elif category in ["product", "product management"]:
+            return "Product Management"
         elif category in ["software", "software engineering"]:
             return "Software Engineering"
+        elif category in ["other"]:
+            return "Other"
     
     # If no category exists or it's not recognized, classify by title
+    # Order of filtering based on title: hardware -> quant -> data science -> software eng -> product -> other
     title = job.get("title", "").lower()
+    
+    # Hardware (first priority)
     if any(term in title for term in ["hardware", "embedded", "fpga", "circuit", "chip", "silicon", "asic"]):
         return "Hardware Engineering"
+    
+    # Quant (second priority)
     elif any(term in title for term in ["quant", "quantitative", "trading", "finance", "investment"]):
         return "Quantitative Finance"
-    elif any(term in title for term in ["data science", "data scientist", "data science", "ai &", "machine learning", "ml", "analytics", "analyst" ]):
+    
+    # Data Science (third priority)
+    elif any(term in title for term in ["data science", "data scientist", "ai &", "machine learning", "ml", "data analytics", "data analyst", "research eng", "research sci"]):
         return "Data Science, AI & Machine Learning"
-    return "Software Engineering"
+    
+    # Software Engineering (fourth priority)
+    elif any(term in title for term in ["forward deployed", "forward-deployed","software", "software eng", "software dev", "product engineer", "fullstack engineer", "frontend", "backend", "founding engineer", "mobile dev", "mobile engineer"]):
+        return "Software Engineering"
+    
+    # Product (fifth priority)
+    elif any(term in title for term in ["product manag", "product analyst", "apm"]) or ("product" in title and "analyst" in title):
+        return "Product Management"
+    
+    # Other (everything else)
+    else:
+        return "Other"
 
 def ensureCategories(listings):
     for listing in listings:
@@ -235,11 +280,15 @@ def embedTable(listings):
     
     total_active = len(active_listings)    
     # Create category links with counts using correct anchor formats and emojis
+    # Order: Software, Product, Data, Quant, Hardware, Other
+    category_order = ["Software", "Product", "AI/ML/Data", "Quant", "Hardware", "Other"]
     category_links = []
-    for category_info in CATEGORIES.values():
-        count = category_counts[category_info["name"]]
-        anchor = category_info["name"].lower().replace(" ", "-").replace(",", "").replace("&", "")
-        category_links.append(f"{category_info['emoji']} **[{category_info['name']}](#-{anchor}-new-grad-roles)** ({count})")
+    for category_key in category_order:
+        if category_key in CATEGORIES:
+            category_info = CATEGORIES[category_key]
+            count = category_counts[category_info["name"]]
+            anchor = category_info["name"].lower().replace(" ", "-").replace(",", "").replace("&", "")
+            category_links.append(f"{category_info['emoji']} **[{category_info['name']}](#-{anchor}-new-grad-roles)** ({count})")
     category_counts_str = "\n\n".join(category_links)
 
     filepath = "README.md"
@@ -268,7 +317,9 @@ def embedTable(listings):
                 # Add page break before first category
                 newText += "\n---\n\n"
                 # Add tables for each category
-                for category_info in CATEGORIES.values():
+                for category_key in category_order:
+                    if category_key in CATEGORIES:
+                        category_info = CATEGORIES[category_key]
                         newText += create_category_table(listings, category_info["name"])
                 newText += "\n"
                 table_section_replaced = True

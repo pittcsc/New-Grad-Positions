@@ -80,6 +80,7 @@ def main():
         data["date_posted"] = int(datetime.now().timestamp())
         data["company_url"] = ""
         data["is_visible"] = True
+        data["degrees"] = []
 
     # remove utm-source
     utm = data["url"].find("?utm_source")
