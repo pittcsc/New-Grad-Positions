@@ -20797,5 +20797,23 @@
         "company_url": "https://simplify.jobs/c/Pinterest",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Travelers Companies",
+        "id": "f0c28371-b210-4c4e-bbc2-48c6aa38ea82",
+        "title": "Software Engineer I - Enterprise AI for Operations - Aws - Python",
+        "active": true,
+        "date_updated": 1755570176,
+        "date_posted": 1755570176,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---Enterprise-AI-for-Operations--AWS--Python-_R-45303-1",
+        "locations": [
+            "Hartford, CT",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
