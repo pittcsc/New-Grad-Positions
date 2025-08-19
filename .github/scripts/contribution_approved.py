@@ -16,32 +16,86 @@ def add_https_to_url(url):
 
 
 def getData(body, is_edit, username):
-    data = {}
-    lines = [text.strip("# ") for text in re.split('[\n\r]+', body)]
-    #["Company Name", "_No response_", "Internship Title", "_No response_", "Link to Internship Posting", "example.com/link/to/posting", "Locatio", "San Franciso, CA | Austin, TX | Remote" ,"What term(s) is this internship offered for?", "_No response_"]
+    data = {"date_updated": int(datetime.now().timestamp())}
     
-    data["date_updated"] = int(datetime.now().timestamp())
-
-    if "no response" not in lines[1].lower():
-        data["url"] = add_https_to_url(lines[1].strip())
-    if "no response" not in lines[3].lower():
-        data["company_name"] = lines[3]
-    if "no response" not in lines[5].lower():
-        data["title"] = lines[5]
-    if "no response" not in lines[7].lower():
-        data["locations"] = [line.strip() for line in lines[7].split("|")]
-    if "no response" not in lines[9].lower():
+    # Use regex patterns to find fields instead of relying on line positions
+    
+    # URL/Link - look for the pattern after "Link to Job Posting"
+    url_match = re.search(r'Link to Job Posting[^\n]*\n\s*([^\n]+)', body, re.IGNORECASE)
+    if url_match and "no response" not in url_match.group(1).lower():
+        data["url"] = add_https_to_url(url_match.group(1).strip())
+    
+    # Company Name
+    company_match = re.search(r'Company Name[^\n]*\n\s*([^\n]+)', body, re.IGNORECASE)
+    if company_match and "no response" not in company_match.group(1).lower():
+        data["company_name"] = company_match.group(1).strip()
+    
+    # Job Title
+    title_match = re.search(r'Job Title[^\n]*\n\s*([^\n]+)', body, re.IGNORECASE)
+    if title_match and "no response" not in title_match.group(1).lower():
+        data["title"] = title_match.group(1).strip()
+    
+    # Location
+    location_match = re.search(r'Location[^\n]*\n\s*([^\n]+)', body, re.IGNORECASE)
+    if location_match and "no response" not in location_match.group(1).lower():
+        data["locations"] = [loc.strip() for loc in location_match.group(1).split("|")]
+    
+    # Category Selection
+    category_match = re.search(r'What category does this job belong to\?[^\n]*\n\s*([^\n]+)', body, re.IGNORECASE)
+    if category_match and "no response" not in category_match.group(1).lower():
+        category_text = category_match.group(1).strip()
+        # Map form selections to internal category names
+        category_mapping = {
+            "Software Engineering": "Software Engineering",
+            "Product Management": "Product Management", 
+            "Data Science, AI & Machine Learning": "Data Science, AI & Machine Learning",
+            "Quantitative Finance": "Quantitative Finance",
+            "Hardware Engineering": "Hardware Engineering",
+            "Other": "Other"
+        }
+        data["category"] = category_mapping.get(category_text, "Other")
+    
+    # Advanced Degree Requirements - look for checkbox
+    advanced_degree_pattern = r'Advanced Degree Requirements.*?\n.*?\[x\]'
+    advanced_degree_checked = bool(re.search(advanced_degree_pattern, body, re.IGNORECASE | re.DOTALL))
+    data["degrees"] = ["Master's"] if advanced_degree_checked else []
+    
+    # Sponsorship
+    sponsorship_match = re.search(r'Does this job offer sponsorship\?[^\n]*\n\s*([^\n]+)', body, re.IGNORECASE)
+    if sponsorship_match and "no response" not in sponsorship_match.group(1).lower():
         data["sponsorship"] = "Other"
+        sponsorship_text = sponsorship_match.group(1)
         for option in ["Offers Sponsorship", "Does Not Offer Sponsorship", "U.S. Citizenship is Required"]:
-            if option in lines[9]:
+            if option in sponsorship_text:
                 data["sponsorship"] = option
-    if "none" not in lines[11].lower():
-        data["active"] = "yes" in lines[11].lower()
+    
+    # Active status
     if is_edit:
-        data["is_visible"] = "[x]" not in lines[13].lower()
-
-    email = lines[15 if is_edit else 13].lower()
-    if "no response" not in email:
+        active_pattern = r'Is this job still accepting applications\?[^\n]*\n\s*([^\n]+)'
+    else:
+        active_pattern = r'Is this job currently accepting applications\?[^\n]*\n\s*([^\n]+)'
+    
+    active_match = re.search(active_pattern, body, re.IGNORECASE)
+    if active_match:
+        response_text = active_match.group(1).lower()
+        if "none" not in response_text and "no response" not in response_text:
+            data["active"] = "yes" in response_text
+        # If "none" or "no response", don't set active field - let downstream handle default
+    # If no match found, don't set active field - let downstream handle default
+    
+    # Visibility (for edits only)
+    if is_edit:
+        remove_pattern = r'Permanently remove this job from the list\?.*?\n.*?\[x\]'
+        should_remove = bool(re.search(remove_pattern, body, re.IGNORECASE | re.DOTALL))
+        data["is_visible"] = not should_remove
+    
+    # Email
+    email_match = re.search(r'Email associated with your GitHub account[^\n]*\n\s*([^\n]+)', body, re.IGNORECASE)
+    email = "_no response_"
+    if email_match:
+        email = email_match.group(1).strip()
+    
+    if "no response" not in email.lower():
         util.setOutput("commit_email", email)
         util.setOutput("commit_username", username)
     else:
@@ -80,7 +134,11 @@ def main():
         data["date_posted"] = int(datetime.now().timestamp())
         data["company_url"] = ""
         data["is_visible"] = True
-        data["degrees"] = []
+        # degrees field is already set by getData() based on form input
+        
+        # Ensure new jobs are active by default if not specified
+        if "active" not in data:
+            data["active"] = True
 
     # remove utm-source
     utm = data["url"].find("?utm_source")
