@@ -131,7 +131,33 @@ def create_md_table(listings):
         company = f"**[{company_name}]({company_url})**" if company_url else f"**{company_name}**"
         
         location = getLocations(listing)
-        position = listing["title"] + getSponsorship(listing)
+        
+        # Check for advanced degree requirements and add graduation cap emoji
+        title_with_degree_emoji = listing["title"]
+        
+        # Check degrees field for advanced degree requirements
+        degrees = listing.get("degrees", [])
+        if degrees:
+            # Check if only advanced degrees are required (no Bachelor's or Associate's)
+            has_bachelors_or_associates = any(
+                degree.lower() in ["bachelor's", "associate's"]
+                for degree in degrees
+            )
+            has_advanced_degrees = any(
+                degree.lower() in ["master's", "phd", "mba"]
+                for degree in degrees
+            )
+            
+            if has_advanced_degrees and not has_bachelors_or_associates:
+                title_with_degree_emoji += " 🎓"
+        
+        # Also check title text for degree mentions
+        title_lower = listing["title"].lower()
+        if any(term in title_lower for term in ["master's", "masters", "master", "mba", "phd", "ph.d", "doctorate", "doctoral"]):
+            if "🎓" not in title_with_degree_emoji:
+                title_with_degree_emoji += " 🎓"
+        
+        position = title_with_degree_emoji + getSponsorship(listing)
         link = getLink(listing)
 
         # Days active calculation
@@ -194,7 +220,7 @@ def create_category_table(listings, category_name):
     # Optional callout under Data Science section
     if category_name == "Data Science, AI & Machine Learning":
         header += (
-            "> 🎓 Here's the [resume template](https://docs.google.com/document/d/1azvJt51U2CbpvyO0ZkICqYFDhzdfGxU_lsPQTGhsn94/edit?usp=sharing) that Pitt CSC and Stanford CS share with software new grads.\n"
+            "> 📄 Here's the [resume template](https://docs.google.com/document/d/1azvJt51U2CbpvyO0ZkICqYFDhzdfGxU_lsPQTGhsn94/edit?usp=sharing) that Pitt CSC and Stanford CS share with software new grads.\n"
             ">\n"
             "> 🧠 Want to know what keywords your resume is missing for a job? Use the blue Simplify application link to instantly compare your resume to any job description.\n\n"
         )
@@ -240,7 +266,7 @@ def classifyJobCategory(job):
     title = job.get("title", "").lower()
     
     # Hardware (first priority)
-    if any(term in title for term in ["hardware", "embedded", "fpga", "circuit", "chip", "silicon", "asic"]):
+    if any(term in title for term in ["hardware", "embedded", "fpga", "circuit", "chip", "silicon", "asic", "robotics"]):
         return "Hardware Engineering"
     
     # Quant (second priority)
