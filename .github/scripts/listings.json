@@ -21066,5 +21066,21 @@
         "date_posted": 1755615074,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755615135,
+        "url": "https://joinbytedance.com/search/7538120693880834322",
+        "company_name": "ByteDance",
+        "title": "Software Engineer Graduate (Edge Platform)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "a8be4912-f9d1-4720-b580-067cb39dd751",
+        "date_posted": 1755615135,
+        "company_url": "",
+        "is_visible": true
     }
 ]
