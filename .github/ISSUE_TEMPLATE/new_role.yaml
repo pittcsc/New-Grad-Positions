@@ -8,7 +8,7 @@ body:
       value: |
         ## New Job Posting Contribution Form
         Thanks for taking the time to contribute!
-        > Make sure you've read `CONTRIBUTING.md` before submitting your internship
+        > Make sure you've read `CONTRIBUTING.md` before submitting your job posting
   - type: input
     id: url
     attributes:
@@ -42,6 +42,21 @@ body:
     validations:
       required: true
   - type: dropdown
+    id: category
+    attributes:
+      label: What category does this job belong to?
+      description: Select the category that best fits this job posting
+      multiple: false
+      options:
+        - Software Engineering
+        - Product Management
+        - Data Science, AI & Machine Learning
+        - Quantitative Finance
+        - Hardware Engineering
+        - Other
+    validations:
+      required: true
+  - type: dropdown
     id: sponsorship
     attributes:
       label: Does this job offer sponsorship?
@@ -60,13 +75,20 @@ body:
   - type: dropdown
     id: active
     attributes:
-      label: Is this internship currently accepting applications?
+      label: Is this job posting currently accepting applications?
       multiple: false
       options:
         - "Yes"
         - "No"
     validations:
       required: true
+  - type: checkboxes
+    id: advanced_degree
+    attributes:
+      label: Advanced Degree Requirements
+      description: Check this box only if this position specifically requires a Master's degree, PhD, or other advanced degree (and does NOT accept Bachelor's degrees)
+      options:
+        - label: "This position requires a Master's degree or higher"
   - type: input
     id: email
     attributes:

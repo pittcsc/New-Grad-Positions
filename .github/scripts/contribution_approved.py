@@ -71,9 +71,9 @@ def getData(body, is_edit, username):
     
     # Active status
     if is_edit:
-        active_pattern = r'Is this job still accepting applications\?[^\n]*\n\s*([^\n]+)'
+        active_pattern = r'Is this job posting currently accepting applications\?[^\n]*\n\s*([^\n]+)'
     else:
-        active_pattern = r'Is this job currently accepting applications\?[^\n]*\n\s*([^\n]+)'
+        active_pattern = r'Is this job posting currently accepting applications\?[^\n]*\n\s*([^\n]+)'
     
     active_match = re.search(active_pattern, body, re.IGNORECASE)
     if active_match:

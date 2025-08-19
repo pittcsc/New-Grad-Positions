@@ -44,6 +44,21 @@ body:
     validations:
       required: false
   - type: dropdown
+    id: category
+    attributes:
+      label: What category does this job belong to?
+      description: Select the category that best fits this job posting
+      multiple: false
+      options:
+        - Software Engineering
+        - Product Management
+        - Data Science, AI & Machine Learning
+        - Quantitative Finance
+        - Hardware Engineering
+        - Other
+    validations:
+      required: false
+  - type: dropdown
     id: sponsorship
     attributes:
       label: Does this job offer sponsorship?
@@ -70,6 +85,13 @@ body:
         - "No"
     validations:
       required: false
+  - type: checkboxes
+    id: advanced_degree
+    attributes:
+      label: Advanced Degree Requirements
+      description: Check this box only if this position specifically requires a Master's degree, PhD, or other advanced degree (and does NOT accept Bachelor's degrees)
+      options:
+        - label: "This position requires a Master's degree or higher"
   - type: checkboxes
     id: is_visible
     attributes:
