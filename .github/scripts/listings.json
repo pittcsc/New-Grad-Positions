@@ -19706,15 +19706,15 @@
         "company_name": "Esri",
         "id": "b81c7913-3326-4606-90b3-aa7695117167",
         "title": "C++ Software Engineer I - Maps Sdks",
-        "active": true,
-        "date_updated": 1755191938,
+        "active": false,
+        "date_updated": 1755588870,
         "date_posted": 1755191938,
         "url": "https://www.esri.com/careers/4826980007?gh_jid=4826980007",
         "locations": [
             "Portland, OR"
         ],
         "company_url": "https://simplify.jobs/c/Esri",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
