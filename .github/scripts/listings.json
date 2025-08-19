@@ -19191,20 +19191,20 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755045229,
+        "date_updated": 1755589689,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1858310/Software-Engineer",
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "locations": [
             "Atlanta, GA"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "Elisha-Edme",
         "id": "f81de977-11f6-4e8f-8c28-558e716f56c7",
         "date_posted": 1755045229,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755270742,
