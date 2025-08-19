@@ -21050,5 +21050,21 @@
         "date_posted": 1755594236,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755615074,
+        "url": "https://joinbytedance.com/search/7535903852755814674",
+        "company_name": "ByteDance",
+        "title": "Site Reliability Engineer Graduate (Data Infrastructure)",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b9542ef2-fc42-4b23-bada-26ef13996680",
+        "date_posted": 1755615074,
+        "company_url": "",
+        "is_visible": true
     }
 ]
