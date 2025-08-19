@@ -21013,5 +21013,25 @@
         "date_posted": 1755594048,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755594164,
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0129930",
+        "company_name": "PayPal",
+        "title": "Software Engineer",
+        "locations": [
+            "San Jose, CA",
+            "Chicago, IL",
+            "Scottsdale, AZ",
+            "Omaha, NE",
+            "Austin, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "27a376c0-de58-4b7a-b153-919bc7bf5e96",
+        "date_posted": 1755594164,
+        "company_url": "",
+        "is_visible": true
     }
 ]
