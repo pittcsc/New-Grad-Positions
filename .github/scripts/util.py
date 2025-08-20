@@ -261,6 +261,12 @@ def create_category_table(listings, category_name):
             ">\n"
             "> 🧠 Want to know what keywords your resume is missing for a job? Use the blue Simplify application link to instantly compare your resume to any job description.\n\n"
         )
+        
+    if category_name == 'Product Management':
+        header += (
+            "> 📅 Curious when Big Tech APM roles typically open? Simplify put together an [openings tracker](https://simplify.jobs/top-list/Associate-Product-Manager?utm_source=GHList&utm_medium=ot) based on historical data for those companies.\n"
+            "\n"
+        )
 
     # Sort and split
     active = sorted([l for l in category_listings if l["active"]], key=lambda l: l["date_posted"], reverse=True)
