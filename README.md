@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 270 New Grad Roles by Category
+### Browse 269 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (188)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (187)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (4)
 
@@ -1212,13 +1212,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Engineer I - Hardware Test</td>
 <td style="padding: 8px; vertical-align: top;">Dallas, TX</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://jobs.lever.co/shieldai/38178f1e-34c5-481d-9914-c18a2263776f/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/72c508d4-e623-4eb8-bec5-752f6f35f948?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">1mo</td>
-</tr>
-<tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Silvus-Tech?utm_source=GHList&utm_medium=company">Silvus Technologies</a></strong></td>
-<td style="padding: 8px; vertical-align: top;">Software Engineer I - Sqa 🇺🇸</td>
-<td style="padding: 8px; vertical-align: top;">Los Angeles, CA</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://job-boards.greenhouse.io/silvus/jobs/4772754008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7c0aac85-3ba5-4b5a-9b5c-f61d49a8a8d5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">1mo</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
