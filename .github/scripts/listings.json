@@ -21961,5 +21961,23 @@
         "date_posted": 1755679539,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755679604,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://lifeattiktok.com/search/7535871317771634952",
+        "company_name": "TikTok",
+        "title": "Software Engineer Graduate (Data Arch - E-commerce)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "90398c2a-fcf6-451a-bdf4-26457fa5e700",
+        "date_posted": 1755679604,
+        "company_url": "",
+        "is_visible": true
     }
 ]
