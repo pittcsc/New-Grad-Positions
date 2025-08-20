@@ -21887,5 +21887,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1755679391,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://lifeattiktok.com/search/7538571931517159698",
+        "company_name": "TikTok",
+        "title": "Special Project Strategist Graduate (TikTok Shop - Operations)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "965f400a-651f-4dac-afd9-b62bb7db814d",
+        "date_posted": 1755679391,
+        "company_url": "",
+        "is_visible": true
     }
 ]
