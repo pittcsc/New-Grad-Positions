@@ -6,11 +6,11 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 262 New Grad Roles by Category
+### Browse 264 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (182)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (183)
 
-📱 **[Product Management](#-product-management-new-grad-roles)** (3)
+📱 **[Product Management](#-product-management-new-grad-roles)** (4)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (33)
 
@@ -99,6 +99,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Engineer – New Grad - Infrastructure</td>
 <td style="padding: 8px; vertical-align: top;">Palo Alto, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f6850684-a28a-4529-9beb-dae520fc4db7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;">↳</td>
+<td style="padding: 8px; vertical-align: top;">Software Engineer – New Grad - Production Infrastructure</td>
+<td style="padding: 8px; vertical-align: top;">Washington, DC</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2da60465-c35e-418c-ba70-4bdf052f70b7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
@@ -2193,6 +2200,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;"><strong>San Jose, CA</strong></td>
+<td style="padding: 8px; vertical-align: top;">Product Manager Ads Measurement Graduate (Measurement Signal and Privacy Product)</td>
+<td style="padding: 8px; vertical-align: top;">San Jose, CA</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://lifeattiktok.com/search/7538903496654407943?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+</tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">🔥 TikTok</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Product Manager Ads Attribution and Measurement Graduate (Measurement Signal and Privacy Product)</td>
