@@ -20778,7 +20778,7 @@
         "company_name": "Chord Energy",
         "id": "141524f2-adf7-4b47-afb9-4115336e9871",
         "title": "Junior Data Engineer Azure",
-        "active": true,
+        "active": false,
         "date_updated": 1755566527,
         "date_posted": 1755566527,
         "url": "https://chordenergy.wd1.myworkdayjobs.com/external/job/Houston-TX---Corporate/Junior-Data-Engineer-Azure_R0002251-1",
@@ -21867,5 +21867,25 @@
         "date_posted": 1755678204,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "f6850684-a28a-4529-9beb-dae520fc4db7",
+        "title": "Software Engineer \u2013 New Grad - Infrastructure",
+        "active": true,
+        "date_updated": 1755620301,
+        "date_posted": 1755620301,
+        "url": "https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
