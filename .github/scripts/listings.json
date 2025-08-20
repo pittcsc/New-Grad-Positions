@@ -20110,7 +20110,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755248003,
+        "date_updated": 1755700545,
         "url": "https://choicehotels.wd5.myworkdayjobs.com/en-US/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R20319",
         "company_name": "Choice Hotels",
         "title": "Software Engineer 1",
@@ -20123,7 +20123,8 @@
         "id": "3f0f5467-e6ba-4022-827d-b00079622b4e",
         "date_posted": 1755248003,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "source": "Simplify",
