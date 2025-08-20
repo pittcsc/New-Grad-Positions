@@ -90,13 +90,13 @@ def getLink(listing):
     # return f'<a href="{link}" style="display: inline-block;"><img src="{SHORT_APPLY_BUTTON}" width="160" alt="Apply"></a>'
 
     if listing["source"] != "Simplify":
-        return f'<div align="center"><a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="100" alt="Apply"></a></div>'
+        return f'<a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="100" alt="Apply"></a>'
     
     simplifyLink = f"https://simplify.jobs/p/{listing['id']}?utm_source=GHList"
     return (
         f'<div align="center">'
-        f'<a href="{link}"><img src="{SHORT_APPLY_BUTTON}" width="62" alt="Apply"></a> '
-        f'<a href="{simplifyLink}"><img src="{SQUARE_SIMPLIFY_BUTTON}" width="34" alt="Simplify"></a>'
+        f'<a href="{link}"><img src="{SHORT_APPLY_BUTTON}" width="52" alt="Apply"></a> '
+        f'<a href="{simplifyLink}"><img src="{SQUARE_SIMPLIFY_BUTTON}" width="28" alt="Simplify"></a>'
         f'</div>'
     )
     
