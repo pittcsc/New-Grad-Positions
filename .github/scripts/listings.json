@@ -21849,5 +21849,23 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "date_updated": 1755678204,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://joinbytedance.com/search/7265752342699837757",
+        "company_name": "ByteDance",
+        "title": "Software Engineer in ML Systems Graduate",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "5126455e-2afb-4721-93a6-5a581944cad8",
+        "date_posted": 1755678204,
+        "company_url": "",
+        "is_visible": true
     }
 ]
