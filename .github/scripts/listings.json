@@ -17373,7 +17373,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1754358986,
+        "date_updated": 1755651954,
         "url": "https://www.nuro.ai/careersitem?gh_jid=6932596",
         "company_name": "Nuro",
         "title": "Software Engineer, Autonomy",
@@ -17386,7 +17386,8 @@
         "id": "65523d2c-ea44-4d52-840f-edd8f42982ed",
         "date_posted": 1754358986,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1754359170,
