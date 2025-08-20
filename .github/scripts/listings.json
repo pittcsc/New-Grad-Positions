@@ -21979,5 +21979,23 @@
         "date_posted": 1755679604,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755679741,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://lifeattiktok.com/search/7538319953965287698",
+        "company_name": "TikTok",
+        "title": "Software Engineer Graduate (Video-on-Demand Algorithm)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "75920be8-ade4-4f0c-a176-9c4fd6f78005",
+        "date_posted": 1755679741,
+        "company_url": "",
+        "is_visible": true
     }
 ]
