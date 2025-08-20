@@ -20826,7 +20826,7 @@
         "company_name": "The Travelers Companies",
         "id": "f0c28371-b210-4c4e-bbc2-48c6aa38ea82",
         "title": "Software Engineer I - Enterprise AI for Operations - Aws - Python",
-        "active": true,
+        "active": false,
         "date_updated": 1755570176,
         "date_posted": 1755570176,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---Enterprise-AI-for-Operations--AWS--Python-_R-45303-1",
@@ -22200,5 +22200,25 @@
         "date_posted": 1755715864,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "6dbc0e6d-49c8-40fd-a45d-f89656de5adf",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1755704896,
+        "date_posted": 1755704896,
+        "url": "https://careers-peraton.icims.com/jobs/159132/job",
+        "locations": [
+            "King George County, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
