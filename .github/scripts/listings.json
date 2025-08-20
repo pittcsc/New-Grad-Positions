@@ -22077,5 +22077,23 @@
         "date_posted": 1755680196,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755680335,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/jerry.ai/5ce23dea-de2e-4c6d-9556-3c5314d721f7",
+        "company_name": "Jerry",
+        "title": "Software Engineer I",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "9c0294b2-2563-4038-a8ed-7d1825f843c9",
+        "date_posted": 1755680335,
+        "company_url": "",
+        "is_visible": true
     }
 ]
