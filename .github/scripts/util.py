@@ -112,10 +112,34 @@ def mark_stale_listings(listings):
 def filter_active(listings):
     return [listing for listing in listings if listing.get("active", False)]
 
+def convert_markdown_to_html(text):
+    """Convert basic markdown formatting to HTML for use in HTML tables"""
+    if not text:
+        return text
+    
+    # Convert **bold** to <strong>bold</strong>
+    text = re.sub(r'\*\*(.*?)\*\*', r'<strong>\1</strong>', text)
+    
+    # Convert [link text](url) to <a href="url">link text</a>
+    text = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', r'<a href="\2">\1</a>', text)
+    
+    return text
+
 def create_md_table(listings):
     table = ""
-    table = "| Company | Role | Location | Application | Age |\n"
-    table += "| ------- | ---- | -------- | ---------- | --- |\n"
+    # Use HTML table with CSS for better width control and spacing
+    # This provides much better column width control than markdown tables
+    table = '<table style="width: 100%; border-collapse: collapse;">\n'
+    table += '<thead>\n'
+    table += '<tr>\n'
+    table += '<th style="width: 25%; min-width: 200px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Company</th>\n'
+    table += '<th style="width: 30%; min-width: 250px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Role</th>\n'
+    table += '<th style="width: 20%; min-width: 150px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Location</th>\n'
+    table += '<th style="width: 15%; min-width: 120px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Application</th>\n'
+    table += '<th style="width: 10%; min-width: 80px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Age</th>\n'
+    table += '</tr>\n'
+    table += '</thead>\n'
+    table += '<tbody>\n'
     prev_company = None
     prev_days_active = None
 
@@ -176,8 +200,21 @@ def create_md_table(listings):
             prev_company = company_name
             prev_days_active = days_active
 
-        table += f"| {company} | {position} | {location} | {link} | {days_display} |\n"
+        # Convert markdown formatting to HTML for proper rendering in HTML tables
+        company_html = convert_markdown_to_html(company)
+        position_html = convert_markdown_to_html(position)
+        location_html = convert_markdown_to_html(location)
+        
+        table += '<tr style="border-bottom: 1px solid #eee;">\n'
+        table += f'<td style="padding: 8px; vertical-align: top;">{company_html}</td>\n'
+        table += f'<td style="padding: 8px; vertical-align: top;">{position_html}</td>\n'
+        table += f'<td style="padding: 8px; vertical-align: top;">{location_html}</td>\n'
+        table += f'<td style="padding: 8px; text-align: center; vertical-align: top;">{link}</td>\n'
+        table += f'<td style="padding: 8px; text-align: center; vertical-align: top;">{days_display}</td>\n'
+        table += '</tr>\n'
 
+    table += '</tbody>\n'
+    table += '</table>\n'
     return table
     
 
