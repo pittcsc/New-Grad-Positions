@@ -255,11 +255,10 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (115)</summary>
+<summary>🗃️ Inactive roles (114)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
-| **🔥 PayPal** | Software Engineer 🛂 | <details><summary>**5 locations**</summary>San Jose, CA</br>Chicago, IL</br>Scottsdale, AZ</br>Omaha, NE</br>Austin, TX</details> | 🔒 | 0d |
 | **[Mastercard](https://simplify.jobs/c/Mastercard?utm_source=GHList&utm_medium=company)** | Software Engineer I - Backend - Java | Vancouver, BC, Canada | 🔒 | 4d |
 | **[TekSynap](https://simplify.jobs/c/TekSynap?utm_source=GHList&utm_medium=company)** | Junior Software Developer | <details><summary>**11 locations**</summary>Kansas</br>Delaware</br>Iowa</br>Florida</br>Waterbury, CT</br>Georgia</br>Arizona</br>Virginia</br>Arkansas</br>United States</br>Idaho</details> | 🔒 | 4d |
 | **[BlueCross BlueShield of Tennessee](https://simplify.jobs/c/BlueCross-Blueshield-Of-Tennessee?utm_source=GHList&utm_medium=company)** | Associate Software Engineer I | Chattanooga, TN | 🔒 | 5d |
