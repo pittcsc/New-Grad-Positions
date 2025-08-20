@@ -12,13 +12,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (2)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (33)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (34)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (14)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (16)
 
-💼 **[Other](#-other-new-grad-roles)** (14)
+💼 **[Other](#-other-new-grad-roles)** (13)
 
 ---
 
@@ -417,7 +417,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **U.S. Venture** | Data Analyst I (Breakthrough) 🛂 | Green Bay, WI | <a href="https://usventure.wd1.myworkdayjobs.com/en-US/usvexternal/job/WI---Green-Bay/Data-Analyst-I--Breakthrough-_R3745?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 10d |
 | **🔥 Tesla** | Machine Learning Engineer, Model Optimization & Deployment, Optimus | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/247659?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 10d |
 | **[🔥 TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer - Search E-Commerce | Seattle, WA | <a href="https://lifeattiktok.com/search/7534641634584185095?spread=5MWH5CQ&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 11d |
-| ↳ | Machine Learning Engineer – University Graduate - E-Commerce Risk Control - Phd 🎓 | Seattle, WA | <div align="center"><a href="https://lifeattiktok.com/search/7389784303494580490?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/43b55bb4-bbef-4b71-a42b-26c7f9782f9a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 11d |
+| **🔥 NVIDIA** | Research Scientist, Robotics Research | Seattle, WA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research---New-College-Grad-2025_JR2001017?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 11d |
+| **[🔥 TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer – University Graduate - E-Commerce Risk Control - Phd 🎓 | Seattle, WA | <div align="center"><a href="https://lifeattiktok.com/search/7389784303494580490?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/43b55bb4-bbef-4b71-a42b-26c7f9782f9a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 11d |
 | ↳ | Machine Learning Engineer – University Graduate - E-Commerce Recommendation/Search Alliance - Phd 🎓 | Seattle, WA | <div align="center"><a href="https://lifeattiktok.com/search/7374538073428478259?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/075e3218-263c-4582-bebd-b74cc4567164?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 11d |
 | **[🔥 TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)** | Research Scientist - CV/NLP/Multimodal LLM, Trust and Safety - 2026 Start (BS/MS) | Seattle, WA | <a href="https://lifeattiktok.com/search/7530771170938865928?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 14d |
 | ↳ | Machine Learning Engineer (Lead Ads Technology) - 2026 Start (BS/MS) | San Jose, CA | <a href="https://lifeattiktok.com/search/7532240517976721671?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 14d |
@@ -553,7 +554,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Jump Trading** | Campus AI Researcher (Full-Time) | Chicago, IL</br>New York, NY | <a href="https://www.jumptrading.com/careers/7141658/?gh_jid=7141658&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 5d |
 | **CVS Health** | Associate Cloud Architect | Remote, TX | <a href="https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/TX---Work-from-home/Associate-Cloud-Architect_R0619090?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 7d |
 | **[🔥 TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)** | Product Security Engineer - Security Assurance | Seattle, WA | <a href="https://lifeattiktok.com/search/7533712518582503687?spread=5MWH5CQ&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 11d |
-| **🔥 NVIDIA** | Research Scientist, Robotics Research 🎓 | Seattle, WA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research---New-College-Grad-2025_JR2001017?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 11d |
 | **Goldman Sachs** | New Analyst | New York, NY | <a href="https://higher.gs.com/roles/150845?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 26d |
 
 
