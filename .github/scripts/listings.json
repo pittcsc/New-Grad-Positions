@@ -21905,5 +21905,23 @@
         "date_posted": 1755679391,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755679462,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://lifeattiktok.com/search/7538896306908252434",
+        "company_name": "TikTok",
+        "title": "Product Manager Ads Attribution and Measurement Graduate (Measurement Signal and Privacy Product)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Product Management",
+        "source": "AlmondCroffle",
+        "id": "574bd94c-c165-4457-8859-30736a707d18",
+        "date_posted": 1755679462,
+        "company_url": "",
+        "is_visible": true
     }
 ]
