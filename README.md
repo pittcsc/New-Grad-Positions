@@ -6,13 +6,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 268 New Grad Roles by Category
+### Browse 269 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (185)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (4)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (34)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (35)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (15)
 
@@ -155,7 +155,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Associate Software Engineer (AI-Native)</td>
 <td style="padding: 8px; vertical-align: top;">Boston, MA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://jobs.lever.co/robinpowered/5b7a72e0-480a-49b6-a4cf-78ee0c6b6ce9?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">1d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>Canonical</strong></td>
@@ -365,7 +365,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Engineer 1 🛂</td>
 <td style="padding: 8px; vertical-align: top;">Scottsdale, AZ</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://choicehotels.wd5.myworkdayjobs.com/en-US/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R20319?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">4d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">5d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>Disney</strong></td>
@@ -2268,6 +2268,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </thead>
 <tbody>
 <tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;"><strong>🔥 NVIDIA</strong></td>
+<td style="padding: 8px; vertical-align: top;">Deep Learning Software Engineer, FlashInfer</td>
+<td style="padding: 8px; vertical-align: top;">Santa Clara, CA</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--FlashInfer---New-College-Grad-2025_JR2002086?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Citadel-Securities?utm_source=GHList&utm_medium=company">Citadel Securities</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Machine Learning Researcher 🎓</td>
 <td style="padding: 8px; vertical-align: top;">Miami, FL</br>New York, NY</td>
@@ -3103,7 +3110,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Product Security Engineer</td>
 <td style="padding: 8px; vertical-align: top;">San Francisco, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://job-boards.greenhouse.io/chime/jobs/8101747002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">1d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>🔥 ByteDance</strong></td>

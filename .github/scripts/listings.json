@@ -22039,5 +22039,23 @@
         "date_posted": 1755679928,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755680085,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--FlashInfer---New-College-Grad-2025_JR2002086",
+        "company_name": "NVIDIA",
+        "title": "Deep Learning Software Engineer, FlashInfer",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "0ccd0f50-ffdd-45c8-a77f-ca8b053da9bc",
+        "date_posted": 1755680085,
+        "company_url": "",
+        "is_visible": true
     }
 ]
