@@ -255,11 +255,10 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (115)</summary>
+<summary>🗃️ Inactive roles (114)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ---------- | --- |
-| **Motorola Solutions** | Software Engineer | Schaumburg, IL</br>Chicago, IL | 🔒 | 0d |
 | **[Mastercard](https://simplify.jobs/c/Mastercard?utm_source=GHList&utm_medium=company)** | Software Engineer I - Backend - Java | Vancouver, BC, Canada | 🔒 | 4d |
 | **[TekSynap](https://simplify.jobs/c/TekSynap?utm_source=GHList&utm_medium=company)** | Junior Software Developer | <details><summary>**11 locations**</summary>Kansas</br>Delaware</br>Iowa</br>Florida</br>Waterbury, CT</br>Georgia</br>Arizona</br>Virginia</br>Arkansas</br>United States</br>Idaho</details> | 🔒 | 4d |
 | **[BlueCross BlueShield of Tennessee](https://simplify.jobs/c/BlueCross-Blueshield-Of-Tennessee?utm_source=GHList&utm_medium=company)** | Associate Software Engineer I | Chattanooga, TN | 🔒 | 5d |
@@ -559,6 +558,16 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **🔥 NVIDIA** | Research Scientist, Robotics Research 🎓 | Seattle, WA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research---New-College-Grad-2025_JR2001017?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 11d |
 | **Goldman Sachs** | New Analyst | New York, NY | <a href="https://higher.gs.com/roles/150845?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a> | 26d |
 
+
+<details>
+<summary>🗃️ Inactive roles (1)</summary>
+
+| Company | Role | Location | Application | Age |
+| ------- | ---- | -------- | ---------- | --- |
+| **Motorola Solutions** | Software Engineer | Schaumburg, IL</br>Chicago, IL | 🔒 | 0d |
+
+
+</details>
 
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
