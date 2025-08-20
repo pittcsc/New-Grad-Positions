@@ -22057,5 +22057,25 @@
         "date_posted": 1755680085,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755680196,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/whatnot/8ca77652-1248-41f4-9af1-07fc84d7f9f8",
+        "company_name": "Whatnot",
+        "title": "Software Engineer, Notifications Platform",
+        "locations": [
+            "San Francisco, CA",
+            "Los Angeles, CA",
+            "New York, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "3585fc63-d976-444f-8ea5-5469be8650b8",
+        "date_posted": 1755680196,
+        "company_url": "",
+        "is_visible": true
     }
 ]
