@@ -21810,5 +21810,23 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "date_updated": 1755651877,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d/apply?lever-source=LinkedIn",
+        "company_name": "Palantir",
+        "title": "Software Engineer, New Grad - Infrastructure",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "21b4895b-7a0f-43ac-87a8-c7e691ff3bf1",
+        "date_posted": 1755651877,
+        "company_url": "",
+        "is_visible": true
     }
 ]
