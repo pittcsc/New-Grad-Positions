@@ -22113,5 +22113,23 @@
         "date_posted": 1755680476,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755695312,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.oracle.com/en/sites/jobsearch/job/305127",
+        "company_name": "Oracle",
+        "title": "Undergrad Cloud Engineer - Full-time Intern Conversion",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "c9208f8f-dc58-4fe4-9de6-094f902912c3",
+        "date_posted": 1755695312,
+        "company_url": "",
+        "is_visible": true
     }
 ]
