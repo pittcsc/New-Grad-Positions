@@ -22095,5 +22095,23 @@
         "date_posted": 1755680335,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755680476,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.blizzard.com/global/en/job/BLENGLOBALR025871EXTERNALENGLOBAL/Graphics-Engineering-Intern",
+        "company_name": "Blizzard",
+        "title": "Graphics Engineering Intern",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "category": "Hardware Engineering",
+        "source": "AlmondCroffle",
+        "id": "25a9827d-9b37-4e21-a7e0-177d04c1eb8c",
+        "date_posted": 1755680476,
+        "company_url": "",
+        "is_visible": true
     }
 ]
