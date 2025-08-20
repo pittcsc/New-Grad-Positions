@@ -22163,5 +22163,24 @@
         "date_posted": 1755715550,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755715697,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.metacareers.com/jobs/812938290909042/",
+        "company_name": "Meta",
+        "title": "Software Engineer, Language - Wearables",
+        "locations": [
+            "Menlo Park, CA",
+            "New York, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "eed6971f-9231-4362-8879-2d953878f409",
+        "date_posted": 1755715697,
+        "company_url": "",
+        "is_visible": true
     }
 ]
