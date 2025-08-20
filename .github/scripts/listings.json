@@ -20535,7 +20535,7 @@
         "id": "3b2fc4f8-6b55-4895-9585-c325ced78ac1",
         "title": "Software Engineer I - Embedded Devices",
         "active": false,
-        "date_updated": 1755287553,
+        "date_updated": 1755700391,
         "date_posted": 1755287553,
         "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Chelmsford-MA/Software-Engineer-I---Embedded-Devices_R16418",
         "locations": [
@@ -20543,8 +20543,9 @@
             "Parsippany-Troy Hills, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Zoll",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Other",
+        "degrees": []
     },
     {
         "source": "Simplify",
