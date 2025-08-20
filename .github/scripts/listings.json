@@ -21997,5 +21997,26 @@
         "date_posted": 1755679741,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755679825,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-us/",
+        "company_name": "Citadel Securities",
+        "title": "Machine Learning Researcher",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "277edf04-e837-4d57-b6ed-3fa007c0df0e",
+        "date_posted": 1755679825,
+        "company_url": "",
+        "is_visible": true
     }
 ]
