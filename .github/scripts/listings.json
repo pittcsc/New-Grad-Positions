@@ -21923,5 +21923,25 @@
         "date_posted": 1755679462,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "2da60465-c35e-418c-ba70-4bdf052f70b7",
+        "title": "Software Engineer \u2013 New Grad - Production Infrastructure",
+        "active": true,
+        "date_updated": 1755620298,
+        "date_posted": 1755620298,
+        "url": "https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
