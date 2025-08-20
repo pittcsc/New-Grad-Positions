@@ -22182,5 +22182,23 @@
         "date_posted": 1755715697,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755715864,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1447850",
+        "company_name": "Cisco",
+        "title": "Software Engineer I",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "7d9d864f-1f8e-44e6-a4cb-24eaa5e18d50",
+        "date_posted": 1755715864,
+        "company_url": "",
+        "is_visible": true
     }
 ]
