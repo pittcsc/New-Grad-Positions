@@ -20663,7 +20663,7 @@
         "degrees": []
     },
     {
-        "date_updated": 1755418438,
+        "date_updated": 1755700504,
         "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Associate-Data-Analyst_10128347",
         "company_name": "Disney",
         "title": "Associate Data Analyst",
@@ -20676,7 +20676,8 @@
         "id": "4d0534a6-6d5b-46eb-b84d-35cb4a1559d2",
         "date_posted": 1755418438,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1755418638,
