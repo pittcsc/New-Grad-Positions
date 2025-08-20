@@ -22018,5 +22018,26 @@
         "date_posted": 1755679825,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755679928,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-us/",
+        "company_name": "Citadel Securities",
+        "title": "Quantitative Researcher \u2013 PhD Graduate",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "1c38f8d2-ca61-48f8-b39c-4025c97bf276",
+        "date_posted": 1755679928,
+        "company_url": "",
+        "is_visible": true
     }
 ]
