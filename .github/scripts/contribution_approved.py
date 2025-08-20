@@ -1,176 +1,283 @@
-import sys
 import json
-import subprocess
 import sys
 import uuid
 from datetime import datetime
-import os
+from typing import Union, Optional
 import util
 import re
 
+NO_ANSWER = {"", "no response", "_no response_", "none", "n/a", "na", "-"}
+YES_VALUES = {"yes", "y", "true", "open"}
+NO_VALUES  = {"no", "n", "false", "closed"}
+
+CATEGORY_MAPPING = {
+    "software engineering": "Software Engineering",
+    "software": "Software Engineering",
+    "product management": "Product Management", 
+    "product": "Product Management",
+    "data science, ai & machine learning": "Data Science, AI & Machine Learning",
+    "data science": "Data Science, AI & Machine Learning",
+    "ai": "Data Science, AI & Machine Learning",
+    "machine learning": "Data Science, AI & Machine Learning",
+    "quantitative finance": "Quantitative Finance",
+    "quant": "Quantitative Finance",
+    "hardware engineering": "Hardware Engineering",
+    "hardware": "Hardware Engineering",
+    "other": "Other",
+}
+
+def _clean(s: str) -> str:
+    return re.sub(r"[\s*_`]+", " ", s or "").strip()
+
+def _is_no_answer(s: str) -> bool:
+    return _clean(s).lower() in NO_ANSWER
+
+def _norm_category(raw: str) -> Optional[str]:
+    if _is_no_answer(raw):
+        return None
+    key = _clean(raw).lower()
+    return CATEGORY_MAPPING.get(key)
+
+def _parse_bool(raw: str) -> Optional[bool]:
+    if _is_no_answer(raw):
+        return None
+    val = _clean(raw).lower()
+    if val in YES_VALUES: return True
+    if val in NO_VALUES:  return False
+    return None
 
 def add_https_to_url(url):
     if not url.startswith(("http://", "https://")):
-        url = "https://" + url
+        url = f"https://{url}"
     return url
 
-
 def getData(body, is_edit, username):
+    lines = [text.strip("# ").strip() for text in re.split(r'[\n\r]+', body)]
     data = {"date_updated": int(datetime.now().timestamp())}
-    
-    # Use regex patterns to find fields instead of relying on line positions
-    
-    # URL/Link - look for the pattern after "Link to Job Posting"
-    url_match = re.search(r'Link to Job Posting[^\n]*\n\s*([^\n]+)', body, re.IGNORECASE)
-    if url_match and "no response" not in url_match.group(1).lower():
-        data["url"] = add_https_to_url(url_match.group(1).strip())
-    
-    # Company Name
-    company_match = re.search(r'Company Name[^\n]*\n\s*([^\n]+)', body, re.IGNORECASE)
-    if company_match and "no response" not in company_match.group(1).lower():
-        data["company_name"] = company_match.group(1).strip()
-    
-    # Job Title
-    title_match = re.search(r'Job Title[^\n]*\n\s*([^\n]+)', body, re.IGNORECASE)
-    if title_match and "no response" not in title_match.group(1).lower():
-        data["title"] = title_match.group(1).strip()
-    
-    # Location
-    location_match = re.search(r'Location[^\n]*\n\s*([^\n]+)', body, re.IGNORECASE)
-    if location_match and "no response" not in location_match.group(1).lower():
-        data["locations"] = [loc.strip() for loc in location_match.group(1).split("|")]
-    
-    # Category Selection
-    category_match = re.search(r'What category does this job belong to\?[^\n]*\n\s*([^\n]+)', body, re.IGNORECASE)
-    if category_match and "no response" not in category_match.group(1).lower():
-        category_text = category_match.group(1).strip()
-        # Map form selections to internal category names
-        category_mapping = {
-            "Software Engineering": "Software Engineering",
-            "Product Management": "Product Management", 
-            "Data Science, AI & Machine Learning": "Data Science, AI & Machine Learning",
-            "Quantitative Finance": "Quantitative Finance",
-            "Hardware Engineering": "Hardware Engineering",
-            "Other": "Other"
-        }
-        data["category"] = category_mapping.get(category_text, "Other")
-    
-    # Advanced Degree Requirements - look for checkbox
-    advanced_degree_pattern = r'Advanced Degree Requirements.*?\n.*?\[x\]'
-    advanced_degree_checked = bool(re.search(advanced_degree_pattern, body, re.IGNORECASE | re.DOTALL))
-    data["degrees"] = ["Master's"] if advanced_degree_checked else []
-    
-    # Sponsorship
-    sponsorship_match = re.search(r'Does this job offer sponsorship\?[^\n]*\n\s*([^\n]+)', body, re.IGNORECASE)
-    if sponsorship_match and "no response" not in sponsorship_match.group(1).lower():
-        data["sponsorship"] = "Other"
-        sponsorship_text = sponsorship_match.group(1)
-        for option in ["Offers Sponsorship", "Does Not Offer Sponsorship", "U.S. Citizenship is Required"]:
-            if option in sponsorship_text:
-                data["sponsorship"] = option
-    
-    # Active status
+
+    # Defaults for NEW only
+    if not is_edit:
+        data.update({
+            "sponsorship": "Offers Sponsorship",
+            "active": True,
+            "degrees": [],  # Bachelor's level (empty array)
+        })
+
+    def next_line_value(idx) -> str:
+        if idx + 1 >= len(lines):
+            return ""
+        next_line = lines[idx + 1].strip()
+        # If the next line is another header (starts with a word followed by colon or question mark),
+        # then this field was left empty in the YAML form
+        if next_line and (next_line.endswith("?") or next_line.endswith(":")):
+            return ""
+        # If it's clearly a section header, treat as empty
+        header_patterns = ["Company Name", "Job Title", "Location", "What category", "Does this", 
+                          "Is this", "Permanently remove", "Advanced Degree", 
+                          "Email associated", "Extra Notes", "Reason for"]
+        if any(pattern in next_line for pattern in header_patterns):
+            return ""
+        return next_line
+
+    # Track which fields were explicitly provided in the form
+    provided_fields = set()
+
+    for i, line in enumerate(lines):
+        # URL
+        if "Link to Job Posting" in line:
+            v = next_line_value(i)
+            if not _is_no_answer(v):
+                data["url"] = add_https_to_url(v)
+                provided_fields.add("url")
+
+        # Company
+        elif "Company Name" in line:
+            v = next_line_value(i)
+            if not _is_no_answer(v):
+                data["company_name"] = _clean(v)
+                provided_fields.add("company_name")
+
+        # Title
+        elif "Job Title" in line:
+            v = next_line_value(i)
+            if not _is_no_answer(v):
+                data["title"] = _clean(v)
+                provided_fields.add("title")
+
+        # Locations
+        elif "Location" in line and "Email" not in line:
+            v = next_line_value(i)
+            if not _is_no_answer(v):
+                data["locations"] = [ _clean(loc) for loc in v.split("|") if _clean(loc) ]
+                provided_fields.add("locations")
+
+        # Sponsorship
+        elif "Does this job offer sponsorship?" in line:
+            v = next_line_value(i)
+            if not _is_no_answer(v):
+                data["sponsorship"] = "Offers Sponsorship"  # Default to allowed
+                for option in ["Offers Sponsorship", "Does Not Offer Sponsorship", "U.S. Citizenship is Required", "Other"]:
+                    if option.lower() in v.lower():
+                        data["sponsorship"] = option
+                        break
+                provided_fields.add("sponsorship")
+
+        # Active (edit/new variants)
+        elif ("Is this job posting currently accepting applications?" in line):
+            v = next_line_value(i)
+            ans = _parse_bool(v)
+            if ans is not None:
+                data["active"] = ans
+                provided_fields.add("active")
+
+        # Category
+        elif "What category does this job belong to?" in line:
+            v = next_line_value(i)
+            cat = _norm_category(v)
+            if cat is not None:
+                data["category"] = cat
+                provided_fields.add("category")
+
+        # Advanced degree
+        elif "Advanced Degree Requirements" in line:
+            checked = False
+            provided = False
+            if i + 1 < len(lines):
+                val = lines[i + 1].strip().lower()
+                # Only consider it provided if there's actual checkbox content
+                if "[x]" in val or "[ ]" in val:
+                    provided = True
+                    checked = "[x]" in val
+            if provided:
+                data["degrees"] = ["Master's"] if checked else []
+                provided_fields.add("degrees")
+
+        # Email
+        elif "Email associated with your GitHub account" in line:
+            v = next_line_value(i)
+            email = v if v else "_no response_"
+            if not _is_no_answer(email):
+                util.setOutput("commit_email", email)
+                util.setOutput("commit_username", username)
+            else:
+                util.setOutput("commit_email", "action@github.com")
+                util.setOutput("commit_username", "GitHub Action")
+
+    # Handle removal checkbox for edits
     if is_edit:
-        active_pattern = r'Is this job posting currently accepting applications\?[^\n]*\n\s*([^\n]+)'
-    else:
-        active_pattern = r'Is this job posting currently accepting applications\?[^\n]*\n\s*([^\n]+)'
-    
-    active_match = re.search(active_pattern, body, re.IGNORECASE)
-    if active_match:
-        response_text = active_match.group(1).lower()
-        if "none" not in response_text and "no response" not in response_text:
-            data["active"] = "yes" in response_text
-        # If "none" or "no response", don't set active field - let downstream handle default
-    # If no match found, don't set active field - let downstream handle default
-    
-    # Visibility (for edits only)
-    if is_edit:
-        remove_pattern = r'Permanently remove this job from the list\?.*?\n.*?\[x\]'
-        should_remove = bool(re.search(remove_pattern, body, re.IGNORECASE | re.DOTALL))
-        data["is_visible"] = not should_remove
-    
-    # Email
-    email_match = re.search(r'Email associated with your GitHub account[^\n]*\n\s*([^\n]+)', body, re.IGNORECASE)
-    email = "_no response_"
-    if email_match:
-        email = email_match.group(1).strip()
-    
-    if "no response" not in email.lower():
-        util.setOutput("commit_email", email)
-        util.setOutput("commit_username", username)
-    else:
-        util.setOutput("commit_email", "action@github.com")
-        util.setOutput("commit_username", "GitHub Action")
-    
+        for i, line in enumerate(lines):
+            if "Permanently remove this job from the list?" in line:
+                if i + 1 < len(lines):
+                    data["is_visible"] = "[x]" not in lines[i + 1].lower()
+                    provided_fields.add("is_visible")
+                break
+
+    # If NEW and category still not set, try classifier or fallback
+    if not is_edit and "category" not in data:
+        if "title" in data:
+            try:
+                data["category"] = util.classifyJobCategory(data) or "Other"
+            except Exception:
+                data["category"] = "Other"
+        else:
+            data["category"] = "Other"
+        provided_fields.add("category")
+
+    # Store which fields were provided for selective updates in edits
+    data["_provided_fields"] = provided_fields
+
     return data
 
 
 def main():
-    event_file_path = sys.argv[1]
+    try:
+        event_file_path = sys.argv[1]
 
-    with open(event_file_path) as f:
-        event_data = json.load(f)
+        with open(event_file_path) as f:
+            event_data = json.load(f)
+    except Exception as e:
+        util.fail(f"Failed to read event file: {str(e)}")
+        return
 
-    
-    # CHECK IF NEW OR OLD JOB
+    try:
+        # CHECK IF NEW OR OLD JOB
+        new_role = "new_role" in [label["name"] for label in event_data["issue"]["labels"]]
+        edit_role = "edit_role" in [label["name"] for label in event_data["issue"]["labels"]]
 
-    new_role = "new_role" in [label["name"] for label in event_data["issue"]["labels"]]
-    edit_role = "edit_role" in [label["name"] for label in event_data["issue"]["labels"]]
-    
-    if not new_role and not edit_role:
-        util.fail("Only new_role and edit_role issues can be approved")
-    
+        if not new_role and not edit_role:
+            util.fail("Only new_role and edit_role issues can be approved")
+            return
 
-    # GET DATA FROM ISSUE FORM
+        # GET DATA FROM ISSUE FORM
+        issue_body = event_data['issue']['body']
+        issue_user = event_data['issue']['user']['login']
 
-    issue_body = event_data['issue']['body']
-    issue_user = event_data['issue']['user']['login']
+        data = getData(issue_body, is_edit=edit_role, username=issue_user)
+    except Exception as e:
+        util.fail(f"Error processing issue data: {str(e)}")
+        return
 
-    data = getData(issue_body, is_edit=edit_role, username=issue_user)
-    
     if new_role:
         data["source"] = issue_user
         data["id"] = str(uuid.uuid4())
         data["date_posted"] = int(datetime.now().timestamp())
         data["company_url"] = ""
         data["is_visible"] = True
-        # degrees field is already set by getData() based on form input
-        
-        # Ensure new jobs are active by default if not specified
-        if "active" not in data:
-            data["active"] = True
 
     # remove utm-source
-    utm = data["url"].find("?utm_source")
-    if utm == -1:
-        utm = data["url"].find("&utm_source")
-    if utm != -1:
-        data["url"] = data["url"][:utm]
+    if "url" in data:
+        utm = data["url"].find("?utm_source")
+        if utm == -1:
+            utm = data["url"].find("&utm_source")
+        if utm != -1:
+            data["url"] = data["url"][:utm]
 
+    # Remove the internal tracking field before saving
+    provided_fields = data.pop("_provided_fields", set())
 
     # UPDATE LISTINGS
+    def get_commit_text(listing):
+        closed_text = "" if listing["active"] else "(Closed)"
+        sponsorship_text = "" if listing["sponsorship"] == "Other" else ("(" + listing["sponsorship"] + ")")
+        parts = [listing["title"].strip(), "at", listing["company_name"].strip()]
+        if closed_text:
+            parts.append(closed_text)
+        if sponsorship_text:
+            parts.append(sponsorship_text)
+        listing_text = " ".join(parts)
+        return listing_text
 
-    listings = []
-    with open(".github/scripts/listings.json", "r") as f:
-        listings = json.load(f)
+    try:
+        with open(".github/scripts/listings.json", "r") as f:
+            listings = json.load(f)
 
-    listing_to_update = next(
-        (item for item in listings if item["url"] == data["url"]), None)
-    if listing_to_update:
-        if new_role:
-            util.fail("This role is already in our list. See CONTRIBUTING.md for how to edit a listing")
-        for key, value in data.items():
-            listing_to_update[key] = value
-        
-        util.setOutput("commit_message", "updated listing: " + listing_to_update["title"] + " at " + listing_to_update["company_name"])
-    else:
-        if edit_role:
-            util.fail("We could not find this role in our list. Please double check you inserted the right url")
-        listings.append(data)
-        util.setOutput("commit_message", "added listing: " + data["title"] + " at " + data["company_name"])
+        if listing_to_update := next(
+            (item for item in listings if item["url"] == data["url"]), None
+        ):
+            if new_role:
+                util.fail("This job is already in our list. See CONTRIBUTING.md for how to edit a listing")
+                return
+            
+            # Only update fields that were explicitly provided in the edit form
+            # This preserves existing category, degrees, sponsorship, etc. when not updated
+            for key, value in data.items():
+                if key in provided_fields or key in ["date_updated"]:  # Always update date_updated
+                    listing_to_update[key] = value
 
-    with open(".github/scripts/listings.json", "w") as f:
-        f.write(json.dumps(listings, indent=4))
+            util.setOutput("commit_message", "updated listing: " + get_commit_text(listing_to_update))
+        else:
+            if edit_role:
+                util.fail("We could not find this job in our list. Please double check you inserted the right url")
+                return
+            listings.append(data)
+
+            util.setOutput("commit_message", "added listing: " + get_commit_text(data))
+
+        with open(".github/scripts/listings.json", "w") as f:
+            f.write(json.dumps(listings, indent=4))
+    except Exception as e:
+        util.fail(f"Error updating listings: {str(e)}")
+        return
 
 
 if __name__ == "__main__":
