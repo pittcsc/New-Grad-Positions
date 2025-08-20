@@ -18410,20 +18410,24 @@
         "is_visible": false
     },
     {
-        "date_updated": 1754650390,
+        "date_updated": 1755640334,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research---New-College-Grad-2025_JR2001017",
         "company_name": "NVIDIA",
         "title": "Research Scientist, Robotics Research",
         "locations": [
             "Seattle, WA"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "20e564c1-72f3-4cbb-af1c-91cd9e5e6ea9",
         "date_posted": 1754650390,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Other",
+        "degrees": [
+            "Master's"
+        ]
     },
     {
         "date_updated": 1754676244,
@@ -18708,20 +18712,24 @@
         "is_visible": false
     },
     {
-        "date_updated": 1754748517,
+        "date_updated": 1755645192,
         "url": "https://job-boards.greenhouse.io/celonis/jobs/6616403003",
         "company_name": "Celonis",
         "title": "Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program",
         "locations": [
             "New York, NY"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "ff7b6269-b3e1-4e8c-bcb1-6d796c23b551",
         "date_posted": 1754748517,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "category": "Other",
+        "degrees": [
+            "Master's"
+        ]
     },
     {
         "date_updated": 1754748680,
@@ -20606,7 +20614,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755639946,
+        "date_updated": 1755640212,
         "url": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Virginia-United-States/Junior-Computational-Linguist_R0031051-4",
         "company_name": "Harris",
         "title": "Junior Computational Linguist",
@@ -21037,7 +21045,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755594236,
+        "date_updated": 1755645644,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Entry-Level-Software-Engineer_R56026",
         "company_name": "Motorola Solutions",
         "title": "Software Engineer",
@@ -21045,13 +21053,15 @@
             "Schaumburg, IL",
             "Chicago, IL"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "bd8ad9d6-a0f4-4e02-82e2-77698da41b4b",
         "date_posted": 1755594236,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Other",
+        "degrees": []
     },
     {
         "date_updated": 1755615074,
