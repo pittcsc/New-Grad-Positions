@@ -1,53 +1,5 @@
 [
     {
-        "date_updated": 1724644330,
-        "url": "https://job-boards.greenhouse.io/verkada/jobs/4471879007",
-        "company_name": "Verkada",
-        "title": "Android Software Engineer - University Graduate 2025",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "997abd09-0ef6-4294-8f9c-3eb13c140d5d",
-        "date_posted": 1724644330,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1724644343,
-        "url": "https://job-boards.greenhouse.io/verkada/jobs/4471600007",
-        "company_name": "Verkada",
-        "title": "Backend Software Engineer - University Graduate 2025",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "b1e713f6-649e-4469-a8ba-9c8c2fcb2452",
-        "date_posted": 1724644343,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1724644356,
-        "url": "https://job-boards.greenhouse.io/verkada/jobs/4482613007",
-        "company_name": "Verkada",
-        "title": "Security Software Engineer - University Graduate 2025",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "65cf0972-b733-480a-8a9f-f83c6c590ec1",
-        "date_posted": 1724644356,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1724708535,
         "url": "https://job-boards.greenhouse.io/verkada/jobs/4471860007",
         "company_name": "Verkada",
@@ -19109,7 +19061,7 @@
         "company_name": "Broadcom Limited",
         "id": "45d26c7a-c9d3-4ac2-a788-03830aab0c0c",
         "title": "Entry level Mainframe Software Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1755589622,
         "date_posted": 1755033597,
         "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Entry-level-Mainframe-Software-Development-Engineer_R023538",
