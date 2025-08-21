@@ -22433,5 +22433,23 @@
         "date_posted": 1755784137,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755784282,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-cellularsales.icims.com/jobs/19001/junior-data-engineer/job",
+        "company_name": "Cellular Sales",
+        "title": "Junior Data Engineer",
+        "locations": [
+            "Knoxville, TN"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "2c441054-4f95-44a3-a992-4671d6a665ba",
+        "date_posted": 1755784282,
+        "company_url": "",
+        "is_visible": true
     }
 ]
