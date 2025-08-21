@@ -22415,5 +22415,23 @@
         "date_posted": 1755783764,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755784137,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Sunnyvale-CA/XMLNAME-2025-Intern-Conversion--2026-FT-Data-Scientist-III---Sunnyvale--CA_R-2251073",
+        "company_name": "Walmart",
+        "title": "Data Scientist III",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "71a5aff3-fcb0-4f8d-9139-b4876ad9d52b",
+        "date_posted": 1755784137,
+        "company_url": "",
+        "is_visible": true
     }
 ]
