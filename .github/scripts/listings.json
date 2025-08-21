@@ -22402,5 +22402,23 @@
         "date_posted": 1755784282,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755817792,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.tesla.com/careers/search/job/247062",
+        "company_name": "Tesla",
+        "title": "Software Engineer, Communications Platform",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "6705097a-a8ec-4610-906e-063d10520f69",
+        "date_posted": 1755817792,
+        "company_url": "",
+        "is_visible": true
     }
 ]
