@@ -15649,7 +15649,7 @@
         "id": "be06c7f9-8d6c-4516-8f37-cb90fa6016b7",
         "title": "Mthree \u2013 Junior Software Engineer",
         "active": false,
-        "date_updated": 1752776886,
+        "date_updated": 1755816050,
         "date_posted": 1752776886,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4401897006",
         "locations": [
@@ -15657,8 +15657,9 @@
             "Liverpool, UK"
         ],
         "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Other",
+        "degrees": []
     },
     {
         "source": "Simplify",
