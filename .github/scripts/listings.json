@@ -22184,7 +22184,7 @@
         "id": "843e7e1f-edb9-4bdb-92a1-a9c83114942d",
         "title": "2026 University Graduate - Product Manager",
         "active": true,
-        "date_updated": 1755705643,
+        "date_updated": 1755794271,
         "date_posted": 1755705643,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Product-Manager_R158631",
         "locations": [
@@ -22192,12 +22192,9 @@
             "Lehi, UT"
         ],
         "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
