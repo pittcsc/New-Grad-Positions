@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 272 New Grad Roles by Category
+### Browse 271 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (184)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (183)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (5)
 
@@ -141,13 +141,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Engineer 🇺🇸</td>
 <td style="padding: 8px; vertical-align: top;">New York, NY</br>Los Angeles, CA</br>Austin, TX</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://jobs.lever.co/nominal/cc79d7f9-93b9-4410-8435-d92d2f427215?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
-</tr>
-<tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Peraton?utm_source=GHList&utm_medium=company">Peraton</a></strong></td>
-<td style="padding: 8px; vertical-align: top;">Junior Software Engineer</td>
-<td style="padding: 8px; vertical-align: top;">King George County, VA</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://careers-peraton.icims.com/jobs/159132/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6dbc0e6d-49c8-40fd-a45d-f89656de5adf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
@@ -659,7 +652,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">ITSM IT Security Engineer I 🇺🇸</td>
 <td style="padding: 8px; vertical-align: top;">Washington, DC</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://jobs.smartrecruiters.com/prosidianconsulting/743999691677974?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/847cf082-1f75-43bb-9b76-0943ab77d698?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">8d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">9d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>Remodel Health</strong></td>
@@ -743,14 +736,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Engineering, Associate 🇺🇸</td>
 <td style="padding: 8px; vertical-align: top;">Herndon, VA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://careers-peraton.icims.com/jobs/158789/software-engineering%2c-associate/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">11d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">12d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>Moog</strong></td>
 <td style="padding: 8px; vertical-align: top;">Associate Software Engineer 🇺🇸</td>
 <td style="padding: 8px; vertical-align: top;">Torrance, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Torrance-CA/Eng--Assc_R-25-13250?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">11d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">12d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Databricks?utm_source=GHList&utm_medium=company">🔥 Databricks</a></strong></td>
@@ -1373,7 +1366,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (121)</summary>
+<summary>🗃️ Inactive roles (122)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -1386,6 +1379,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Peraton?utm_source=GHList&utm_medium=company">Peraton</a></strong></td>
+<td style="padding: 8px; vertical-align: top;">Junior Software Engineer</td>
+<td style="padding: 8px; vertical-align: top;">King George County, VA</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+</tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Travelers?utm_source=GHList&utm_medium=company">The Travelers Companies</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer I - Enterprise AI for Operations - Aws - Python</td>
@@ -2284,7 +2284,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Associate Product Manager – New Grad - 2026 Start</td>
 <td style="padding: 8px; vertical-align: top;">SF</br>Bellevue, WA</br>Mountain View, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=7586263002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ca23bb6b-38c7-49e5-8890-cce71a429db4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">8d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">9d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">🔥 TikTok</a></strong></td>
@@ -2442,28 +2442,28 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">AI/ML Research Associate 🇺🇸</td>
 <td style="padding: 8px; vertical-align: top;">Hampton, VA</br>Remote</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Hampton-VA/AI-ML-Research-Associate_R-100359?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">8d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">9d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>The Home Depot</strong></td>
 <td style="padding: 8px; vertical-align: top;">Associate Data Scientist - MET 🛂</td>
 <td style="padding: 8px; vertical-align: top;">Atlanta, GA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---MET_Req153698-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">8d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">9d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Databricks?utm_source=GHList&utm_medium=company">🔥 Databricks</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Data Scientist</td>
 <td style="padding: 8px; vertical-align: top;">Mountain View, CA</br>San Francisco, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://www.databricks.com/company/careers/university-recruiting/data-scientist---new-grad-2026-start-6866554002?gh_jid=6866554002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">8d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">9d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>U.S. Venture</strong></td>
 <td style="padding: 8px; vertical-align: top;">Data Analyst I (Breakthrough) 🛂</td>
 <td style="padding: 8px; vertical-align: top;">Green Bay, WI</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://usventure.wd1.myworkdayjobs.com/en-US/usvexternal/job/WI---Green-Bay/Data-Analyst-I--Breakthrough-_R3745?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">11d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">12d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>🔥 Tesla</strong></td>
