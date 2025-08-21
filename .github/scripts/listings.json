@@ -20975,7 +20975,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755594048,
+        "date_updated": 1755783490,
         "url": "https://www.housecallpro.com/careers/open-positions/?gh_jid=5620132004",
         "company_name": "Housecall Pro",
         "title": "Graduate AI Solutions Specialist",
@@ -20988,7 +20988,9 @@
         "id": "045c2077-c022-468c-a58d-57473b79b1e6",
         "date_posted": 1755594048,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Data Science, AI & Machine Learning",
+        "degrees": []
     },
     {
         "date_updated": 1755651928,
