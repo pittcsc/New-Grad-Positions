@@ -15668,15 +15668,16 @@
         "id": "95c11534-435e-4340-91ba-12b9cac4c753",
         "title": "Junior Software Engineer",
         "active": false,
-        "date_updated": 1755270177,
+        "date_updated": 1755816068,
         "date_posted": 1752776886,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374347006",
         "locations": [
             "Multiple Locations, US"
         ],
         "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Other",
+        "degrees": []
     },
     {
         "source": "Simplify",
