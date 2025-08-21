@@ -13088,7 +13088,7 @@
         "company_name": "Chewy",
         "id": "904a6d2f-35f5-4628-a253-66e50a77d8f4",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1755588114,
         "date_posted": 1749368316,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6824705",
@@ -20594,7 +20594,7 @@
         "company_name": "SoFi",
         "id": "b9d94e6c-1a9a-4a79-a413-dfefe90329d3",
         "title": "New Grad \u2013 Fullstack Software Engineer - Home Loans",
-        "active": true,
+        "active": false,
         "date_updated": 1755590069,
         "date_posted": 1755292464,
         "url": "https://www.sofi.com/careers/sofi-university/6678813003?gh_jid=6678813003",
@@ -22322,6 +22322,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IXL Learning",
+        "id": "ea4aba99-157b-4794-9bcb-01d93b153fc0",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1755744352,
+        "date_posted": 1755744352,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=8128533002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
