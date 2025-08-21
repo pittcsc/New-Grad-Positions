@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 267 New Grad Roles by Category
+### Browse 268 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (185)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (186)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (5)
 
@@ -80,6 +80,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/IXL-Learning?utm_source=GHList&utm_medium=company">IXL Learning</a></strong></td>
+<td style="padding: 8px; vertical-align: top;">Software Engineer – New Grad</td>
+<td style="padding: 8px; vertical-align: top;">San Mateo, CA</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://www.ixl.com/company/jobs?gh_jid=8128533002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ea4aba99-157b-4794-9bcb-01d93b153fc0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+</tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Visa?utm_source=GHList&utm_medium=company">🔥 Visa</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer I</td>
@@ -942,11 +949,11 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; text-align: center; vertical-align: top;">15d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;">↳</td>
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">🔥 TikTok</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Backend Software Engineer, Trust and Safety - 2026 Start (BS/MS)</td>
 <td style="padding: 8px; vertical-align: top;">Seattle, WA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://lifeattiktok.com/search/7530752375372466439?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">15d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">16d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>MetroStar</strong></td>
@@ -2270,7 +2277,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Product Manager (TikTok-Product-Social and Creation) - 2025 Start (BS/MS)</td>
 <td style="padding: 8px; vertical-align: top;">San Jose, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://lifeattiktok.com/search/7400808756194461961?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">15d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">16d</td>
 </tr>
 </tbody>
 </table>
@@ -2442,14 +2449,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Machine Learning Engineer – University Graduate - E-Commerce Risk Control - Phd 🎓</td>
 <td style="padding: 8px; vertical-align: top;">Seattle, WA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://lifeattiktok.com/search/7389784303494580490?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/43b55bb4-bbef-4b71-a42b-26c7f9782f9a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">12d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">13d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;">↳</td>
 <td style="padding: 8px; vertical-align: top;">Machine Learning Engineer – University Graduate - E-Commerce Recommendation/Search Alliance - Phd 🎓</td>
 <td style="padding: 8px; vertical-align: top;">Seattle, WA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://lifeattiktok.com/search/7374538073428478259?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/075e3218-263c-4582-bebd-b74cc4567164?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">12d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">13d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">🔥 TikTok</a></strong></td>
@@ -2459,18 +2466,18 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; text-align: center; vertical-align: top;">15d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;">↳</td>
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">🔥 TikTok</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Machine Learning Engineer (Lead Ads Technology) - 2026 Start (BS/MS)</td>
 <td style="padding: 8px; vertical-align: top;">San Jose, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://lifeattiktok.com/search/7532240517976721671?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">15d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">16d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;">↳</td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer (Ads ML Infrastructure) - 2026 Start (BS/MS)</td>
 <td style="padding: 8px; vertical-align: top;">San Jose, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://lifeattiktok.com/search/7531158600791705874?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">15d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">16d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Qualtrics?utm_source=GHList&utm_medium=company">Qualtrics</a></strong></td>
