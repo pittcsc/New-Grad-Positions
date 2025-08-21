@@ -22397,5 +22397,23 @@
         "date_posted": 1755783671,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755783764,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/vailsys/aac4a828-c88d-4bc1-bf94-324e7ba4ddc9",
+        "company_name": "Vail",
+        "title": "Software Engineer, Test & Infrastructure I",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "dc62d753-3f12-42e1-898a-feeefb4a9a3d",
+        "date_posted": 1755783764,
+        "company_url": "",
+        "is_visible": true
     }
 ]
