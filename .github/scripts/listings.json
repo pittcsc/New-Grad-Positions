@@ -22361,5 +22361,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1755783594,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://pru.wd5.myworkdayjobs.com/en-US/careers/job/Newark-NJ-USA/PGIM-Quantitative-Solutions--Portfolio-Management-Investment-Associate--Hybrid-_R-121848-1",
+        "company_name": "Prudential Financial",
+        "title": "PGIM Quantitative Solutions, Portfolio Management Investment Associate",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "72a458a9-48e5-4faf-aeea-312610b06e62",
+        "date_posted": 1755783594,
+        "company_url": "",
+        "is_visible": true
     }
 ]
