@@ -147,22 +147,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Glean",
-        "id": "0da72647-f3bd-4a07-9f55-235f98d6c874",
-        "title": "Software Engineer \u2013 University Grad",
-        "active": false,
-        "date_updated": 1724714289,
-        "date_posted": 1724714289,
-        "url": "https://boards.greenhouse.io/gleanwork/jobs/4449298005",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Glean",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "esri",
         "id": "2096e16b-e911-4b5d-ae4a-d6a517d6e5c4",
         "title": "C++ Software Development Engineer I",
