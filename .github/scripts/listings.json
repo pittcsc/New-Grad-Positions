@@ -22344,5 +22344,46 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IXL Learning",
+        "id": "9a3ffe11-4ec8-4997-a925-aef4a12180b9",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1755745279,
+        "date_posted": 1755745279,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=8128544002",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Sierra Nevada Coporation",
+        "id": "4e1266dc-3177-4fd1-a869-64416d586c5b",
+        "title": "Cybersecurity Engineer I",
+        "active": true,
+        "date_updated": 1755745221,
+        "date_posted": 1755745221,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Cybersecurity-Engineer-I_R0027494",
+        "locations": [
+            "Sparks, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
