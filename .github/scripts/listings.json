@@ -20105,7 +20105,7 @@
         "company_name": "Worldpay",
         "id": "32c43aff-1817-4ef4-b468-87be33744449",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1755589902,
         "date_posted": 1755287341,
         "url": "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/US-OH-CIN-8500/Software-Engineer-I_JR0606637",
@@ -22332,6 +22332,26 @@
             "Sparks, NV"
         ],
         "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Electric Boat",
+        "id": "36deec29-ea02-40cd-8e84-bb1c17b42299",
+        "title": "Entry Level Embedded Software Engineer-Ship Control",
+        "active": true,
+        "date_updated": 1755751912,
+        "date_posted": 1755751912,
+        "url": "https://careers-gdeb.icims.com/jobs/15852/job",
+        "locations": [
+            "Groton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Electric-Boat",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
