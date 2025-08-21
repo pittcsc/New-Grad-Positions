@@ -22379,5 +22379,23 @@
         "date_posted": 1755783594,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755783671,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/blackrock_professional/job/New-York-NY/Associate--Quantitative-Modeler_R250300",
+        "company_name": "BlackRock",
+        "title": "Associate, Quantitative Modeler",
+        "locations": [
+            "New York, NY"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "e94289eb-46b2-411b-8766-7c206124d5fd",
+        "date_posted": 1755783671,
+        "company_url": "",
+        "is_visible": true
     }
 ]

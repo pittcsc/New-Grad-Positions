@@ -6,7 +6,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 268 New Grad Roles by Category
+### Browse 269 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (183)
 
@@ -14,7 +14,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (37)
 
-📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (16)
+📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (17)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (15)
 
@@ -2730,6 +2730,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;"><strong>BlackRock</strong></td>
+<td style="padding: 8px; vertical-align: top;">Associate, Quantitative Modeler</td>
+<td style="padding: 8px; vertical-align: top;">New York, NY</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://blackrock.wd1.myworkdayjobs.com/en-US/blackrock_professional/job/New-York-NY/Associate--Quantitative-Modeler_R250300?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+</tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>Prudential Financial</strong></td>
 <td style="padding: 8px; vertical-align: top;">PGIM Quantitative Solutions, Portfolio Management Investment Associate</td>
