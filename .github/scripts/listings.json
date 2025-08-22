@@ -22530,5 +22530,47 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "d8749eca-e9d4-4014-87e5-253cf8d840b1",
+        "title": "Mechanical/Hardware Engineer I Graduate",
+        "active": true,
+        "date_updated": 1755848537,
+        "date_posted": 1755848537,
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Mechanical-Hardware-Engineer-I-Graduate_1192943-1",
+        "locations": [
+            "Eau Claire, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "de9c535c-9de3-4b5a-befd-6a72f6f83500",
+        "title": "Mechanical/Hardware Engineer I Graduate",
+        "active": true,
+        "date_updated": 1755848329,
+        "date_posted": 1755848329,
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Mechanical-Hardware-Engineer-I-Graduate_1192926",
+        "locations": [
+            "Eau Claire, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
