@@ -22490,5 +22490,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "A Thinking Ape",
+        "id": "9b182656-b3aa-4fab-bee5-d7c03a3b473b",
+        "title": "Junior Software Development Engineer - Client",
+        "active": true,
+        "date_updated": 1755825605,
+        "date_posted": 1755825605,
+        "url": "https://job-boards.greenhouse.io/athinkingape/jobs/7183646",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/A-Thinking-Ape",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
