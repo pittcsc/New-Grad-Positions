@@ -22440,7 +22440,7 @@
         "company_name": "Themis Insight",
         "id": "59da117f-00da-4136-be5e-69cab4aceaac",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1755821890,
         "date_posted": 1755821890,
         "url": "https://themis-insight.breezy.hr/p/cb6be35e6c7f/apply",
@@ -22722,5 +22722,25 @@
         "date_posted": 1755890178,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Toyota Connected",
+        "id": "a9ccc1fd-d50f-40c1-964c-2f11a4961bda",
+        "title": "Machine Learning Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1755903055,
+        "date_posted": 1755903055,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=8133318002",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota-Connected",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
