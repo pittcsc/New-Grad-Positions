@@ -22666,5 +22666,23 @@
         "date_posted": 1755867884,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755867976,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.ixl.com/company/careers?gh_jid=8128533002",
+        "company_name": "IXL Learning",
+        "title": "Software Engineer",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "00e49bc2-fd9a-43db-8487-b87bddfe6cdb",
+        "date_posted": 1755867976,
+        "company_url": "",
+        "is_visible": true
     }
 ]
