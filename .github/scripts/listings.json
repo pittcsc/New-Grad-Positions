@@ -22684,5 +22684,23 @@
         "date_posted": 1755867976,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755868044,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Graduate_1192968-1",
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Cloud Engineer Graduate",
+        "locations": [
+            "Spring, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "b3da678d-f9c5-42d9-9e10-7dace527926e",
+        "date_posted": 1755868044,
+        "company_url": "",
+        "is_visible": true
     }
 ]
