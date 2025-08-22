@@ -22450,5 +22450,45 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KBR",
+        "id": "c32e5723-85c6-46f4-910a-6da9dab0d35c",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1755823676,
+        "date_posted": 1755823676,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Software-Engineer-I_R2111112",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cellular Sales",
+        "id": "92e74f26-5002-4900-bc4c-1b8275e33447",
+        "title": "Junior Data Engineer",
+        "active": true,
+        "date_updated": 1755823620,
+        "date_posted": 1755823620,
+        "url": "https://careers-cellularsales.icims.com/jobs/19001/job",
+        "locations": [
+            "Knoxville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cellular-Sales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
