@@ -22612,5 +22612,23 @@
         "date_posted": 1755867604,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755867683,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/Data-Scientist-I_R0059612",
+        "company_name": "GEICO",
+        "title": "Data Scientist I",
+        "locations": [
+            "Chevy Chase, MD"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "e43d6f34-7f3a-4b4c-a889-322180ddccb6",
+        "date_posted": 1755867683,
+        "company_url": "",
+        "is_visible": true
     }
 ]
