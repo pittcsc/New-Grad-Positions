@@ -18608,7 +18608,7 @@
         ]
     },
     {
-        "date_updated": 1754748680,
+        "date_updated": 1755872440,
         "url": "https://usventure.wd1.myworkdayjobs.com/en-US/usvexternal/job/WI---Green-Bay/Data-Analyst-I--Breakthrough-_R3745",
         "company_name": "U.S. Venture",
         "title": "Data Analyst I (Breakthrough)",
@@ -18621,7 +18621,8 @@
         "id": "bb95c23d-065b-4ae3-ab08-1db8a7deba5a",
         "date_posted": 1754748680,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1754755775,
