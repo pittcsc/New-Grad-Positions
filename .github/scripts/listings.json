@@ -22630,5 +22630,23 @@
         "date_posted": 1755867683,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755867770,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/Autonomy-Systems-Engineer-I---Early-Career_R54558-1",
+        "company_name": "Blue Origin",
+        "title": "Autonomy Systems Engineer I",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "category": "Hardware Engineering",
+        "source": "AlmondCroffle",
+        "id": "09d4250d-367c-413c-8906-32d823880b0e",
+        "date_posted": 1755867770,
+        "company_url": "",
+        "is_visible": true
     }
 ]
