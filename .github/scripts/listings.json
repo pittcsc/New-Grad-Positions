@@ -147,22 +147,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "esri",
-        "id": "2096e16b-e911-4b5d-ae4a-d6a517d6e5c4",
-        "title": "C++ Software Development Engineer I",
-        "active": false,
-        "date_updated": 1724717559,
-        "date_posted": 1724717559,
-        "url": "https://www.esri.com/careers/4470985007?gh_jid=4470985007",
-        "locations": [
-            "West Redlands, Redlands, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/3bc7a09e-e5f1-45e8-b26b-1d3c77588a00",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Wiley Edge",
         "id": "4e2587db-6361-4149-9d21-78c486d240f2",
         "title": "Junior Software Engineer",
