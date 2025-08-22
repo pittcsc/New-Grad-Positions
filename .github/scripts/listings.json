@@ -22648,5 +22648,23 @@
         "date_posted": 1755867770,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755867884,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/interfaceai/jobs/4571115006",
+        "company_name": "interface.ai",
+        "title": "Software Engineer I",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "fc3c1e14-c33b-4bab-ae8c-dab036a482b4",
+        "date_posted": 1755867884,
+        "company_url": "",
+        "is_visible": true
     }
 ]
