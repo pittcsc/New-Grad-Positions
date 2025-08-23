@@ -131,22 +131,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Vultr",
-        "id": "36743eb4-3dff-4e5a-a38d-2478ad5fa9d5",
-        "title": "Junior Software Engineer - PHP - Cloud Native",
-        "active": false,
-        "date_updated": 1724887332,
-        "date_posted": 1724887332,
-        "url": "https://job-boards.greenhouse.io/vultr/jobs/4392298006",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Vultr",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Wiley Edge",
         "id": "4e2587db-6361-4149-9d21-78c486d240f2",
         "title": "Junior Software Engineer",
