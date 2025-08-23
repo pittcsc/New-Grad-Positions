@@ -16820,7 +16820,7 @@
         "company_name": "IMEG",
         "id": "c2d7fcdd-c8fe-4c43-9dc1-de65608846a9",
         "title": "Full Stack Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1754002555,
         "date_posted": 1754002555,
         "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Las-Vegas-NV/Full-Stack-Software-Engineer-1--Remote-_R-14878",
@@ -22799,6 +22799,26 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SMX",
+        "id": "6b23b60f-9363-461b-bbe4-6b34cb94b487",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1755909353,
+        "date_posted": 1755909353,
+        "url": "https://www.smxtech.com/careers/?gh_jid=6689584003",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Smx",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
