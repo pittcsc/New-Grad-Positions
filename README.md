@@ -6,7 +6,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 277 New Grad Roles by Category
+### Browse 278 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (184)
 
@@ -16,7 +16,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (17)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (19)
+🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (20)
 
 💼 **[Other](#-other-new-grad-roles)** (11)
 
@@ -134,7 +134,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Engineer 1 - Linux/Python/Bash/HTML/Cypress/Pytest/Gitlab</td>
 <td style="padding: 8px; vertical-align: top;">Annapolis Junction, MD</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://job-boards.greenhouse.io/captivation/jobs/4892702008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/cb124379-04a6-406e-bef5-a9aaf7d455d7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">1d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>🔥 Tesla</strong></td>
@@ -1121,7 +1121,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Forward Deployed Software Engineer – New Grad</td>
 <td style="padding: 8px; vertical-align: top;">New York, NY</br>London, UK</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://jobs.ashbyhq.com/northslope-technologies/7ccd126f-b127-4526-87f1-57408919c30a/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/89c2d6f9-9f51-4296-809a-7e8207949cd5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">29d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">1mo</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/TripAdvisor?utm_source=GHList&utm_medium=company">TripAdvisor</a></strong></td>
@@ -1391,7 +1391,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Engineer 1</td>
 <td style="padding: 8px; vertical-align: top;">Odenton, MD</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">1d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Visa?utm_source=GHList&utm_medium=company">🔥 Visa</a></strong></td>
@@ -1433,10 +1433,10 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Systems/Software Engineer I</td>
 <td style="padding: 8px; vertical-align: top;">San Jose, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">6d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">7d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Hewlett-Packard-Enterprise?utm_source=GHList&utm_medium=company">Hewlett Packard Enterprise</a></strong></td>
+<td style="padding: 8px; vertical-align: top;">↳</td>
 <td style="padding: 8px; vertical-align: top;">Systems/Software Engineer I</td>
 <td style="padding: 8px; vertical-align: top;">Spring, TX</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
@@ -1629,7 +1629,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Junior Software Engineer 🇺🇸</td>
 <td style="padding: 8px; vertical-align: top;">Gaithersburg, MD</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">22d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">23d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company">🔥 Uber</a></strong></td>
@@ -2961,6 +2961,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
+<td style="padding: 8px; vertical-align: top;">Optical Network Embedded Software Engineer – New Grad</td>
+<td style="padding: 8px; vertical-align: top;">Ottawa, ON, Canada</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Network-Embedded-Software-Engineer---New-Grad_R028715?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9140651d-f2e6-400d-ba0a-70c7f7c71031?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+</tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Blue-Origin?utm_source=GHList&utm_medium=company">Blue Origin</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Autonomy Systems Engineer I 🇺🇸</td>
