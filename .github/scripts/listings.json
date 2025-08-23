@@ -22842,5 +22842,23 @@
         "date_posted": 1755912096,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755912117,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.apple.com/en-us/details/200615794-3956/accessibility-engineer-is-t-early-career",
+        "company_name": "Apple",
+        "title": "Accessibility Engineer, IS&T",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "43c0929e-32b2-4d37-ad4e-8c0c6fec385b",
+        "date_posted": 1755912117,
+        "company_url": "",
+        "is_visible": true
     }
 ]
