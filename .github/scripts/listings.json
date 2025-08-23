@@ -22742,5 +22742,47 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "91d06938-3be8-427a-bb3b-7586cc4d0dcf",
+        "title": "2026 University Graduate - Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1755906812,
+        "date_posted": 1755906812,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R158632",
+        "locations": [
+            "SF",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Harvey",
+        "id": "ce0000af-49cf-4e07-ba5d-fcde698721b7",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1755906591,
+        "date_posted": 1755906591,
+        "url": "https://jobs.ashbyhq.com/harvey/fe8e594b-f2e1-453b-8a0d-e0b0bfdf745b/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Harvey",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
