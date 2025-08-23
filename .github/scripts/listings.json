@@ -22824,5 +22824,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1755912096,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/zip/5f28357a-c95d-485a-84f9-feff64ce9fb3",
+        "company_name": "Zip",
+        "title": "Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "573f981f-3318-4edf-9a8b-b5398fce3299",
+        "date_posted": 1755912096,
+        "company_url": "",
+        "is_visible": true
     }
 ]
