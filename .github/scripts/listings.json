@@ -22784,5 +22784,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "9140651d-f2e6-400d-ba0a-70c7f7c71031",
+        "title": "Optical Network Embedded Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1755908269,
+        "date_posted": 1755908269,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Network-Embedded-Software-Engineer---New-Grad_R028715",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
