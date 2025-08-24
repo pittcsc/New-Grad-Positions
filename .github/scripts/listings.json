@@ -51,38 +51,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Scale AI",
-        "id": "dd45647d-ea56-420f-8e20-72c1cf00d29c",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1724951614,
-        "date_posted": 1724951614,
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4463083005",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Scale-AI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Accenture Federal Services",
-        "id": "97765bb2-ef29-41a0-b992-dc8cc6d12998",
-        "title": "Software Engineer 0",
-        "active": false,
-        "date_updated": 1724951224,
-        "date_posted": 1724951224,
-        "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4398316006",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/AccentureFederalServices",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Wiley Edge",
         "id": "4e2587db-6361-4149-9d21-78c486d240f2",
         "title": "Junior Software Engineer",
