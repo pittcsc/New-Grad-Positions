@@ -16255,12 +16255,12 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1753829826,
+        "date_updated": 1756120670,
         "url": "https://jobs.ashbyhq.com/unify/762e3fd4-7813-4da8-bb02-cc6050e3626a",
         "company_name": "Unify",
         "title": "Software Engineer",
         "locations": [
-            "San Francisco, NY"
+            "San Francisco, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -16268,7 +16268,8 @@
         "id": "94d94881-a076-4e38-8623-b0c0be8dea9f",
         "date_posted": 1753829826,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "degrees": []
     },
     {
         "source": "Simplify",
