@@ -516,8 +516,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;">↳</td>
-<td style="padding: 8px; vertical-align: top;">Hiring Entry Level Software Engineer 🎓</td>
-<td style="padding: 8px; vertical-align: top;">SF</td>
+<td style="padding: 8px; vertical-align: top;">Hiring Entry Level Software Engineer</td>
+<td style="padding: 8px; vertical-align: top;">San Francisco, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://jobs.smartrecruiters.com/AGTechnologies1/113484514?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/93eeb5a3-95d7-4ca2-8ec3-2d83ff5aa480?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">10d</td>
 </tr>
