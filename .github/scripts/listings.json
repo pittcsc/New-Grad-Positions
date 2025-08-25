@@ -20452,12 +20452,12 @@
         "degrees": []
     },
     {
-        "date_updated": 1755418638,
+        "date_updated": 1756120405,
         "url": "https://apply.workable.com/qodeworld/j/5718A36818/",
         "company_name": "qode.world",
         "title": "Junior Software Developer",
         "locations": [
-            "NJ"
+            "New Jersey, NJ"
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -20465,7 +20465,8 @@
         "id": "a0e98c0f-757e-4b61-8f0a-a48adafcaceb",
         "date_posted": 1755418638,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "degrees": []
     },
     {
         "date_updated": 1755418718,
