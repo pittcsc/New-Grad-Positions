@@ -21953,7 +21953,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755716153,
+        "date_updated": 1756120142,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [],
@@ -21968,7 +21968,7 @@
         "id": "a733c840-9192-460f-84ae-5a3fa7b2d3b3",
         "date_posted": 1755715864,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
