@@ -21050,16 +21050,18 @@
         "id": "2d58138f-f75f-4dc2-9546-ac3309fe2907",
         "title": "Hiring Entry Level Software Engineer",
         "active": true,
-        "date_updated": 1756120510,
+        "date_updated": 1755194648,
         "date_posted": 1755194648,
         "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999655204204",
         "locations": [
-            "New York, NY"
+            "NYC"
         ],
         "company_url": "https://simplify.jobs/c/AG-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": []
+        "degrees": [
+            "Master's"
+        ]
     },
     {
         "source": "Simplify",
@@ -21168,16 +21170,18 @@
         "id": "b436d340-b5eb-4419-a709-6af74ee13256",
         "title": "Hiring Entry Level Software Engineer",
         "active": true,
-        "date_updated": 1756120534,
+        "date_updated": 1755063903,
         "date_posted": 1755063903,
         "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999655719751",
         "locations": [
-            "San Francisco, CA"
+            "SF"
         ],
         "company_url": "https://simplify.jobs/c/AG-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": []
+        "degrees": [
+            "Master's"
+        ]
     },
     {
         "source": "Simplify",
