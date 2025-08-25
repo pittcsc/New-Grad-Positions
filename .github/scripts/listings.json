@@ -22787,5 +22787,23 @@
         "date_posted": 1756111175,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756111332,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/life/99fdfce1-f0d6-48f8-8ad8-b22b4d6561bf",
+        "company_name": "YouVersion",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Edmond, OK"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "4d488c7c-f9ed-4332-9ead-14752708070d",
+        "date_posted": 1756111332,
+        "company_url": "",
+        "is_visible": true
     }
 ]
