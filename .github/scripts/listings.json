@@ -22748,5 +22748,26 @@
         "date_posted": 1755912117,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756110970,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-System-Engineer---New-College-Grad-2025_JR2001318",
+        "company_name": "NVIDIA",
+        "title": "AI System Engineer",
+        "locations": [
+            "Santa Clara, CA",
+            "Redmond, WA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "414c6571-d06d-44e7-948c-4c5de3852a0d",
+        "date_posted": 1756110970,
+        "company_url": "",
+        "is_visible": true
     }
 ]
