@@ -21489,20 +21489,17 @@
         "id": "47b59370-d74f-4114-888c-5d630133aee1",
         "title": "Machine Learning Engineer I",
         "active": true,
-        "date_updated": 1751499351,
+        "date_updated": 1756120872,
         "date_posted": 1751499351,
         "url": "https://www.pinterestcareers.com/job-form?gh_jid=6864992",
         "locations": [
-            "SF",
+            "San Francisco, CA",
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Pinterest",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
