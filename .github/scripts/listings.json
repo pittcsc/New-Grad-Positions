@@ -14672,16 +14672,17 @@
         "id": "9f6380b7-4668-49fb-9b83-4e51e0815a76",
         "title": "Software Engineer \u2013 New Grad Program",
         "active": true,
-        "date_updated": 1751696380,
+        "date_updated": 1756120706,
         "date_posted": 1751696380,
         "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/6640194003",
         "locations": [
-            "SF",
-            "NYC"
+            "San Francisco, CA",
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Sigma-Computing",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": []
     },
     {
         "source": "Simplify",
