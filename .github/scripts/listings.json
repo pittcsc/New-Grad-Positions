@@ -20580,17 +20580,18 @@
         "id": "d7feac2c-dad6-41c7-96f9-25652bbadef6",
         "title": "Machine Learning Engineer I - Monetization Engineering",
         "active": true,
-        "date_updated": 1755566145,
+        "date_updated": 1756120836,
         "date_posted": 1755566145,
         "url": "https://www.pinterestcareers.com/job-form?gh_jid=7172308",
         "locations": [
             "Palo Alto, CA",
             "Seattle, WA",
-            "SF"
+            "San Francisco, CA"
         ],
         "company_url": "https://simplify.jobs/c/Pinterest",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": []
     },
     {
         "source": "Simplify",
