@@ -23119,5 +23119,34 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Google",
+        "id": "bfb08a93-2f42-4862-9976-1e856142142e",
+        "title": "Software Engineer \u2013 Early Career - PhD - AI/Machine Learning",
+        "active": true,
+        "date_updated": 1756217343,
+        "date_posted": 1756217343,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/122258040807137990",
+        "locations": [
+            "Madison, WI",
+            "Seattle, WA",
+            "Raleigh, NC",
+            "San Bruno, CA",
+            "Durham, NC",
+            "Kirkland, WA",
+            "NYC",
+            "Sunnyvale, CA",
+            "Mountain View, CA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
