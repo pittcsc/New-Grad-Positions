@@ -18252,7 +18252,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1754963955,
+        "date_updated": 1756201378,
         "url": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Torrance-CA/Eng--Assc_R-25-13250",
         "company_name": "Moog",
         "title": "Associate Software Engineer",
@@ -18265,7 +18265,8 @@
         "id": "c6b8a184-a9cc-4100-9774-4ef13b0c7570",
         "date_posted": 1754747940,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1754748271,
