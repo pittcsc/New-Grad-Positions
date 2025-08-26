@@ -22982,5 +22982,23 @@
         "date_posted": 1756203595,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756203670,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/celonis/jobs/6691702003",
+        "company_name": "Celonis",
+        "title": "Associate Value Engineer (Industrial Engineering & AI Applications)",
+        "locations": [
+            "New York, NY"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "ec5f452f-cba6-4d1b-8b45-3da8cfbc6a1d",
+        "date_posted": 1756203670,
+        "company_url": "",
+        "is_visible": true
     }
 ]
