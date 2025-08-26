@@ -23132,5 +23132,46 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Auto Club Enterprises",
+        "id": "f72fa606-2f32-48c0-8bf0-e811de019826",
+        "title": "Entry Level Data Scientist",
+        "active": true,
+        "date_updated": 1756246846,
+        "date_posted": 1756246846,
+        "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Entry-Level-Data-Scientist_JR202531480-1",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Auto-Club-Enterprises",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GM financial",
+        "id": "00d4f23c-6703-49a3-b6c4-920c4dc7c87b",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1756246682,
+        "date_posted": 1756246682,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/837",
+        "locations": [
+            "Arlington, TX",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GM-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
