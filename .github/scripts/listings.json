@@ -23000,5 +23000,23 @@
         "date_posted": 1756203670,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756203764,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-sig.icims.com/jobs/9716/software-developer---sprc---new-grad/job",
+        "company_name": "Susquehanna",
+        "title": "Software Developer",
+        "locations": [
+            "Lower Merion Township, PA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "e306a460-ee33-4e53-b936-2d65fc66d581",
+        "date_posted": 1756203764,
+        "company_url": "",
+        "is_visible": true
     }
 ]
