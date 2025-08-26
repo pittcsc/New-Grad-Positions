@@ -1154,7 +1154,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Maybern?utm_source=GHList&utm_medium=company">Maybern</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer – New Grad</td>
-<td style="padding: 8px; vertical-align: top;">NYC</td>
+<td style="padding: 8px; vertical-align: top;">New York, NY</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://jobs.ashbyhq.com/maybern/d1f5828f-fba9-4e0e-bb03-e03a3f0f54e4/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1dbd172a-5bd7-46cc-bdeb-651eb76a9d90?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">1mo</td>
 </tr>
