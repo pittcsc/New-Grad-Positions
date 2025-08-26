@@ -22925,5 +22925,26 @@
         "date_posted": 1756202896,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756203415,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/perrknight/b47e39ce-e26f-48aa-b53a-f93c87544101",
+        "company_name": "Perr & Knight",
+        "title": "Associate AI Developer",
+        "locations": [
+            "Charlotte, NC",
+            "Boca Raton, FL",
+            "Santa Monica, CA",
+            "Newark, NJ"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "cb6b8e2d-38b3-42b7-bc2c-0ca44650f7c8",
+        "date_posted": 1756203415,
+        "company_url": "",
+        "is_visible": true
     }
 ]
