@@ -23173,5 +23173,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citizen Health",
+        "id": "a67db6e1-d9e5-4321-9f69-25f20b05d6d9",
+        "title": "Early Career Software Engineer",
+        "active": true,
+        "date_updated": 1756248047,
+        "date_posted": 1756248047,
+        "url": "https://jobs.ashbyhq.com/Citizen%20Health/ea388b8a-16cb-4b1b-b64f-479f0dc69764/application",
+        "locations": [
+            "SF",
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Citizen-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
