@@ -23194,5 +23194,106 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Google",
+        "id": "711e8836-13f2-4b00-873e-10d28b8c9753",
+        "title": "Software Engineer \u2013 Early Career - PhD - Infrastructure",
+        "active": true,
+        "date_updated": 1756248526,
+        "date_posted": 1756248526,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670",
+        "locations": [
+            "Madison, WI",
+            "Seattle, WA",
+            "Austin, TX",
+            "LA",
+            "Raleigh, NC",
+            "San Bruno, CA",
+            "Durham, NC",
+            "Kirkland, WA",
+            "NYC",
+            "Sunnyvale, CA",
+            "Mountain View, CA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "a921a0e1-c844-437c-9342-4540980ae604",
+        "title": "Software Developer \u2013 New Grad - Market Data - Libraries & Tools",
+        "active": true,
+        "date_updated": 1756248226,
+        "date_posted": 1756248226,
+        "url": "https://careers-sig.icims.com/jobs/9261/job",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Google",
+        "id": "69a569db-0492-4d86-9612-4eda81524c70",
+        "title": "Software Engineer \u2013 Early Career - PhD - Embedded Systems and Firmware",
+        "active": true,
+        "date_updated": 1756248318,
+        "date_posted": 1756248318,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158",
+        "locations": [
+            "Seattle, WA",
+            "LA",
+            "Raleigh, NC",
+            "Durham, NC",
+            "Kirkland, WA",
+            "NYC",
+            "Sunnyvale, CA",
+            "Mountain View, CA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "2cc230a4-31a8-4212-80a7-6fd0eec0b08b",
+        "title": "Software Developer \u2013 New Grad - Sprc",
+        "active": true,
+        "date_updated": 1756248222,
+        "date_posted": 1756248222,
+        "url": "https://careers-sig.icims.com/jobs/9716/job",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
