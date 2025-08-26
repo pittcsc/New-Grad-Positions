@@ -22946,5 +22946,23 @@
         "date_posted": 1756203415,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756203509,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/celonis/jobs/6690522003",
+        "company_name": "Celonis",
+        "title": "Associate Value Engineer (AI for Supply Chain)",
+        "locations": [
+            "New York, NY"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "7c30bd9c-3f47-41c1-966c-8080f9538215",
+        "date_posted": 1756203509,
+        "company_url": "",
+        "is_visible": true
     }
 ]
