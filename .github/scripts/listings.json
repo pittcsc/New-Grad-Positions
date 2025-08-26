@@ -22851,5 +22851,29 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Berkshire Hathaway Energy",
+        "id": "3424ee82-76b1-4d00-8274-4ebca84ba369",
+        "title": "Software Engineer 1 - Corporate Applications",
+        "active": true,
+        "date_updated": 1756196797,
+        "date_posted": 1751621106,
+        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10002320",
+        "locations": [
+            "Salt Lake City, UT",
+            "Las Vegas, NV",
+            "Des Moines, IA",
+            "Reno, NV",
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
