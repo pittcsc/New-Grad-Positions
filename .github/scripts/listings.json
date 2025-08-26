@@ -22869,5 +22869,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1756202713,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/Citizen%20Health/ea388b8a-16cb-4b1b-b64f-479f0dc69764",
+        "company_name": "Citizen Health",
+        "title": "Early Career Software Engineer",
+        "locations": [
+            "San Francisco, CA",
+            "San Mateo, CA",
+            "Remote"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "cac7d4ea-65a4-4499-a21f-1b4576a68e5a",
+        "date_posted": 1756202713,
+        "company_url": "",
+        "is_visible": true
     }
 ]
