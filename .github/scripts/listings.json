@@ -22538,12 +22538,10 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756110970,
+        "date_updated": 1756303771,
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "degrees": [
-            "Master's"
-        ],
+        "degrees": [],
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-System-Engineer---New-College-Grad-2025_JR2001318",
         "company_name": "NVIDIA",
         "title": "AI System Engineer",
@@ -22556,7 +22554,7 @@
         "id": "414c6571-d06d-44e7-948c-4c5de3852a0d",
         "date_posted": 1756110970,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756111175,
