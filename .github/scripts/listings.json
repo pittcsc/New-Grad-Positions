@@ -23488,5 +23488,23 @@
         "date_posted": 1756319204,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756320123,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.commure.com/careers-detail?ashby_jid=0f13b112-8d8c-4fb1-ae3d-449cc36cd89e",
+        "company_name": "Commure",
+        "title": "Software Engineer, Ambient AI (Summer 2026 New Grad)",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "kchurro",
+        "id": "09bcbc97-f4d9-4465-932e-e8f50ef7e336",
+        "date_posted": 1756320123,
+        "company_url": "",
+        "is_visible": true
     }
 ]
