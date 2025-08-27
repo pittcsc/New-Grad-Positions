@@ -23377,5 +23377,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1756303925,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/allencontrolsystems/jobs/4685229008",
+        "company_name": "Allen Control Systems",
+        "title": "Computer Vision & Machine Learning, Junior",
+        "locations": [
+            "Austin, TX"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "23144399-8ed7-416d-be8b-00a825a7b492",
+        "date_posted": 1756303925,
+        "company_url": "",
+        "is_visible": true
     }
 ]
