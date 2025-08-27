@@ -23452,5 +23452,23 @@
         "date_posted": 1756304248,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756304265,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/abridge/55958eb5-109f-4e88-9793-ed2327fc753a",
+        "company_name": "Abridge",
+        "title": "Full Stack Engineering",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "7c0c1cf0-b771-40f5-81fc-ceff706e651f",
+        "date_posted": 1756304265,
+        "company_url": "",
+        "is_visible": true
     }
 ]
