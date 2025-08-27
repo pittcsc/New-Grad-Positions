@@ -23433,5 +23433,24 @@
         "date_posted": 1756304091,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756304248,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/Cape/bd280ded-4298-47de-a186-1aebd1bd94b8",
+        "company_name": "Cape",
+        "title": "Software Engineer",
+        "locations": [
+            "New York, NY",
+            "Washington, DC"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "c2099f9e-2ac8-4654-9075-6daf9ed6fdb1",
+        "date_posted": 1756304248,
+        "company_url": "",
+        "is_visible": true
     }
 ]
