@@ -23506,5 +23506,27 @@
         "date_posted": 1756320123,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GM financial",
+        "id": "325a787b-0d7a-48d5-a230-7df1ab6dccd6",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1756300456,
+        "date_posted": 1753138978,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/535",
+        "locations": [
+            "Arlington, TX",
+            "Fort Worth, TX",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GM-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
