@@ -11183,7 +11183,7 @@
         "company_name": "Amentum",
         "id": "4573ee25-77c1-49ef-99cb-80acb1f18ebe",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1747325721,
         "date_posted": 1747325721,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0139275",
@@ -19895,7 +19895,7 @@
         "company_name": "Neo Financial",
         "id": "c92690cc-8125-41d1-b8c8-b18520bfbb9d",
         "title": "Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1755293379,
         "date_posted": 1755293379,
         "url": "https://ats.rippling.com/neo-financial/jobs/a2fd15b5-5bee-483e-b28f-66980dad691b",
@@ -23314,6 +23314,28 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "The Travelers Companies",
+        "id": "d8c7a695-5d37-4612-bc66-61dd2aa56964",
+        "title": "Cybersecurity Engineer I",
+        "active": true,
+        "date_updated": 1756253445,
+        "date_posted": 1756253445,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Cybersecurity-Engineer-I_R-46472",
+        "locations": [
+            "Hartford, CT",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
         ]
     }
 ]
