@@ -18557,7 +18557,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1755008007,
+        "date_updated": 1756303781,
         "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---MET_Req153698-1",
         "company_name": "The Home Depot",
         "title": "Associate Data Scientist - MET",
@@ -18570,7 +18570,8 @@
         "id": "c43d97a6-1158-467e-b694-79c6de8b35f1",
         "date_posted": 1755008007,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1755417977,
