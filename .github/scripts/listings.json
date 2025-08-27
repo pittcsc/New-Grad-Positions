@@ -23414,5 +23414,24 @@
         "date_posted": 1756304006,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756304091,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/jerry.ai/3bb80177-b737-419c-8133-dd5f60a8a270",
+        "company_name": "Jerry",
+        "title": "Software Engineer I",
+        "locations": [
+            "San Francisco, CA",
+            "Palo Alto, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "072216f4-a069-4ed2-a11f-cfbb558eca08",
+        "date_posted": 1756304091,
+        "company_url": "",
+        "is_visible": true
     }
 ]
