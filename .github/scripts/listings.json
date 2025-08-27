@@ -23395,5 +23395,24 @@
         "date_posted": 1756303925,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756304006,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://fmr.wd1.myworkdayjobs.com/en-US/fidelitycareers/job/Westlake-TX/XMLNAME-2026-Undergraduate---LEAP--Software-Engineer_2116586-1",
+        "company_name": "Fidelity",
+        "title": "Software Engineer",
+        "locations": [
+            "Westlake, TX",
+            "Merrimack, NH"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "e0d7e0bd-4b19-425f-973c-e1b9c5c25e3c",
+        "date_posted": 1756304006,
+        "company_url": "",
+        "is_visible": true
     }
 ]
