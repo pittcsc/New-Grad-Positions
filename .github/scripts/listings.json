@@ -23647,5 +23647,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1756413103,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1843258/Software-Engineer",
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "locations": [
+            "Remote"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "2e96d4bd-b1d9-43e6-8b6e-cb82a90cdf34",
+        "date_posted": 1756413103,
+        "company_url": "",
+        "is_visible": true
     }
 ]
