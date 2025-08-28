@@ -19001,7 +19001,7 @@
         "degrees": []
     },
     {
-        "date_updated": 1755169257,
+        "date_updated": 1756413270,
         "url": "https://www.jumptrading.com/careers/7141620/?gh_jid=7141620",
         "company_name": "Jump Trading",
         "title": "Campus ML Engineer (Full-Time)",
@@ -19015,7 +19015,8 @@
         "id": "12281588-c2dc-4544-afc8-baf9da2cd462",
         "date_posted": 1755169257,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1755169441,
