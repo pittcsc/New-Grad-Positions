@@ -23687,5 +23687,23 @@
         "date_posted": 1756413457,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756413496,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://joinbytedance.com/search/7542657938525538578",
+        "company_name": "ByteDance",
+        "title": "Machine Learning Graduate (eCommerce User Growth & Intelligent Marketing)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "73a7fbdb-bbd6-436b-ade3-cdae82ba2136",
+        "date_posted": 1756413496,
+        "company_url": "",
+        "is_visible": true
     }
 ]

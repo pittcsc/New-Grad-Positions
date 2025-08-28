@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 306 New Grad Roles by Category
+### Browse 307 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (207)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (208)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (4)
 
@@ -82,6 +82,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <tbody>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>🔥 ByteDance</strong></td>
+<td style="padding: 8px; vertical-align: top;">Machine Learning Graduate (eCommerce User Growth & Intelligent Marketing)</td>
+<td style="padding: 8px; vertical-align: top;">San Jose, CA</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://joinbytedance.com/search/7542657938525538578?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;">↳</td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer Graduate (AI Applications)</td>
 <td style="padding: 8px; vertical-align: top;">San Jose, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://joinbytedance.com/search/7540808448918079752?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
