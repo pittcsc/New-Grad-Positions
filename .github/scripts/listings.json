@@ -23669,5 +23669,23 @@
         "date_posted": 1756413103,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756413457,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://joinbytedance.com/search/7540808448918079752",
+        "company_name": "ByteDance",
+        "title": "Software Engineer Graduate (AI Applications)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "2204117c-3f5d-42c8-bad2-7610e811841b",
+        "date_posted": 1756413457,
+        "company_url": "",
+        "is_visible": true
     }
 ]
