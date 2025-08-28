@@ -23609,5 +23609,23 @@
         "date_posted": 1756367372,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756367509,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---California---Sylmar/Software-Quality-Engineer-I_31128083-1",
+        "company_name": "Abbott",
+        "title": "Software Quality Engineer I",
+        "locations": [
+            "Sylmar, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "013f204e-f50f-4c1d-8d73-6fe3e4c9eeba",
+        "date_posted": 1756367509,
+        "company_url": "",
+        "is_visible": true
     }
 ]
