@@ -23571,5 +23571,25 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "date_updated": 1756367276,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--TensorRT-Specialized-Platforms---New-College-Grad-2025_JR2002870",
+        "company_name": "NVIDIA",
+        "title": "Software Engineer, TensorRT Specialized Platforms",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "33bd81ef-6d7f-45d6-af47-ac43c16d36fb",
+        "date_posted": 1756367276,
+        "company_url": "",
+        "is_visible": true
     }
 ]
