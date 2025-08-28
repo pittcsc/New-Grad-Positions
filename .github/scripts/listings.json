@@ -23703,5 +23703,23 @@
         "date_posted": 1756413496,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756413621,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.tesla.com/careers/search/job/248966",
+        "company_name": "Tesla",
+        "title": "Kernel Software Engineer",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "e9050b21-a365-4bf0-9312-fcbffabda0fa",
+        "date_posted": 1756413621,
+        "company_url": "",
+        "is_visible": true
     }
 ]
