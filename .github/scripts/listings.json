@@ -23721,5 +23721,23 @@
         "date_posted": 1756413621,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756413786,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.tesla.com/careers/search/job/software-integration-engineer-factory-firmware-249467",
+        "company_name": "Tesla",
+        "title": "Software Integration Engineer, Factory Firmware",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "4d00db2f-58d8-4e22-9936-02ffbbe2813b",
+        "date_posted": 1756413786,
+        "company_url": "",
+        "is_visible": true
     }
 ]
