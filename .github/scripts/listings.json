@@ -23757,5 +23757,23 @@
         "date_posted": 1756413835,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756413857,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/OEM-Account-Applications-Engineer---New-College-Grad-2025_JR2002780",
+        "company_name": "NVIDIA",
+        "title": "OEM Account Applications Engineer",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "6d2d9d90-bf0a-4cd7-a110-767aa20737fb",
+        "date_posted": 1756413857,
+        "company_url": "",
+        "is_visible": true
     }
 ]
