@@ -23833,5 +23833,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Iridium Communications",
+        "id": "cff3ea70-b48c-45c5-bca9-b3fb564130eb",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1756422564,
+        "date_posted": 1756422564,
+        "url": "https://careers-iridium.icims.com/jobs/4644/job",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Iridium-Communications",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
