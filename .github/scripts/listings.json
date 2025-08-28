@@ -23739,5 +23739,23 @@
         "date_posted": 1756413786,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756413835,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://lifeattiktok.com/search/7541178634444589319",
+        "company_name": "TikTok",
+        "title": "AI/ML Software Engineer Graduate (Data Platform TikTok BP)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "75e9a200-7de7-43d9-97a0-030c29ae88ef",
+        "date_posted": 1756413835,
+        "company_url": "",
+        "is_visible": true
     }
 ]
