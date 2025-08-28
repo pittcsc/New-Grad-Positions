@@ -23775,5 +23775,25 @@
         "date_posted": 1756413857,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756413879,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "http://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2025_JR2002495",
+        "company_name": "NVIDIA",
+        "title": "GPU Architecture Engineer",
+        "locations": [
+            "Santa Clara, CA",
+            "Austin, TX",
+            "Durham, NC"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "a2151f28-9ee1-4eec-a92a-3adacf05cd51",
+        "date_posted": 1756413879,
+        "company_url": "",
+        "is_visible": true
     }
 ]
