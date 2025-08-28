@@ -23795,5 +23795,23 @@
         "date_posted": 1756413879,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756414000,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.amazon.jobs/en/jobs/3066890/system-dev-engineer-i-analytics-adc",
+        "company_name": "Amazon",
+        "title": "System Dev Engineer I, Analytics ADC",
+        "locations": [
+            "Denver, CO"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "86266e03-12a2-4eef-b634-d3c5bbccad6e",
+        "date_posted": 1756414000,
+        "company_url": "",
+        "is_visible": true
     }
 ]
