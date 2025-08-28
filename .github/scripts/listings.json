@@ -19036,7 +19036,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755169558,
+        "date_updated": 1756413303,
         "url": "https://www.jumptrading.com/careers/7140611/?gh_jid=7140611",
         "company_name": "Jump Trading",
         "title": "Campus Quantitative Trader (Full-Time)",
@@ -19050,7 +19050,8 @@
         "id": "ef9a89c5-ed19-417d-81c3-285db2f4bf8e",
         "date_posted": 1755169558,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1755169946,
