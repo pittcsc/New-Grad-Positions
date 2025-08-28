@@ -22263,7 +22263,7 @@
         ]
     },
     {
-        "date_updated": 1755867604,
+        "date_updated": 1756413244,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -22278,7 +22278,7 @@
         "id": "b1ec662b-d28d-4923-9b4b-1d1e62a35143",
         "date_posted": 1755867604,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756201405,
