@@ -14319,7 +14319,7 @@
         "company_name": "The Boeing Company",
         "id": "b8e14c36-bba1-4830-b233-54949d054ae8",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1751479662,
         "date_posted": 1751479662,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Aurora-CO/Entry-Level-Full-Stack-Software-Engineer_JR2025456200-1",
@@ -23813,5 +23813,25 @@
         "date_posted": 1756414000,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "North Atlantic Industries",
+        "id": "b83652a5-bc8f-42a1-8a07-4baf9aa9c553",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1756419936,
+        "date_posted": 1756419936,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3535138",
+        "locations": [
+            "Long Island, New York"
+        ],
+        "company_url": "https://simplify.jobs/c/North-Atlantic-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
