@@ -23591,5 +23591,23 @@
         "date_posted": 1756367276,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756367372,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://aurora.tech/careers/8137861002",
+        "company_name": "Aurora",
+        "title": "Security Software Engineer I",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "9f6c0bfd-9acc-491c-a72f-461468d5db8f",
+        "date_posted": 1756367372,
+        "company_url": "",
+        "is_visible": true
     }
 ]
