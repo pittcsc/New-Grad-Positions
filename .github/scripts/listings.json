@@ -23548,5 +23548,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Samsara",
+        "id": "73b7d550-bdcb-4c17-ba8f-6ef455b882bb",
+        "title": "New Grad \u2013 Software Engineering",
+        "active": true,
+        "date_updated": 1756315303,
+        "date_posted": 1756315303,
+        "url": "https://www.samsara.com/company/careers/roles/7172579?gh_jid=7172579",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsara",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
