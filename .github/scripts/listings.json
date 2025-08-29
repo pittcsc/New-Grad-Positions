@@ -23983,12 +23983,10 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756499299,
+        "date_updated": 1756499638,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
-        "degrees": [
-            "Master's"
-        ],
+        "degrees": [],
         "url": "https://www.metacareers.com/jobs/1455625889019477",
         "company_name": "Meta",
         "title": "Research Scientist Intern, Anisotropic Optics and Photonics (PhD)",
@@ -24000,6 +23998,6 @@
         "id": "59e1749c-e866-4cbc-9b4a-ed2d221db6ec",
         "date_posted": 1756499299,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     }
 ]
