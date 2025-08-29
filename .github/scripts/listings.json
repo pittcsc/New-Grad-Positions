@@ -23995,5 +23995,23 @@
         "date_posted": 1756492466,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756492792,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/CT---Hartford/Associate-Software-Development-Engineer_R0699201-1",
+        "company_name": "CVS Health",
+        "title": "Associate Software Development Engineer",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "910b3775-8202-485c-b174-64affd1fbaed",
+        "date_posted": 1756492792,
+        "company_url": "",
+        "is_visible": true
     }
 ]
