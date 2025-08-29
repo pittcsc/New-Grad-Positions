@@ -16238,7 +16238,7 @@
         "company_name": "Chewy",
         "id": "68821ceb-0090-4a87-8061-42789cb56646",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1753918469,
         "date_posted": 1753918469,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7081410",
@@ -23939,26 +23939,6 @@
         "source": "AlmondCroffle",
         "id": "54a14e61-2d97-44f3-af30-22bff4ed92f4",
         "date_posted": 1756485726,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756492223,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://careers.oracle.com/en/sites/jobsearch/job/305904",
-        "company_name": "Oracle",
-        "title": "Undergrad Software Engineer - Fusion",
-        "locations": [
-            "Redwood, CA",
-            "Pleasanton, CA",
-            "Santa Clara, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "04125356-a90a-47d6-966e-1be519e239a9",
-        "date_posted": 1756492223,
         "company_url": "",
         "is_visible": true
     }
