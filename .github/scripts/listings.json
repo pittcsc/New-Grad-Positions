@@ -14612,7 +14612,7 @@
         "company_name": "Chewy",
         "id": "f7a0c536-7ba2-4d0b-ab43-13a883f5c3e3",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1751932903,
         "date_posted": 1751932903,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6983872",
@@ -23869,6 +23869,27 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/WSP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "8bc213e8-2641-4559-8500-b5b181768159",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1756451687,
+        "date_posted": 1756451687,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6987316",
+        "locations": [
+            "Boston, MA",
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
