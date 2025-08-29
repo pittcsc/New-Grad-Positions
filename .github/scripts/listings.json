@@ -22186,7 +22186,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "ce72f687-0643-43a5-9527-4d892c6faea2",
         "title": "Mechanical/Hardware Engineer I Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1755850660,
         "date_posted": 1755850660,
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Mechanical-Hardware-Engineer-I-Graduate_1192929-1",
@@ -23999,5 +23999,25 @@
         "date_posted": 1756499299,
         "company_url": "",
         "is_visible": false
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "0b92737d-70a3-4db5-b31c-4cb752879f91",
+        "title": "Associate \u2013 New Grad - Software Engineer",
+        "active": true,
+        "date_updated": 1756505796,
+        "date_posted": 1756505796,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R223330",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
