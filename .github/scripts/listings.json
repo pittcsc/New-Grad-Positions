@@ -23941,5 +23941,25 @@
         "date_posted": 1756485726,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756492223,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.oracle.com/en/sites/jobsearch/job/305904",
+        "company_name": "Oracle",
+        "title": "Undergrad Software Engineer - Fusion",
+        "locations": [
+            "Redwood, CA",
+            "Pleasanton, CA",
+            "Santa Clara, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "04125356-a90a-47d6-966e-1be519e239a9",
+        "date_posted": 1756492223,
+        "company_url": "",
+        "is_visible": true
     }
 ]
