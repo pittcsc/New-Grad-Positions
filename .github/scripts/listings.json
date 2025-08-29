@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "ZipRecruiter",
-        "id": "ec8cddda-da0c-4e6c-be99-8c8ac79a925c",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1725391341,
-        "date_posted": 1725391341,
-        "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/6165341",
-        "locations": [
-            "Santa Monica, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ZipRecruiter",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "RVO Health",
         "id": "ff117a92-97e8-4c34-9bcb-202940bb2a6c",
         "title": "2025 Early Career Program: Software Engineering Intern",
