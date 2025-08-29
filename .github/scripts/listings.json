@@ -23959,5 +23959,23 @@
         "date_posted": 1756492269,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756492378,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-gdms.icims.com/jobs/67867/entry-level-software-engineer/job",
+        "company_name": "General Dynamics",
+        "title": "Entry Level Software Engineer",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1bf1d395-4785-40b2-ac4b-7db495eb5ec9",
+        "date_posted": 1756492378,
+        "company_url": "",
+        "is_visible": true
     }
 ]
