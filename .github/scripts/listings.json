@@ -10688,7 +10688,7 @@
         "company_name": "Muon Space",
         "id": "99c62b8d-9ee6-42f6-9bba-8186eaf23720",
         "title": "Electrical Hardware Engineer \u2013 New Grad/Early Career",
-        "active": false,
+        "active": true,
         "date_updated": 1746488813,
         "date_posted": 1745999712,
         "url": "https://job-boards.greenhouse.io/muonspace/jobs/4701745007",
@@ -12555,7 +12555,7 @@
         "company_name": "Chewy",
         "id": "904a6d2f-35f5-4628-a253-66e50a77d8f4",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1755588114,
         "date_posted": 1749368316,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6824705",
@@ -24038,6 +24038,46 @@
             "Longmont, CO"
         ],
         "company_url": "https://simplify.jobs/c/Seagate-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "4b2b81c8-a1ed-4052-aae0-2f7ee004699c",
+        "title": "Machine Learning Engineer I",
+        "active": true,
+        "date_updated": 1756512846,
+        "date_posted": 1756512846,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1441970",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "8da2822c-c728-4f81-ab3d-76079d41f02d",
+        "title": "Machine Learning Engineer I",
+        "active": true,
+        "date_updated": 1756512642,
+        "date_posted": 1756512642,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1442223",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
