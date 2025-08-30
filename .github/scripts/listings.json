@@ -1,38 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Trustpilot",
-        "id": "b1adf5a3-717e-4a45-9b0a-5465ba49a11f",
-        "title": "Software Engineer I - API Platform",
-        "active": false,
-        "date_updated": 1725478837,
-        "date_posted": 1725478837,
-        "url": "https://business.trustpilot.com/jobs/6107925?gh_jid=6107925",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Trustpilot",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Trustpilot",
-        "id": "e5fbf95b-15b7-47e9-8208-03ef9c85b961",
-        "title": "Software Engineer I - API Platform",
-        "active": false,
-        "date_updated": 1725478837,
-        "date_posted": 1725478837,
-        "url": "https://business.trustpilot.com/jobs/6107934?gh_jid=6107934",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Trustpilot",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "PolicyMe",
         "id": "93dd032c-b3c0-454e-a0c3-b596dc8ca533",
         "title": "Junior Software Engineer - Remote",
