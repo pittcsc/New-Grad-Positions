@@ -23675,9 +23675,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756492466,
+        "date_updated": 1756661235,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.ashbyhq.com/commure-athelas/00dbfa4a-986c-4c98-a966-47874d1ff0f8",
         "company_name": "Commure",
@@ -23690,7 +23690,7 @@
         "id": "824dbdb9-1606-406b-b6a9-16042480b55e",
         "date_posted": 1756492466,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756492792,
