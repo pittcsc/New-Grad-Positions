@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "PolicyMe",
-        "id": "93dd032c-b3c0-454e-a0c3-b596dc8ca533",
-        "title": "Junior Software Engineer - Remote",
-        "active": false,
-        "date_updated": 1725494244,
-        "date_posted": 1725494244,
-        "url": "https://jobs.lever.co/policyme/b6b41cf8-fd9f-48d8-864c-671b53fc7042/apply",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/PolicyMe",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Anyscale",
         "id": "5f7aaf47-f0a3-4ad9-b1f5-cb6d14820765",
         "title": "Software Engineer \u2013 New Grad 2025",
