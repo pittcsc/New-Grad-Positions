@@ -1,21 +1,5 @@
 [
     {
-        "date_updated": 1725514537,
-        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4054592006",
-        "company_name": "NewsBreak",
-        "title": "Software Engineer (Junior & New Grad)",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "1d8e7ec9-fef4-48da-9a60-c4c37d0b3cbc",
-        "date_posted": 1725514537,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "company_name": "Trustpilot",
         "id": "785f3420-6c01-4b61-b724-5401a97f0fab",
