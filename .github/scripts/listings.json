@@ -4,7 +4,7 @@
         "company_name": "Aquatic Capital Management",
         "id": "4d4a1638-ea25-4c1f-9b28-cbc317ba10d0",
         "title": "Software Engineer: Early Career - Python",
-        "active": true,
+        "active": false,
         "date_updated": 1725655419,
         "date_posted": 1725655419,
         "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002",
@@ -23828,6 +23828,27 @@
             "Uxbridge, UK"
         ],
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aquatic Capital Management",
+        "id": "4d4a1638-ea25-4c1f-9b28-cbc317ba10d0",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1747347510,
+        "date_posted": 1726672039,
+        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
