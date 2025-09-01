@@ -21329,9 +21329,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755715697,
+        "date_updated": 1756731591,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://www.metacareers.com/jobs/812938290909042/",
         "company_name": "Meta",
@@ -21345,7 +21345,7 @@
         "id": "eed6971f-9231-4362-8879-2d953878f409",
         "date_posted": 1755715697,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756120142,
