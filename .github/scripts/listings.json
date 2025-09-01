@@ -18550,7 +18550,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755168795,
+        "date_updated": 1756731380,
         "url": "https://ats.rippling.com/en-CA/rippling/jobs/393b2982-14b0-4715-b6ea-a83353e95e12",
         "company_name": "Rippling",
         "title": "Software Engineer - Spend Growth",
@@ -18558,12 +18558,13 @@
             "New York, NY"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "2199e28d-668b-4f20-bc5a-695ed9f27647",
         "date_posted": 1755168795,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1755168924,
