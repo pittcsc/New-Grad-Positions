@@ -23010,9 +23010,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756304091,
+        "date_updated": 1756731713,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.ashbyhq.com/jerry.ai/3bb80177-b737-419c-8133-dd5f60a8a270",
         "company_name": "Jerry",
@@ -23026,7 +23026,7 @@
         "id": "072216f4-a069-4ed2-a11f-cfbb558eca08",
         "date_posted": 1756304091,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756304248,
