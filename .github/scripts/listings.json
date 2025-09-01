@@ -15770,7 +15770,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1753902077,
+        "date_updated": 1756731148,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career-2025-University-Grad_R50741",
         "company_name": "Blue Origin",
         "title": "Software Development Engineer I",
@@ -15783,12 +15783,13 @@
             "Los Angeles, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "351eb7e6-4f6e-4a73-8d05-d8e223bd7452",
         "date_posted": 1753902077,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1753970048,
