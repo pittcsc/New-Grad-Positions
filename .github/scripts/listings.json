@@ -1,62 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Salesforce",
-        "id": "47e3621f-6df0-4275-9601-99435d3759f6",
-        "title": "Software Engineering AMTS/MTS \u2013 New Grad",
-        "active": false,
-        "date_updated": 1725581502,
-        "date_posted": 1725581502,
-        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--New-Grad-_JR264567-1",
-        "locations": [
-            "Cambridge, MA",
-            "Boston, MA",
-            "Seattle, WA",
-            "Indianapolis, IN",
-            "SF",
-            "Chicago, IL",
-            "Bellevue, WA",
-            "Atlanta, GA",
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Salesforce",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Wiley Edge",
-        "id": "aeab7799-c1ed-4f67-b4cc-81bfa2380655",
-        "title": "Junior Software Engineer",
-        "active": false,
-        "date_updated": 1725580968,
-        "date_posted": 1725580968,
-        "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4374347006",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/WileyEdge",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "ThirstySprout",
-        "id": "dbb66ab2-e06e-4a44-8216-c81b52efe356",
-        "title": "Data Analyst - Junior Data Scientist",
-        "active": false,
-        "date_updated": 1725580926,
-        "date_posted": 1725580926,
-        "url": "https://jobs.ashbyhq.com/thirstysprout/2ec7f7e5-db22-4c15-8898-aea563139804/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/ThirstySprout",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Veeva Systems",
         "id": "fd6bbde9-f83f-4049-be5a-961d5abd1e32",
         "title": "Associate Software Engineer \u2013 Seeking 2024 and 2025 Grads",
