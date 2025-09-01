@@ -23809,5 +23809,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nutanix",
+        "id": "9d624829-b749-4a08-98ec-ca5dab38321a",
+        "title": "Software Engineer 1 / Early Career - Backend C++/Linux/AWS-S3",
+        "active": true,
+        "date_updated": 1756745491,
+        "date_posted": 1756745491,
+        "url": "https://jobs.jobvite.com/nutanix/job/oGXDxfwx?nl=1&nl=1&fr=false",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
