@@ -24193,5 +24193,23 @@
         "date_posted": 1756855912,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756855936,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/spacex/jobs/8145483002?gh_jid=8145483002",
+        "company_name": "SpaceX",
+        "title": "Software Engineer",
+        "locations": [
+            "Hawthorne, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "a59027fc-5575-4f3c-801f-567ef43ac640",
+        "date_posted": 1756855936,
+        "company_url": "",
+        "is_visible": true
     }
 ]
