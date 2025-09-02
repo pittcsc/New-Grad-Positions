@@ -24101,5 +24101,25 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Gridmatic",
+        "id": "635f6e5d-7846-4181-a0a8-d5970a4c06ae",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1756840490,
+        "date_posted": 1756840490,
+        "url": "https://jobs.lever.co/gridmatic/df5d7a74-34fd-4675-b5fd-928ad0de2b89/apply",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gridmatic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
