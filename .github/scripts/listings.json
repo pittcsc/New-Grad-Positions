@@ -24001,5 +24001,23 @@
         "date_posted": 1756810197,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756810329,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://duboischemicals.wd1.myworkdayjobs.com/en-US/external/job/Sharonville-OH---HQ/Research-Scientist-I_R102506",
+        "company_name": "DuBois",
+        "title": "Research Scientist I",
+        "locations": [
+            "Sharonville, OH"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "27dd1211-8577-4247-9301-e47b3f32aef3",
+        "date_posted": 1756810329,
+        "company_url": "",
+        "is_visible": true
     }
 ]
