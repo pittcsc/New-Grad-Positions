@@ -23981,5 +23981,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1756810197,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-2026-start-6865698002",
+        "company_name": "Databricks",
+        "title": "Software Engineer",
+        "locations": [
+            "Bellevue, Washington",
+            "Mountain View, California",
+            "San Francisco, California"
+        ],
+        "category": "Software Engineering",
+        "source": "rohan-jagtap04",
+        "id": "2a4933f0-d5a6-4b8c-ac33-d2221814b2ef",
+        "date_posted": 1756810197,
+        "company_url": "",
+        "is_visible": true
     }
 ]
