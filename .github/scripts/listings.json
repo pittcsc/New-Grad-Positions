@@ -24121,5 +24121,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Securities",
+        "id": "984f3b2b-7a73-4d47-bb64-cd1e078cc5cc",
+        "title": "Machine Learning Engineer I",
+        "active": true,
+        "date_updated": 1756847386,
+        "date_posted": 1756847386,
+        "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1442146",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
