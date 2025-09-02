@@ -24141,5 +24141,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "N1",
+        "id": "566e37cf-7620-4e64-90ea-d25a99bb5f19",
+        "title": "New Grad Software Engineer - Backend Rust",
+        "active": true,
+        "date_updated": 1756847561,
+        "date_posted": 1756847561,
+        "url": "https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application",
+        "locations": [
+            "Oakland, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/N1",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
