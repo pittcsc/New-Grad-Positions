@@ -24059,5 +24059,26 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "CenturyLink",
+        "id": "ce77bc77-35cc-4a79-bd6a-6e30a1998f1b",
+        "title": "Information Security Engineer I",
+        "active": true,
+        "date_updated": 1756838053,
+        "date_posted": 1756838053,
+        "url": "https://internaljobs.centurylink.com/job/Remote-INFORMATION-SECURITY-ENGINEER-I/1322139300/?ats=successfactors",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CenturyLink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
