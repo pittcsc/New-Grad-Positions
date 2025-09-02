@@ -24037,5 +24037,27 @@
         "date_posted": 1756810420,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blue Origin",
+        "id": "8c125a08-f60a-4953-95e3-1a9411da20a7",
+        "title": "Software Development Engineer I \u2013 Early Career & New Graduate Rotation",
+        "active": true,
+        "date_updated": 1756826732,
+        "date_posted": 1756826732,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career---New-Graduate-Rotation--2025-2026-Starts-_R54894",
+        "locations": [
+            "Seattle, WA",
+            "Kent, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
