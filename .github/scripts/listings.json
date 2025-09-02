@@ -24019,5 +24019,23 @@
         "date_posted": 1756810329,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756810420,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/F-22-Pilot-Training-Entry-Level-Software-Engineer---Simulation_JR2025457113-1",
+        "company_name": "Boeing",
+        "title": "F-22 Pilot Training Entry-Level Software Engineer \u2013 Simulation",
+        "locations": [
+            "Berkeley, MO"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "21b12d9c-2aa1-4ac8-9368-fd79df6bf457",
+        "date_posted": 1756810420,
+        "company_url": "",
+        "is_visible": true
     }
 ]

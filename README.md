@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 319 New Grad Roles by Category
+### Browse 320 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (215)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (216)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (4)
 
@@ -80,6 +80,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;"><strong>Boeing</strong></td>
+<td style="padding: 8px; vertical-align: top;">F-22 Pilot Training Entry-Level Software Engineer – Simulation 🇺🇸</td>
+<td style="padding: 8px; vertical-align: top;">Berkeley, MO</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/F-22-Pilot-Training-Entry-Level-Software-Engineer---Simulation_JR2025457113-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+</tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Databricks?utm_source=GHList&utm_medium=company">🔥 Databricks</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer</td>
@@ -2890,7 +2897,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Research Scientist, Robotics Research</td>
 <td style="padding: 8px; vertical-align: top;">Seattle, WA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research---New-College-Grad-2025_JR2001017?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">24d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">25d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">🔥 TikTok</a></strong></td>
