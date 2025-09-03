@@ -24493,5 +24493,48 @@
         "date_posted": 1756935232,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TripAdvisor",
+        "id": "70265251-b099-4ec2-bfe8-f8c63eff757f",
+        "title": "Software Engineer I - Frontend Focus - Viator",
+        "active": true,
+        "date_updated": 1756939988,
+        "date_posted": 1756939988,
+        "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/6977655",
+        "locations": [
+            "London, UK",
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TripAdvisor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Yodlee",
+        "id": "55387b88-2383-456c-a4b3-8a3352b0061b",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1756939471,
+        "date_posted": 1756939471,
+        "url": "https://jobs.jobvite.com/yodlee/job/oOGbxfwW?nl=1&nl=1&fr=false",
+        "locations": [
+            "Raleigh, NC",
+            "Berwyn, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Yodlee",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
