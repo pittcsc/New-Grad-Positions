@@ -24211,5 +24211,23 @@
         "date_posted": 1756855936,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756857301,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.careers.microsoft.com/us/en/job/1869391",
+        "company_name": "Microsoft",
+        "title": "Software Engineer - Fullstack",
+        "locations": [
+            "United States"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "87af25f0-4deb-4ca2-96fc-621b6f787a1c",
+        "date_posted": 1756857301,
+        "company_url": "",
+        "is_visible": true
     }
 ]
