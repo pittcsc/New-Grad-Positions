@@ -24418,5 +24418,25 @@
         "date_posted": 1756904460,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756905852,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/6852163003",
+        "company_name": "Freeform",
+        "title": "Software Engineer",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "55691383-80a7-4e73-82cc-eb04be8d1519",
+        "date_posted": 1756905852,
+        "company_url": "",
+        "is_visible": true
     }
 ]
