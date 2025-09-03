@@ -45,11 +45,12 @@ CATEGORIES = {
     }
 }
 
+# FAANG+ companies - will be marked with fire emoji
 FAANG_PLUS = {
-    "airbnb", "adobe", "amazon", "apple", "asana", "atlassian", "bytedance", "cloudflare","coinbase", "databricks", "datadog",
-    "doordash", "dropbox", "duolingo", "figma", "google", "ibm", "instacart", "linkedin", "lyft", "meta", "microsoft",
-    "netflix", "notion", "nvidia", "openai", "oracle", "palantir", "paypal", "pinterest", "ramp", "reddit","rippling", "robinhood", "roblox",
-    "salesforce", "samsara", "shopify", "slack", "snap", "snapchat", "splunk","snowflake", "stripe", "square", "tesla", "tinder","tiktok", "uber",
+    "airbnb", "adobe", "amazon", "amd", "anthropic", "apple", "asana", "atlassian", "bytedance", "cloudflare","coinbase", "crowdstrike","databricks", "datadog",
+    "doordash", "dropbox", "duolingo", "figma", "google", "ibm", "instacart", "intel", "linkedin", "lyft", "meta", "microsoft",
+    "netflix", "notion", "nvidia", "openai", "oracle", "palantir", "paypal", "perplexity", "pinterest", "ramp", "reddit","rippling", "robinhood", "roblox",
+    "salesforce", "samsara", "servicenow", "shopify", "slack", "snap", "snapchat", "spacex", "splunk","snowflake", "stripe", "square", "tesla", "tinder","tiktok", "uber",
     "visa","waymo", "x"
 }
 
