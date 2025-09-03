@@ -19615,7 +19615,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "30dfbb90-c528-42cb-a136-c69f862081f5",
         "title": "Electrical/Hardware Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1755298789,
         "date_posted": 1755298789,
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/Electrical-Hardware-Engineer-I_1192941-1",
@@ -24266,6 +24266,28 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Lumen-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "6215e47a-c0d1-4efb-a067-3fb6b0172084",
+        "title": "2026 University Graduate - Finance Data Scientist",
+        "active": true,
+        "date_updated": 1756862678,
+        "date_posted": 1756862678,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Finance-Data-Scientist_R158870",
+        "locations": [
+            "SF",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
