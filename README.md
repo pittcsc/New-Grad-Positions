@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 327 New Grad Roles by Category
+### Browse 328 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (223)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (224)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (4)
 
@@ -80,6 +80,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Glean?utm_source=GHList&utm_medium=company">Glean</a></strong></td>
+<td style="padding: 8px; vertical-align: top;">Software Engineer – University Grad</td>
+<td style="padding: 8px; vertical-align: top;">Palo Alto, CA</br>SF</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://job-boards.greenhouse.io/gleanwork/jobs/4592324005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/67b134e0-653d-4b37-bc63-6df9e5585e40?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+</tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/TripAdvisor?utm_source=GHList&utm_medium=company">TripAdvisor</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer I - Frontend Focus - Viator</td>
@@ -1944,7 +1951,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Engineer I - Release Platform</td>
 <td style="padding: 8px; vertical-align: top;">Chicago, IL</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">29d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">1mo</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Terex?utm_source=GHList&utm_medium=company">Terex</a></strong></td>
@@ -3553,7 +3560,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Intern Conversion: – Early Career - Avionics Software Engineer I</td>
 <td style="padding: 8px; vertical-align: top;"><details><summary><strong>8 locations</strong></summary>Seattle, WA</br>Washington, DC</br>LA</br>Cape Canaveral, FL</br>Phoenix, AZ</br>Denver, CO</br>Huntsville, AL</br>Van Horn, TX</details></td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Intern-Conversion---Early-Career--Avionics-Software-Engineer-I_R54003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f37865a3-2377-4049-a582-75c3fc52d4b2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">26d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">27d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company">CACI</a></strong></td>
