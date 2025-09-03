@@ -24457,23 +24457,5 @@
         "date_posted": 1756906002,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "date_updated": 1756906221,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://apply.workable.com/eluvio/j/A349A0D2AF/",
-        "company_name": "Eluvio",
-        "title": "Software Engineer (MSc/BSc: AI, Core, Apps)",
-        "locations": [
-            "Berkeley, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "a16ecb04-39ef-470e-9941-d33c07047fa8",
-        "date_posted": 1756906221,
-        "company_url": "",
-        "is_visible": true
     }
 ]
