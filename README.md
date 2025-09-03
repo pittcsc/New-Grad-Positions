@@ -6,13 +6,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 329 New Grad Roles by Category
+### Browse 328 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (220)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (4)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (48)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (47)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (14)
 
@@ -428,7 +428,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Engineer I</td>
 <td style="padding: 8px; vertical-align: top;">Huntsville, AL</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://www.smxtech.com/careers/?gh_jid=6689584003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6b23b60f-9363-461b-bbe4-6b34cb94b487?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">10d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">11d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Harvey?utm_source=GHList&utm_medium=company">Harvey</a></strong></td>
@@ -904,10 +904,10 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Entry Level Software Engineer 🎓</td>
 <td style="padding: 8px; vertical-align: top;">Chesterfield, MO</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://jobs.smartrecruiters.com/AGTechnologies1/100730616?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/034a9d93-f51a-4886-b0fe-c2f771263fa5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">20d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">21d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/AG-Technologies?utm_source=GHList&utm_medium=company">AG Technologies</a></strong></td>
+<td style="padding: 8px; vertical-align: top;">↳</td>
 <td style="padding: 8px; vertical-align: top;">Hiring Entry Level Software Engineer 🎓</td>
 <td style="padding: 8px; vertical-align: top;">Dallas, TX</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://jobs.smartrecruiters.com/AGTechnologies1/112610151?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/399d1354-f5b5-4989-b9c4-8c64d157503c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
@@ -1114,7 +1114,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Full-Stack Software Engineer 🇺🇸</td>
 <td style="padding: 8px; vertical-align: top;">Hunstville, AL</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://careers-i3-corps.icims.com/jobs/4833/entry-level-full-stack-software-engineer/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">26d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">27d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Bree?utm_source=GHList&utm_medium=company">Bree</a></strong></td>
@@ -1699,7 +1699,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Engineer I</td>
 <td style="padding: 8px; vertical-align: top;">Colorado Springs, CO</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">11d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">12d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Themis-Insight?utm_source=GHList&utm_medium=company">Themis Insight</a></strong></td>
@@ -1720,7 +1720,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Engineer I</td>
 <td style="padding: 8px; vertical-align: top;">Austin, TX</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">12d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">13d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Hewlett-Packard-Enterprise?utm_source=GHList&utm_medium=company">Hewlett Packard Enterprise</a></strong></td>
@@ -1874,7 +1874,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Engineer I - CRM</td>
 <td style="padding: 8px; vertical-align: top;">Blaine, MN</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">27d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">28d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Broadcom-Limited?utm_source=GHList&utm_medium=company">Broadcom Limited</a></strong></td>
@@ -2782,13 +2782,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>Celonis</strong></td>
-<td style="padding: 8px; vertical-align: top;">Associate Value Engineer (Industrial Engineering & AI Applications) 🛂</td>
-<td style="padding: 8px; vertical-align: top;">New York, NY</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://job-boards.greenhouse.io/celonis/jobs/6691702003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">7d</td>
-</tr>
-<tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;">↳</td>
 <td style="padding: 8px; vertical-align: top;">Associate Value Engineer (AI for Supply Chain) 🛂</td>
 <td style="padding: 8px; vertical-align: top;">New York, NY</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://job-boards.greenhouse.io/celonis/jobs/6690522003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
@@ -2827,10 +2820,10 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Junior Data Engineer</td>
 <td style="padding: 8px; vertical-align: top;">Knoxville, TN</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://careers-cellularsales.icims.com/jobs/19001/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/92e74f26-5002-4900-bc4c-1b8275e33447?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">11d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">12d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Cellular-Sales?utm_source=GHList&utm_medium=company">Cellular Sales</a></strong></td>
+<td style="padding: 8px; vertical-align: top;">↳</td>
 <td style="padding: 8px; vertical-align: top;">Junior Data Engineer</td>
 <td style="padding: 8px; vertical-align: top;">Knoxville, TN</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://careers-cellularsales.icims.com/jobs/19001/junior-data-engineer/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
