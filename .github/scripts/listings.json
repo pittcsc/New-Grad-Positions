@@ -24109,7 +24109,7 @@
         "company_name": "Gridmatic",
         "id": "635f6e5d-7846-4181-a0a8-d5970a4c06ae",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1756840490,
         "date_posted": 1756840490,
         "url": "https://jobs.lever.co/gridmatic/df5d7a74-34fd-4675-b5fd-928ad0de2b89/apply",
@@ -24316,6 +24316,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Roblox",
+        "id": "b3c3e871-13cb-4544-9170-9f76e534ec8b",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1756865175,
+        "date_posted": 1756865175,
+        "url": "https://careers.roblox.com/jobs/7206214?gh_jid=7206214",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Roblox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
