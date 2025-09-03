@@ -17493,7 +17493,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1754649789,
+        "date_updated": 1756942869,
         "url": "https://job-boards.greenhouse.io/cooksys/jobs/4872299008",
         "company_name": "Cook Systems",
         "title": "Software Developer",
@@ -17506,7 +17506,8 @@
         "id": "84ea0eef-b51b-47f6-b7d9-800f3cfb2a0f",
         "date_posted": 1754649789,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1754662042,
