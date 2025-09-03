@@ -18165,7 +18165,7 @@
         "degrees": []
     },
     {
-        "date_updated": 1755008257,
+        "date_updated": 1756861605,
         "url": "https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Hampton-VA/AI-ML-Research-Associate_R-100359",
         "company_name": "Analytical Mechanics Associates",
         "title": "AI/ML Research Associate",
@@ -18179,7 +18179,8 @@
         "id": "7062f9fd-9d7c-44a4-bdef-bd2966e22a61",
         "date_posted": 1755008257,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "source": "Simplify",
