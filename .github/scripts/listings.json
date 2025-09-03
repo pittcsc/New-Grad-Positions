@@ -24400,5 +24400,23 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "date_updated": 1756904460,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/ivo/1629cbb2-c07c-4214-a1e2-b4e96c9cc66c",
+        "company_name": "Ivo",
+        "title": "Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "GovindKurapati",
+        "id": "5a988adb-dc36-4b80-98e3-95ce67531a2d",
+        "date_posted": 1756904460,
+        "company_url": "",
+        "is_visible": true
     }
 ]
