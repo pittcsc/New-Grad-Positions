@@ -24251,5 +24251,26 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Lumen Technologies",
+        "id": "a1d30eed-a7e9-41bd-a40e-24b7b40caa45",
+        "title": "Information Security Engineer I",
+        "active": true,
+        "date_updated": 1756861077,
+        "date_posted": 1756861077,
+        "url": "https://jobs.lumen.com/global/en/job/339750",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lumen-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
