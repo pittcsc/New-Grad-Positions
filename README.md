@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 328 New Grad Roles by Category
+### Browse 327 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (224)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (223)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (4)
 
@@ -204,13 +204,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Development Engineer I – Early Career & New Graduate Rotation 🇺🇸</td>
 <td style="padding: 8px; vertical-align: top;">Seattle, WA</br>Kent, WA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career---New-Graduate-Rotation--2025-2026-Starts-_R54894?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8c125a08-f60a-4953-95e3-1a9411da20a7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">1d</td>
-</tr>
-<tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;"><strong>Boeing</strong></td>
-<td style="padding: 8px; vertical-align: top;">F-22 Pilot Training Entry-Level Software Engineer – Simulation 🇺🇸</td>
-<td style="padding: 8px; vertical-align: top;">Berkeley, MO</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/F-22-Pilot-Training-Entry-Level-Software-Engineer---Simulation_JR2025457113-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">1d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
