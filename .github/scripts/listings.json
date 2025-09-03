@@ -24475,5 +24475,23 @@
         "date_posted": 1756934889,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756935232,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://epic.avature.net/Careers/FolderDetail/Technical-Solutions-Engineer/742",
+        "company_name": "Epic",
+        "title": "Technical Solutions Engineer",
+        "locations": [
+            "Madison, WI"
+        ],
+        "category": "Other",
+        "source": "mtlogs",
+        "id": "7c07dced-7918-4dda-b95d-19acbed32876",
+        "date_posted": 1756935232,
+        "company_url": "",
+        "is_visible": true
     }
 ]
