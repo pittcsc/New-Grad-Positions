@@ -24833,5 +24833,24 @@
         "date_posted": 1756975135,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756975226,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://stripe.com/jobs/listing/software-engineer-new-grad/7210112",
+        "company_name": "Stripe",
+        "title": "Software Engineer",
+        "locations": [
+            "San Francisco, CA",
+            "Seattle, WA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "91eec74c-6598-4669-a40f-38c2dc8adbce",
+        "date_posted": 1756975226,
+        "company_url": "",
+        "is_visible": true
     }
 ]
