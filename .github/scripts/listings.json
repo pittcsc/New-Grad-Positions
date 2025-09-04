@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Wyetech LLC",
-        "id": "8f047ff6-f495-4866-812d-ef15b1e478a8",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1725899717,
-        "date_posted": 1725899717,
-        "url": "https://jobs.lever.co/wyetechllc/d12df61c-fcd9-4918-9574-fdf48cc554e0/apply",
-        "locations": [
-            "Odenton, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "NVIDIA",
         "id": "b97c7b5a-7b6c-40e4-94ab-349ba9be297a",
         "title": "Compiler Engineer \u2013 New College Grad 2024 - HPC",
