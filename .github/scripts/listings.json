@@ -24682,5 +24682,25 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Eluvio",
+        "id": "2289d45d-63ec-47ab-90e2-b746dea4846a",
+        "title": "Software Engineer New Grad - Msc/Bsc: AI - Core - Apps",
+        "active": true,
+        "date_updated": 1756964826,
+        "date_posted": 1756964826,
+        "url": "https://apply.workable.com/eluvio/j/A349A0D2AF/apply",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eluvio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
