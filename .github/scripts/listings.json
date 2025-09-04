@@ -25039,5 +25039,26 @@
         "date_posted": 1756981921,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Travelers Companies",
+        "id": "12b4518e-ad12-41d5-af9e-6b93e9efd9a8",
+        "title": "Software Engineer I - Legal & Compliance",
+        "active": true,
+        "date_updated": 1756992949,
+        "date_posted": 1756511024,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I---Legal---Compliance_R-45918",
+        "locations": [
+            "Hartford, CT",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
