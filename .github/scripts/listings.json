@@ -25044,5 +25044,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Canonical",
+        "id": "c3980a57-97b4-4c1e-8169-e8ac3200ff46",
+        "title": "Junior Data Engineer",
+        "active": true,
+        "date_updated": 1756998293,
+        "date_posted": 1756998293,
+        "url": "https://job-boards.greenhouse.io/canonical/jobs/6642917",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Canonical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
