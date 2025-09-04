@@ -24985,5 +24985,23 @@
         "date_posted": 1756981080,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756981665,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Firmware-Engineer-Graduate--Colorado-_1193613-1",
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Firmware Engineer Graduate",
+        "locations": [
+            "Ft. Collins, CO"
+        ],
+        "category": "Hardware Engineering",
+        "source": "AlmondCroffle",
+        "id": "d2b4b747-892a-478e-aa7a-0f21642b6445",
+        "date_posted": 1756981665,
+        "company_url": "",
+        "is_visible": true
     }
 ]
