@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 331 New Grad Roles by Category
+### Browse 332 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (225)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (226)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (4)
 
@@ -80,6 +80,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Eluvio?utm_source=GHList&utm_medium=company">Eluvio</a></strong></td>
+<td style="padding: 8px; vertical-align: top;">Software Engineer New Grad - Msc/Bsc: AI - Core - Apps</td>
+<td style="padding: 8px; vertical-align: top;">Berkeley, CA</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://apply.workable.com/eluvio/j/A349A0D2AF/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2289d45d-63ec-47ab-90e2-b746dea4846a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+</tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/RELX?utm_source=GHList&utm_medium=company">RELX</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Aspire Tech Graduate Software Engineer I</td>
@@ -155,14 +162,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Engineer – New Grad</td>
 <td style="padding: 8px; vertical-align: top;">Seattle, WA</br>SF</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=7210112&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/65140a4f-996b-40f3-98da-63270ba6a609?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">1d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;">↳</td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer – New Grad</td>
 <td style="padding: 8px; vertical-align: top;">Toronto, ON, Canada</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=7206505&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8510087c-34fe-43c9-b6e9-7f5a00f1d270?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">1d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Gecko-Robotics?utm_source=GHList&utm_medium=company">Gecko Robotics</a></strong></td>
@@ -932,14 +939,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Engineer I - Aldp</td>
 <td style="padding: 8px; vertical-align: top;">Austin, TX</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9d74aeea-fa25-46c6-af6f-3d20a6065b64?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">20d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">21d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/AG-Technologies?utm_source=GHList&utm_medium=company">AG Technologies</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Hiring Entry Level Software Engineer</td>
 <td style="padding: 8px; vertical-align: top;">San Francisco, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://jobs.smartrecruiters.com/AGTechnologies1/743999655719751?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b436d340-b5eb-4419-a709-6af74ee13256?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">21d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">22d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Applied-Intuition?utm_source=GHList&utm_medium=company">Applied Intuition</a></strong></td>
@@ -1065,14 +1072,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Hiring Entry Level Software Engineer 🎓</td>
 <td style="padding: 8px; vertical-align: top;">Dallas, TX</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://jobs.smartrecruiters.com/AGTechnologies1/108734797?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/01864a29-f685-449a-8b9a-abcaf7bc9c15?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">22d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">23d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;">↳</td>
 <td style="padding: 8px; vertical-align: top;">Hiring Entry Level Software Engineer</td>
 <td style="padding: 8px; vertical-align: top;">New York, NY</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://jobs.smartrecruiters.com/AGTechnologies1/743999655720227?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7193bf93-cde3-42f5-b817-c679f55b1076?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">22d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">23d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Databricks?utm_source=GHList&utm_medium=company">🔥 Databricks</a></strong></td>
@@ -1142,7 +1149,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Developer</td>
 <td style="padding: 8px; vertical-align: top;">New York, NY</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4816999008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">27d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">28d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/I3?utm_source=GHList&utm_medium=company">i3</a></strong></td>
@@ -1895,14 +1902,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Junior AI-Assisted Software Engineer</td>
 <td style="padding: 8px; vertical-align: top;">South Orange, NJ</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">25d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">26d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Global-Relay?utm_source=GHList&utm_medium=company">Global Relay</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Junior Software Developer Engineer in Test - C#</td>
 <td style="padding: 8px; vertical-align: top;">Vancouver, BC, Canada</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">25d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">26d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Esri?utm_source=GHList&utm_medium=company">Esri</a></strong></td>
@@ -3344,7 +3351,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Quantitative Researcher</td>
 <td style="padding: 8px; vertical-align: top;">Stamford, CT</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://apply.workable.com/trexquant/j/A634E0E3F4/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">27d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">28d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Old-Mission?utm_source=GHList&utm_medium=company">Old Mission</a></strong></td>
@@ -3648,7 +3655,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Entry Level Embedded Software Engineer-Ship Control</td>
 <td style="padding: 8px; vertical-align: top;">Groton, CT</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">13d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">14d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Hewlett-Packard-Enterprise?utm_source=GHList&utm_medium=company">Hewlett Packard Enterprise</a></strong></td>
@@ -3693,7 +3700,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; text-align: center; vertical-align: top;">2mo</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;">↳</td>
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Cadence-Design-Systems?utm_source=GHList&utm_medium=company">Cadence Design Systems</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">C++ Software Engineer – New College Grad</td>
 <td style="padding: 8px; vertical-align: top;">Burlington, MA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
