@@ -1,25 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "NVIDIA",
-        "id": "b97c7b5a-7b6c-40e4-94ab-349ba9be297a",
-        "title": "Compiler Engineer \u2013 New College Grad 2024 - HPC",
-        "active": false,
-        "date_updated": 1725912366,
-        "date_posted": 1725912366,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-OR-Hillsboro/Compiler-Engineer--HPC---New-College-Grad-2024_JR1987329",
-        "locations": [
-            "Austin, TX",
-            "Redmond, WA",
-            "Santa Clara, CA",
-            "Hillsboro, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "ManTech",
         "id": "965b2b30-6828-47a2-bef5-ce716634800e",
         "title": "Junior Software Developer",
@@ -25077,6 +25058,27 @@
         "url": "https://jobs.ashbyhq.com/jerry.ai/88345c93-ae5e-416b-af29-69d8ea6fde78/application",
         "locations": [
             "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "6e14a783-e5c6-43f4-97d0-83e2db840795",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1757015797,
+        "date_posted": 1757015797,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/095ecb99-75f7-4f82-bac7-45fa2db917c6/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
