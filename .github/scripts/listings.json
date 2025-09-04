@@ -24761,5 +24761,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "date_updated": 1756974823,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/2k/jobs/6688546003",
+        "company_name": "2K",
+        "title": "US Engineering Graduate Program",
+        "locations": [
+            "Novato, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "21cee484-13c4-4247-a902-433f798e3356",
+        "date_posted": 1756974823,
+        "company_url": "",
+        "is_visible": true
     }
 ]
