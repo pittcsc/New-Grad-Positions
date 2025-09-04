@@ -24870,5 +24870,26 @@
         "date_posted": 1756975605,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756975770,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/St-Louis-MO/Technology-Development-Program--TECDP-----Artificial-Intelligence-Track---Start-Date--July-13--2026_25011433",
+        "company_name": "The Cigna Group",
+        "title": "Technology Development Program (TECDP) - Artificial Intelligence",
+        "locations": [
+            "St. Louis, MO",
+            "Morris Plains, NJ",
+            "Bloomfield, CT",
+            "Austin, TX"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "52d706e2-5eb3-4f0c-b19b-c8c6506f6863",
+        "date_posted": 1756975770,
+        "company_url": "",
+        "is_visible": true
     }
 ]
