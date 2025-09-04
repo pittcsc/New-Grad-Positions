@@ -24797,5 +24797,23 @@
         "date_posted": 1756975007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756975094,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.roblox.com/jobs/7167345",
+        "company_name": "Roblox",
+        "title": "Associate Product Designer, Early Career",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "e1ef069c-abb6-492b-b919-ad27e9d8b2a0",
+        "date_posted": 1756975094,
+        "company_url": "",
+        "is_visible": true
     }
 ]

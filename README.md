@@ -6,7 +6,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 337 New Grad Roles by Category
+### Browse 338 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (229)
 
@@ -18,7 +18,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (25)
 
-💼 **[Other](#-other-new-grad-roles)** (19)
+💼 **[Other](#-other-new-grad-roles)** (20)
 
 ---
 
@@ -1149,7 +1149,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Forward Deployed Software Engineer I</td>
 <td style="padding: 8px; vertical-align: top;">Herndon, VA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://maxar.wd1.myworkdayjobs.com/en-US/Maxar/job/Herndon-VA/Forward-Deployed-Software-Engineer-I_R22647-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">26d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">27d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/I3?utm_source=GHList&utm_medium=company">i3</a></strong></td>
@@ -3820,6 +3820,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Roblox?utm_source=GHList&utm_medium=company">🔥 Roblox</a></strong></td>
+<td style="padding: 8px; vertical-align: top;">Associate Product Designer, Early Career 🇺🇸</td>
+<td style="padding: 8px; vertical-align: top;">San Mateo, CA</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://careers.roblox.com/jobs/7167345?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+</tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>Epic</strong></td>
 <td style="padding: 8px; vertical-align: top;">Technical Solutions Engineer 🛂</td>
