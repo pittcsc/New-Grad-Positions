@@ -25003,5 +25003,23 @@
         "date_posted": 1756981665,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756981796,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Software-Engineering-Graduate--Colorado-_1193615-1",
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Software Engineering Graduate",
+        "locations": [
+            "Ft. Collins, CO"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "6b08e82f-ef09-440e-aa44-6795153bdeda",
+        "date_posted": 1756981796,
+        "company_url": "",
+        "is_visible": true
     }
 ]
