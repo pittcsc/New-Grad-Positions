@@ -24815,5 +24815,23 @@
         "date_posted": 1756975094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756975135,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.roblox.com/jobs/7167343",
+        "company_name": "Roblox",
+        "title": "Associate Product Manager, Early Career",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "category": "Product Management",
+        "source": "AlmondCroffle",
+        "id": "1999e97d-22a7-45fa-a212-7880e1abc0d7",
+        "date_posted": 1756975135,
+        "company_url": "",
+        "is_visible": true
     }
 ]
