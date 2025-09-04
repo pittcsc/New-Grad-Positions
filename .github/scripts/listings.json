@@ -24949,5 +24949,23 @@
         "date_posted": 1756980855,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756981021,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/spacex/jobs/8121675002?gh_jid=8121675002",
+        "company_name": "SpaceX",
+        "title": "New Graduate Engineer, Software (Starlink)",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "202e727a-8715-4d5a-be00-838d1f09e262",
+        "date_posted": 1756981021,
+        "company_url": "",
+        "is_visible": true
     }
 ]
