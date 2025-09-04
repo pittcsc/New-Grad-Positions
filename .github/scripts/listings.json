@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "ManTech",
-        "id": "965b2b30-6828-47a2-bef5-ce716634800e",
-        "title": "Junior Software Developer",
-        "active": false,
-        "date_updated": 1725923617,
-        "date_posted": 1725923617,
-        "url": "https://mantech.wd1.myworkdayjobs.com/en-US/External/job/USA-DC-Washington/Junior-Software-Developer_R52317",
-        "locations": [
-            "Springfield, VA",
-            "Aberdeen, MD",
-            "Quantico, VA",
-            "Washington, DC",
-            "Annapolis Junction, MD",
-            "Chantilly, VA",
-            "McLean, VA",
-            "Hyattsville, MD",
-            "Columbia, MD",
-            "Odenton, MD",
-            "Fort Belvoir, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/c6651565-44c8-4050-8412-111c54942390",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "ManTech",
-        "id": "17d50052-2945-4256-8ca2-7c8c2c4389c2",
-        "title": "Junior Software Engineer",
-        "active": false,
-        "date_updated": 1725923489,
-        "date_posted": 1725923489,
-        "url": "https://mantech.wd1.myworkdayjobs.com/en-US/External/job/USA-VA-Chantilly/Junior-Software-Engineer_R54958-1",
-        "locations": [
-            "Chantilly, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/c6651565-44c8-4050-8412-111c54942390",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Disney Careers",
         "id": "82d566c5-9240-49d0-8663-0c44ed17fced",
         "title": "Data Engineer I",
@@ -153,22 +111,6 @@
         "date_posted": 1725928018,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "company_name": "ManTech",
-        "id": "09ce31f4-516b-44d5-9cb4-4bfee37d6baf",
-        "title": "Junior Data Engineer",
-        "active": false,
-        "date_updated": 1725923544,
-        "date_posted": 1725923544,
-        "url": "https://mantech.wd1.myworkdayjobs.com/en-US/External/job/USA-Remote-Work/Junior-Data-Engineer_R54310",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/c6651565-44c8-4050-8412-111c54942390",
-        "is_visible": true,
-        "sponsorship": "Other"
     },
     {
         "source": "Simplify",
