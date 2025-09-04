@@ -24779,5 +24779,23 @@
         "date_posted": 1756974823,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756975007,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.smartrecruiters.com/LinkedIn3/a3b09881-7c3e-444c-9e65-ac0e2c6a8970",
+        "company_name": "LinkedIn",
+        "title": "Associate Product Builder (APB) - Rotational Program",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "category": "Hardware Engineering",
+        "source": "AlmondCroffle",
+        "id": "3e6d5800-52c8-44e0-be8e-5f84a254e43a",
+        "date_posted": 1756975007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
