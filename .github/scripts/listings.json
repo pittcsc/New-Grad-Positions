@@ -24852,5 +24852,23 @@
         "date_posted": 1756975226,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756975605,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Minnetonka-MN-USA/Early-Careers-Rotational-Program---R-D-Engineer--AI-_250003743-1",
+        "company_name": "VIAVI",
+        "title": "Early Careers Rotational Program - R&D Engineer (AI)",
+        "locations": [
+            "Minnetonka, MN"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "029395e6-da90-46b8-8027-b4a3169ff396",
+        "date_posted": 1756975605,
+        "company_url": "",
+        "is_visible": true
     }
 ]
