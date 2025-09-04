@@ -24929,5 +24929,25 @@
         "date_posted": 1756975959,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756980855,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/St-Louis-MO/Technology-Development-Program--TECDP----Infrastructure---Cloud-Engineering-Track---Start-Date--July-13--2026_25011438-1",
+        "company_name": "The Cigna Group",
+        "title": "Technology Development Program (TECDP) - Infrastructure & Cloud Engineering Track",
+        "locations": [
+            "St. Louis, MO",
+            "Bloomfield, CT",
+            "Bloomington, MN"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "7efa4a90-bd67-48f9-b6b5-b305ae01b410",
+        "date_posted": 1756980855,
+        "company_url": "",
+        "is_visible": true
     }
 ]
