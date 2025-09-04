@@ -24967,5 +24967,23 @@
         "date_posted": 1756981021,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756981080,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/spacex/jobs/8144023002?gh_jid=8144023002",
+        "company_name": "SpaceX",
+        "title": "New Graduate Engineer, Software (Starship)",
+        "locations": [
+            "Starbase, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "bc5a010c-342d-4ffc-8443-6d4f997a627b",
+        "date_posted": 1756981080,
+        "company_url": "",
+        "is_visible": true
     }
 ]
