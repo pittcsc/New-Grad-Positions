@@ -1,21 +1,5 @@
 [
     {
-        "date_updated": 1725928018,
-        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4338876006",
-        "company_name": "NewsBreak",
-        "title": "Machine Learning Engineer (Junior & New Grad)",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "f6db0437-48c7-4c28-89d5-76d6e4f15f71",
-        "date_posted": 1725928018,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "company_name": "Persona",
         "id": "7b0a92a2-0f75-464b-980f-6a0501a5934f",
@@ -212,54 +196,6 @@
         "company_url": "https://simplify.jobs/c/Alto",
         "is_visible": true,
         "sponsorship": "Does Not Offer Sponsorship"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Gecko Robotics",
-        "id": "c5e871a0-bd0e-4b54-9746-56e579dfbc2a",
-        "title": "Software Engineer \u2013 New Graduate",
-        "active": false,
-        "date_updated": 1725927382,
-        "date_posted": 1725927382,
-        "url": "https://jobs.ashbyhq.com/gecko-robotics/34464bf6-1c55-4aed-8d08-ac43c7c965d1/application",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Gecko-Robotics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Gecko Robotics",
-        "id": "cdf96759-2a86-4465-a888-b1307363d142",
-        "title": "Field Software Engineer \u2013 New Graduate",
-        "active": false,
-        "date_updated": 1725927375,
-        "date_posted": 1725927375,
-        "url": "https://jobs.ashbyhq.com/gecko-robotics/456af2b4-804c-4fc5-95c3-01d6539cdc0e/application",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Gecko-Robotics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Gecko Robotics",
-        "id": "5dbc15df-2d1e-4184-9518-aaa2bd09551e",
-        "title": "Forward Deployed Software Engineer \u2013 New Graduate",
-        "active": false,
-        "date_updated": 1725927372,
-        "date_posted": 1725927372,
-        "url": "https://jobs.ashbyhq.com/gecko-robotics/37a18535-7fd9-4491-a8a0-d567adc30e03/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Gecko-Robotics",
-        "is_visible": true,
-        "sponsorship": "Other"
     },
     {
         "source": "Simplify",
@@ -1067,22 +1003,6 @@
             "McLean, VA"
         ],
         "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "KLA",
-        "id": "97057cba-e730-4b44-a093-b4377f13b939",
-        "title": "Software Engineer \u2013 C++ / New College Graduate",
-        "active": false,
-        "date_updated": 1727745838,
-        "date_posted": 1725927397,
-        "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Austin-TX/Software-Engineer--C-C-----Qt-_2424709-1",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -24333,7 +24253,7 @@
         "company_name": "Yodlee",
         "id": "55387b88-2383-456c-a4b3-8a3352b0061b",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756939471,
         "date_posted": 1756939471,
         "url": "https://jobs.jobvite.com/yodlee/job/oOGbxfwW?nl=1&nl=1&fr=false",
@@ -24970,6 +24890,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NewsBreak",
+        "id": "f6db0437-48c7-4c28-89d5-76d6e4f15f71",
+        "title": "Machine Learning Engineer \u2013 Junior & New Grad",
+        "active": false,
+        "date_updated": 1754604945,
+        "date_posted": 1738887360,
+        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4338876006",
+        "locations": [
+            "Bellevue, WA",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NewsBreak",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     },
     {
