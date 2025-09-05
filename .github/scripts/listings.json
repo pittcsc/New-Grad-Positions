@@ -167,22 +167,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "RELX",
-        "id": "7e047c7a-949a-4a7e-b4c3-3adbd5fe4d77",
-        "title": "Aspire Tech Graduate Program - Data Engineer I",
-        "active": false,
-        "date_updated": 1725985999,
-        "date_posted": 1725985999,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Raleigh-NC/Aspire-Tech-Graduate-Program---Data-Engineer-I_R83652-1",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/1495091e-1f19-4c30-a48a-5afa4aa5e7dd",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Tencent",
         "id": "2fe87416-59d9-4125-ae96-47b609f83c15",
         "title": "Security Software Engineer I",
@@ -24790,7 +24774,7 @@
         "company_name": "Jerry",
         "id": "6e14a783-e5c6-43f4-97d0-83e2db840795",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757015797,
         "date_posted": 1757015797,
         "url": "https://jobs.ashbyhq.com/jerry.ai/095ecb99-75f7-4f82-bac7-45fa2db917c6/application",
