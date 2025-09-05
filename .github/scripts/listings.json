@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Persona",
-        "id": "7b0a92a2-0f75-464b-980f-6a0501a5934f",
-        "title": "Software engineer \u2013 New grad",
-        "active": false,
-        "date_updated": 1725940879,
-        "date_posted": 1725940879,
-        "url": "https://jobs.lever.co/persona/70dd3239-d020-4035-aaab-16bd289642f7/apply",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Persona",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Booz Allen",
         "id": "a2ecf6f0-70cd-4517-847c-9b46f727003f",
         "title": "Data Scientist - Junior",
@@ -210,22 +194,6 @@
             "Raleigh, NC"
         ],
         "company_url": "https://simplify.jobs/c/1495091e-1f19-4c30-a48a-5afa4aa5e7dd",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Gecko Robotics",
-        "id": "4de6098a-15b6-4713-a555-bdab5daa716c",
-        "title": "Embedded Software Engineer \u2013 New Graduate",
-        "active": false,
-        "date_updated": 1725941434,
-        "date_posted": 1725941434,
-        "url": "https://jobs.ashbyhq.com/gecko-robotics/c161948f-001d-45e4-a340-776cfccc1ff2/application",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Gecko-Robotics",
         "is_visible": true,
         "sponsorship": "Other"
     },
