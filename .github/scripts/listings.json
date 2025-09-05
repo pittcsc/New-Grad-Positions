@@ -24954,5 +24954,27 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "qode.world",
+        "id": "64ec080a-e86a-454e-8ec9-8879164fae86",
+        "title": "Junior Data Scientist",
+        "active": true,
+        "date_updated": 1757035197,
+        "date_posted": 1757035197,
+        "url": "https://apply.workable.com/qodeworld/j/5E96914ADB/apply",
+        "locations": [
+            "Tampa, FL",
+            "Jackson Township, NJ",
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Qode-World",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
