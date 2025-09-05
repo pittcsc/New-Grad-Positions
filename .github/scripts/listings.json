@@ -8,7 +8,7 @@
             "Bellevue, WA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "f6db0437-48c7-4c28-89d5-76d6e4f15f71",
         "date_posted": 1725928018,
@@ -24946,6 +24946,47 @@
             "Reston, VA"
         ],
         "company_url": "https://simplify.jobs/c/750f50d0-c3f8-4334-822f-fb70fa81b529",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Altice USA",
+        "id": "2667bcdd-a309-4376-a0ef-736453f4c541",
+        "title": "Software Dev Engineer I",
+        "active": true,
+        "date_updated": 1757030938,
+        "date_posted": 1757030938,
+        "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1322496900/?ats=successfactors",
+        "locations": [
+            "Plainview, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Altice-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NewsBreak",
+        "id": "f6db0437-48c7-4c28-89d5-76d6e4f15f71",
+        "title": "Machine Learning Engineer \u2013 Junior & New Grad",
+        "active": true,
+        "date_updated": 1754604945,
+        "date_posted": 1738887360,
+        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4338876006",
+        "locations": [
+            "Bellevue, WA",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NewsBreak",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
