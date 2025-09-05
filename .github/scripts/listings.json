@@ -1,38 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Subsplash",
-        "id": "b60c54e1-7ab9-4d7a-9148-54d754be2ff0",
-        "title": "Software Development Engineer I - Front-end",
-        "active": false,
-        "date_updated": 1725995807,
-        "date_posted": 1725995807,
-        "url": "https://boards.greenhouse.io/subsplash/jobs/7632485002",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Subsplash",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Subsplash",
-        "id": "60b33825-ad15-4f24-8a40-e79b7c1a40c3",
-        "title": "Software Development Engineer I - Back-end",
-        "active": false,
-        "date_updated": 1725995807,
-        "date_posted": 1725995807,
-        "url": "https://boards.greenhouse.io/subsplash/jobs/7631988002",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Subsplash",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Disney Careers",
         "id": "29bb61ea-711c-453d-b98c-e8f52686426b",
         "title": "Software Engineer I",
