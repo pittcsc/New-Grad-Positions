@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 353 New Grad Roles by Category
+### Browse 352 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (239)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (238)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (5)
 
@@ -1114,21 +1114,21 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Junior Software Engineer</td>
 <td style="padding: 8px; vertical-align: top;">Indianapolis, IN</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://remodelhealth.com/resources/job/?gh_jid=4880033008&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">23d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">24d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Anduril?utm_source=GHList&utm_medium=company">Anduril Industries</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer, Connected Warfare 🇺🇸</td>
 <td style="padding: 8px; vertical-align: top;">Costa Mesa, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://job-boards.greenhouse.io/andurilindustries/jobs/4776690007?gh_jid=4776690007&gh_src=&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">23d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">24d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;">↳</td>
 <td style="padding: 8px; vertical-align: top;">Early Career Software Engineer 🇺🇸</td>
 <td style="padding: 8px; vertical-align: top;">Costa Mesa, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://job-boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007&gh_src=&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">23d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">24d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/AG-Technologies?utm_source=GHList&utm_medium=company">AG Technologies</a></strong></td>
@@ -1516,13 +1516,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; text-align: center; vertical-align: top;">1mo</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/GM-Financial?utm_source=GHList&utm_medium=company">GM financial</a></strong></td>
-<td style="padding: 8px; vertical-align: top;">Software Development Engineer I</td>
-<td style="padding: 8px; vertical-align: top;">Arlington, TX</br>Fort Worth, TX</br>Irving, TX</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/535?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/325a787b-0d7a-48d5-a230-7df1ab6dccd6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">1mo</td>
-</tr>
-<tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Mthree?utm_source=GHList&utm_medium=company">mthree</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Junior Software Engineer</td>
 <td style="padding: 8px; vertical-align: top;"><details><summary><strong>4 locations</strong></summary>Salt Lake, UT</br>Houston, TX</br>Dalla, TX</br>New York, NY</details></td>
@@ -1758,7 +1751,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (150)</summary>
+<summary>🗃️ Inactive roles (151)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2286,6 +2279,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/TripAdvisor?utm_source=GHList&utm_medium=company">TripAdvisor</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer I - Backend Focus - Viator</td>
 <td style="padding: 8px; vertical-align: top;">London, UK</br>Oxford, UK</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">1mo</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/GM-Financial?utm_source=GHList&utm_medium=company">GM financial</a></strong></td>
+<td style="padding: 8px; vertical-align: top;">Software Development Engineer I</td>
+<td style="padding: 8px; vertical-align: top;">Arlington, TX</br>Fort Worth, TX</br>Irving, TX</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">1mo</td>
 </tr>
@@ -3770,7 +3770,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Air Dominance & Strike - Flight Software Engineer, Embedded C/C++ 🛂</td>
 <td style="padding: 8px; vertical-align: top;">Costa Mesa, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://job-boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007&gh_src=&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">23d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">24d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>Lumafield</strong></td>
