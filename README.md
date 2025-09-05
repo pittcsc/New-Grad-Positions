@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 354 New Grad Roles by Category
+### Browse 353 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (237)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (236)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (5)
 
@@ -1523,13 +1523,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; text-align: center; vertical-align: top;">1mo</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company">CACI</a></strong></td>
-<td style="padding: 8px; vertical-align: top;">Entry Level Software Engineer - Automated Testing</td>
-<td style="padding: 8px; vertical-align: top;">Rochester, NY</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Entry-Level-Software-Engineer--Automated-Testing-_314546-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ac8b67b8-97b8-4915-90f9-87cb00709c0a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">1mo</td>
-</tr>
-<tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/a3893f84-8200-4d5f-aad7-2ff0d6d670dc?utm_source=GHList&utm_medium=company">EvenUp</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer – New Graduate</td>
 <td style="padding: 8px; vertical-align: top;">San Francisco, CA</br>Toronto, ON</td>
@@ -1744,7 +1737,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (152)</summary>
+<summary>🗃️ Inactive roles (153)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2321,6 +2314,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Mthree?utm_source=GHList&utm_medium=company">mthree</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Mthree – Junior Software Developer</td>
 <td style="padding: 8px; vertical-align: top;">Multiple Locations, UK</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">1mo</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company">CACI</a></strong></td>
+<td style="padding: 8px; vertical-align: top;">Entry Level Software Engineer - Automated Testing</td>
+<td style="padding: 8px; vertical-align: top;">Rochester, NY</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">1mo</td>
 </tr>
