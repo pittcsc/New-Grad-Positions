@@ -25145,5 +25145,23 @@
         "date_posted": 1757080660,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757080716,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://triafed.com/jobs/?gh_jid=4890304008",
+        "company_name": "Tria Federal",
+        "title": "Data Analyst (BI/Reporting) Level I",
+        "locations": [
+            "Falls Church, VA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "abd37c07-777b-4c28-bd82-0862522ff663",
+        "date_posted": 1757080716,
+        "company_url": "",
+        "is_visible": true
     }
 ]
