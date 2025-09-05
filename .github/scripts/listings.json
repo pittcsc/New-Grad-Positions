@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Booz Allen",
-        "id": "a2ecf6f0-70cd-4517-847c-9b46f727003f",
-        "title": "Data Scientist - Junior",
-        "active": false,
-        "date_updated": 1725959468,
-        "date_posted": 1725959468,
-        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Junior_R0204910",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Subsplash",
         "id": "b60c54e1-7ab9-4d7a-9148-54d754be2ff0",
         "title": "Software Development Engineer I - Front-end",
