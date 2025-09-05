@@ -1,39 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Disney Careers",
-        "id": "29bb61ea-711c-453d-b98c-e8f52686426b",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1726009972,
-        "date_posted": 1726009972,
-        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Software-Engineer-I_10099376",
-        "locations": [
-            "Santa Monica, CA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/f4ca773e-168e-4f3d-bc3d-e0cc32345fc6",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Perpay",
-        "id": "87535675-cdd3-44ea-b36f-622b1a2be47b",
-        "title": "Software Engineer, New Grad",
-        "active": false,
-        "date_updated": 1727128045,
-        "date_posted": 1726009552,
-        "url": "https://boards.greenhouse.io/perpay/jobs/4034578007",
-        "locations": [
-            "Philadelphia, Pa"
-        ],
-        "company_url": "https://simplify.jobs/c/Perpay",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Wiley Edge",
         "id": "f939fbea-934d-4a56-958a-cf9f2977763d",
         "title": "Mthree \u2013 Junior Software Engineer - Chester & Sheffield",
@@ -12442,7 +12409,7 @@
         "company_name": "Twilio",
         "id": "6d485416-e467-4c79-8a6d-8b6d37a05876",
         "title": "Software Engineer \u2013 Early Career - Messaging API",
-        "active": false,
+        "active": true,
         "date_updated": 1750215193,
         "date_posted": 1750215193,
         "url": "https://job-boards.greenhouse.io/twilio/jobs/6987416",
@@ -25193,6 +25160,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "c93300ae-86b9-4433-993a-03a0e316ed71",
+        "title": "Aspire Tech Graduate Security Engineer I",
+        "active": true,
+        "date_updated": 1757113543,
+        "date_posted": 1757113543,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Aspire-Tech-Graduate-Security-Engineer-I_R101084",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
