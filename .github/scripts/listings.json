@@ -16298,7 +16298,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754359833,
+        "date_updated": 1757032325,
         "url": "https://www.metrostar.com/job-post/?gh_jid=6667276003",
         "company_name": "MetroStar",
         "title": "Associate Software Developer",
@@ -16311,7 +16311,8 @@
         "id": "d7250641-4c60-49ed-bb02-adda65f7c477",
         "date_posted": 1754359833,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1754662623,
