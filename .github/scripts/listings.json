@@ -25201,5 +25201,47 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "f92a2963-37d7-49a6-9354-0b4fb0ddc238",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1757115593,
+        "date_posted": 1757115593,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/fef3f366-d14d-4a29-9a83-a3a99f9dfcbc/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "7771b2aa-d6b1-4c3c-b809-6068e52be6fa",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1757115592,
+        "date_posted": 1757115592,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/82b3f656-b7a6-4abd-a35b-876d4c6e2a11/application",
+        "locations": [
+            "Palo Alto, CA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
