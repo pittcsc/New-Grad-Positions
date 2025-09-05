@@ -155,7 +155,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Entry Level Software Engineer-Test & Verification</td>
 <td style="padding: 8px; vertical-align: top;">Kent, WA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Kent-WA/Entry-Level-Software-Engineer-Test---Verification_JR2025468499-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4098078f-4134-4979-b41f-7dabd027c11e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">1d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Hewlett-Packard-Enterprise?utm_source=GHList&utm_medium=company">Hewlett Packard Enterprise</a></strong></td>
@@ -827,7 +827,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Development Engineer I</td>
 <td style="padding: 8px; vertical-align: top;">St. Louis, MO</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://www.esri.com/careers/4829378007?gh_jid=4829378007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d7950fb8-db44-4a5e-abcd-231daa5f9037?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">20d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">21d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Suno?utm_source=GHList&utm_medium=company">Suno</a></strong></td>
@@ -4035,7 +4035,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Technical Solutions Engineer 🛂</td>
 <td style="padding: 8px; vertical-align: top;">Madison, WI</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://epic.avature.net/Careers/FolderDetail/Technical-Solutions-Engineer/742?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">1d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">2d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Lumen-Technologies?utm_source=GHList&utm_medium=company">Lumen Technologies</a></strong></td>
