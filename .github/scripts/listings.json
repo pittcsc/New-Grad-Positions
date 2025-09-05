@@ -25181,5 +25181,25 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bumble",
+        "id": "7c4ad6e4-ec7b-4352-b201-7a1dda598aa1",
+        "title": "New Grad - Jr. Software Engineer",
+        "active": true,
+        "date_updated": 1757114201,
+        "date_posted": 1757114201,
+        "url": "https://jobs.lever.co/bumbleinc/6cc32636-4671-4838-a6b7-2dd16b97c110/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Bumble",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
