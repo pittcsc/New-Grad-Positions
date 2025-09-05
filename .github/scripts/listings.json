@@ -25127,5 +25127,23 @@
         "date_posted": 1757075740,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757080660,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://triafed.com/jobs/?gh_jid=4890318008",
+        "company_name": "Tria Federal",
+        "title": "Data Analyst (Developer) Level I",
+        "locations": [
+            "Falls Church, VA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "bfe9aa64-fc6a-4bff-a502-ac0b1549c811",
+        "date_posted": 1757080660,
+        "company_url": "",
+        "is_visible": true
     }
 ]
