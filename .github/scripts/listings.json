@@ -10408,7 +10408,7 @@
         "company_name": "General Dynamics",
         "id": "79fd1da3-151a-4655-8ce5-be37e1eae0fd",
         "title": "Junior Front End Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1747337779,
         "date_posted": 1747337779,
         "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Annapolis-Junction/Junior-Front-End-Developer--TS-SCI-w-Poly-_RQ199703",
@@ -25173,5 +25173,26 @@
         "date_posted": 1757101807,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Verisk",
+        "id": "61c189a1-2969-4b12-96d6-bfc94f7a1fd9",
+        "title": "Junior Data Scientist",
+        "active": true,
+        "date_updated": 1757111018,
+        "date_posted": 1757111018,
+        "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1920",
+        "locations": [
+            "London, UK",
+            "Norwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Verisk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
