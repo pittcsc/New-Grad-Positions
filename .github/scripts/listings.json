@@ -25163,5 +25163,26 @@
         "date_posted": 1757080716,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757080975,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/pditechnologies/dabd35a1-a15f-4702-8beb-f4c5d6a3d837",
+        "company_name": "PDI Technologies",
+        "title": "Junior Machine Learning Engineer",
+        "locations": [
+            "Alpharetta, GA",
+            "Temple, TX",
+            "Dallas, TX",
+            "Houston, TX"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "1c4a0a4c-0df8-4028-a421-574c74a14f93",
+        "date_posted": 1757080975,
+        "company_url": "",
+        "is_visible": true
     }
 ]
