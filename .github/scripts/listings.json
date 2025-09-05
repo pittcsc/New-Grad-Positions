@@ -25056,5 +25056,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Valkyrie Trading",
+        "id": "67a851ea-8525-4f41-aaf5-9512b3d00fd1",
+        "title": "Junior Quantitative Researcher",
+        "active": true,
+        "date_updated": 1757039060,
+        "date_posted": 1757039060,
+        "url": "https://jobs.lever.co/valkyrietrading/6ba65cc5-53ec-4c92-ac98-dbc3326c75ab/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Valkyrie-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
