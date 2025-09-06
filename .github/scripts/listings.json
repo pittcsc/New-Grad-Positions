@@ -25243,5 +25243,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "EBSCO",
+        "id": "67745353-ef49-4446-9e3d-36d4010722f9",
+        "title": "Software Dev Engineer I",
+        "active": true,
+        "date_updated": 1757116763,
+        "date_posted": 1757116763,
+        "url": "https://careers-ebscoind.icims.com/jobs/1834/job",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/EBSCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
