@@ -1,38 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Chime",
-        "id": "37ddb0b1-17d9-4b43-b1ca-15fa8da3652d",
-        "title": "Software Engineer-New Grad - For Fall 2024 Event Attendees",
-        "active": false,
-        "date_updated": 1726096329,
-        "date_posted": 1726096329,
-        "url": "https://boards.greenhouse.io/chime/jobs/7626713002",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Chime",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Alto Pharmacy",
-        "id": "0e38bd82-57b3-4b35-8bb2-e96f647a2e52",
-        "title": "Early Career Software Engineer",
-        "active": false,
-        "date_updated": 1726307511,
-        "date_posted": 1726096026,
-        "url": "https://boards.greenhouse.io/alto/jobs/6235262",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Alto",
-        "is_visible": true,
-        "sponsorship": "Does Not Offer Sponsorship"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Tencent",
         "id": "2fe87416-59d9-4125-ae96-47b609f83c15",
         "title": "Security Software Engineer I",
