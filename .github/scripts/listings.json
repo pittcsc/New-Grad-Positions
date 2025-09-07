@@ -25430,6 +25430,26 @@
         "company_name": "Tencent",
         "id": "2fe87416-59d9-4125-ae96-47b609f83c15",
         "title": "Security Software Engineer I",
+        "active": false,
+        "date_updated": 1755955947,
+        "date_posted": 1755955947,
+        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Security-Engineer-I_R103856",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tencent",
+        "id": "2fe87416-59d9-4125-ae96-47b609f83c15",
+        "title": "Security Software Engineer I",
         "active": true,
         "date_updated": 1755955947,
         "date_posted": 1755955947,
