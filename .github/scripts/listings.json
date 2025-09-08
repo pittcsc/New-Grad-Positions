@@ -25670,5 +25670,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Symbotic",
+        "id": "7de63c56-a8bc-4966-92db-17ffa0a4b2a6",
+        "title": "New Grad-Hardware Engineer",
+        "active": true,
+        "date_updated": 1757370770,
+        "date_posted": 1757370770,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Milpitas-CA/New-Grad--Hardware-Engineer_R5410",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
