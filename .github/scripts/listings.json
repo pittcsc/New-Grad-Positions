@@ -25513,5 +25513,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1757313716,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Ft-Collins-Colorado-United-States-of-America/Data-Science-Graduate--Colorado-_1193617",
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Data Science Graduate",
+        "locations": [
+            "Fort Collins, CO"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "bfe85994-7d27-4578-b191-e27f6a8a0e0d",
+        "date_posted": 1757313716,
+        "company_url": "",
+        "is_visible": true
     }
 ]
