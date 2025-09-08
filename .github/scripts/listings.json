@@ -25531,5 +25531,23 @@
         "date_posted": 1757313716,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757314093,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/Aprio/e52783da-4116-4f88-9bfb-0cc6ce4a6993/",
+        "company_name": "Aprio",
+        "title": "Assurance Associate - Blockchain, Digital Assets, Specialty Lending and AI",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "8935c4c6-0eff-4be7-bf3c-7f36b500cb4f",
+        "date_posted": 1757314093,
+        "company_url": "",
+        "is_visible": true
     }
 ]

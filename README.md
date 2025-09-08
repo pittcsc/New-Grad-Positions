@@ -6,7 +6,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 351 New Grad Roles by Category
+### Browse 352 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (239)
 
@@ -18,7 +18,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (20)
 
-💼 **[Other](#-other-new-grad-roles)** (17)
+💼 **[Other](#-other-new-grad-roles)** (18)
 
 ---
 
@@ -4177,6 +4177,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;"><strong>Aprio</strong></td>
+<td style="padding: 8px; vertical-align: top;">Assurance Associate - Blockchain, Digital Assets, Specialty Lending and AI</td>
+<td style="padding: 8px; vertical-align: top;">San Francisco, CA</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://jobs.lever.co/Aprio/e52783da-4116-4f88-9bfb-0cc6ce4a6993/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+</tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/LexisNexis-Risk-Solutions?utm_source=GHList&utm_medium=company">LexisNexis Risk Solutions</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Aspire Tech Graduate Security Engineer I 🎓</td>
