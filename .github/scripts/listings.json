@@ -25567,5 +25567,23 @@
         "date_posted": 1757314225,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757314521,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://extraspace.wd5.myworkdayjobs.com/en-US/ESS_External/job/Salt-Lake-City-UT-United-States/Associate-Software-Engineer_R-72920",
+        "company_name": "Extra Space Storage",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1edbb68c-cff8-4b93-ba93-9e72cca3a9a8",
+        "date_posted": 1757314521,
+        "company_url": "",
+        "is_visible": true
     }
 ]
