@@ -25624,5 +25624,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1757353619,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://epic.avature.net/Careers/FolderDetail/Infrastructure-Engineer/23505",
+        "company_name": "Epic",
+        "title": "Infrastructure Engineer",
+        "locations": [
+            "Madison, WI"
+        ],
+        "category": "Software Engineering",
+        "source": "mtlogs",
+        "id": "c660f891-9a0b-4c58-9515-f470876c9a1d",
+        "date_posted": 1757353619,
+        "company_url": "",
+        "is_visible": true
     }
 ]
