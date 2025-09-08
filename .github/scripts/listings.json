@@ -25549,5 +25549,23 @@
         "date_posted": 1757314093,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757314225,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Durham-NC/Associate-Software-Engineer_2526628",
+        "company_name": "Labcorp",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Durham, NC"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "0088cc85-7e7c-4563-be41-79a76ddd441a",
+        "date_posted": 1757314225,
+        "company_url": "",
+        "is_visible": true
     }
 ]
