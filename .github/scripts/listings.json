@@ -25603,5 +25603,25 @@
         "date_posted": 1757314647,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "a564c7c1-63c4-4627-9c80-967441cc17b1",
+        "title": "Wavelogic Software Developer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1757317184,
+        "date_posted": 1757317184,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R028787",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
