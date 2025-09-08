@@ -477,14 +477,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Security Software Engineer I</td>
 <td style="padding: 8px; vertical-align: top;">Mountain View, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://aurora.tech/careers/8137861002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">10d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">11d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>🔥 NVIDIA</strong></td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer, TensorRT Specialized Platforms 🎓</td>
 <td style="padding: 8px; vertical-align: top;">Santa Clara, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--TensorRT-Specialized-Platforms---New-College-Grad-2025_JR2002870?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">10d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">11d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>Commure</strong></td>
@@ -722,7 +722,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Engineer in ML Systems Graduate</td>
 <td style="padding: 8px; vertical-align: top;">San Jose, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://joinbytedance.com/search/7265752342699837757?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">18d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">19d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company">🔥 Palantir</a></strong></td>
@@ -806,7 +806,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Junior Software Developer</td>
 <td style="padding: 8px; vertical-align: top;">New Jersey, NJ</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://apply.workable.com/qodeworld/j/5718A36818/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">21d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">22d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Western-Digital?utm_source=GHList&utm_medium=company">Western Digital</a></strong></td>
@@ -1026,7 +1026,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; text-align: center; vertical-align: top;">24d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;"><strong>Apex</strong></td>
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/ed242389-4231-41e2-bc85-a1f97fd15e44?utm_source=GHList&utm_medium=company">Apex Fintech Solutions</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer I (ALDP)</td>
 <td style="padding: 8px; vertical-align: top;">Austin, TX</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://peak6group.wd1.myworkdayjobs.com/en-US/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
@@ -3282,7 +3282,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Junior Computational Linguist</td>
 <td style="padding: 8px; vertical-align: top;"><details><summary><strong>10 locations</strong></summary>VA</br>WI</br>AZ</br>TN</br>MI</br>MA</br>MO</br>CO</br>NM</br>Remote, London, UK</details></td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Virginia-United-States/Junior-Computational-Linguist_R0031051-4?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">21d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">22d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">🔥 TikTok</a></strong></td>
@@ -4047,10 +4047,10 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Mechanical/Hardware Engineer I Graduate</td>
 <td style="padding: 8px; vertical-align: top;">Eau Claire, WI</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">16d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">17d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Hewlett-Packard-Enterprise?utm_source=GHList&utm_medium=company">Hewlett Packard Enterprise</a></strong></td>
+<td style="padding: 8px; vertical-align: top;">↳</td>
 <td style="padding: 8px; vertical-align: top;">Mechanical/Hardware Engineer I Graduate</td>
 <td style="padding: 8px; vertical-align: top;">Eau Claire, WI</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
