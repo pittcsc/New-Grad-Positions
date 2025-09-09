@@ -26062,5 +26062,23 @@
         "date_posted": 1757402522,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757402619,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.jahnelgroup.com/apply.html?gh_jid=4160702007",
+        "company_name": "Jahnel Group",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Schenectady, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "40518bd8-626e-4e68-a185-aae7a870dfa3",
+        "date_posted": 1757402619,
+        "company_url": "",
+        "is_visible": true
     }
 ]
