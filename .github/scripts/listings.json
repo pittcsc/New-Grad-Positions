@@ -25970,5 +25970,23 @@
         "date_posted": 1757401533,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757401647,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.publicisgroupe.com/jobs/121504",
+        "company_name": "Epsilon",
+        "title": "Associate, Software Engineer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "f4d67ceb-c267-4832-bf7c-e3b2e8664359",
+        "date_posted": 1757401647,
+        "company_url": "",
+        "is_visible": true
     }
 ]
