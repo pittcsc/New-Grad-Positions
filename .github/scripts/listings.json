@@ -25951,5 +25951,24 @@
         "date_posted": 1757401457,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757401533,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.disneycareers.com/en/job/-/-/391/85823385568",
+        "company_name": "Disney",
+        "title": "Software Engineer I",
+        "locations": [
+            "Glendale, CA",
+            "New York, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "c66df321-c70e-4dd8-a07e-d8b153c3cba6",
+        "date_posted": 1757401533,
+        "company_url": "",
+        "is_visible": true
     }
 ]
