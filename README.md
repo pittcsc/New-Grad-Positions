@@ -6,7 +6,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 363 New Grad Roles by Category
+### Browse 362 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (242)
 
@@ -16,7 +16,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (16)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (24)
+🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (23)
 
 💼 **[Other](#-other-new-grad-roles)** (20)
 
@@ -190,7 +190,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Infrastructure Engineer 🛂</td>
 <td style="padding: 8px; vertical-align: top;">Madison, WI</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://epic.avature.net/Careers/FolderDetail/Infrastructure-Engineer/23505?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">1d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>Diverge Health</strong></td>
@@ -1033,11 +1033,11 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; text-align: center; vertical-align: top;">25d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;">↳</td>
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/AG-Technologies?utm_source=GHList&utm_medium=company">AG Technologies</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Hiring Entry Level Software Engineer 🎓</td>
 <td style="padding: 8px; vertical-align: top;">Casa Grande, AZ</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://jobs.smartrecruiters.com/AGTechnologies1/743999659664711?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c7a6d22b-bb87-4031-9cce-bcfaaa680061?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">25d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">26d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Verisk?utm_source=GHList&utm_medium=company">Verisk</a></strong></td>
@@ -3415,7 +3415,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Machine Learning Engineer/Scientist I – Early Career 2025 University Grad</td>
 <td style="padding: 8px; vertical-align: top;">Seattle, WA</br>Kent, WA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Machine-Learning-Engineer-Scientist-I---Early-Career-2025-University-Grad_R54164?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/76bda980-7f17-4147-913d-c39234019082?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">25d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">26d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Applied-Intuition?utm_source=GHList&utm_medium=company">Applied Intuition</a></strong></td>
@@ -3983,13 +3983,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
-<td style="padding: 8px; vertical-align: top;">Wavelogic Software Developer – New Grad</td>
-<td style="padding: 8px; vertical-align: top;">Atlanta, GA</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R028787?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a564c7c1-63c4-4627-9c80-967441cc17b1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">1d</td>
-</tr>
-<tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Boom-Supersonic?utm_source=GHList&utm_medium=company">Boom Supersonic</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer – New Grad</td>
 <td style="padding: 8px; vertical-align: top;">Denver, CO</td>
@@ -4064,7 +4057,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Avionics Software Engineer 1 – Early Career 2025 University Grad</td>
 <td style="padding: 8px; vertical-align: top;">Kent, WA</br>Huntsville, AL</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Avionics-Software-Engineer-1---Early-Career-2025-University-Grad_R54112?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0296a5d8-15c9-4d99-9837-ae8869168618?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">25d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">26d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Becton-Dickinson-And-Company?utm_source=GHList&utm_medium=company">Becton, Dickinson and Company</a></strong></td>
@@ -4134,7 +4127,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (24)</summary>
+<summary>🗃️ Inactive roles (25)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -4147,6 +4140,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
+<td style="padding: 8px; vertical-align: top;">Wavelogic Software Developer – New Grad</td>
+<td style="padding: 8px; vertical-align: top;">Atlanta, GA</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">1d</td>
+</tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer I</td>
