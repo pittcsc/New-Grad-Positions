@@ -25988,5 +25988,23 @@
         "date_posted": 1757401647,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757401706,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.publicisgroupe.com/jobs/121511",
+        "company_name": "Epsilon",
+        "title": "Associate, Software Engineer",
+        "locations": [
+            "Irving, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "53729385-feaf-42a4-b150-83e912af8b00",
+        "date_posted": 1757401706,
+        "company_url": "",
+        "is_visible": true
     }
 ]
