@@ -26130,5 +26130,25 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SMX",
+        "id": "460df1fc-80a8-4761-8693-657bc844c1d8",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1757444743,
+        "date_posted": 1757444743,
+        "url": "https://www.smxtech.com/careers/?gh_jid=7141321003",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Smx",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
