@@ -26044,5 +26044,23 @@
         "date_posted": 1757401905,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757402522,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/boomsupersonic/jobs/5643300004",
+        "company_name": "Boom",
+        "title": "Data Scientist, New Grad",
+        "locations": [
+            "Denver, CO"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "58d0a8dc-bd31-4271-901c-696c4e9bfe25",
+        "date_posted": 1757402522,
+        "company_url": "",
+        "is_visible": true
     }
 ]
