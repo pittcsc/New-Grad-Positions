@@ -26006,5 +26006,23 @@
         "date_posted": 1757401706,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757401781,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4835616007",
+        "company_name": "Verkada",
+        "title": "Backend Software Engineer",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "6e02731c-cc69-420c-b180-8da8632c6ab7",
+        "date_posted": 1757401781,
+        "company_url": "",
+        "is_visible": true
     }
 ]
