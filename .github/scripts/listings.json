@@ -25854,5 +25854,46 @@
         "date_posted": 1757401128,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Figma",
+        "id": "3bea35c7-6895-4566-a81a-32705074a380",
+        "title": "Early Career - Data Scientist",
+        "active": true,
+        "date_updated": 1757356297,
+        "date_posted": 1757356297,
+        "url": "https://boards.greenhouse.io/figma/jobs/5615025004",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Figma",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Securities",
+        "id": "fe55aa52-32ab-4e10-a95a-0c2e4389fa20",
+        "title": "Machine Learning Engineer I",
+        "active": true,
+        "date_updated": 1757358863,
+        "date_posted": 1757358863,
+        "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1443721",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
