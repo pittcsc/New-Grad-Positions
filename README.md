@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 360 New Grad Roles by Category
+### Browse 361 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (239)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (240)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (5)
 
@@ -80,6 +80,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Peraton?utm_source=GHList&utm_medium=company">Peraton</a></strong></td>
+<td style="padding: 8px; vertical-align: top;">Software Engineering (Ignite Innovator Pgm) 🇺🇸</td>
+<td style="padding: 8px; vertical-align: top;">Herndon, VA</br>Blacksburg, VA</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://careers-peraton.icims.com/jobs/158538/software-engineering-%28ignite-innovator-pgm%29%2c-associate--herndon-or-blacksburg%2c-va/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+</tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>Jahnel Group</strong></td>
 <td style="padding: 8px; vertical-align: top;">Associate Software Engineer 🛂</td>
@@ -491,14 +498,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Security Software Engineer I</td>
 <td style="padding: 8px; vertical-align: top;">Mountain View, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://aurora.tech/careers/8137861002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">11d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">12d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>🔥 NVIDIA</strong></td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer, TensorRT Specialized Platforms 🎓</td>
 <td style="padding: 8px; vertical-align: top;">Santa Clara, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--TensorRT-Specialized-Platforms---New-College-Grad-2025_JR2002870?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">11d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">12d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>Commure</strong></td>
@@ -939,7 +946,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Engineer Graduate (Recommendation Platform) - 2026 Start (BS/MS)</td>
 <td style="padding: 8px; vertical-align: top;">San Jose, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://lifeattiktok.com/search/7536356589390301458?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">24d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">25d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>🔥 ByteDance</strong></td>
@@ -1881,7 +1888,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Engineer I</td>
 <td style="padding: 8px; vertical-align: top;">Long Island, New York</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">10d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">11d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company">Chewy</a></strong></td>
@@ -3261,14 +3268,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Early Career Machine Learning Engineer</td>
 <td style="padding: 8px; vertical-align: top;">Toronto, ON, Canada</br>SF</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://jobs.ashbyhq.com/evenup/58e747cc-0572-4316-83c0-f112ee52e3b5/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/87cea11e-3fc8-4ec4-878f-2ff415f60149?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">10d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">11d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Hewlett-Packard-Enterprise?utm_source=GHList&utm_medium=company">Hewlett Packard Enterprise</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">AI and Machine Learning Engineer I Graduate</td>
 <td style="padding: 8px; vertical-align: top;">Spring, TX</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-and-Machine-Learning-Engineer-I-Graduate_1192917-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/be034e03-9992-454f-95f0-a2e5f03f0880?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">11d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">12d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Susquehanna?utm_source=GHList&utm_medium=company">Susquehanna International Group (SIG)</a></strong></td>
@@ -3959,7 +3966,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Wavelogic Software Developer – New Grad</td>
 <td style="padding: 8px; vertical-align: top;">Atlanta, GA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R028787?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a564c7c1-63c4-4627-9c80-967441cc17b1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">1d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Boom-Supersonic?utm_source=GHList&utm_medium=company">Boom Supersonic</a></strong></td>
@@ -4015,7 +4022,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Mechanical/Hardware Engineer I Graduate</td>
 <td style="padding: 8px; vertical-align: top;">Eau Claire, WI</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Mechanical-Hardware-Engineer-I-Graduate_1192943-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d8749eca-e9d4-4014-87e5-253cf8d840b1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">17d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">18d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Sev1Tech?utm_source=GHList&utm_medium=company">Sev1Tech</a></strong></td>
@@ -4162,11 +4169,11 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; text-align: center; vertical-align: top;">17d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;">↳</td>
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Hewlett-Packard-Enterprise?utm_source=GHList&utm_medium=company">Hewlett Packard Enterprise</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Mechanical/Hardware Engineer I Graduate</td>
 <td style="padding: 8px; vertical-align: top;">Eau Claire, WI</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">17d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">18d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Electric-Boat?utm_source=GHList&utm_medium=company">Electric Boat</a></strong></td>
