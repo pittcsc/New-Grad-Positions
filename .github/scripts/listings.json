@@ -25931,5 +25931,25 @@
         "date_posted": 1757401305,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757401457,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Technology-Development-Program-Associate---February-2026_R218758-1",
+        "company_name": "Capital One",
+        "title": "Technology Development Program Associate",
+        "locations": [
+            "McLean, VA",
+            "Richmond, VA",
+            "Plano, TX"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "db6b2270-09fd-4711-a9f1-fd02df611769",
+        "date_posted": 1757401457,
+        "company_url": "",
+        "is_visible": true
     }
 ]
