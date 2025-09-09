@@ -25895,5 +25895,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1757401240,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.arm.com/job/austin/graduate-software-applications-engineer/33099/85831486416",
+        "company_name": "Arm Limited",
+        "title": "Graduate Software Applications Engineer",
+        "locations": [
+            "Austin, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "926863f0-8c2d-4e12-af66-fb8bd5e29053",
+        "date_posted": 1757401240,
+        "company_url": "",
+        "is_visible": true
     }
 ]
