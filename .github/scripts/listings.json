@@ -25913,5 +25913,23 @@
         "date_posted": 1757401240,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757401305,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/bumbleinc/6cc32636-4671-4838-a6b7-2dd16b97c110",
+        "company_name": "Bumble Engineering",
+        "title": "Jr. Software Engineer",
+        "locations": [
+            "Austin, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "3217003d-557d-4f6c-99dd-68f9cdf7c3ab",
+        "date_posted": 1757401305,
+        "company_url": "",
+        "is_visible": true
     }
 ]
