@@ -25710,5 +25710,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Scale AI",
+        "id": "ba5a73f8-843e-45cd-a294-03a095ff6701",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1757382023,
+        "date_posted": 1757382023,
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4605996005",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Scale-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
