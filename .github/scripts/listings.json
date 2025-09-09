@@ -25836,5 +25836,23 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "date_updated": 1757401128,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "http://amazon.jobs/en/jobs/3071644/security-engineer-aws-global-services-security",
+        "company_name": "Amazon",
+        "title": "Security Engineer",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "7008175b-a348-4881-b7e5-84de3e4da747",
+        "date_posted": 1757401128,
+        "company_url": "",
+        "is_visible": true
     }
 ]
