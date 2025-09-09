@@ -26109,5 +26109,26 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trexquant",
+        "id": "655044db-1f63-41b0-a8cc-8ac80f15bf80",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1757438299,
+        "date_posted": 1757438299,
+        "url": "https://apply.workable.com/trexquant/j/11DC4EA360/apply",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Trexquant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
