@@ -20742,7 +20742,7 @@
     {
         "date_updated": 1756120142,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
+        "active": true,
         "degrees": [],
         "url": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1447850",
         "company_name": "Cisco",
@@ -25771,6 +25771,49 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "cf31e3a7-ad75-4417-ba00-3fcbc98b644f",
+        "title": "2026 University Graduate - Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1757385678,
+        "date_posted": 1757385678,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R157573",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Adobe",
+        "id": "b3ef6e74-a8c5-4541-af5e-dc69ff1d6a1a",
+        "title": "2026 University Graduate - Application Security Engineer",
+        "active": true,
+        "date_updated": 1757385677,
+        "date_posted": 1757385677,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Application-Security-Engineer_R159164",
+        "locations": [
+            "SF",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
