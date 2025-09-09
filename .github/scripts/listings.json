@@ -16802,7 +16802,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1754642261,
+        "date_updated": 1757384775,
         "url": "https://maxar.wd1.myworkdayjobs.com/en-US/Maxar/job/Herndon-VA/Forward-Deployed-Software-Engineer-I_R22647-1",
         "company_name": "Maxar",
         "title": "Forward Deployed Software Engineer I",
@@ -16815,7 +16815,8 @@
         "id": "07e3733c-260c-4dc2-8ea5-de5cdcaba9cc",
         "date_posted": 1754642261,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1754642341,
