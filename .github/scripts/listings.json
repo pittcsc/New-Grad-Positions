@@ -26350,5 +26350,30 @@
         "date_posted": 1757507941,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757508286,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Graduate-2025_JR2003035",
+        "company_name": "NVIDIA",
+        "title": "Developer Technology Engineer, AI",
+        "locations": [
+            "Santa Clara, CA",
+            "Austin, TX",
+            "Durham, NC",
+            "Redmond, WA",
+            "Salt Lake City, UT",
+            "Boulder, CO"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "a13aaf41-ca14-4ecd-ac84-db0c1dada41a",
+        "date_posted": 1757508286,
+        "company_url": "",
+        "is_visible": true
     }
 ]
