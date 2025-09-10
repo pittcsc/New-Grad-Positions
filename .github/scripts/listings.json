@@ -26291,5 +26291,46 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "a7d3a768-07d8-4a3f-86ee-8961a812b194",
+        "title": "Software Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1757493166,
+        "date_posted": 1757493166,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000080904205",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OffDeal",
+        "id": "ec2ac102-621a-441e-a40d-c2e78d929bcc",
+        "title": "Founding Full Stack Engineer",
+        "active": true,
+        "date_updated": 1757493150,
+        "date_posted": 1757022331,
+        "url": "https://jobs.ashbyhq.com/offdeal/92b99c6b-e4e1-4e18-8a21-01b341cd1a1a/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/OffDeal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
