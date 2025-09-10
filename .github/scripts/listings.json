@@ -26480,5 +26480,25 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LSEG",
+        "id": "93c66ea2-9e08-4953-bcd0-25dde3130368",
+        "title": "Junior Analyst-Data Scientist",
+        "active": true,
+        "date_updated": 1757530416,
+        "date_posted": 1757530416,
+        "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/GBR-Nottingham-1-Chapel-Qtr/Junior-Analyst--Data-Scientist_R0111079-1",
+        "locations": [
+            "Nottingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/LSEG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
