@@ -26560,5 +26560,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "bd3e5c92-982c-40f7-8a22-24f26fcd1034",
+        "title": "Software Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1757541848,
+        "date_posted": 1757541848,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000080905065",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
