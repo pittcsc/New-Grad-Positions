@@ -15408,7 +15408,7 @@
         "company_name": "The Travelers Companies",
         "id": "7fea6865-d7a3-40be-bc65-7c35d9e97f6e",
         "title": "Software Engineer I - Aws - React - GenAI",
-        "active": true,
+        "active": false,
         "date_updated": 1754031936,
         "date_posted": 1754031936,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS--React--GenAI-_R-44034",
@@ -26459,5 +26459,26 @@
         "date_posted": 1757508886,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "2d3a9ad7-4d3e-4984-b030-688e147dee14",
+        "title": "Software Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1757527251,
+        "date_posted": 1757527251,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000080906828",
+        "locations": [
+            "Highlands Ranch, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
