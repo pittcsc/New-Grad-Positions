@@ -16787,7 +16787,7 @@
         "degrees": []
     },
     {
-        "date_updated": 1754642341,
+        "date_updated": 1757542935,
         "url": "https://careers.oracle.com/en/sites/jobsearch/job/304100",
         "company_name": "Oracle",
         "title": "Undergrad Software Engineer",
@@ -16800,7 +16800,8 @@
         "id": "d6ed9b5f-f43b-410d-862c-1efe7b31e131",
         "date_posted": 1754642341,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1755036485,
