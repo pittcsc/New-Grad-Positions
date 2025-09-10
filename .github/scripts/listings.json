@@ -26375,5 +26375,23 @@
         "date_posted": 1757508286,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757508459,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Lloyds-Banking-Group---Manchester/Entry-Level-Software-Application-Engineer_REQ567515",
+        "company_name": "Unisys",
+        "title": "Entry-Level Software Application Engineer",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "e2f789ff-3aec-4923-8c11-2427ee98139f",
+        "date_posted": 1757508459,
+        "company_url": "",
+        "is_visible": true
     }
 ]

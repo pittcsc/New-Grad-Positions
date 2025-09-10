@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 367 New Grad Roles by Category
+### Browse 368 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (245)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (246)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (5)
 
@@ -80,6 +80,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;"><strong>Unisys</strong></td>
+<td style="padding: 8px; vertical-align: top;">Entry-Level Software Application Engineer</td>
+<td style="padding: 8px; vertical-align: top;">Manchester, UK</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Lloyds-Banking-Group---Manchester/Entry-Level-Software-Application-Engineer_REQ567515?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+</tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>Jonas</strong></td>
 <td style="padding: 8px; vertical-align: top;">Full Stack Junior Developer</td>
