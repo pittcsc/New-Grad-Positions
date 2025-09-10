@@ -26582,5 +26582,25 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cellular Sales",
+        "id": "c7c1c6c0-062c-431e-b8f1-9d7b798ac33c",
+        "title": "Junior Data Engineer",
+        "active": true,
+        "date_updated": 1757542524,
+        "date_posted": 1757542524,
+        "url": "https://careers-cellularsales.icims.com/jobs/19001/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Knoxville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cellular-Sales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
