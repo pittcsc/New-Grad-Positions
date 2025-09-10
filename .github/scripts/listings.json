@@ -26332,5 +26332,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1757507941,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Remote-Canada-ON/Full-Stack-Junior-Developer_R46739-1",
+        "company_name": "Jonas",
+        "title": "Full Stack Junior Developer",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "2f116c38-6e86-4858-b224-a863b40a7ac1",
+        "date_posted": 1757507941,
+        "company_url": "",
+        "is_visible": true
     }
 ]
