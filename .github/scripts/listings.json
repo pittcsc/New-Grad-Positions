@@ -25606,7 +25606,7 @@
         "company_name": "Cox",
         "id": "f2a8a85a-3bd3-479b-b879-255bc443908b",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757363452,
         "date_posted": 1757363452,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202566586",
@@ -26515,6 +26515,26 @@
             "Manassas, VA"
         ],
         "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Medpace, Inc.",
+        "id": "4696b689-e123-4907-bfa7-a6870a2641f8",
+        "title": "Junior Data Engineer",
+        "active": true,
+        "date_updated": 1757538785,
+        "date_posted": 1757538785,
+        "url": "https://careers.medpace.com/jobs/11361?lang=en-us&icims=1",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Medpace-Inc",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
