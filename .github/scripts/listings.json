@@ -26393,5 +26393,23 @@
         "date_posted": 1757508459,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757508571,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://apply.workable.com/thorlabs/j/E79FA34ED4/",
+        "company_name": "Thorlabs",
+        "title": "Software Engineer I",
+        "locations": [
+            "Jessup, MD"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "197112b1-8c11-4228-8d67-fe846e53cacb",
+        "date_posted": 1757508571,
+        "company_url": "",
+        "is_visible": true
     }
 ]
