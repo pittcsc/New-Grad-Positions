@@ -26889,5 +26889,26 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "f94251b5-2b21-475f-b793-151b8433e069",
+        "title": "Software Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1757592956,
+        "date_posted": 1757592956,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000080906904",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
