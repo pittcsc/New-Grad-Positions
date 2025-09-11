@@ -1,38 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Visa",
-        "id": "8f50b4d0-d3af-4269-abb6-1836747404a0",
-        "title": "Software Engineer \u2013 New College Grad - 2025",
-        "active": false,
-        "date_updated": 1726514170,
-        "date_posted": 1726514170,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000014249028",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Visa",
-        "id": "7b133c04-a4b3-4a3f-b1ce-e7ec9b0f3f67",
-        "title": "Software Engineer \u2013 New College Grad - 2025",
-        "active": false,
-        "date_updated": 1726621429,
-        "date_posted": 1726514170,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000014248486",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Does Not Offer Sponsorship"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Applied Intuition",
         "id": "feae57c5-bd69-4c29-aa99-8299b7f8854e",
         "title": "Embedded Software Engineer \u2013 New Grad",
@@ -26864,7 +26832,7 @@
         "company_name": "WeRide",
         "id": "81ce0706-95f4-4b32-ab45-cd532285dd5d",
         "title": "New Grads 2025 - General Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1756460280,
         "date_posted": 1738196432,
         "url": "https://jobs.lever.co/weride/c6199fb6-cd1e-4f11-b51c-24702ddfa63d/apply",
@@ -27098,7 +27066,7 @@
         "company_name": "WeRide",
         "id": "81ce0706-95f4-4b32-ab45-cd532285dd5d",
         "title": "New Grads 2025 - General Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1756460280,
         "date_posted": 1738196432,
         "url": "https://jobs.lever.co/weride/c6199fb6-cd1e-4f11-b51c-24702ddfa63d/apply",
