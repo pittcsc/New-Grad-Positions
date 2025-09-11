@@ -26705,5 +26705,45 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "eac1e4ed-b205-4a48-9313-cf212ad80292",
+        "title": "Software Engineer I - C/C++ Linux",
+        "active": true,
+        "date_updated": 1757553049,
+        "date_posted": 1757553049,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI201-127-John-Clarke-Road-Middletwn-127-John-Clarke-Road-Suite-3-Middletown-RI-02842-USA/Software-Engineer-I---C-C---Linux--Onsite-_01791668",
+        "locations": [
+            "Newport, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thorlabs",
+        "id": "8213bbaa-0280-40e2-ae4a-df244590403f",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1757553050,
+        "date_posted": 1757553050,
+        "url": "https://apply.workable.com/thorlabs/j/E79FA34ED4/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Thorlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
