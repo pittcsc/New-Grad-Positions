@@ -14,6 +14,8 @@ We ask that the jobs openings that you add meet some requirements. Specifically,
 - be for recently graduated students
 - be located in the United States, Canada, or remote.
 - not already exist in the list.
+- belong to a company using a formal ATS such as Workday, Greenhouse, Ashby, etc.
+    - any company using non-ATS platforms such as forms or surveys must be verified/approved on Simplify.
 
 ## Adding a Job
 Cool! You're ready to add a job to the list. Follow these steps:
