@@ -27082,5 +27082,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Adobe",
+        "id": "77bf2b07-1a7a-40d8-b077-2346471ab0be",
+        "title": "University Graduate - Junior Product Manager",
+        "active": true,
+        "date_updated": 1757633670,
+        "date_posted": 1757633670,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Junior-Product-Manager_R159932",
+        "locations": [
+            "SF",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
