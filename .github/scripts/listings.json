@@ -26867,5 +26867,27 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Adobe",
+        "id": "29a35bfe-e4e3-4e8b-99cf-38bfbe95a5e1",
+        "title": "2026 University Graduate - Software Engineer",
+        "active": true,
+        "date_updated": 1757570607,
+        "date_posted": 1757570607,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2026-University-Graduate---Software-Engineer_R159163",
+        "locations": [
+            "San Jose, CA",
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
