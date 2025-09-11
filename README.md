@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 381 New Grad Roles by Category
+### Browse 380 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (257)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (256)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (5)
 
@@ -197,13 +197,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Engineer I</td>
 <td style="padding: 8px; vertical-align: top;">Jessup, MD</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://apply.workable.com/thorlabs/j/E79FA34ED4/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">1d</td>
-</tr>
-<tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;"><strong>Unisys</strong></td>
-<td style="padding: 8px; vertical-align: top;">Entry-Level Software Application Engineer</td>
-<td style="padding: 8px; vertical-align: top;">Manchester, UK</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Lloyds-Banking-Group---Manchester/Entry-Level-Software-Application-Engineer_REQ567515?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">1d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
@@ -974,7 +967,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Junior Software Engineer</td>
 <td style="padding: 8px; vertical-align: top;">London, UK</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://job-boards.greenhouse.io/artefact/jobs/8119158002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c6af06d4-a624-41c0-8854-564d8c4dde4f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">26d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">27d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Travelers?utm_source=GHList&utm_medium=company">The Travelers Companies</a></strong></td>
