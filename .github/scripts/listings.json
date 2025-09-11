@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "WeRide",
-        "id": "81ce0706-95f4-4b32-ab45-cd532285dd5d",
-        "title": "New Grads 2025 - General Software Engineer",
-        "active": false,
-        "date_updated": 1726513959,
-        "date_posted": 1726513959,
-        "url": "https://jobs.lever.co/weride/c6199fb6-cd1e-4f11-b51c-24702ddfa63d/apply",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/WeRide",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Visa",
         "id": "8f50b4d0-d3af-4269-abb6-1836747404a0",
         "title": "Software Engineer \u2013 New College Grad - 2025",
@@ -20272,27 +20256,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "WeRide",
-        "id": "c0d9d327-19d8-4ea5-ad00-b08cd465b892",
-        "title": "New Grads 2025 - Software Engineer - Algorithm",
-        "active": true,
-        "date_updated": 1737560161,
-        "date_posted": 1726513966,
-        "url": "https://jobs.lever.co/weride/e77ec79c-1aa5-42f3-85b5-9000a146df6c/apply",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/WeRide",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Old Mission",
         "id": "896dbe55-ef9b-431b-9a54-5c8eb5ad8c43",
@@ -27078,6 +27041,50 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "WeRide",
+        "id": "81ce0706-95f4-4b32-ab45-cd532285dd5d",
+        "title": "New Grads 2025 - General Software Engineer",
+        "active": false,
+        "date_updated": 1756460280,
+        "date_posted": 1738196432,
+        "url": "https://jobs.lever.co/weride/c6199fb6-cd1e-4f11-b51c-24702ddfa63d/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Twilio",
+        "id": "55400a2a-e6c6-4182-bb85-ec37b3ac133c",
+        "title": "Software Engineer \u2013 Early Career - Messaging API",
+        "active": true,
+        "date_updated": 1757617247,
+        "date_posted": 1757617247,
+        "url": "https://job-boards.greenhouse.io/twilio/jobs/7245466",
+        "locations": [
+            "Alberta, Canada",
+            "British Columbia, Canada",
+            "Ontario, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Twilio",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
