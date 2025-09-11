@@ -26622,5 +26622,47 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "5759211d-5a88-4eb2-be9b-fd2d0bd803aa",
+        "title": "Software Developer \u2013 New Grad - Market Data - Libraries & Tools",
+        "active": true,
+        "date_updated": 1757549798,
+        "date_posted": 1757549798,
+        "url": "https://careers-sig.icims.com/jobs/9261/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "433df37a-1b0b-420a-86b5-60991427bfb8",
+        "title": "Software Developer \u2013 New Grad - Sprc",
+        "active": true,
+        "date_updated": 1757549793,
+        "date_posted": 1757549793,
+        "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
