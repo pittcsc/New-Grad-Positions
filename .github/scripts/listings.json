@@ -26770,18 +26770,16 @@
         "id": "2f29e648-16e9-4a69-81b2-6ad5b25c4000",
         "title": "Software Engineer \u2013 Early Career",
         "active": true,
-        "date_updated": 1757568610,
+        "date_updated": 1757627394,
         "date_posted": 1757568610,
         "url": "https://jobs.ashbyhq.com/starpath.space/e27021db-0427-4d4a-a2a1-5f8f349ad4d8/application",
         "locations": [
             "West Athens, CA"
         ],
         "company_url": "https://simplify.jobs/c/Starpath-Robotics",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
