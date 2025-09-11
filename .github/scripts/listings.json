@@ -26769,7 +26769,7 @@
         "company_name": "Starpath Robotics",
         "id": "2f29e648-16e9-4a69-81b2-6ad5b25c4000",
         "title": "Software Engineer \u2013 Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1757627394,
         "date_posted": 1757568610,
         "url": "https://jobs.ashbyhq.com/starpath.space/e27021db-0427-4d4a-a2a1-5f8f349ad4d8/application",
@@ -27077,6 +27077,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "e800e187-4db2-4abe-b579-6499bfe2df89",
+        "title": "Data Engineer - Junior",
+        "active": true,
+        "date_updated": 1757629347,
+        "date_posted": 1757629347,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Engineer--Junior_R0226048",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
