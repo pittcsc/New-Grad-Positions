@@ -27026,6 +27026,50 @@
         "company_name": "WeRide",
         "id": "81ce0706-95f4-4b32-ab45-cd532285dd5d",
         "title": "New Grads 2025 - General Software Engineer",
+        "active": false,
+        "date_updated": 1756460280,
+        "date_posted": 1738196432,
+        "url": "https://jobs.lever.co/weride/c6199fb6-cd1e-4f11-b51c-24702ddfa63d/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LPL Financial Holdings",
+        "id": "23c87d4e-610a-4a43-ba32-3f2381c3abfd",
+        "title": "New Grad 2026 - Technology - Software Development",
+        "active": true,
+        "date_updated": 1757615552,
+        "date_posted": 1757615552,
+        "url": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/San-Diego-CA/New-Grad-2026---Technology--Software-Development_R-046207-1",
+        "locations": [
+            "Austin, TX",
+            "Fort Mill, SC",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "WeRide",
+        "id": "81ce0706-95f4-4b32-ab45-cd532285dd5d",
+        "title": "New Grads 2025 - General Software Engineer",
         "active": true,
         "date_updated": 1756460280,
         "date_posted": 1738196432,
