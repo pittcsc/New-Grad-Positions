@@ -27303,5 +27303,47 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Expedia Group",
+        "id": "b4b13a9d-d220-4bc3-9994-434aa0a31122",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1757695544,
+        "date_posted": 1757695544,
+        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineer-I_R-97727",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Expedia Group",
+        "id": "0414920e-9a7a-46e6-967c-320c1b558953",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1757695543,
+        "date_posted": 1757695543,
+        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineer-I_R-97728-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
