@@ -1,38 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Pinterest",
-        "id": "216321bc-abf1-4640-8124-64e626ea0040",
-        "title": "University Grad Software Engineer - USA",
-        "active": false,
-        "date_updated": 1726614881,
-        "date_posted": 1726614881,
-        "url": "https://www.pinterestcareers.com/job-form?gh_jid=6231229",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Pinterest",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Genesis Therapeutics",
-        "id": "decb3730-fd92-400a-a430-d51f92632fcf",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1726614562,
-        "date_posted": 1726614562,
-        "url": "https://jobs.lever.co/genesistherapeutics/528d24ad-745a-4eed-a883-c0fbba5aa624/apply",
-        "locations": [
-            "Burlingame, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Genesis-Thera",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Medtronic",
         "id": "6a396006-a3b9-4d2f-ab15-de58e7862142",
         "title": "Software Engineer I - Mobile Apps - California",
