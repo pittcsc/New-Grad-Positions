@@ -27246,5 +27246,23 @@
         "date_posted": 1757667963,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757668082,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.nordstrom.com/engineer-1-full-stack-store-pos-team-hybrid-seattle-wa/job/4D8A4B0EBC4BABF554018E5C28260729",
+        "company_name": "Nordstrom",
+        "title": "Engineer 1 - Full Stack, Store POS+",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "a48c0369-b4c6-428f-8b24-11678660c772",
+        "date_posted": 1757668082,
+        "company_url": "",
+        "is_visible": true
     }
 ]

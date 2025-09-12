@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 382 New Grad Roles by Category
+### Browse 383 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (258)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (259)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (6)
 
@@ -80,6 +80,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;"><strong>Nordstrom</strong></td>
+<td style="padding: 8px; vertical-align: top;">Engineer 1 - Full Stack, Store POS+ 🛂</td>
+<td style="padding: 8px; vertical-align: top;">Seattle, WA</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://careers.nordstrom.com/engineer-1-full-stack-store-pos-team-hybrid-seattle-wa/job/4D8A4B0EBC4BABF554018E5C28260729?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+</tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>Jane Street</strong></td>
 <td style="padding: 8px; vertical-align: top;">Cybersecurity Analyst</td>
