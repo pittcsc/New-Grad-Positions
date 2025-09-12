@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 381 New Grad Roles by Category
+### Browse 382 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (260)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (261)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (6)
 
@@ -204,6 +204,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Developer – New Grad - Sprc</td>
 <td style="padding: 8px; vertical-align: top;">Ardmore, PA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0f6d0bb1-d082-4bf0-99df-257b2f6072e1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">1d</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/I3?utm_source=GHList&utm_medium=company">Integration Innovation (i3)</a></strong></td>
+<td style="padding: 8px; vertical-align: top;">Entry Level Full-Stack Software Engineer</td>
+<td style="padding: 8px; vertical-align: top;">Huntsville, AL</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/da2084e4-faca-4fb8-90c3-82fdeba3c6b1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">1d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
@@ -1905,7 +1912,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (198)</summary>
+<summary>🗃️ Inactive roles (197)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -1936,13 +1943,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Iridium-Communications?utm_source=GHList&utm_medium=company">Iridium Communications</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer I</td>
 <td style="padding: 8px; vertical-align: top;">Chandler, AZ</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">1d</td>
-</tr>
-<tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/I3?utm_source=GHList&utm_medium=company">Integration Innovation (i3)</a></strong></td>
-<td style="padding: 8px; vertical-align: top;">Entry Level Full-Stack Software Engineer</td>
-<td style="padding: 8px; vertical-align: top;">Huntsville, AL</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">1d</td>
 </tr>
@@ -2420,14 +2420,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Developer – Entry Level</td>
 <td style="padding: 8px; vertical-align: top;">Maui, Hawaii</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">27d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">28d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/TekSynap?utm_source=GHList&utm_medium=company">TekSynap</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Junior Software Developer</td>
 <td style="padding: 8px; vertical-align: top;"><details><summary><strong>11 locations</strong></summary>Kansas</br>Delaware</br>Iowa</br>Florida</br>Waterbury, CT</br>Georgia</br>Arizona</br>Virginia</br>Arkansas</br>United States</br>Idaho</details></td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">27d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">28d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/BlueCross-Blueshield-Of-Tennessee?utm_source=GHList&utm_medium=company">BlueCross BlueShield of Tennessee</a></strong></td>
