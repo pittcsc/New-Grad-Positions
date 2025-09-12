@@ -27166,5 +27166,25 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ramp",
+        "id": "b5969a01-2e3a-4b19-86db-c82bbe7973c6",
+        "title": "University Grad - Software Engineer - Frontend",
+        "active": true,
+        "date_updated": 1757597488,
+        "date_posted": 1754087225,
+        "url": "https://jobs.ashbyhq.com/ramp/a1229aec-1105-4c47-8533-b912e732ed89/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ramp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
