@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "GitHub",
-        "id": "f84c07a1-2726-4b59-82df-2be684c240c0",
-        "title": "Software Engineer I - Copilot",
-        "active": false,
-        "date_updated": 1726601102,
-        "date_posted": 1726601102,
-        "url": "https://githubinc.jibeapply.com/jobs/3041?lang=en-us&icims=1",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/GitHub",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Pinterest",
         "id": "216321bc-abf1-4640-8124-64e626ea0040",
         "title": "University Grad Software Engineer - USA",
