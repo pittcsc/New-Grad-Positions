@@ -26341,7 +26341,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "441205ce-38a4-40c1-ac16-8feaeea2875c",
         "title": "Software Engineer Entry Level - Java / C++",
-        "active": false,
+        "active": true,
         "date_updated": 1757536566,
         "date_posted": 1757536566,
         "url": "https://careers-gdms.icims.com/jobs/67488/job?mobile=true&needsRedirect=false",
@@ -27395,6 +27395,26 @@
             "King George County, VA"
         ],
         "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "d39c7c03-0622-4ee2-8652-8efd67fe77c2",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1757741129,
+        "date_posted": 1757741129,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/7ff90ae2-69a9-49ca-82c9-be9a4005c4de/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
