@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Medtronic",
-        "id": "6a396006-a3b9-4d2f-ab15-de58e7862142",
-        "title": "Software Engineer I - Mobile Apps - California",
-        "active": false,
-        "date_updated": 1726629097,
-        "date_posted": 1726629097,
-        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Software-Engineer-I---Mobile-Apps--California-_R5824-1",
-        "locations": [
-            "LA",
-            "Northridge, LA",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/9b240811-be36-4b51-8f40-6973a27e1f62",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Duolingo",
         "id": "9115ecfe-dd21-4257-bbe3-c8650b2a1fb0",
         "title": "Data Scientist I \u2013 New Graduate",
