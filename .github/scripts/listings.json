@@ -21031,7 +21031,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "d8749eca-e9d4-4014-87e5-253cf8d840b1",
         "title": "Mechanical/Hardware Engineer I Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1755848537,
         "date_posted": 1755848537,
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Mechanical-Hardware-Engineer-I-Graduate_1192943-1",
@@ -27312,6 +27312,26 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/Alphataraxia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Strive Health",
+        "id": "13c5772b-50de-4d60-ae45-3012585915d5",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1757723715,
+        "date_posted": 1757723715,
+        "url": "https://job-boards.greenhouse.io/strivehealth/jobs/4601284006",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Strive-Health",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
