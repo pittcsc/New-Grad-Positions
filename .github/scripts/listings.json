@@ -27292,5 +27292,24 @@
         "date_posted": 1757927576,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757928459,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.garmin.com/jobs/16774",
+        "company_name": "Garmin",
+        "title": "Software Engineer 1 - Aviation Web Development",
+        "locations": [
+            "Chandler, AZ",
+            "Olathe, KS"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "87ec1c38-6307-41df-980e-5fdd9209acf6",
+        "date_posted": 1757928459,
+        "company_url": "",
+        "is_visible": true
     }
 ]
