@@ -27272,5 +27272,25 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "date_updated": 1757927576,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://boards.greenhouse.io/embed/job_app?for=blackedgecapital&token=4600444005",
+        "company_name": "BlackEdge Capital",
+        "title": "Quantitative Researcher",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "fbeff231-a402-4d57-b41f-7f3c44a909de",
+        "date_posted": 1757927576,
+        "company_url": "",
+        "is_visible": true
     }
 ]
