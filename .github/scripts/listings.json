@@ -27311,5 +27311,23 @@
         "date_posted": 1757928459,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757928668,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Reference-Data-Analyst-Junior_25905888",
+        "company_name": "Citi",
+        "title": "Reference Data Analyst Junior",
+        "locations": [
+            "Getzville, NY"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "14ce3d00-cf34-4074-ae05-d64553e63196",
+        "date_posted": 1757928668,
+        "company_url": "",
+        "is_visible": true
     }
 ]
