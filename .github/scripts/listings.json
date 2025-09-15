@@ -989,22 +989,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "DV Trading",
-        "id": "9f73ebc2-717c-47ee-a630-ed3ff5aade38",
-        "title": "Junior Quantitative Developer",
-        "active": false,
-        "date_updated": 1726801881,
-        "date_posted": 1726801881,
-        "url": "https://boards.greenhouse.io/dvtrading/jobs/4475499005",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/DV-Trading",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Visa",
         "id": "04fc622e-bf02-4310-af04-5658fbee7856",
         "title": "Data Engineer \u2013 New College Grad",
