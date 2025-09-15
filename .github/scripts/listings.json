@@ -27318,5 +27318,26 @@
         "date_posted": 1757929148,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NewsBreak",
+        "id": "1d8e7ec9-fef4-48da-9a60-c4c37d0b3cbc",
+        "title": "Software Engineer \u2013 Junior & New Grad",
+        "active": true,
+        "date_updated": 1757975420,
+        "date_posted": 1739938781,
+        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4054592006",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NewsBreak",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
