@@ -23829,12 +23829,10 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756975875,
+        "date_updated": 1757983453,
         "sponsorship": "Other",
         "active": true,
-        "degrees": [
-            "Master's"
-        ],
+        "degrees": [],
         "url": "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/New-York-New-York/XMLNAME-2026-Summer-Associate---Quantitative-Rotational-Program_R_1441549",
         "company_name": "TD",
         "title": "Quantitative Rotational Program",
@@ -23846,7 +23844,7 @@
         "id": "2c672e97-b9d8-4746-b76f-bf758f8ad8ab",
         "date_posted": 1756975875,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757032337,
