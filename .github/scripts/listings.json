@@ -27909,5 +27909,45 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "RTX",
+        "id": "43cdc060-d0df-432e-81b9-8643c49cc399",
+        "title": "2026 Raytheon Systems Security Engineer I",
+        "active": true,
+        "date_updated": 1758063237,
+        "date_posted": 1758063237,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Raytheon-Systems-Security-Engineer-I---Onsite---Tucson--AZ_01790331",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "O'Reilly Auto Parts",
+        "id": "77590a74-c1c6-4ddf-af2d-7a286d9cacab",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1758063154,
+        "date_posted": 1758063154,
+        "url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Remote-Colorado/Software-Engineer-I_R144461",
+        "locations": [
+            "Colorado"
+        ],
+        "company_url": "https://simplify.jobs/c/OReilly-Auto-Parts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
