@@ -27665,5 +27665,23 @@
         "date_posted": 1758012133,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758012249,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/Anima/a6b86f92-0679-423b-b575-a23f8677dfd1",
+        "company_name": "Anima",
+        "title": "Software Engineer",
+        "locations": [
+            "Remote in USA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "c9a7aeec-6a07-45e1-b4aa-3469b8e7e725",
+        "date_posted": 1758012249,
+        "company_url": "",
+        "is_visible": true
     }
 ]
