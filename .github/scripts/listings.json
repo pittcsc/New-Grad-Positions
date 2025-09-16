@@ -27608,5 +27608,24 @@
         "date_posted": 1758011842,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758011928,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R320511",
+        "company_name": "Light & Wonder",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Reno, NV",
+            "Las Vegas, NV"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "a038e9b8-981b-4cd4-aedc-455697888475",
+        "date_posted": 1758011928,
+        "company_url": "",
+        "is_visible": true
     }
 ]
