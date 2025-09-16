@@ -16363,7 +16363,7 @@
         "company_name": "i3",
         "id": "a0400f57-73c1-4920-8d81-a0743ce3c7cd",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1754610792,
         "date_posted": 1754610792,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
@@ -26753,7 +26753,7 @@
         "company_name": "Adobe",
         "id": "90b25733-b550-4ed8-bcbb-6a3719e1c56a",
         "title": "2026 University Graduate - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757633642,
         "date_posted": 1757633642,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2026-University-Graduate---Software-Engineer_R159933",
@@ -27324,6 +27324,47 @@
             "Raleigh, NC"
         ],
         "company_url": "https://simplify.jobs/c/SingleStore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "c42d7027-6ae4-4081-9548-2761ee619688",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1757980147,
+        "date_posted": 1757980147,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/78d2ca56-897b-40e1-b7cf-012629cd05ae/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "3a9e8029-c852-4ef0-995f-d42a959e769f",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1757980146,
+        "date_posted": 1757980146,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/7fce20dc-30a9-4dff-890d-eb041efe2a91/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
