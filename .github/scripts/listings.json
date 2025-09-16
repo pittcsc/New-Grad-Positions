@@ -27572,5 +27572,23 @@
         "date_posted": 1758011649,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758011746,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Product-Development-Program-Associate---2026_R219614-1",
+        "company_name": "Capital One",
+        "title": "Product Development Program Associate",
+        "locations": [
+            "Plano, TX"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "67ed0c5c-4787-4036-a65c-d152925af773",
+        "date_posted": 1758011746,
+        "company_url": "",
+        "is_visible": true
     }
 ]
