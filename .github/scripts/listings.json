@@ -27828,5 +27828,25 @@
         "date_posted": 1758014662,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Applied Materials",
+        "id": "83d8867d-65d8-4150-b9a7-deea6fc24578",
+        "title": "Associate Product Manager New College Grad - Bachelors",
+        "active": true,
+        "date_updated": 1758030167,
+        "date_posted": 1755963370,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Associate-Product-Manager--Austin--TX---NCG-_R2516315",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
