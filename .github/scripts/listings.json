@@ -13040,7 +13040,7 @@
         "company_name": "State Street",
         "id": "57dfb70d-1413-4a27-998b-28752edc1f53",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1751565604,
         "date_posted": 1751565604,
         "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Software-Engineer-I_R-774355-1",
@@ -25392,7 +25392,7 @@
         "company_name": "TD Securities",
         "id": "fe55aa52-32ab-4e10-a95a-0c2e4389fa20",
         "title": "Machine Learning Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1757358863,
         "date_posted": 1757358863,
         "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1443721",
@@ -27508,6 +27508,26 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Konrad-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "96830d1e-2305-470c-8331-ed38089f6f47",
+        "title": "Software Engineer I - Raytheon",
+        "active": true,
+        "date_updated": 1757983520,
+        "date_posted": 1757983520,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ802-RMS-AP-Bldg-802-1151-East-Hermans-Road-Building-802-Tucson-AZ-85756-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01793126",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
