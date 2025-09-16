@@ -27683,5 +27683,24 @@
         "date_posted": 1758012249,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758013545,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://ovative.wd12.myworkdayjobs.com/en-US/ovative/job/Minneapolis/Analyst--Data---Software-Engineering---October-2025-Start-Date_JR100105",
+        "company_name": "Ovative Group",
+        "title": "Analyst, Data & Software Engineering",
+        "locations": [
+            "Minneapolis, MN",
+            "Chicago, IL"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1ea8396e-6674-42b5-9ac9-6d517d41e0e3",
+        "date_posted": 1758013545,
+        "company_url": "",
+        "is_visible": true
     }
 ]
