@@ -27720,5 +27720,23 @@
         "date_posted": 1758014085,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758014192,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.hireology.com/hireology2/2521103/description",
+        "company_name": "Hireology",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Remote in USA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "868e299f-3e0c-4c9f-9c91-210959c9d657",
+        "date_posted": 1758014192,
+        "company_url": "",
+        "is_visible": true
     }
 ]
