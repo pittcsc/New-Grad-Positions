@@ -17804,7 +17804,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1755170758,
+        "date_updated": 1757982909,
         "url": "https://veteransunited.wd1.myworkdayjobs.com/en-US/vuhl/job/Remote-MO/Associate-Software-Engineer_R5288",
         "company_name": "Veterans United Home Loans",
         "title": "Associate Software Engineer",
@@ -17817,7 +17817,8 @@
         "id": "5a4aa298-6cc3-4d8a-99f3-b3d2820657d9",
         "date_posted": 1755170758,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1755170921,
