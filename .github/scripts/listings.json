@@ -27702,5 +27702,23 @@
         "date_posted": 1758013545,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758014085,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5585768004",
+        "company_name": "Lucid Software",
+        "title": "Software Engineer",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "41a2bdf6-05a9-401d-abcf-5be538efabd1",
+        "date_posted": 1758014085,
+        "company_url": "",
+        "is_visible": true
     }
 ]
