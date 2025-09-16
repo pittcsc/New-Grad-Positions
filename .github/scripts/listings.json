@@ -27553,5 +27553,24 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1758011649,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano,-TX/Technology-Development-Program-Associate---August-2026_R218706-1",
+        "company_name": "Capital One",
+        "title": "Technology Development Program Associate",
+        "locations": [
+            "Plano, TX",
+            "Richmond, VA"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "91765333-8853-4ae2-9225-d1c5133eef54",
+        "date_posted": 1758011649,
+        "company_url": "",
+        "is_visible": true
     }
 ]
