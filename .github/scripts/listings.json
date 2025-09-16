@@ -27792,5 +27792,23 @@
         "date_posted": 1758014494,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758014556,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Melbourne-FL/Software-Engineer--Apps--I_5898",
+        "company_name": "AV",
+        "title": "Software Engineer (Apps) I",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "53d695c1-168b-48c8-bbce-913151121523",
+        "date_posted": 1758014556,
+        "company_url": "",
+        "is_visible": true
     }
 ]
