@@ -27810,5 +27810,23 @@
         "date_posted": 1758014556,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758014662,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5585759004",
+        "company_name": "Lucid Software",
+        "title": "Software Engineer",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "557c44de-08df-4bd6-ae98-0c427addb77b",
+        "date_posted": 1758014662,
+        "company_url": "",
+        "is_visible": true
     }
 ]
