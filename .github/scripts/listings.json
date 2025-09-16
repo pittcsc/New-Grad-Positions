@@ -27774,5 +27774,23 @@
         "date_posted": 1758014397,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758014494,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Associate_R0016789-1",
+        "company_name": "AllianceBernstein",
+        "title": "Software Development Associate",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "cd1c1c00-ea77-4d5b-9c5b-43860adecad1",
+        "date_posted": 1758014494,
+        "company_url": "",
+        "is_visible": true
     }
 ]
