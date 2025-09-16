@@ -23235,7 +23235,7 @@
         "company_name": "The Travelers Companies",
         "id": "f692cc56-d79e-4b40-8851-130e0670610c",
         "title": "Software Engineer I - Salesforce",
-        "active": false,
+        "active": true,
         "date_updated": 1756903143,
         "date_posted": 1756863999,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--Salesforce-_R-46480",
@@ -27843,6 +27843,47 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "d671317d-80c6-4f29-a236-fc748c813fa5",
+        "title": "Junior Level Software Engineering - Associate",
+        "active": true,
+        "date_updated": 1758054101,
+        "date_posted": 1758054101,
+        "url": "https://careers-peraton.icims.com/jobs/159860/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "King George County, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "a1c7ebb8-f55a-4d0c-8293-ed794342d136",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1758053613,
+        "date_posted": 1758053613,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7253456",
+        "locations": [
+            "Boston, MA",
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
