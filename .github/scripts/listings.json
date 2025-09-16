@@ -26414,7 +26414,7 @@
         "company_name": "Adobe",
         "id": "29a35bfe-e4e3-4e8b-99cf-38bfbe95a5e1",
         "title": "2026 University Graduate - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757570607,
         "date_posted": 1757570607,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2026-University-Graduate---Software-Engineer_R159163",
@@ -27369,6 +27369,68 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Eventual",
+        "id": "c67c9cf7-d1ad-4821-8d52-84f64e1c1fb1",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1757981027,
+        "date_posted": 1757981027,
+        "url": "https://jobs.ashbyhq.com/eventualcomputing/becb5675-3480-4d2b-b126-2acad40fd088/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Eventual",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Duolingo",
+        "id": "5f3e1af0-e2a8-4a32-8fb3-10f6be2202ee",
+        "title": "Software Engineer \u2013 New Graduate",
+        "active": true,
+        "date_updated": 1757980951,
+        "date_posted": 1757980951,
+        "url": "https://careers.duolingo.com/jobs/8155283002?gh_jid=8155283002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Duolingo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Duolingo",
+        "id": "2e4edbe7-7a0b-4a89-98db-ff9a7fb2f31e",
+        "title": "Data Scientist \u2013 New Graduate",
+        "active": true,
+        "date_updated": 1757980930,
+        "date_posted": 1757980930,
+        "url": "https://careers.duolingo.com/jobs/8162849002?gh_jid=8162849002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Duolingo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
