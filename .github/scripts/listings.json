@@ -22458,7 +22458,7 @@
         "company_name": "North Atlantic Industries",
         "id": "b83652a5-bc8f-42a1-8a07-4baf9aa9c553",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756419936,
         "date_posted": 1756419936,
         "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3535138",
@@ -27944,6 +27944,66 @@
             "Colorado"
         ],
         "company_url": "https://simplify.jobs/c/OReilly-Auto-Parts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "f9650e49-9a88-4962-be4b-fcdae6b32a04",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1758064668,
+        "date_posted": 1758064668,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/UT205-1128-W-2400-South-Salt-Lake-C-1128-West-2400-South-AST---Salt-Lake-City-Salt-Lake-City-UT-84119-USA/Software-Engineer-I--Onsite-_01794082",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "778d2009-634c-428a-a07c-3d267d1fb5f5",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1758064653,
+        "date_posted": 1758064653,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA620-AST160N-Riverview-Anaheim-Hill-160-North-Riverview-Drive-Suite-300-Anaheim-CA-92808-USA/Software-Engineer-I--Onsite-_01793337",
+        "locations": [
+            "Anaheim, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "39bf41fb-0f12-4c08-962d-2ff5600ec2c3",
+        "title": "Software Engineer I - Raytheon",
+        "active": true,
+        "date_updated": 1758064670,
+        "date_posted": 1758064670,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN206-3939PriorityWay-3939-Priority-Way-Building-6-Indianapolis-IN-46240-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01793655",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
