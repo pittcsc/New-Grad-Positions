@@ -28170,5 +28170,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1758131629,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/Watershed/d83c7850-2211-4cbd-a527-09e25f5d94a8",
+        "company_name": "Watershed",
+        "title": "Software engineer, new grad",
+        "locations": [
+            "San Francisco"
+        ],
+        "category": "Software Engineering",
+        "source": "alapre",
+        "id": "77d44535-7657-4a26-bad8-bb55dbfc5739",
+        "date_posted": 1758131629,
+        "company_url": "",
+        "is_visible": true
     }
 ]
