@@ -28114,5 +28114,23 @@
         "date_posted": 1758103748,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758103856,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Gatekeeper-Associate-Software-Engineer-Software-Engineer----15039-_R10207436",
+        "company_name": "Northrop Grumman",
+        "title": "Sentinel Gatekeeper Associate Software Engineer/Software Engineer",
+        "locations": [
+            "Roy, UT"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "0009e225-4e0a-4d85-8633-d6a70c1b84cc",
+        "date_posted": 1758103856,
+        "company_url": "",
+        "is_visible": true
     }
 ]
