@@ -25886,12 +25886,10 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757508286,
+        "date_updated": 1758068271,
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "degrees": [
-            "Master's"
-        ],
+        "degrees": [],
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Graduate-2025_JR2003035",
         "company_name": "NVIDIA",
         "title": "Developer Technology Engineer, AI",
@@ -25908,7 +25906,7 @@
         "id": "a13aaf41-ca14-4ecd-ac84-db0c1dada41a",
         "date_posted": 1757508286,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757630566,
