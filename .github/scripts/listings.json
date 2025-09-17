@@ -25757,7 +25757,7 @@
         "company_name": "RTX",
         "id": "89141f56-0558-428b-970f-de05949c8f2d",
         "title": "Cybersecurity Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1757467779,
         "date_posted": 1757467779,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Cybersecurity-Engineer-I--Onsite-_01791225",
@@ -28203,6 +28203,26 @@
             "Las Vegas, NV"
         ],
         "company_url": "https://simplify.jobs/c/Aristocrat-Leisure",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "ced87084-4bc5-42fe-a43a-f59321283341",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1758144036,
+        "date_posted": 1758144036,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA826-200-Holger-WaySan-Jose-200-Holger-Way---San-Jose-CA-95134-USA/Software-Engineer-I--Onsite-_01791041",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
