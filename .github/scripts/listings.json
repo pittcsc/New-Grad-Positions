@@ -28096,5 +28096,23 @@
         "date_posted": 1758103683,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758103748,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4872797007",
+        "company_name": "Verkada",
+        "title": "Security Software Engineer",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "221a1cf3-a2dd-4fce-b8a4-ffa97d213698",
+        "date_posted": 1758103748,
+        "company_url": "",
+        "is_visible": true
     }
 ]
