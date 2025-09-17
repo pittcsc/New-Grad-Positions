@@ -28037,5 +28037,24 @@
         "date_posted": 1758103402,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758103534,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://gartner.wd5.myworkdayjobs.com/en-US/ext/job/Irving-TX/Data-Analyst---2026-graduates_103573",
+        "company_name": "Gartner",
+        "title": "Data Analyst",
+        "locations": [
+            "Irving, TX",
+            "Stamford, CT"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "1c8244b6-b01d-4f2c-964c-a3a9dfcc83b3",
+        "date_posted": 1758103534,
+        "company_url": "",
+        "is_visible": true
     }
 ]
