@@ -28056,5 +28056,25 @@
         "date_posted": 1758103534,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758103649,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://careers.duolingo.com/jobs/8151163002",
+        "company_name": "Duolingo",
+        "title": "AI Research Engineer",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "123f9e5d-ff4b-453d-a05d-187f44816b60",
+        "date_posted": 1758103649,
+        "company_url": "",
+        "is_visible": true
     }
 ]
