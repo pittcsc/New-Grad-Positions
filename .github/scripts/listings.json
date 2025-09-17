@@ -27643,12 +27643,10 @@
         "is_visible": false
     },
     {
-        "date_updated": 1758012133,
+        "date_updated": 1758068360,
         "sponsorship": "Other",
         "active": true,
-        "degrees": [
-            "Master's"
-        ],
+        "degrees": [],
         "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Quantitative-Analyst-I_R61935",
         "company_name": "Fifth Third",
         "title": "Quantitative Analyst I",
@@ -27660,7 +27658,7 @@
         "id": "88a836b0-963f-482f-b02b-79ee4829fa69",
         "date_posted": 1758012133,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758012249,
