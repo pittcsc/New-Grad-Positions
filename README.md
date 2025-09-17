@@ -6,7 +6,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 395 New Grad Roles by Category
+### Browse 396 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (273)
 
@@ -14,7 +14,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (58)
 
-📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (16)
+📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (17)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (23)
 
@@ -4325,6 +4325,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;"><strong>Point72</strong></td>
+<td style="padding: 8px; vertical-align: top;">Quantitative Portfolio Analyst</td>
+<td style="padding: 8px; vertical-align: top;">New York, NY</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://job-boards.greenhouse.io/point72/jobs/8169967002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+</tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>BlackEdge Capital</strong></td>
 <td style="padding: 8px; vertical-align: top;">Quantitative Researcher 🎓</td>

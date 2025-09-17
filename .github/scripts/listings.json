@@ -28019,5 +28019,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1758103402,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/point72/jobs/8169967002",
+        "company_name": "Point72",
+        "title": "Quantitative Portfolio Analyst",
+        "locations": [
+            "New York, NY"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "58641e2a-5aea-4dca-af05-0c243aad7d1f",
+        "date_posted": 1758103402,
+        "company_url": "",
+        "is_visible": true
     }
 ]
