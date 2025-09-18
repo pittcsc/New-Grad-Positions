@@ -28392,5 +28392,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1758212656,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/pingwind/d8ebf7d2-98f0-4bd7-ae70-5b8d91e4edc6",
+        "company_name": "PingWind",
+        "title": "Junior Artificial Intelligence (AI) / Machine Learning (ML) Engineer",
+        "locations": [
+            "Remote in USA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "96471107-22b4-41cf-bc9e-b0a4f2c013a7",
+        "date_posted": 1758212656,
+        "company_url": "",
+        "is_visible": true
     }
 ]
