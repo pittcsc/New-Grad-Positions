@@ -26045,7 +26045,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "441205ce-38a4-40c1-ac16-8feaeea2875c",
         "title": "Software Engineer Entry Level - Java / C++",
-        "active": false,
+        "active": true,
         "date_updated": 1757536566,
         "date_posted": 1757536566,
         "url": "https://careers-gdms.icims.com/jobs/67488/job?mobile=true&needsRedirect=false",
@@ -28363,6 +28363,46 @@
             "Cedar Rapids, IA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "1436a632-a63d-4df4-9f23-3621b221f468",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1758163006,
+        "date_posted": 1758163006,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01792373",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Alumni Ventures",
+        "id": "df644de1-2aab-4e44-ae7f-71847c2cdde4",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1758162751,
+        "date_posted": 1758162751,
+        "url": "https://job-boards.greenhouse.io/alumniventures/jobs/4027838009",
+        "locations": [
+            "Andover, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alumni-Ventures",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
