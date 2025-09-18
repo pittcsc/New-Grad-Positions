@@ -28410,5 +28410,23 @@
         "date_posted": 1758212656,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758212748,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/4921410008",
+        "company_name": "TeleTracking",
+        "title": "Software Engineer I",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "df55e7ee-a6c9-461a-8006-6d1259cbe933",
+        "date_posted": 1758212748,
+        "company_url": "",
+        "is_visible": true
     }
 ]
