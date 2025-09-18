@@ -1,37 +1,5 @@
 [
     {
-        "date_updated": 1727859226,
-        "url": "https://bloomberg.avature.net/careers/JobDetail/2025-Software-Engineer-New-York/6961",
-        "company_name": "Bloomberg",
-        "title": "Software Engineer (New Grad)",
-        "locations": [
-            "New York, NY"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "quantumscholar",
-        "id": "d53614e8-c2ef-408d-afb3-97140046f4d1",
-        "date_posted": 1727125614,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1727125644,
-        "url": "https://jobs.careers.microsoft.com/global/en/job/1771661/Software-Engineer---Frontend%2C-Redmond",
-        "company_name": "Microsoft",
-        "title": "Software Engineer - Frontend",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "eneief",
-        "id": "e304ea0a-48de-4f61-b33a-4c249258619b",
-        "date_posted": 1727125644,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "company_name": "Subsplash",
         "id": "edad236e-3134-4c79-b028-4f358e263660",
