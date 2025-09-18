@@ -28447,5 +28447,25 @@
         "date_posted": 1758213454,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Toyota Connected",
+        "id": "ad826aa9-729b-43bb-a565-2b7ffd21855b",
+        "title": "Machine Learning Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1758221382,
+        "date_posted": 1758221382,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=8174950002",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota-Connected",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
