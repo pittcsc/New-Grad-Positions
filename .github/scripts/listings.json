@@ -28428,5 +28428,24 @@
         "date_posted": 1758212748,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758213454,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/openai/83002509-5242-4145-a717-b31bcac1d4aa",
+        "company_name": "OpenAI",
+        "title": "Software Engineer, Applied Emerging Talent",
+        "locations": [
+            "San Francisco, CA",
+            "Seattle, WA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "98ca03bb-4ace-4c89-93db-694dc1cb4235",
+        "date_posted": 1758213454,
+        "company_url": "",
+        "is_visible": true
     }
 ]
