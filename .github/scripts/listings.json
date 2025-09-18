@@ -28288,5 +28288,45 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nike",
+        "id": "f482a959-12d8-423c-a3f9-413a0e13c503",
+        "title": "Software Engineer I - Innovation",
+        "active": true,
+        "date_updated": 1758158728,
+        "date_posted": 1758158728,
+        "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer-I---Innovation_R-69655",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Nike",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Macy's",
+        "id": "0b2ca3ab-fc25-4984-87f7-33597fbc68b6",
+        "title": "Macy's Tech Early Careers - Software Engineer",
+        "active": true,
+        "date_updated": 1758158106,
+        "date_posted": 1758158106,
+        "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/80534",
+        "locations": [
+            "Johns Creek, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Macys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
