@@ -16363,7 +16363,7 @@
         "company_name": "i3",
         "id": "a0400f57-73c1-4920-8d81-a0743ce3c7cd",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1754610792,
         "date_posted": 1754610792,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
@@ -25879,8 +25879,8 @@
             "Remote in Canada"
         ],
         "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "2f116c38-6e86-4858-b224-a863b40a7ac1",
+        "source": "Simplify",
+        "id": "90e4568c-4bfb-4dd2-82a6-bc5e5edfa97a",
         "date_posted": 1757507941,
         "company_url": "",
         "is_visible": true
