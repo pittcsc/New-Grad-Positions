@@ -28591,5 +28591,46 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sev1Tech",
+        "id": "68efc7ef-3cf2-4f53-921a-79d5887bee54",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1758317383,
+        "date_posted": 1758317383,
+        "url": "https://careers-sev1tech.icims.com/jobs/9185/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "North Charleston, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sev1Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Chime",
+        "id": "efb0e92a-a27a-4577-8f76-44763ea6c1e4",
+        "title": "Product Security Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1758317481,
+        "date_posted": 1755300570,
+        "url": "https://boards.greenhouse.io/chime/jobs/8101747002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Chime",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
