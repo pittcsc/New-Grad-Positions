@@ -25367,8 +25367,8 @@
             "San Mateo, CA"
         ],
         "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "6e02731c-cc69-420c-b180-8da8632c6ab7",
+        "source": "Simplify",
+        "id": "65dcd485-a8ab-4e12-9b60-98e3253226c6",
         "date_posted": 1757401781,
         "company_url": "",
         "is_visible": true
@@ -28507,6 +28507,28 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Kodiak Robotics",
+        "id": "b3d163ed-b500-4876-97f8-02cdebbde835",
+        "title": "Autonomy/AI Software Engineer-Early Career",
+        "active": true,
+        "date_updated": 1758308874,
+        "date_posted": 1758308874,
+        "url": "https://job-boards.greenhouse.io/kodiak/jobs/4028715009",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
