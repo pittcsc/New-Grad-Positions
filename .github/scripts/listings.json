@@ -28479,5 +28479,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SoFi",
+        "id": "b46de4a6-7e93-4ea6-8ff0-e4db9c9ab528",
+        "title": "New Grad \u2013 Software Engineer - Backend Developer - Sofi Money",
+        "active": true,
+        "date_updated": 1758244077,
+        "date_posted": 1758244077,
+        "url": "https://www.sofi.com/careers/sofi-university/7174926003?gh_jid=7174926003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/SoFi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
