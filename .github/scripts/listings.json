@@ -28551,5 +28551,45 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Sev1Tech",
+        "id": "934d1e0c-f228-47ab-8b00-95646a0bf185",
+        "title": "Cybersecurity Engineer 1",
+        "active": true,
+        "date_updated": 1758315728,
+        "date_posted": 1758307494,
+        "url": "https://careers-sev1tech.icims.com/jobs/9201/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "North Charleston, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sev1Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Radiant",
+        "id": "1b97d314-67da-40b1-9e94-2cac9a751f6a",
+        "title": "Software Engineer \u2013 2026 New Graduate",
+        "active": true,
+        "date_updated": 1758315594,
+        "date_posted": 1757386034,
+        "url": "https://job-boards.greenhouse.io/radiant/jobs/4606578005",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Radiant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
