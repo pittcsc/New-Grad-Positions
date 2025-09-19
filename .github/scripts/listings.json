@@ -23240,8 +23240,8 @@
             "Los Angeles, CA"
         ],
         "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "55691383-80a7-4e73-82cc-eb04be8d1519",
+        "source": "Simplify",
+        "id": "31774807-59f7-426e-b32a-a86fcc025827",
         "date_posted": 1756905852,
         "company_url": "",
         "is_visible": true
@@ -27304,7 +27304,7 @@
         "company_name": "Adobe",
         "id": "01af92ec-a0ce-4dc0-85f1-7d23b922c704",
         "title": "2026 University Graduate - Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757982543,
         "date_posted": 1757982543,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160137",
@@ -27981,8 +27981,8 @@
             "San Mateo, CA"
         ],
         "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "221a1cf3-a2dd-4fce-b8a4-ffa97d213698",
+        "source": "Simplify",
+        "id": "36f4c93e-1741-4748-b79e-306eb2d44557",
         "date_posted": 1758103748,
         "company_url": "",
         "is_visible": true
@@ -28519,6 +28519,26 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Freeform",
+        "id": "75b132b1-c89c-4076-b38e-c454e0eaf28a",
+        "title": "Software Engineer \u2013 New Grad January 2026",
+        "active": true,
+        "date_updated": 1758307649,
+        "date_posted": 1757037746,
+        "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7004129003",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/FreeformFuture",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
