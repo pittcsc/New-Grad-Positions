@@ -6,7 +6,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 411 New Grad Roles by Category
+### Browse 412 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (279)
 
@@ -16,7 +16,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (17)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (25)
+🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (26)
 
 💼 **[Other](#-other-new-grad-roles)** (20)
 
@@ -1726,7 +1726,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; text-align: center; vertical-align: top;">1mo</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;">↳</td>
+<td style="padding: 8px; vertical-align: top;"><strong>JPMorganChase</strong></td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer 🛂</td>
 <td style="padding: 8px; vertical-align: top;"><details><summary><strong>10 locations</strong></summary>Austin, TX</br>Chicago, IL</br>Columbus, OH</br>Houston, TX</br>Jersey City, NJ</br>New York, NY</br>Palo Alto, CA</br>Plano, TX</br>Tampa, FL</br>Wilmington, DE</details></td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649912?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
@@ -3466,7 +3466,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; text-align: center; vertical-align: top;">3mo</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;">↳</td>
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Software Development Engineer I</td>
 <td style="padding: 8px; vertical-align: top;">Bristol, RI</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
@@ -4724,6 +4724,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; text-align: center; vertical-align: top;">14d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td style="padding: 8px; vertical-align: top;">2026 Fulltime - Raytheon Missile Defense Sensors Software Engineer I</td>
+<td style="padding: 8px; vertical-align: top;">Burlington, MA</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA311-Woburn-MA-225-Presidential-225-Presidential-Way-Goddard-Building-27-Woburn-MA-01801-USA/XMLNAME-2026-Fulltime---Raytheon-Missile-Defense-Sensors-Software-Engineer-I--On-site-_01789916?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4425a2a5-881f-4567-b730-3abfc1cccaae?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">17d</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Seagate-Technology?utm_source=GHList&utm_medium=company">Seagate Technology </a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Firmware Engineer – Early Career - AI/ML Focus</td>
 <td style="padding: 8px; vertical-align: top;">Longmont, CO</td>
@@ -4826,7 +4833,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (35)</summary>
+<summary>🗃️ Inactive roles (34)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -4908,13 +4915,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Cedar Rapids, IA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">14d</td>
-</tr>
-<tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td style="padding: 8px; vertical-align: top;">2026 Fulltime - Raytheon Missile Defense Sensors Software Engineer I</td>
-<td style="padding: 8px; vertical-align: top;">Burlington, MA</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">17d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/North-Atlantic-Industries?utm_source=GHList&utm_medium=company">North Atlantic Industries</a></strong></td>
