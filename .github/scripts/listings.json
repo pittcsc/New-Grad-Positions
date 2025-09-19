@@ -28459,5 +28459,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Galileo Financial Technologies",
+        "id": "ff63a963-45c6-450b-8095-01242fec3767",
+        "title": "New Grad \u2013 Software Engineer - Backend Developer - Sofi Money",
+        "active": true,
+        "date_updated": 1758241813,
+        "date_posted": 1758241813,
+        "url": "https://job-boards.greenhouse.io/galileofinancialtechnologies/jobs/7174922003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Galileo-Financial-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
