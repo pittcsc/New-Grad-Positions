@@ -28632,5 +28632,27 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Intuition",
+        "id": "e7ccdcef-3b63-4e49-8d4b-9a8ccbbaee67",
+        "title": "Embedded Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1758321487,
+        "date_posted": 1755029047,
+        "url": "https://boards.greenhouse.io/appliedintuition/jobs/4592027005",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Intuition",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
