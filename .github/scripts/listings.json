@@ -21399,8 +21399,8 @@
             "San Francisco, CA"
         ],
         "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "3787c248-81c5-45c8-84bc-1b89bbfd6ea8",
+        "source": "Simplify",
+        "id": "ff900674-c804-4d6e-91ef-589c59747622",
         "date_posted": 1756202896,
         "company_url": "",
         "is_visible": true
@@ -27179,7 +27179,7 @@
         "company_name": "SingleStore",
         "id": "573cd0e4-9d92-4879-badd-b57ad4e7796b",
         "title": "Software Engineer \u2013 University Graduate - Database Engine",
-        "active": true,
+        "active": false,
         "date_updated": 1749692088,
         "date_posted": 1749692088,
         "url": "https://job-boards.greenhouse.io/singlestore/jobs/6237482",
@@ -28498,6 +28498,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Databricks",
+        "id": "ea29c605-ae90-4d90-9e3f-3790c81943c8",
+        "title": "Data Scientist \u2013 New Grad - 2026 Start",
+        "active": true,
+        "date_updated": 1758306471,
+        "date_posted": 1754705021,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6866554002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Databricks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
