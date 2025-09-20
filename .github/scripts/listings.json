@@ -29071,5 +29071,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Roblox",
+        "id": "cb516fb8-a980-4251-9c89-91f871f258b4",
+        "title": "Associate Product Manager - Early Career",
+        "active": true,
+        "date_updated": 1757969510,
+        "date_posted": 1756867324,
+        "url": "https://careers.roblox.com/jobs/7167343?gh_jid=7167343",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roblox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
