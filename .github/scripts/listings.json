@@ -25869,7 +25869,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "441205ce-38a4-40c1-ac16-8feaeea2875c",
         "title": "Software Engineer Entry Level - Java / C++",
-        "active": false,
+        "active": true,
         "date_updated": 1757536566,
         "date_posted": 1757536566,
         "url": "https://careers-gdms.icims.com/jobs/67488/job?mobile=true&needsRedirect=false",
@@ -28700,6 +28700,46 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pinterest",
+        "id": "7d4bbb99-10c6-4779-8c77-b7f3e0d6d520",
+        "title": "Machine Learning Engineer 1",
+        "active": true,
+        "date_updated": 1758331404,
+        "date_posted": 1758331404,
+        "url": "https://job-boards.greenhouse.io/pinterestjobadvertisements/jobs/7264418",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "4db29e91-1c1d-4211-a891-40e1bbab5387",
+        "title": "Entry Level Software Engineer - Kotlin - Java",
+        "active": true,
+        "date_updated": 1758330983,
+        "date_posted": 1758330983,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Somerville-MA/Software-Engineer---Kotlin---Java_R55107",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
