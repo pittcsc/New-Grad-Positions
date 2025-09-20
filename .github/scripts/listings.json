@@ -17800,7 +17800,7 @@
         "company_name": "Blue Origin",
         "id": "76bda980-7f17-4147-913d-c39234019082",
         "title": "Machine Learning Engineer/Scientist I \u2013 Early Career 2025 University Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755193156,
         "date_posted": 1755193156,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Machine-Learning-Engineer-Scientist-I---Early-Career-2025-University-Grad_R54164",
@@ -26751,7 +26751,7 @@
         "company_name": "Sun Life",
         "id": "2033c21e-54e5-415d-a102-70d1e64a23b8",
         "title": "Student \u2013 Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757695085,
         "date_posted": 1757695085,
         "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Junior-Software-Engineer--Winter-2026-_JR00114373",
@@ -28882,6 +28882,69 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Decagon",
+        "id": "3028cdea-b3ff-4483-b94a-856891810dcf",
+        "title": "Agent Software Engineer \u2013 New Grad - 2026 Start",
+        "active": true,
+        "date_updated": 1758361453,
+        "date_posted": 1757117107,
+        "url": "https://jobs.ashbyhq.com/decagon/95a4707d-1def-481a-bb78-38a4b22b6891/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Decagon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Decagon",
+        "id": "76bd6015-beee-4e02-bb81-8d04bfc62f4e",
+        "title": "Agent Software Engineer \u2013 New Grad - 2026 Start",
+        "active": true,
+        "date_updated": 1758362035,
+        "date_posted": 1756943431,
+        "url": "https://jobs.ashbyhq.com/decagon/2a435dd5-1212-42bb-ae5a-d7432902acd2/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Decagon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Abridge",
+        "id": "900d3fae-428b-45b6-847a-878c333f3f4e",
+        "title": "Full Stack Engineer - New Grad - Product Engineering - Typescript - React - Next.js",
+        "active": true,
+        "date_updated": 1758361853,
+        "date_posted": 1756165745,
+        "url": "https://jobs.ashbyhq.com/abridge/55958eb5-109f-4e88-9793-ed2327fc753a/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Abridge",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
