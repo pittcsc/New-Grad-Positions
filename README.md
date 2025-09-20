@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 397 New Grad Roles by Category
+### Browse 400 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (270)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (272)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (7)
 
@@ -16,7 +16,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (16)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (26)
+🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (27)
 
 💼 **[Other](#-other-new-grad-roles)** (19)
 
@@ -80,6 +80,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/WeRide?utm_source=GHList&utm_medium=company">WeRide</a></strong></td>
+<td style="padding: 8px; vertical-align: top;">New Grads 2026 - General Software Engineer</td>
+<td style="padding: 8px; vertical-align: top;">San Jose, CA</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://jobs.lever.co/weride/94562b95-f574-4a60-bfbf-0cafb5c8ea3d/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c60fbddb-59b7-4fe9-96e9-5051db26fc59?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+</tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Sev1Tech?utm_source=GHList&utm_medium=company">Sev1Tech</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer I</td>
@@ -400,6 +407,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Entry Level Software Engineer</td>
 <td style="padding: 8px; vertical-align: top;">Fredericksburg, VA</br>Dahlgren, VA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0145732-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d926f42e-6ace-475c-87f2-027dd64296c4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">8d</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Susquehanna?utm_source=GHList&utm_medium=company">Susquehanna International Group (SIG)</a></strong></td>
+<td style="padding: 8px; vertical-align: top;">Software Developer – New Grad - Sprc</td>
+<td style="padding: 8px; vertical-align: top;">Ardmore, PA</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0f6d0bb1-d082-4bf0-99df-257b2f6072e1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">8d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
@@ -1975,7 +1989,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (225)</summary>
+<summary>🗃️ Inactive roles (224)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2101,13 +2115,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; text-align: center; vertical-align: top;">8d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;">↳</td>
-<td style="padding: 8px; vertical-align: top;">Software Developer – New Grad - Sprc</td>
-<td style="padding: 8px; vertical-align: top;">Ardmore, PA</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">8d</td>
-</tr>
-<tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Iridium-Communications?utm_source=GHList&utm_medium=company">Iridium Communications</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer I</td>
 <td style="padding: 8px; vertical-align: top;">Chandler, AZ</td>
@@ -2210,7 +2217,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Dev Engineer I</td>
 <td style="padding: 8px; vertical-align: top;">Remote in USA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">13d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">14d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Bumble?utm_source=GHList&utm_medium=company">Bumble</a></strong></td>
@@ -4618,6 +4625,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/WeRide?utm_source=GHList&utm_medium=company">WeRide</a></strong></td>
+<td style="padding: 8px; vertical-align: top;">New Grads 2026 - Software Engineer - Algorithm 🎓</td>
+<td style="padding: 8px; vertical-align: top;">San Jose, CA</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://jobs.lever.co/weride/1dc0209a-f90b-4f1c-a614-75f5b7883e6d/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/59f8db17-8c82-4741-a2d5-802f1b969d2c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+</tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Kodiak-Robotics?utm_source=GHList&utm_medium=company">Kodiak Robotics</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Autonomy/AI Software Engineer-Early Career</td>
