@@ -14420,7 +14420,7 @@
         "company_name": "Northslope Technologies",
         "id": "89c2d6f9-9f51-4296-809a-7e8207949cd5",
         "title": "Forward Deployed Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755270266,
         "date_posted": 1753315722,
         "url": "https://jobs.ashbyhq.com/northslope-technologies/7ccd126f-b127-4526-87f1-57408919c30a/application",
@@ -22668,7 +22668,7 @@
         "company_name": "Nutanix",
         "id": "9d624829-b749-4a08-98ec-ca5dab38321a",
         "title": "Software Engineer 1 / Early Career - Backend C++/Linux/AWS-S3",
-        "active": true,
+        "active": false,
         "date_updated": 1756745491,
         "date_posted": 1756745491,
         "url": "https://jobs.jobvite.com/nutanix/job/oGXDxfwx?nl=1&nl=1&fr=false",
@@ -29086,6 +29086,27 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Roblox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "3dcd2e88-e3d8-4347-90c3-366c28c12e37",
+        "title": "Software Engineer 1 - International Card Services - Int Card & Risk Services Tech",
+        "active": true,
+        "date_updated": 1758375670,
+        "date_posted": 1755823820,
+        "url": "https://aexp.eightfold.ai/careers/job/30763120",
+        "locations": [
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
