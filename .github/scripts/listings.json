@@ -19865,7 +19865,7 @@
         "company_name": "Applied Intuition",
         "id": "92337de8-0b22-4877-aba2-7825ff5e7917",
         "title": "Research Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755654113,
         "date_posted": 1755654113,
         "url": "https://boards.greenhouse.io/appliedintuition/jobs/4489207005",
@@ -29155,6 +29155,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Commure",
+        "id": "1c49e461-9658-4a0a-ae74-588933252625",
+        "title": "Software Engineer \u2013 Summer 2026 New Grad - Ambient AI",
+        "active": true,
+        "date_updated": 1758380383,
+        "date_posted": 1756339280,
+        "url": "https://jobs.ashbyhq.com/Commure-Athelas/0f13b112-8d8c-4fb1-ae3d-449cc36cd89e/application",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Commure",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
