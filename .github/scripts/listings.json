@@ -28951,5 +28951,25 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ciena",
+        "id": "de2c5aa8-afd1-4d9f-9968-0e3901597227",
+        "title": "PON Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1758362371,
+        "date_posted": 1757622733,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/US--MA--Mansfield--200-Chauncy-St/PON-Software-Engineer---New-Grad_R028765",
+        "locations": [
+            "Mansfield, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
