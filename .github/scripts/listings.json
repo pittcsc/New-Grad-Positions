@@ -29031,5 +29031,45 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GM financial",
+        "id": "150396ee-b19c-450a-9b36-76e035cc0762",
+        "title": "Software Development Engineer 1 - GenAI",
+        "active": true,
+        "date_updated": 1758372101,
+        "date_posted": 1756160312,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/759",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GM-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Belvedere Trading",
+        "id": "a8a35e5f-1a4d-42b1-ac87-8d42f18d9d76",
+        "title": "Quantitative Trader \u2013 Entry Level 2026",
+        "active": true,
+        "date_updated": 1758371659,
+        "date_posted": 1754707547,
+        "url": "https://jobs.lever.co/belvederetrading/7a15eeab-69ce-489e-bdb6-122dd0360b40/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Belvedere-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
