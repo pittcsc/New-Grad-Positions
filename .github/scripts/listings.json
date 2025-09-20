@@ -17782,7 +17782,7 @@
         "company_name": "Blue Origin",
         "id": "0296a5d8-15c9-4d99-9837-ae8869168618",
         "title": "Avionics Software Engineer 1 \u2013 Early Career 2025 University Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755193215,
         "date_posted": 1755193215,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Avionics-Software-Engineer-1---Early-Career-2025-University-Grad_R54112",
@@ -26032,7 +26032,7 @@
         "company_name": "Amentum",
         "id": "d926f42e-6ace-475c-87f2-027dd64296c4",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757551938,
         "date_posted": 1757551938,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0145732-1",
@@ -28800,6 +28800,47 @@
             "Greater Toronto Area, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Copeland",
+        "id": "1599007b-284e-4c5b-8e95-3582644c3e9b",
+        "title": "Associate Product Manager \u2013 New Grad/Mid Level",
+        "active": true,
+        "date_updated": 1758357031,
+        "date_posted": 1757982669,
+        "url": "https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Kennesaw-GA-USA/Associate-Product-Manager--New-Grad-Mid-Level-_JR110266",
+        "locations": [
+            "Kennesaw, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Copeland",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Belvedere Trading",
+        "id": "3901b5e1-a5fb-4c05-9738-654a70a6341d",
+        "title": "Software Engineer \u2013 Entry Level 2026",
+        "active": true,
+        "date_updated": 1758357059,
+        "date_posted": 1754707548,
+        "url": "https://jobs.lever.co/belvederetrading/f81a8965-5537-4a4b-aec6-c02dfa51815e/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Belvedere-Trading",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
