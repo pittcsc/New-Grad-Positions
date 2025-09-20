@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 404 New Grad Roles by Category
+### Browse 403 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (272)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (271)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (11)
 
@@ -1929,13 +1929,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; text-align: center; vertical-align: top;">2mo</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;">↳</td>
-<td style="padding: 8px; vertical-align: top;">Forward Deployed Software Engineer – New Grad - US Government</td>
-<td style="padding: 8px; vertical-align: top;">Washington, DC</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f6f83b45-cf4c-4a3e-8f32-4c64672610a1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">2mo</td>
-</tr>
-<tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/OpenEye?utm_source=GHList&utm_medium=company">OpenEye</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer I - Ows</td>
 <td style="padding: 8px; vertical-align: top;">Liberty Lake, WA</td>
@@ -1989,7 +1982,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (235)</summary>
+<summary>🗃️ Inactive roles (236)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2343,7 +2336,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Development Engineer I – Early Career & New Graduate Rotation 🇺🇸</td>
 <td style="padding: 8px; vertical-align: top;">Seattle, WA</br>Kent, WA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">17d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">18d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -2420,7 +2413,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Engineer I</td>
 <td style="padding: 8px; vertical-align: top;">Atlanta, GA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">24d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">25d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>🔥 PayPal</strong></td>
@@ -3238,6 +3231,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company">🔥 Palantir</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Forward Deployed Software Engineer – New Grad - US Government</td>
 <td style="padding: 8px; vertical-align: top;">New York, NY</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">2mo</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;">↳</td>
+<td style="padding: 8px; vertical-align: top;">Forward Deployed Software Engineer – New Grad - US Government</td>
+<td style="padding: 8px; vertical-align: top;">Washington, DC</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">2mo</td>
 </tr>
