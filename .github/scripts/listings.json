@@ -29019,5 +29019,25 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "EverCommerce",
+        "id": "a75ec43d-b108-4783-98ad-6bdc20a33da3",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1758519444,
+        "date_posted": 1758519444,
+        "url": "https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote-Ontario/Junior-Software-Engineer_R-105466",
+        "locations": [
+            "Ontario, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/a1a5e91c-79e8-44ef-a474-3b5b939c9c5c",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
