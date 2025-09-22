@@ -27764,10 +27764,12 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758103955,
+        "date_updated": 1758584585,
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "degrees": [],
+        "degrees": [
+            "Master's"
+        ],
         "url": "https://jobs.ashbyhq.com/jerry.ai/7fce20dc-30a9-4dff-890d-eb041efe2a91",
         "company_name": "Jerry",
         "title": "Software Engineer I",
