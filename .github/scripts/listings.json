@@ -29095,5 +29095,23 @@
         "date_posted": 1758520324,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758520696,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Tencent-Cloud-PaaS-Associate-Site-Reliability-Engineer_R106050-1",
+        "company_name": "Tencent",
+        "title": "Cloud PaaS Associate Site Reliability Engineer",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1c1d3241-2193-4c9e-8dfa-129c0561c806",
+        "date_posted": 1758520696,
+        "company_url": "",
+        "is_visible": true
     }
 ]
