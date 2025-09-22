@@ -29222,5 +29222,24 @@
         "date_posted": 1758521442,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758522491,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://aig.wd1.myworkdayjobs.com/early_careers/job/NC-Charlotte/XMLNAME-2026---Early-Career---Technology---Analyst---United-States--Jersey-City--NJ--or-Charlotte--NC-_JR2504979",
+        "company_name": "AIG",
+        "title": "Technology \u2013 Analyst",
+        "locations": [
+            "Charlotte, NC",
+            "Jersey City, NJ"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "be42a889-64f3-4933-92ae-f8b96064a126",
+        "date_posted": 1758522491,
+        "company_url": "",
+        "is_visible": true
     }
 ]
