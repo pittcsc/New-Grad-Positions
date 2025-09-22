@@ -25879,7 +25879,7 @@
         "company_name": "RTX",
         "id": "eac1e4ed-b205-4a48-9313-cf212ad80292",
         "title": "Software Engineer I - C/C++ Linux",
-        "active": true,
+        "active": false,
         "date_updated": 1757553049,
         "date_posted": 1757553049,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI201-127-John-Clarke-Road-Middletwn-127-John-Clarke-Road-Suite-3-Middletown-RI-02842-USA/Software-Engineer-I---C-C---Linux--Onsite-_01791668",
@@ -29315,6 +29315,28 @@
             "Beaverton, OR"
         ],
         "company_url": "https://simplify.jobs/c/Panasonic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lennar Corporation",
+        "id": "ca8a35db-e6f3-4eed-b520-d279fa43f2d4",
+        "title": "Future Builders Recent College Grad Program - Software Engineering",
+        "active": true,
+        "date_updated": 1758583328,
+        "date_posted": 1757025704,
+        "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/LEN---Miami-FL---Corporate/Future-Builders-RCG-Program---Software-Engineering_R25_0000003694",
+        "locations": [
+            "Bentonville, AR",
+            "Miami, FL",
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Lennar-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
