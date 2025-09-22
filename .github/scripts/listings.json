@@ -29300,5 +29300,25 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Panasonic Holdings",
+        "id": "e57239b4-e628-4e6c-a96c-ed20adfbeb9a",
+        "title": "Software Engineer 1 - Microservices",
+        "active": true,
+        "date_updated": 1758575240,
+        "date_posted": 1757547893,
+        "url": "https://careers.na.panasonic.com/jobs/44350?lang=en-us&icims=1",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Panasonic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
