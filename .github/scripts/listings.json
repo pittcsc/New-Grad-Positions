@@ -29204,5 +29204,23 @@
         "date_posted": 1758521306,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758521442,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Data-Ai-Engineer-Intern_R-103685",
+        "company_name": "Jade Global",
+        "title": "Data/Ai Engineer Intern",
+        "locations": [
+            "Ogden, UT"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "1385d241-f2ef-45d8-aec4-777c79fdcbb3",
+        "date_posted": 1758521442,
+        "company_url": "",
+        "is_visible": true
     }
 ]
