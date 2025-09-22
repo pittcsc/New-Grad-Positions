@@ -29241,5 +29241,23 @@
         "date_posted": 1758522491,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758522632,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.apple.com/en-us/details/200622152-0836/camera-framework-engineer-photo-capture",
+        "company_name": "Apple",
+        "title": "Camera Framework Engineer - Photo Capture",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "category": "Hardware Engineering",
+        "source": "AlmondCroffle",
+        "id": "54dcc85b-13ae-4d13-bc51-3d1acd7926b5",
+        "date_posted": 1758522632,
+        "company_url": "",
+        "is_visible": true
     }
 ]
