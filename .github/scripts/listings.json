@@ -29344,5 +29344,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1758585351,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://northmark.wd108.myworkdayjobs.com/en-US/NMS/job/Graduate-Program_R12714",
+        "company_name": "NorthMark Strategies",
+        "title": "Graduate Engineering Program",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "TimothyNaumov",
+        "id": "ea175e22-2ea9-4d2d-ae8e-fbc57fb7ab91",
+        "date_posted": 1758585351,
+        "company_url": "",
+        "is_visible": true
     }
 ]
