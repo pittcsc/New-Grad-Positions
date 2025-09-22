@@ -29241,5 +29241,23 @@
         "date_posted": 1758522491,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758522723,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://costar.wd1.myworkdayjobs.com/confidential/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014-1",
+        "company_name": "CoStar Group",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "3399e593-3844-4433-b1a0-9e0b1c421661",
+        "date_posted": 1758522723,
+        "company_url": "",
+        "is_visible": true
     }
 ]
