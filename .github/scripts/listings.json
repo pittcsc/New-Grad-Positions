@@ -29186,5 +29186,23 @@
         "date_posted": 1758521252,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758521306,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/siftstack/da9e9490-4156-4390-b9ed-54e215c894b6",
+        "company_name": "Sift",
+        "title": "Software Engineer",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "bd8d311b-b9da-426e-a442-d47ea733ccca",
+        "date_posted": 1758521306,
+        "company_url": "",
+        "is_visible": true
     }
 ]
