@@ -29039,5 +29039,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1758520100,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Data-Scientist-I_R101296-1",
+        "company_name": "RELX",
+        "title": "Data Scientist I - (DSAP)",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "95173864-37c8-495b-8361-c039cc4ac3bd",
+        "date_posted": 1758520100,
+        "company_url": "",
+        "is_visible": true
     }
 ]
