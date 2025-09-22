@@ -29131,5 +29131,24 @@
         "date_posted": 1758520879,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758520959,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://ovative.wd12.myworkdayjobs.com/en-US/ovative/job/Minneapolis/Analyst--Data---Software-Engineering---January-2026-Start-Date_JR100120",
+        "company_name": "Ovative Group",
+        "title": "Analyst, Data & Software Engineering",
+        "locations": [
+            "Minneapolis, MN",
+            "Chicago, IL"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "df511fe2-266d-45db-ae0c-7a8aa81d1ae5",
+        "date_posted": 1758520959,
+        "company_url": "",
+        "is_visible": true
     }
 ]
