@@ -29168,5 +29168,23 @@
         "date_posted": 1758521109,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758521252,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/lambda/1147c640-8d1b-4e92-8d39-63982f3f88d7",
+        "company_name": "Lambda",
+        "title": "Cloud Support Engineer I (Support Response)",
+        "locations": [
+            "Remote in USA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "d11d4c32-f80b-48f5-af2b-4bde147b19ab",
+        "date_posted": 1758521252,
+        "company_url": "",
+        "is_visible": true
     }
 ]
