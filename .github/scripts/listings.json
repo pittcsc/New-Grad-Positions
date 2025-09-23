@@ -21148,7 +21148,7 @@
     {
         "date_updated": 1756202896,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://job-boards.greenhouse.io/togetherai/jobs/4835315007",
         "company_name": "Together AI",
@@ -28593,7 +28593,7 @@
         "company_name": "Jerry",
         "id": "ab8f47e0-d4cb-4316-89da-a7386c3b8deb",
         "title": "Software Engineer 1 - Engineering - Core App - Retention - Automation - React - NodeJS - TypeScript - AWS - Python - Docker - CI/CD - Redis - Postgres - DynamoDB - Clickhouse - AI/ML",
-        "active": true,
+        "active": false,
         "date_updated": 1758343111,
         "date_posted": 1758343111,
         "url": "https://jobs.ashbyhq.com/jerry.ai/42f3759f-eaa8-4b31-93ba-f6d206d0df3f/application",
