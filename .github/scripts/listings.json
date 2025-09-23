@@ -13450,7 +13450,7 @@
         "company_name": "CACI",
         "id": "e23f991b-f6bb-4037-a415-84cb81506adb",
         "title": "Entry Level DSP Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1752623968,
         "date_posted": 1752623968,
         "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Entry-Level-DSP-Software-Engineer_314488-1",
@@ -28346,7 +28346,7 @@
         "company_name": "Sev1Tech",
         "id": "934d1e0c-f228-47ab-8b00-95646a0bf185",
         "title": "Cybersecurity Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1758315728,
         "date_posted": 1758307494,
         "url": "https://careers-sev1tech.icims.com/jobs/9201/job?mobile=true&needsRedirect=false",
@@ -29412,7 +29412,7 @@
         "company_name": "Chewy",
         "id": "6a49bd3b-c1ce-4223-82d4-c340a6bf1a21",
         "title": "Software Engineer I - Discovery Recommendations",
-        "active": true,
+        "active": false,
         "date_updated": 1758597123,
         "date_posted": 1758597123,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7260970",
@@ -29737,6 +29737,55 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Providence",
+        "id": "61a85912-13ac-40a0-a327-1ec86c8fb013",
+        "title": "Data Software Engineer 1 - Enterprise Information Services",
+        "active": true,
+        "date_updated": 1758666311,
+        "date_posted": 1758666311,
+        "url": "https://evac.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs/job/388647",
+        "locations": [
+            "Washington",
+            "Oregon",
+            "Lubbock, TX",
+            "California",
+            "Montana",
+            "Silverton, TX",
+            "Morton, TX",
+            "Alaska"
+        ],
+        "company_url": "https://simplify.jobs/c/Providence",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "2a4144eb-d683-41ab-aa6b-4054edea48eb",
+        "title": "University Graduate - Data Scientist",
+        "active": true,
+        "date_updated": 1758666320,
+        "date_posted": 1758666320,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Data-Scientist_R160661",
+        "locations": [
+            "SF",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
