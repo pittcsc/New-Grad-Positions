@@ -29590,5 +29590,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intact",
+        "id": "556de495-069d-423c-b5fd-a6e1fd9a8996",
+        "title": "New Grad Tech Development Program - Software Development - Cloud",
+        "active": true,
+        "date_updated": 1758614651,
+        "date_posted": 1758614651,
+        "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/New-Grad-Tech-Development-Program---Software-Development---Cloud-Stream_R149021",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intact",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
