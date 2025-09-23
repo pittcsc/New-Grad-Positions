@@ -29365,5 +29365,25 @@
             "Bachelor's",
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "7cb0f175-04df-4342-81e3-028b8cc4a6ed",
+        "title": "Software Engineer 0",
+        "active": true,
+        "date_updated": 1758308559,
+        "date_posted": 1744441208,
+        "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4558889006",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
