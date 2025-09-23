@@ -29425,5 +29425,67 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "5de30536-7ed9-4121-977c-734010710c22",
+        "title": "University Graduate - Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1758597605,
+        "date_posted": 1758597605,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160133",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Everlaw",
+        "id": "58296267-4dd6-41e7-b360-5efdbd58798f",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1758597633,
+        "date_posted": 1758597633,
+        "url": "https://job-boards.greenhouse.io/everlaw/jobs/4597021006",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Everlaw",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "94b14ba8-0bd1-4560-84d5-ddf9fff641e3",
+        "title": "Software Engineer 1 - Discovery Recommendations",
+        "active": true,
+        "date_updated": 1758597122,
+        "date_posted": 1758597122,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7187320",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
