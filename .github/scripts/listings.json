@@ -29611,5 +29611,25 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SIFT",
+        "id": "33764b21-27c6-4c41-8e4b-7d8283de6aed",
+        "title": "Software Engineer \u2013 New College Graduate",
+        "active": true,
+        "date_updated": 1758618395,
+        "date_posted": 1758618395,
+        "url": "https://jobs.ashbyhq.com/siftstack/da9e9490-4156-4390-b9ed-54e215c894b6/application",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SIFT-Stack",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
