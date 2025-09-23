@@ -26228,7 +26228,7 @@
         "company_name": "LPL Financial Holdings",
         "id": "23c87d4e-610a-4a43-ba32-3f2381c3abfd",
         "title": "New Grad 2026 - Technology - Software Development",
-        "active": true,
+        "active": false,
         "date_updated": 1757615552,
         "date_posted": 1757615552,
         "url": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/San-Diego-CA/New-Grad-2026---Technology--Software-Development_R-046207-1",
@@ -29028,7 +29028,7 @@
         "company_name": "EverCommerce",
         "id": "a75ec43d-b108-4783-98ad-6bdc20a33da3",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1758519444,
         "date_posted": 1758519444,
         "url": "https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote-Ontario/Junior-Software-Engineer_R-105466",
@@ -29651,6 +29651,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "24ba20e7-0e3a-4da8-b708-a448823b1663",
+        "title": "Software Engineer 1 - Servicing Engineering",
+        "active": true,
+        "date_updated": 1758623413,
+        "date_posted": 1756950503,
+        "url": "https://aexp.eightfold.ai/careers/job/30954270",
+        "locations": [
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
