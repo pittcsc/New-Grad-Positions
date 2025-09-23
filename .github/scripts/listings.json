@@ -18226,7 +18226,7 @@
         "company_name": "Artefact",
         "id": "c6af06d4-a624-41c0-8854-564d8c4dde4f",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1755297762,
         "date_posted": 1755297762,
         "url": "https://job-boards.greenhouse.io/artefact/jobs/8119158002",
@@ -29507,6 +29507,27 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "3238816d-0dc3-48d5-8beb-e1003676ca4d",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1758601184,
+        "date_posted": 1758601184,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/74b74cba-011f-43b9-b432-385df555bc10/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
