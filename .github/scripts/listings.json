@@ -29405,5 +29405,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "6a49bd3b-c1ce-4223-82d4-c340a6bf1a21",
+        "title": "Software Engineer I - Discovery Recommendations",
+        "active": true,
+        "date_updated": 1758597123,
+        "date_posted": 1758597123,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7260970",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
