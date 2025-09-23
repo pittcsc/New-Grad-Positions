@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 407 New Grad Roles by Category
+### Browse 408 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (279)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (280)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (10)
 
@@ -80,6 +80,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Intact?utm_source=GHList&utm_medium=company">Intact</a></strong></td>
+<td style="padding: 8px; vertical-align: top;">New Grad Tech Development Program - Software Development - Cloud</td>
+<td style="padding: 8px; vertical-align: top;">Toronto, ON, Canada</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/New-Grad-Tech-Development-Program---Software-Development---Cloud-Stream_R149021?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/556de495-069d-423c-b5fd-a6e1fd9a8996?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+</tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Nextdoor?utm_source=GHList&utm_medium=company">Nextdoor</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer – New Grad 2026</td>
