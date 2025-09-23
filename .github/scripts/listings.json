@@ -29694,5 +29694,28 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "D2L",
+        "id": "380f5198-4daf-4c7d-9349-31d7bd8b54ca",
+        "title": "Software Developer \u2013 Spring 2026 New Graduate",
+        "active": true,
+        "date_updated": 1758655705,
+        "date_posted": 1758655705,
+        "url": "https://www.d2l.com/careers/jobs/?job_id=7260896&gh_jid=7260896",
+        "locations": [
+            "Winnipeg, MB, Canada",
+            "Toronto, ON, Canada",
+            "Kitchener, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/D2L",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
