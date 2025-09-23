@@ -25817,7 +25817,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": false,
+        "active": true,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -29380,6 +29380,26 @@
             "Annapolis Junction, MD"
         ],
         "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NextEra Energy",
+        "id": "ff1f5f3e-5e7a-4dfe-a1fb-9d658755635b",
+        "title": "Software Development Engineer 1 - New Product Engineering",
+        "active": true,
+        "date_updated": 1758594889,
+        "date_posted": 1758594889,
+        "url": "https://jobs.nexteraenergy.com/job/St_-Paul-Software-Development-Eng-I-MN-55107/1312731700/?ats=successfactors",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/NextEra-Energy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
