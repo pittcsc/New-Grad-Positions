@@ -25756,7 +25756,7 @@
         "company_name": "Cellular Sales",
         "id": "c7c1c6c0-062c-431e-b8f1-9d7b798ac33c",
         "title": "Junior Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757542524,
         "date_posted": 1757542524,
         "url": "https://careers-cellularsales.icims.com/jobs/19001/job?mobile=true&needsRedirect=false",
@@ -29784,6 +29784,26 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fifth Third Bank",
+        "id": "7c064910-805a-4037-876c-13452565138c",
+        "title": "Data Engineer 1",
+        "active": true,
+        "date_updated": 1758674824,
+        "date_posted": 1758674824,
+        "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Data-Engineer-1_R62252",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
