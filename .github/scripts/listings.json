@@ -30068,5 +30068,46 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "mthree",
+        "id": "de2aa833-1aeb-4eec-b942-b25dd9ec163a",
+        "title": "Junior Software Developer - Go Lang",
+        "active": true,
+        "date_updated": 1758755035,
+        "date_posted": 1758755035,
+        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Mthree",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "mthree",
+        "id": "13614527-7efc-429b-ba53-e410fe62b4a0",
+        "title": "Junior Software Developer - Java/Scala",
+        "active": true,
+        "date_updated": 1758755027,
+        "date_posted": 1758755027,
+        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4600596006",
+        "locations": [
+            "Ireland",
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Mthree",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
