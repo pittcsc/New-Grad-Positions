@@ -6,7 +6,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 400 New Grad Roles by Category
+### Browse 399 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (274)
 
@@ -14,7 +14,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (64)
 
-📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (15)
+📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (14)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (19)
 
@@ -827,10 +827,10 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) 🛂</td>
 <td style="padding: 8px; vertical-align: top;">Seattle, WA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://careers.oracle.com/en/sites/jobsearch/job/305990?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">25d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">26d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;"><strong>🔥 Oracle</strong></td>
+<td style="padding: 8px; vertical-align: top;">↳</td>
 <td style="padding: 8px; vertical-align: top;">Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) 🛂</td>
 <td style="padding: 8px; vertical-align: top;">Nashville, TN</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://careers.oracle.com/en/sites/jobsearch/job/305993?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
@@ -879,11 +879,11 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; text-align: center; vertical-align: top;">27d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;">↳</td>
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Commure?utm_source=GHList&utm_medium=company">Commure</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer, Ambient AI (Summer 2026 New Grad)</td>
 <td style="padding: 8px; vertical-align: top;">Mountain View, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://www.commure.com/careers-detail?ashby_jid=0f13b112-8d8c-4fb1-ae3d-449cc36cd89e&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">27d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">28d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Samsara?utm_source=GHList&utm_medium=company">🔥 Samsara</a></strong></td>
@@ -1068,7 +1068,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; text-align: center; vertical-align: top;">1mo</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;">↳</td>
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Nominal?utm_source=GHList&utm_medium=company">Nominal</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer 🇺🇸</td>
 <td style="padding: 8px; vertical-align: top;">New York, NY</br>Los Angeles, CA</br>Austin, TX</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://jobs.lever.co/nominal/cc79d7f9-93b9-4410-8435-d92d2f427215?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
@@ -2203,7 +2203,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">New Grad 2026 - Technology - Software Development</td>
 <td style="padding: 8px; vertical-align: top;">Austin, TX</br>Fort Mill, SC</br>San Diego, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">12d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">13d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Visa?utm_source=GHList&utm_medium=company">🔥 Visa</a></strong></td>
@@ -3926,7 +3926,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Junior Product Manager</td>
 <td style="padding: 8px; vertical-align: top;">Las Vegas, NV</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">6d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">7d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Copeland?utm_source=GHList&utm_medium=company">Copeland</a></strong></td>
@@ -4058,7 +4058,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Machine Learning Engineer – Entry Level</td>
 <td style="padding: 8px; vertical-align: top;">Plano, TX</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=8174950002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ad826aa9-729b-43bb-a565-2b7ffd21855b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">5d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">6d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Duolingo?utm_source=GHList&utm_medium=company">🔥 Duolingo</a></strong></td>
@@ -4496,7 +4496,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Junior Analyst-Data Scientist</td>
 <td style="padding: 8px; vertical-align: top;">Nottingham, UK</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">13d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">14d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Tax-Relief-Advocates?utm_source=GHList&utm_medium=company">Tax Relief Advocates</a></strong></td>
@@ -4538,7 +4538,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Early Career - Data Scientist</td>
 <td style="padding: 8px; vertical-align: top;">SF</br>NYC</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">15d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">16d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Qode-World?utm_source=GHList&utm_medium=company">qode.world</a></strong></td>
@@ -4948,19 +4948,12 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://www.akunacapital.com/job-details?gh_jid=7063563&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1ac52fdb-7e69-4fc6-a38c-2d98bf9c0ca9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">2mo</td>
 </tr>
-<tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Citadel-Securities?utm_source=GHList&utm_medium=company">Citadel Securities</a></strong></td>
-<td style="padding: 8px; vertical-align: top;">Quantitative Research Analyst – University Graduate</td>
-<td style="padding: 8px; vertical-align: top;">Miami, FL</br>New York, NY</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-us/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9f39417b-65f8-44a7-a1f8-63cce9e90313?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">2mo</td>
-</tr>
 </tbody>
 </table>
 
 
 <details>
-<summary>🗃️ Inactive roles (5)</summary>
+<summary>🗃️ Inactive roles (6)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -5002,7 +4995,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; text-align: center; vertical-align: top;">2mo</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;">↳</td>
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Citadel-Securities?utm_source=GHList&utm_medium=company">Citadel Securities</a></strong></td>
+<td style="padding: 8px; vertical-align: top;">Quantitative Research Analyst – University Graduate</td>
+<td style="padding: 8px; vertical-align: top;">Miami, FL</br>New York, NY</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">2mo</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Citadel?utm_source=GHList&utm_medium=company">Citadel</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Quantitative Research Engineer – University Graduate</td>
 <td style="padding: 8px; vertical-align: top;">Miami, FL</br>New York, NY</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
@@ -5546,7 +5546,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Cybersecurity Engineer 1</td>
 <td style="padding: 8px; vertical-align: top;">North Charleston, SC</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://careers-sev1tech.icims.com/jobs/9201/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/934d1e0c-f228-47ab-8b00-95646a0bf185?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">4d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">5d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -5746,7 +5746,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Information Security Engineer I</td>
 <td style="padding: 8px; vertical-align: top;">Remote in USA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">21d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">22d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Travelers?utm_source=GHList&utm_medium=company">The Travelers Companies</a></strong></td>
