@@ -25756,7 +25756,7 @@
         "company_name": "Cellular Sales",
         "id": "c7c1c6c0-062c-431e-b8f1-9d7b798ac33c",
         "title": "Junior Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757542524,
         "date_posted": 1757542524,
         "url": "https://careers-cellularsales.icims.com/jobs/19001/job?mobile=true&needsRedirect=false",
@@ -25859,7 +25859,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1757551572,
         "date_posted": 1757542243,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
@@ -28758,7 +28758,7 @@
         "company_name": "Ciena",
         "id": "de2c5aa8-afd1-4d9f-9968-0e3901597227",
         "title": "PON Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1758362371,
         "date_posted": 1757622733,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/US--MA--Mansfield--200-Chauncy-St/PON-Software-Engineer---New-Grad_R028765",
@@ -29986,6 +29986,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Altice USA",
+        "id": "78d2b8a7-dbfd-4431-bcf7-4a0bd151c057",
+        "title": "Software Development Engineer 1 - Mobile Apps Engineering",
+        "active": true,
+        "date_updated": 1758384406,
+        "date_posted": 1755201965,
+        "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Development-Engineer-I-iOS,-Mobile-Apps-Engineering-NY-11714/1271275900/?ats=successfactors",
+        "locations": [
+            "Plainview, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Altice-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
