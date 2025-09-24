@@ -29925,5 +29925,25 @@
         "date_posted": 1758691926,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CACI",
+        "id": "4b9c702f-06fa-4fa4-97a0-4aab1951ffbc",
+        "title": "Entry Level Digital Signal Processing Software Engineer - Mastodon Design Team",
+        "active": true,
+        "date_updated": 1758697147,
+        "date_posted": 1758697147,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NY-Rochester/Entry-Level-DSP-Software-Engineer_317777",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
