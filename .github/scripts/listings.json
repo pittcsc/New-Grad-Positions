@@ -27084,7 +27084,7 @@
         "company_name": "RTX",
         "id": "4f1bc12d-5eb6-44bd-88cb-172df1486e5e",
         "title": "Raytheon Software Engineer I - Test Equipment",
-        "active": true,
+        "active": false,
         "date_updated": 1757982271,
         "date_posted": 1757982271,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Fulltime-Raytheon-Software-Engineer-I---Test-Equipment---Onsite_01790414",
@@ -29825,6 +29825,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Warner Bros.",
+        "id": "9473651a-1bbf-47c0-8007-15c3b4b0d008",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1758683467,
+        "date_posted": 1758683467,
+        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/UT-Salt-Lake-City-175-East-400-South/Junior-Software-Engineer_R000098752-1",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Warner-Bros",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
