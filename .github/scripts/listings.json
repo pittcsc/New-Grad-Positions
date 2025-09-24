@@ -30007,5 +30007,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1758738003,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.pinterestcareers.com/jobs/7211012/software-engineer-university-grad/?gh_jid=7211012",
+        "company_name": "Pinterest",
+        "title": "Software Engineer University Grad",
+        "locations": [
+            "San Francisco",
+            "Palo Alto",
+            "Seattle"
+        ],
+        "category": "Software Engineering",
+        "source": "GAchuzia",
+        "id": "950c76d4-44a9-4b51-bcc5-61c8cc18f172",
+        "date_posted": 1758738003,
+        "company_url": "",
+        "is_visible": true
     }
 ]
