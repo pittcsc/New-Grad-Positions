@@ -16899,7 +16899,7 @@
         "company_name": "Salesforce",
         "id": "00402230-0088-405d-aa27-d1360064a72c",
         "title": "Software Engineering AMTS \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755030902,
         "date_posted": 1755030902,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--New-Grad-_JR307625-1",
@@ -29944,6 +29944,48 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IXL Learning",
+        "id": "aad18883-77ff-4b1e-9af2-1688cd8d74ec",
+        "title": "Software Engineer \u2013 New Grad - Multiple Teams",
+        "active": true,
+        "date_updated": 1758701832,
+        "date_posted": 1758701832,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=8182862002",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IXL Learning",
+        "id": "018cb132-f0f1-48f6-b5fe-1bc111d1ec6d",
+        "title": "Software Engineer \u2013 New Grad - Multiple Teams",
+        "active": true,
+        "date_updated": 1758701815,
+        "date_posted": 1758701815,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=8182830002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
