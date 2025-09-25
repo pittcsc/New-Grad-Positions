@@ -30249,5 +30249,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1758807373,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://westernalliancebank.wd5.myworkdayjobs.com/en-US/WAB/job/Phoenix-AZ/Engineer-I---AI-Business-Engineer_R11486",
+        "company_name": "Western Alliance Bancorporation",
+        "title": "Engineer I - AI Business Engineer",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "267b4d5e-784b-4381-890b-021ddbbe834b",
+        "date_posted": 1758807373,
+        "company_url": "",
+        "is_visible": true
     }
 ]
