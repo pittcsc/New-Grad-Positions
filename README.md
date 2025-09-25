@@ -6,13 +6,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 414 New Grad Roles by Category
+### Browse 413 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (284)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (7)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (66)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (65)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (14)
 
@@ -799,7 +799,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Engineer</td>
 <td style="padding: 8px; vertical-align: top;">San Francisco, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://jobs.lever.co/ivo/1629cbb2-c07c-4214-a1e2-b4e96c9cc66c?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">21d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">22d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Stripe?utm_source=GHList&utm_medium=company">🔥 Stripe</a></strong></td>
@@ -2367,18 +2367,18 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; text-align: center; vertical-align: top;">15d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;">↳</td>
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Visa?utm_source=GHList&utm_medium=company">🔥 Visa</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer – New College Grad</td>
 <td style="padding: 8px; vertical-align: top;">San Mateo, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">15d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">16d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;">↳</td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer – New College Grad</td>
 <td style="padding: 8px; vertical-align: top;">Bellevue, WA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">15d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">16d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Cox?utm_source=GHList&utm_medium=company">Cox</a></strong></td>
@@ -4040,13 +4040,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </thead>
 <tbody>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Trend-Health-Partners?utm_source=GHList&utm_medium=company">Trend Health Partners</a></strong></td>
-<td style="padding: 8px; vertical-align: top;">Data Engineer 1</td>
-<td style="padding: 8px; vertical-align: top;">Remote in USA</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://jobs.lever.co/Trend-Health-Partners/5a892ec7-a7b0-4afc-81d1-c191e6796e59/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/01a759d0-0c25-4488-8649-c6b19c7ad741?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
-</tr>
-<tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Fifth-Third-Bank?utm_source=GHList&utm_medium=company">Fifth Third Bank</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Data Engineer 1</td>
 <td style="padding: 8px; vertical-align: top;">Cincinnati, OH</td>
@@ -4506,7 +4499,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (52)</summary>
+<summary>🗃️ Inactive roles (53)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -4519,6 +4512,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Trend-Health-Partners?utm_source=GHList&utm_medium=company">Trend Health Partners</a></strong></td>
+<td style="padding: 8px; vertical-align: top;">Data Engineer 1</td>
+<td style="padding: 8px; vertical-align: top;">Remote in USA</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+</tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Centene?utm_source=GHList&utm_medium=company">Centene</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Data Engineer I</td>
