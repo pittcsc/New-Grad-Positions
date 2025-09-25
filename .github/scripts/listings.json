@@ -27925,7 +27925,7 @@
         "company_name": "Nike",
         "id": "f482a959-12d8-423c-a3f9-413a0e13c503",
         "title": "Software Engineer I - Innovation",
-        "active": true,
+        "active": false,
         "date_updated": 1758158728,
         "date_posted": 1758158728,
         "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer-I---Innovation_R-69655",
@@ -30185,6 +30185,26 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Trend-Health-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "20772022-6b4e-4952-957e-a9ca3fef995c",
+        "title": "Fiori Front End Developer \u2013 Entry level",
+        "active": true,
+        "date_updated": 1758786563,
+        "date_posted": 1758786563,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RCT99-RTN-Remote-Connecticut/Fiori-Front-End-Developer--Entry-level-_01796231",
+        "locations": [
+            "Waterbury, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
