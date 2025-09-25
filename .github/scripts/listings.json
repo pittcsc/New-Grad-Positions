@@ -30150,5 +30150,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Meshy",
+        "id": "ca943fdd-edd4-4fe7-8ae1-33ed7976a2c3",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1758778957,
+        "date_posted": 1758778957,
+        "url": "https://job-boards.greenhouse.io/meshy/jobs/4932258008",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meshy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
