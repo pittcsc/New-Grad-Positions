@@ -30210,5 +30210,24 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1758798064,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/notion/f7399542-9122-481a-bf64-43bf8093748b",
+        "company_name": "Notion",
+        "title": "Software Engineer, Fullstack",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "19ed9c9b-c543-46f0-a647-6c4abff59d05",
+        "date_posted": 1758798064,
+        "company_url": "",
+        "is_visible": true
     }
 ]
