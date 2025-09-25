@@ -29856,12 +29856,10 @@
         ]
     },
     {
-        "date_updated": 1758691834,
+        "date_updated": 1758836302,
         "sponsorship": "Other",
         "active": true,
-        "degrees": [
-            "Master's"
-        ],
+        "degrees": [],
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210666344",
         "company_name": "JPMorganChase",
         "title": "Quantitative Research - Data Analytics - Associate",
@@ -29873,7 +29871,7 @@
         "id": "bf81a833-6a92-44bf-af80-3ed9de1e3521",
         "date_posted": 1758691834,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758691926,
