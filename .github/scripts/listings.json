@@ -30285,5 +30285,23 @@
         "date_posted": 1758807558,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758807634,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Northridge-California-United-States-of-America/Software-Operations-Engineer-I_R46476",
+        "company_name": "Medtronic",
+        "title": "Software Operations Engineer I",
+        "locations": [
+            "Northridge, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "7c1d0a10-aa03-446d-b021-2000c2bac477",
+        "date_posted": 1758807634,
+        "company_url": "",
+        "is_visible": true
     }
 ]
