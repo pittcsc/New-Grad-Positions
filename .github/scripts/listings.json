@@ -21392,7 +21392,7 @@
         "company_name": "Auto Club Enterprises",
         "id": "f72fa606-2f32-48c0-8bf0-e811de019826",
         "title": "Entry Level Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1756246846,
         "date_posted": 1756246846,
         "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Entry-Level-Data-Scientist_JR202531480-1",
@@ -28141,7 +28141,7 @@
         "company_name": "RTX",
         "id": "3a0307a9-2e9f-4833-a645-4b2b93621232",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1758507000,
         "date_posted": 1758231896,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/FL410-Largo-FL-MFG-7887-Bryan-Dairy-Road---Largo-FL-33777-USA/Software-Engineer-I--Onsite-_01794320",
@@ -30165,6 +30165,26 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Meshy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Trend Health Partners",
+        "id": "01a759d0-0c25-4488-8649-c6b19c7ad741",
+        "title": "Data Engineer 1",
+        "active": true,
+        "date_updated": 1758785700,
+        "date_posted": 1758785700,
+        "url": "https://jobs.lever.co/Trend-Health-Partners/5a892ec7-a7b0-4afc-81d1-c191e6796e59/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Trend-Health-Partners",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
