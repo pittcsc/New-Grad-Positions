@@ -30267,5 +30267,23 @@
         "date_posted": 1758807373,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758807558,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/wolve/b42f4d54-02e1-4549-a6a5-7cd5673c8216",
+        "company_name": "Wolverine Trading",
+        "title": "C++ Software Engineer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "ce8aab3b-ea66-473d-a08c-687fe0fb9b15",
+        "date_posted": 1758807558,
+        "company_url": "",
+        "is_visible": true
     }
 ]
