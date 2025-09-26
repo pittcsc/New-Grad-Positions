@@ -25721,7 +25721,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": false,
+        "active": true,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -30668,6 +30668,89 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/Gauntlet-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Honeywell",
+        "id": "dc74fdfc-2bcb-4674-b746-cf16c638657e",
+        "title": "Cyber Security Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1758917815,
+        "date_posted": 1758917815,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116423",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Honeywell",
+        "id": "ceed0c46-ccd3-428d-9010-bd6e9fa2e40a",
+        "title": "Software Engineer 1 - Industrial Automation",
+        "active": true,
+        "date_updated": 1758917853,
+        "date_posted": 1758917853,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510",
+        "locations": [
+            "Fort Mill, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Honeywell",
+        "id": "99165227-b6cf-49f7-a17c-dee1b2d38f26",
+        "title": "Flight Controls Hardware Engineer 1 - Flight Control Systems",
+        "active": true,
+        "date_updated": 1758917756,
+        "date_posted": 1758917756,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119199",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Honeywell",
+        "id": "5148b5c6-7613-4b2f-ba5a-fc4be1aaa8ae",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1758917678,
+        "date_posted": 1758917678,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119931",
+        "locations": [
+            "Clearwater, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
