@@ -30557,5 +30557,23 @@
         "date_posted": 1758869050,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758869229,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineering-Associate_137896",
+        "company_name": "Bloomberg",
+        "title": "Software Engineering Associate",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "2917f903-c781-46a7-ab98-258e930850f9",
+        "date_posted": 1758869229,
+        "company_url": "",
+        "is_visible": true
     }
 ]
