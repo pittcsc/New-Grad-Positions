@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 420 New Grad Roles by Category
+### Browse 421 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (291)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (292)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (8)
 
@@ -82,6 +82,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <tbody>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>Bloomberg</strong></td>
+<td style="padding: 8px; vertical-align: top;">Software Engineering Associate</td>
+<td style="padding: 8px; vertical-align: top;">Arlington, VA</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineering-Associate_137895?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">0d</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;">↳</td>
 <td style="padding: 8px; vertical-align: top;">Software Engineering Associate</td>
 <td style="padding: 8px; vertical-align: top;">Arlington, VA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineering-Associate_137893?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
@@ -4296,7 +4303,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Data Science Graduate</td>
 <td style="padding: 8px; vertical-align: top;">Fort Collins, CO</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Ft-Collins-Colorado-United-States-of-America/Data-Science-Graduate--Colorado-_1193617?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">17d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">18d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Verisk?utm_source=GHList&utm_medium=company">Verisk</a></strong></td>
