@@ -30431,5 +30431,23 @@
         "date_posted": 1758868677,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758868742,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Software-Engineer---Direct-College-Hire_R-2025-59810",
+        "company_name": "Southwest Airlines",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "858b146b-f1ab-47ae-80b6-b1ad8c88b3c4",
+        "date_posted": 1758868742,
+        "company_url": "",
+        "is_visible": true
     }
 ]
