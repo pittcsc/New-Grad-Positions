@@ -29301,7 +29301,7 @@
         "company_name": "The Boeing Company",
         "id": "549eeb08-3ded-452b-8f16-6842e19982f5",
         "title": "Entry Level Software Engineer - Test and Verification - Test and Verification",
-        "active": true,
+        "active": false,
         "date_updated": 1758593154,
         "date_posted": 1758593154,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer-Test---Verification--Test---Verification-_JR2025470699-2",
@@ -30352,6 +30352,26 @@
             "Southern Pines, NC"
         ],
         "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "e274ce25-eeee-40fb-8cb8-8365a8f21afa",
+        "title": "Junior Software Engineer - Java Engineering",
+        "active": true,
+        "date_updated": 1758864132,
+        "date_posted": 1758864132,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000083897595",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
