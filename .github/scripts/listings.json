@@ -30395,5 +30395,23 @@
         "date_posted": 1758868246,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758868556,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/genies/jobs/7477215003",
+        "company_name": "Genies",
+        "title": "Product Operations Associate \u2013 AI Avatars",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "category": "Product Management",
+        "source": "AlmondCroffle",
+        "id": "3f5b7918-0cf4-4af1-985a-75882623a878",
+        "date_posted": 1758868556,
+        "company_url": "",
+        "is_visible": true
     }
 ]
