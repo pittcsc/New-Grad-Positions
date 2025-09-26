@@ -30377,5 +30377,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1758868246,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Data-Scientist---Direct-College-Hire_R-2025-59817",
+        "company_name": "Southwest Airlines",
+        "title": "Associate Data Scientist",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "f4793d06-e985-4d12-9368-ef4e5b86c6d5",
+        "date_posted": 1758868246,
+        "company_url": "",
+        "is_visible": true
     }
 ]
