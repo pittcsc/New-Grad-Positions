@@ -30449,5 +30449,23 @@
         "date_posted": 1758868742,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758868768,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Data-Engineer---Direct-College-Hire_R-2025-59813",
+        "company_name": "Southwest Airlines",
+        "title": "Associate Data Engineer",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "835a1a1c-0727-4c58-a98a-e10a07a4b490",
+        "date_posted": 1758868768,
+        "company_url": "",
+        "is_visible": true
     }
 ]
