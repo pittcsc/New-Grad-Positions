@@ -6,7 +6,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 436 New Grad Roles by Category
+### Browse 435 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (304)
 
@@ -18,7 +18,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (22)
 
-💼 **[Other](#-other-new-grad-roles)** (22)
+💼 **[Other](#-other-new-grad-roles)** (21)
 
 ---
 
@@ -708,7 +708,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Associate Software Engineer 🛂</td>
 <td style="padding: 8px; vertical-align: top;">Sunnyvale, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/Sunnyvale/Associate-Software-Engineer---Sunnyvale--CA_R37010?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">16d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">17d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>Jonas</strong></td>
@@ -953,7 +953,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Software Engineer</td>
 <td style="padding: 8px; vertical-align: top;">San Francisco, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://jobs.lever.co/ivo/1629cbb2-c07c-4214-a1e2-b4e96c9cc66c?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">23d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">24d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Stripe?utm_source=GHList&utm_medium=company">🔥 Stripe</a></strong></td>
@@ -2535,18 +2535,18 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; text-align: center; vertical-align: top;">17d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;">↳</td>
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Visa?utm_source=GHList&utm_medium=company">🔥 Visa</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer – New College Grad</td>
 <td style="padding: 8px; vertical-align: top;">San Mateo, CA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">17d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">18d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;">↳</td>
 <td style="padding: 8px; vertical-align: top;">Software Engineer – New College Grad</td>
 <td style="padding: 8px; vertical-align: top;">Bellevue, WA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">17d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">18d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Cox?utm_source=GHList&utm_medium=company">Cox</a></strong></td>
@@ -5847,7 +5847,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Systems Security Engineer 1 - Systems Security Engineering</td>
 <td style="padding: 8px; vertical-align: top;">Tewksbury, MA</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA131-Tewksbury-MA-Bldg--1-Assabet-50-Apple-Hill-Drive-Assabet---Building-1-Tewksbury-MA-01876-USA/XMLNAME-2026-Raytheon-Systems-Security-Engineer-I---Onsite---Massachusetts_01790370?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2568e71a-ea47-49df-897a-83e4e99d16f4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">1d</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">2d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong>AIG</strong></td>
@@ -5855,13 +5855,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td style="padding: 8px; vertical-align: top;">Charlotte, NC</br>Jersey City, NJ</td>
 <td style="padding: 8px; text-align: center; vertical-align: top;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/NC-Charlotte/XMLNAME-2026---Early-Career---Technology---Analyst---United-States--Jersey-City--NJ--or-Charlotte--NC-_JR2504979?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
 <td style="padding: 8px; text-align: center; vertical-align: top;">5d</td>
-</tr>
-<tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Sev1Tech?utm_source=GHList&utm_medium=company">Sev1Tech</a></strong></td>
-<td style="padding: 8px; vertical-align: top;">Cybersecurity Engineer 1</td>
-<td style="padding: 8px; vertical-align: top;">North Charleston, SC</td>
-<td style="padding: 8px; text-align: center; vertical-align: top;"><div align="center"><a href="https://careers-sev1tech.icims.com/jobs/9201/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/71bf6784-4332-4e13-9dda-b41a35330da4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td style="padding: 8px; text-align: center; vertical-align: top;">7d</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -5994,7 +5987,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (11)</summary>
+<summary>🗃️ Inactive roles (12)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -6007,6 +6000,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/Sev1Tech?utm_source=GHList&utm_medium=company">Sev1Tech</a></strong></td>
+<td style="padding: 8px; vertical-align: top;">Cybersecurity Engineer 1</td>
+<td style="padding: 8px; vertical-align: top;">North Charleston, SC</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">🔒</td>
+<td style="padding: 8px; text-align: center; vertical-align: top;">7d</td>
+</tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; vertical-align: top;"><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td style="padding: 8px; vertical-align: top;">2025 Raytheon Systems Security Engineer I</td>
