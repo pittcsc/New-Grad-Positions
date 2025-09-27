@@ -30845,5 +30845,25 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Siemens",
+        "id": "e0cfae5c-6c3c-4038-adb1-ff14d595851f",
+        "title": "Firmware Engineer 1 - Research & Development",
+        "active": true,
+        "date_updated": 1758981493,
+        "date_posted": 1758981493,
+        "url": "https://siemens.eightfold.ai/careers/job/563156132151514",
+        "locations": [
+            "Johnson City, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Siemens",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
