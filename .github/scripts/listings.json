@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Grand Rounds",
-        "id": "aca438a8-e473-4ff0-82c1-cc31c65f85e6",
-        "title": "Full Stack Software Engineer \u2013 New College Grad - Treat Team",
-        "active": false,
-        "date_updated": 1727897355,
-        "date_posted": 1727897355,
-        "url": "https://jobs.lever.co/includedhealth/84ee4d3b-ee3e-461f-ad77-db0d82ee65f6/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Grand-Rounds",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "PolyAI",
         "id": "1a84467e-5607-475f-80ae-9938c2d6d9b5",
         "title": "Software Engineer \u2013 Graduate / Junior - Project - Must be in Toronto",
@@ -30910,6 +30894,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sonepar",
+        "id": "d1936b00-4b8f-4cae-8b42-e5661e87bb7a",
+        "title": "Junior Data Engineer",
+        "active": true,
+        "date_updated": 1759000989,
+        "date_posted": 1759000989,
+        "url": "https://career.sonepar.com/job/Jackson-Junior-Data-Engineer-MS-39201/1212241101/?ats=successfactors",
+        "locations": [
+            "Jackson, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Sonepar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
