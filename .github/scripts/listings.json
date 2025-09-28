@@ -30943,5 +30943,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ISYS Technologies",
+        "id": "8413cf8b-9f9f-45f7-a2ed-d55a89685016",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1757606508,
+        "date_posted": 1757606508,
+        "url": "https://careers-i2xisys.icims.com/jobs/14627/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Offutt AFB, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/ISYS-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
