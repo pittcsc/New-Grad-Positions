@@ -206,12 +206,12 @@ def create_md_table(listings):
         position_html = convert_markdown_to_html(position)
         location_html = convert_markdown_to_html(location)
         
-        table += '<tr style="border-bottom: 1px solid #eee;">\n'
-        table += f'<td style="padding: 8px; vertical-align: top;">{company_html}</td>\n'
-        table += f'<td style="padding: 8px; vertical-align: top;">{position_html}</td>\n'
-        table += f'<td style="padding: 8px; vertical-align: top;">{location_html}</td>\n'
-        table += f'<td style="padding: 8px; text-align: center; vertical-align: top;">{link}</td>\n'
-        table += f'<td style="padding: 8px; text-align: center; vertical-align: top;">{days_display}</td>\n'
+        table += '<tr>\n'
+        table += f'<td>{company_html}</td>\n'
+        table += f'<td>{position_html}</td>\n'
+        table += f'<td>{location_html}</td>\n'
+        table += f'<td>{link}</td>\n'
+        table += f'<td>{days_display}</td>\n'
         table += '</tr>\n'
 
     table += '</tbody>\n'
