@@ -30873,5 +30873,25 @@
         "date_posted": 1759116323,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "McDonald's",
+        "id": "15a5ba04-c264-4699-b53d-68fd6a3d1a5e",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1759160589,
+        "date_posted": 1759160589,
+        "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1329771000/?ats=successfactors",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/McDonald",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
