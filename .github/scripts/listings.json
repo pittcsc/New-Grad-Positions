@@ -30589,24 +30589,21 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Honeywell",
+        "category": "Software Engineering",
+        "company_name": "HoneyWell",
         "id": "5148b5c6-7613-4b2f-ba5a-fc4be1aaa8ae",
         "title": "Software Engineer I",
         "active": true,
-        "date_updated": 1758917678,
+        "date_updated": 1759114989,
         "date_posted": 1758917678,
         "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119931",
         "locations": [
-            "Clearwater, FL"
+            "Clearwater, FL, United States (Hybrid)"
         ],
         "company_url": "https://simplify.jobs/c/Honeywell",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "sponsorship": "U.S. Citizenship is Required",
+        "degrees": []
     },
     {
         "source": "Simplify",
