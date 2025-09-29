@@ -30871,5 +30871,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "date_updated": 1759116323,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-peraton.icims.com/jobs/160168/software-engineering%2c-associate/job",
+        "company_name": "Peraton",
+        "title": "Software Engineering, Associate",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "be56e076-3f0f-4008-84c3-66566e20b1de",
+        "date_posted": 1759116323,
+        "company_url": "",
+        "is_visible": true
     }
 ]
