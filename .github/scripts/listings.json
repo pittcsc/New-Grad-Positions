@@ -30803,5 +30803,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "QinetiQ",
+        "id": "35613efd-81db-49ef-b91c-05b18a9fade3",
+        "title": "Junior Data Scientist - Data Analysis - Machine Learning",
+        "active": true,
+        "date_updated": 1759199126,
+        "date_posted": 1757542266,
+        "url": "https://careers-qinetiqus.icims.com/jobs/11796/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/QinetiQ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
