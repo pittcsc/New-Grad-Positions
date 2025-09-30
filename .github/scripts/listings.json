@@ -15604,7 +15604,7 @@
         "company_name": "i3",
         "id": "a0400f57-73c1-4920-8d81-a0743ce3c7cd",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1754610792,
         "date_posted": 1754610792,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
@@ -24918,7 +24918,7 @@
         "company_name": "SMX",
         "id": "460df1fc-80a8-4761-8693-657bc844c1d8",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757444743,
         "date_posted": 1757444743,
         "url": "https://www.smxtech.com/careers/?gh_jid=7141321003",
@@ -30818,6 +30818,26 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/QinetiQ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "1d8cfe7f-0191-48b9-a2f2-74e15e514651",
+        "title": "Modem Hardware Engineer New Graduate - Hardware Design",
+        "active": true,
+        "date_updated": 1759201996,
+        "date_posted": 1759201996,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Modem-Hardware---Engineer-New-Grad_R028721",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
