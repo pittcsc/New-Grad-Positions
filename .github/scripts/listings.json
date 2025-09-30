@@ -145,22 +145,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Redhorse",
-        "id": "9dfcf51a-363b-4539-a6a2-8742858bf03f",
-        "title": "Junior Data Scientist",
-        "active": false,
-        "date_updated": 1728156652,
-        "date_posted": 1728156652,
-        "url": "https://jobs.lever.co/redhorsecorp/c5dcf08a-943b-432f-8dfe-4d441710b077/apply",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Redhorse",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Visa",
         "id": "04fc622e-bf02-4310-af04-5658fbee7856",
         "title": "Data Engineer \u2013 New College Grad",
