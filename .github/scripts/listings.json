@@ -30885,5 +30885,24 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "date_updated": 1759238463,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.comcast.com/job/-/-/45483/86516813920",
+        "company_name": "Comcast",
+        "title": "Software Engineer 1 with AWS & Python",
+        "locations": [
+            "Chicago, IL",
+            "Englewood, CO"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "df214627-c5cd-4367-b5c4-2687fce1e2a3",
+        "date_posted": 1759238463,
+        "company_url": "",
+        "is_visible": true
     }
 ]
