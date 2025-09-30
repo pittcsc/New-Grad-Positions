@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 440 New Grad Roles by Category
+### Browse 441 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (303)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (304)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (8)
 
@@ -1033,6 +1033,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Iridium-Communications?utm_source=GHList&utm_medium=company">Iridium Communications</a></strong></td>
+<td>Software Engineer I</td>
+<td>Chandler, AZ</td>
+<td><div align="center"><a href="https://careers-iridium.icims.com/jobs/4644/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/cff3ea70-b48c-45c5-bca9-b3fb564130eb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">🔥 TikTok</a></strong></td>
 <td>AI/ML Software Engineer Graduate (Data Platform TikTok BP)</td>
 <td>San Jose, CA</td>
@@ -2013,7 +2020,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Coalition</strong></td>
 <td>Software Engineer I</td>
 <td>Remote in USA</td>
 <td><a href="https://www.coalitioninc.com/job-posting/4560711005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
@@ -2206,7 +2213,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (272)</summary>
+<summary>🗃️ Inactive roles (271)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2804,13 +2811,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company">Chewy</a></strong></td>
 <td>Software Engineer I</td>
 <td>Boston, MA</br>Plantation, FL</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Iridium-Communications?utm_source=GHList&utm_medium=company">Iridium Communications</a></strong></td>
-<td>Software Engineer I</td>
-<td>Chandler, AZ</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
