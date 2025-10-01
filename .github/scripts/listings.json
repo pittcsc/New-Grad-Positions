@@ -30866,7 +30866,7 @@
         ]
     },
     {
-        "date_updated": 1759238463,
+        "date_updated": 1759331449,
         "sponsorship": "Other",
         "active": true,
         "degrees": [],
@@ -30882,7 +30882,7 @@
         "id": "df214627-c5cd-4367-b5c4-2687fce1e2a3",
         "date_posted": 1759238463,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
