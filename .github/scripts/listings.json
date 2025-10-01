@@ -31195,5 +31195,23 @@
         "date_posted": 1759329740,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759339251,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://yuzu.health/careers/bddd5ff3-3478-497b-b849-76256992b89f",
+        "company_name": "Yuzu Health",
+        "title": "Product Engineer",
+        "locations": [
+            "New York City"
+        ],
+        "category": "Software Engineering",
+        "source": "russellpekala",
+        "id": "15a8a8f6-1efc-46ae-9e46-70ab23e5098e",
+        "date_posted": 1759339251,
+        "company_url": "",
+        "is_visible": true
     }
 ]
