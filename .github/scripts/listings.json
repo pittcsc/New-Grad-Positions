@@ -30202,9 +30202,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759167656,
+        "date_updated": 1759329356,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineering-Associate_137896",
         "company_name": "Bloomberg Industry Group",
@@ -30217,7 +30217,7 @@
         "id": "2917f903-c781-46a7-ab98-258e930850f9",
         "date_posted": 1758869229,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
