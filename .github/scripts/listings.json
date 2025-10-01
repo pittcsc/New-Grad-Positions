@@ -1,23 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Leidos",
-        "id": "be1c9ec4-9c34-4dd1-a824-68d97c512961",
-        "title": "Junior Software Developer",
-        "active": false,
-        "date_updated": 1738616371,
-        "date_posted": 1738616371,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fairmont-WV/Junior-Software-Developer_R-00152665",
-        "locations": [
-            "Fairmont, WV",
-            "Boulder, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Cambridge Mobile Telematics",
         "id": "33fc030e-1244-4ecb-b161-49a12d6a2fe5",
         "title": "Software Engineer I - Mobile",
