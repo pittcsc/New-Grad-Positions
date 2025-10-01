@@ -31231,5 +31231,23 @@
         "date_posted": 1759339290,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759339324,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://yuzu.health/careers/2bfc1773-e826-4a87-9b5f-7f79e1507ae6",
+        "company_name": "Yuzu Health",
+        "title": "Design Engineer",
+        "locations": [
+            "New York City"
+        ],
+        "category": "Software Engineering",
+        "source": "russellpekala",
+        "id": "894f7c25-f8d1-40db-a1bb-d8ffbdbb3667",
+        "date_posted": 1759339324,
+        "company_url": "",
+        "is_visible": true
     }
 ]
