@@ -25514,7 +25514,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -31009,6 +31009,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Evotec",
+        "id": "46cb7b13-fd0e-477d-a629-cd916cae2e89",
+        "title": "Software Engineer 1 - Data Operations",
+        "active": true,
+        "date_updated": 1759286741,
+        "date_posted": 1759286741,
+        "url": "https://evotecgroup.wd3.myworkdayjobs.com/Just_Bio_Career_Site/job/Seattle-WA/Software-Engineer-I--DataOps-Manager_JOBID-13157",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Evotec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
