@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 439 New Grad Roles by Category
+### Browse 440 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (300)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (301)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (8)
 
@@ -743,6 +743,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Associate, Software Engineer</td>
 <td>Chicago, IL</td>
 <td><a href="https://careers.publicisgroupe.com/jobs/121504?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td>22d</td>
+</tr>
+<tr>
+<td><strong>Disney</strong></td>
+<td>Software Engineer I</td>
+<td>Glendale, CA</br>New York, NY</td>
+<td><a href="https://www.disneycareers.com/en/job/-/-/391/85823385568?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
 <td>22d</td>
 </tr>
 <tr>
@@ -2185,7 +2192,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (275)</summary>
+<summary>🗃️ Inactive roles (274)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2601,13 +2608,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>↳</td>
 <td>Software Engineer – New College Grad</td>
 <td>Bellevue, WA</td>
-<td>🔒</td>
-<td>22d</td>
-</tr>
-<tr>
-<td><strong>Disney</strong></td>
-<td>Software Engineer I</td>
-<td>Glendale, CA</br>New York, NY</td>
 <td>🔒</td>
 <td>22d</td>
 </tr>
