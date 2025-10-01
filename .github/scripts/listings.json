@@ -30794,7 +30794,7 @@
         "company_name": "QinetiQ",
         "id": "35613efd-81db-49ef-b91c-05b18a9fade3",
         "title": "Junior Data Scientist - Data Analysis - Machine Learning",
-        "active": false,
+        "active": true,
         "date_updated": 1759199126,
         "date_posted": 1757542266,
         "url": "https://careers-qinetiqus.icims.com/jobs/11796/job?mobile=true&needsRedirect=false",
@@ -31091,6 +31091,48 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "World Kinect",
+        "id": "cc805687-8699-41cc-bc01-274071e245a2",
+        "title": "IT Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1759308697,
+        "date_posted": 1759308697,
+        "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Software-Engineer-I_R21907",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/World-Kinect",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "World Kinect",
+        "id": "5339800c-c92f-4acd-a591-d0a1364c0381",
+        "title": "IT Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1759308700,
+        "date_posted": 1759308700,
+        "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Software-Engineer-I_R21906",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/World-Kinect",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
