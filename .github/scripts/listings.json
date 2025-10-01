@@ -31213,5 +31213,23 @@
         "date_posted": 1759339251,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759339290,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://yuzu.health/careers/c379c43c-8942-41df-ab40-3c5ee7fe4080",
+        "company_name": "Yuzu Health",
+        "title": "Pricing Engineer",
+        "locations": [
+            "New York City"
+        ],
+        "category": "Software Engineering",
+        "source": "russellpekala",
+        "id": "888ad7ac-070d-4bae-b464-27dbac902e57",
+        "date_posted": 1759339290,
+        "company_url": "",
+        "is_visible": true
     }
 ]
