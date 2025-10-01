@@ -31152,5 +31152,32 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1759329654,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.google.com/about/careers/applications/jobs/results/79125737784648390-software-engineer",
+        "company_name": "Google",
+        "title": "Software Engineer",
+        "locations": [
+            "Mountain View, CA",
+            "Cambridge, MA",
+            "Kirkland, WA",
+            "Los Angeles, CA",
+            "New York, NY",
+            "Pittsburgh, PA",
+            "San Bruno, CA",
+            "Seattle, WA",
+            "San Jose, CA",
+            "Sunnyvale, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "XayHanmonty",
+        "id": "cd2b204f-35e4-48ee-b16b-7d85570d0f28",
+        "date_posted": 1759329654,
+        "company_url": "",
+        "is_visible": true
     }
 ]
