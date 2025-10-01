@@ -31176,5 +31176,24 @@
         "date_posted": 1759329654,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759329740,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/Sierra/6a75b530-b7bb-4439-bb67-37b4f2b75b96",
+        "company_name": "Sierra",
+        "title": "Software Engineer, Agent",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "userzho",
+        "id": "1ce1e25c-4c7e-443a-b209-4548b6198523",
+        "date_posted": 1759329740,
+        "company_url": "",
+        "is_visible": true
     }
 ]
