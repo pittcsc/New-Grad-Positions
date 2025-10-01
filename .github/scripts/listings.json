@@ -26740,5 +26740,68 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Genmo",
+        "id": "2785d820-e76e-4f39-a52a-94f4a7932f95",
+        "title": "Software Engineer \u2013 New Grad - Research - Generative AI",
+        "active": true,
+        "date_updated": 1756290729,
+        "date_posted": 1755723177,
+        "url": "https://jobs.ashbyhq.com/genmo/9b5477f4-97af-4aaa-b855-910c982ce191/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Genmo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Supernova Technology",
+        "id": "96cc08fe-93f9-488b-850b-b496706d6853",
+        "title": "Junior Software Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1753741499,
+        "date_posted": 1753741499,
+        "url": "https://jobs.lever.co/supernovacompanies/68e224c9-e125-4e3f-9acd-065c0fc94bba/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Supernova-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nuro",
+        "id": "740351dd-9445-4fb3-a463-78239f471cbe",
+        "title": "Software Engineer \u2013 New Grad - AI Platform",
+        "active": true,
+        "date_updated": 1753190422,
+        "date_posted": 1742961453,
+        "url": "https://nuro.ai/careersitem?gh_jid=6447851",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nuro",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
