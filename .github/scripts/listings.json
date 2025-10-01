@@ -22938,9 +22938,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756975007,
+        "date_updated": 1759329517,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.smartrecruiters.com/LinkedIn3/a3b09881-7c3e-444c-9e65-ac0e2c6a8970",
         "company_name": "LinkedIn",
@@ -22953,7 +22953,7 @@
         "id": "3e6d5800-52c8-44e0-be8e-5f84a254e43a",
         "date_posted": 1756975007,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756975094,
