@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 439 New Grad Roles by Category
+### Browse 438 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (303)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (302)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (8)
 
@@ -288,13 +288,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Developer – Entry Level - Summer 2026</td>
 <td>Reston, VA</td>
 <td><div align="center"><a href="https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Software-Developer--Summer-2026--Entry-Level--Remote-_R2502713?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9b0ce0d5-9785-473a-acc4-c5fdb6a42dfa?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Applied-Materials?utm_source=GHList&utm_medium=company">Applied Materials</a></strong></td>
-<td>Software Engineer New College Grad - Masters Degree 🎓</td>
-<td>Santa Clara, CA</td>
-<td><div align="center"><a href="https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer-New-College-Grad---Masters-Degree--Santa-Clara--CA-_R2517309?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7717d08c-b438-43d0-af9e-887993d43959?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>7d</td>
 </tr>
 <tr>
@@ -925,7 +918,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 🛂</td>
 <td>Seattle, WA</td>
 <td><a href="https://www.atlassian.com/company/careers/details/20901?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong>Ivo</strong></td>
@@ -2206,7 +2199,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (281)</summary>
+<summary>🗃️ Inactive roles (282)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2272,6 +2265,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Sierra-Nevada-Coporation?utm_source=GHList&utm_medium=company">Sierra Nevada Coporation</a></strong></td>
 <td>Software Engineer 1 - Agile Software Development - Mission Solutions and Technologies</td>
 <td>Southern Pines, NC</td>
+<td>🔒</td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Applied-Materials?utm_source=GHList&utm_medium=company">Applied Materials</a></strong></td>
+<td>Software Engineer New College Grad - Masters Degree 🎓</td>
+<td>Santa Clara, CA</td>
 <td>🔒</td>
 <td>7d</td>
 </tr>
@@ -2378,7 +2378,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer I 🇺🇸</td>
 <td>North Charleston, SC</td>
 <td>🔒</td>
-<td>12d</td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/SoFi?utm_source=GHList&utm_medium=company">SoFi</a></strong></td>
@@ -2413,10 +2413,10 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer I</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>↳</td>
 <td>Software Engineer I</td>
 <td>Salt Lake City, UT</td>
 <td>🔒</td>
@@ -4471,7 +4471,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Data Engineer - Junior</td>
 <td>Huntsville, AL</td>
 <td><div align="center"><a href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/Data-Engineer--Junior_R0226464?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/e96ae6fe-390c-4d89-ba77-c17e532f3f9a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Toyota-Connected?utm_source=GHList&utm_medium=company">Toyota Connected</a></strong></td>
@@ -5775,7 +5775,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer I - Raytheon</td>
 <td>Indianapolis, IN</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
