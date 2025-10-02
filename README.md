@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 441 New Grad Roles by Category
+### Browse 440 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (304)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (303)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (8)
 
@@ -750,13 +750,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Associate, Software Engineer</td>
 <td>Chicago, IL</td>
 <td><a href="https://careers.publicisgroupe.com/jobs/121504?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>22d</td>
-</tr>
-<tr>
-<td><strong>Disney</strong></td>
-<td>Software Engineer I</td>
-<td>Glendale, CA</br>New York, NY</td>
-<td><a href="https://www.disneycareers.com/en/job/-/-/391/85823385568?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
 <td>22d</td>
 </tr>
 <tr>
@@ -1740,7 +1733,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/AG-Technologies?utm_source=GHList&utm_medium=company">AG Technologies</a></strong></td>
 <td>Hiring Entry Level Software Engineer</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/AGTechnologies1/743999655720227?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7193bf93-cde3-42f5-b817-c679f55b1076?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
@@ -2213,7 +2206,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (277)</summary>
+<summary>🗃️ Inactive roles (278)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2650,6 +2643,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>↳</td>
 <td>Software Engineer – New College Grad</td>
 <td>Bellevue, WA</td>
+<td>🔒</td>
+<td>22d</td>
+</tr>
+<tr>
+<td><strong>Disney</strong></td>
+<td>Software Engineer I</td>
+<td>Glendale, CA</br>New York, NY</td>
 <td>🔒</td>
 <td>22d</td>
 </tr>
