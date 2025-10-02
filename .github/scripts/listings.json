@@ -26833,5 +26833,23 @@
         "date_posted": 1759411745,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759411790,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/anaplan/jobs/8161559002",
+        "company_name": "Anaplan",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "York, UK"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "7071ac60-a80d-49cd-b3ac-16f1181510d5",
+        "date_posted": 1759411790,
+        "company_url": "",
+        "is_visible": true
     }
 ]
