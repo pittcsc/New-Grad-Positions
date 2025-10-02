@@ -16395,7 +16395,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "74f26036-33d9-4200-8dc2-ca925be3aa34",
         "title": "Software Engineer 1/2/3/Sr",
-        "active": true,
+        "active": false,
         "date_updated": 1756207205,
         "date_posted": 1752271606,
         "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10003152",
@@ -17199,7 +17199,7 @@
         "company_name": "Iridium Communications",
         "id": "cff3ea70-b48c-45c5-bca9-b3fb564130eb",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756422564,
         "date_posted": 1756422564,
         "url": "https://careers-iridium.icims.com/jobs/4644/job",
@@ -26814,5 +26814,26 @@
         "date_posted": 1759411790,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NetImpact Strategies",
+        "id": "ace07096-f936-4feb-977a-eb89db502854",
+        "title": "Junior Full Stack .NET Developer - Multiple Teams",
+        "active": true,
+        "date_updated": 1759448385,
+        "date_posted": 1759293070,
+        "url": "https://careers-netimpactstrategies.icims.com/jobs/3589/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Austin, TX",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/NetImpact-Strategies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
