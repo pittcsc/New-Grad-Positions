@@ -26779,5 +26779,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "date_updated": 1759411571,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Associate-AI-Engineer_REQ333189",
+        "company_name": "T-Mobile",
+        "title": "Associate AI Engineer",
+        "locations": [
+            "Bellevue, W"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "c4e18fba-31c4-4899-b7aa-7a87059b3c59",
+        "date_posted": 1759411571,
+        "company_url": "",
+        "is_visible": true
     }
 ]
