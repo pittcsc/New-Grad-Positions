@@ -26797,5 +26797,23 @@
         "date_posted": 1759411571,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759411683,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/Associate-Embedded-Software-Engineer_R10208121-1",
+        "company_name": "Northrop Grumman",
+        "title": "Associate Embedded Software Engineer",
+        "locations": [
+            "Plymouth, MN"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "fe5a6378-06e4-4aa5-87dd-e41ac938dbcf",
+        "date_posted": 1759411683,
+        "company_url": "",
+        "is_visible": true
     }
 ]
