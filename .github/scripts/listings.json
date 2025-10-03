@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Capital One",
-        "id": "da121c5e-38f4-4583-9aa8-3430d81e0490",
-        "title": "Associate \u2013 New Grad - Software Engineer",
-        "active": false,
-        "date_updated": 1738789946,
-        "date_posted": 1738789946,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer---New-Grad_R207372",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Softheon",
         "id": "98c1864a-d986-4b5d-9a37-1276713092ab",
         "title": "Software Engineer I - Membership",
