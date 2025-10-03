@@ -27003,5 +27003,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Twitch",
+        "id": "bb15804d-e44e-4f20-bb96-a1afd5348e1b",
+        "title": "Software Engineer I - Video Platform",
+        "active": true,
+        "date_updated": 1759463804,
+        "date_posted": 1759463804,
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8181483002",
+        "locations": [
+            "SF",
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Twitch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
