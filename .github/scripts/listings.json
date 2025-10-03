@@ -27199,5 +27199,26 @@
         "date_posted": 1759501297,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "cba2a58b-4daf-45a9-8e80-1da0b344ba43",
+        "title": "Software Engineer 1 or 2 - Aurora Software and Digital Engineering",
+        "active": true,
+        "date_updated": 1759514814,
+        "date_posted": 1759514814,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Engineer-Level-1-or-2_R10209913",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
