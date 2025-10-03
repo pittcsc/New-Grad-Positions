@@ -25979,7 +25979,7 @@
         "company_name": "RTX",
         "id": "8ff03fb4-7ad5-4b9d-afd7-6014e3031149",
         "title": "Engineer 1: Summer 2026 \u2013 Senior Full Stack Cloud Engineer - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1759043106,
         "date_posted": 1759043106,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PW102-Middletown-Aircraft-Rd-PO-Box-611-Middletown-CT-06457-USA/Engineer-I--Summer-2026---Sr-Full-Stack-Cloud-Engineer--Remote-_01794400",
@@ -27039,6 +27039,26 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Replit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "e53e695b-c09a-4c3b-a76c-8c9846f1cf27",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1759471005,
+        "date_posted": 1759471005,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01798004",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
