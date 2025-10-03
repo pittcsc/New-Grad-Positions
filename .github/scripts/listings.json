@@ -27240,5 +27240,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Modernizing Medicine",
+        "id": "909be1e2-f265-48cf-88e1-fe09d5058882",
+        "title": "Data Engineer 1",
+        "active": true,
+        "date_updated": 1759523174,
+        "date_posted": 1759523174,
+        "url": "https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8194195002",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ModMed",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
