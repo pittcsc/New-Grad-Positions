@@ -27163,5 +27163,23 @@
         "date_posted": 1759498570,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759498677,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
+        "company_name": "Replit",
+        "title": "Software Engineer",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "d640e3c7-09f1-40a5-9c7c-9ef074285583",
+        "date_posted": 1759498677,
+        "company_url": "",
+        "is_visible": true
     }
 ]
