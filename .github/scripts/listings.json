@@ -27145,5 +27145,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1759498570,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-sig.icims.com/jobs/9531/quantitative-strategy-developer---new-grad/job",
+        "company_name": "Susquehanna",
+        "title": "Quantitative Strategy Developer",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "9570f6ba-6a90-474f-8a40-ccb9d227acde",
+        "date_posted": 1759498570,
+        "company_url": "",
+        "is_visible": true
     }
 ]
