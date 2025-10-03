@@ -27286,5 +27286,26 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Motors",
+        "id": "a949f780-0ff6-4438-83e2-a09c88954fec",
+        "title": "Software Developer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1759533878,
+        "date_posted": 1759533878,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Markham-Ontario-Canada/Software-Developer---Early-Career_JR-202518755",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
