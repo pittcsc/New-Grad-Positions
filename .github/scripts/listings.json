@@ -26770,7 +26770,7 @@
         "company_name": "NetImpact Strategies",
         "id": "ace07096-f936-4feb-977a-eb89db502854",
         "title": "Junior Full Stack .NET Developer - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1759448385,
         "date_posted": 1759293070,
         "url": "https://careers-netimpactstrategies.icims.com/jobs/3589/job?mobile=true&needsRedirect=false",
@@ -27427,6 +27427,26 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Flexport",
+        "id": "eff76a88-c516-4dcd-b472-fe2e2a87d6ad",
+        "title": "Software Engineer 1 - Import Team",
+        "active": true,
+        "date_updated": 1759593612,
+        "date_posted": 1759593612,
+        "url": "https://boards.greenhouse.io/flexport/jobs/7275329",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Flexport",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
