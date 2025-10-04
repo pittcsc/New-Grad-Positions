@@ -27337,5 +27337,28 @@
         "degrees": [
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "StubHub",
+        "id": "40f962b2-346b-422c-a1d0-8bf9e0bf3c4e",
+        "title": "Software Engineer 1 \u2013 New Grad - AI Platform",
+        "active": true,
+        "date_updated": 1759559871,
+        "date_posted": 1759559871,
+        "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4685640101",
+        "locations": [
+            "Aliso Viejo, CA",
+            "Santa Monica, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/StubHub",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
