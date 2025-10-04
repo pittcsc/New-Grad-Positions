@@ -27316,5 +27316,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jamf",
+        "id": "7f025ceb-a858-44da-a732-adf161a3d098",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1759556788,
+        "date_posted": 1759556788,
+        "url": "https://www.jamf.com/about/careers/jobs/?gh_jid=5664065004&gh_jid=5664065004",
+        "locations": [
+            "Eau Claire, WI",
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Jamf",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
