@@ -18768,48 +18768,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NewsBreak",
-        "id": "f6db0437-48c7-4c28-89d5-76d6e4f15f71",
-        "title": "Machine Learning Engineer \u2013 Junior & New Grad",
-        "active": true,
-        "date_updated": 1754604945,
-        "date_posted": 1738887360,
-        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4338876006",
-        "locations": [
-            "Bellevue, WA",
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NewsBreak",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NewsBreak",
-        "id": "f6db0437-48c7-4c28-89d5-76d6e4f15f71",
-        "title": "Machine Learning Engineer \u2013 Junior & New Grad",
-        "active": false,
-        "date_updated": 1754604945,
-        "date_posted": 1738887360,
-        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4338876006",
-        "locations": [
-            "Bellevue, WA",
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NewsBreak",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Choice Hotels",
         "id": "ba31781a-7e59-4cf5-a9ac-df7cb28ae143",
