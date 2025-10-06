@@ -28117,5 +28117,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1759739389,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-gdms.icims.com/jobs/68413",
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Dedham, MA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "af2c11d7-fdfe-4639-a521-1cf700edc2b0",
+        "date_posted": 1759739389,
+        "company_url": "",
+        "is_visible": true
     }
 ]
