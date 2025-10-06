@@ -28209,5 +28209,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1759740969,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-gdbiw.icims.com/jobs/4839",
+        "company_name": "General Dynamics",
+        "title": "Configuration and Logistics Data Analyst I, II, Engineering",
+        "locations": [
+            "Brunswick, ME"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "39c8c206-301c-4da1-b9ee-d5261e882300",
+        "date_posted": 1759740969,
+        "company_url": "",
+        "is_visible": true
     }
 ]
