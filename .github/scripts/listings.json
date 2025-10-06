@@ -17684,7 +17684,7 @@
         "company_name": "TD Securities",
         "id": "984f3b2b-7a73-4d47-bb64-cd1e078cc5cc",
         "title": "Machine Learning Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756847386,
         "date_posted": 1756847386,
         "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1442146",
@@ -27422,6 +27422,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wonderschool",
+        "id": "e5fee829-850f-4ae1-9f1f-eda2ab36fdbe",
+        "title": "Early Career Software Engineer - Applied AI",
+        "active": false,
+        "date_updated": 1751064886,
+        "date_posted": 1739233313,
+        "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6359139003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Wonderschool",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     },
     {
