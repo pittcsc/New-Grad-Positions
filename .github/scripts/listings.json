@@ -16084,7 +16084,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "3424ee82-76b1-4d00-8274-4ebca84ba369",
         "title": "Software Engineer 1 - Corporate Applications",
-        "active": true,
+        "active": false,
         "date_updated": 1756196797,
         "date_posted": 1751621106,
         "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10002320",
@@ -23560,7 +23560,7 @@
         "company_name": "Altice USA",
         "id": "f73dc6c7-6409-43a0-8989-af2d1393111e",
         "title": "Software Developer Engineer 1 - Front-End UI Development",
-        "active": true,
+        "active": false,
         "date_updated": 1758368656,
         "date_posted": 1757977983,
         "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1326213300/?ats=successfactors",
@@ -28227,6 +28227,26 @@
         "date_posted": 1759740969,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wonderschool",
+        "id": "e5fee829-850f-4ae1-9f1f-eda2ab36fdbe",
+        "title": "Early Career Software Engineer - Applied AI",
+        "active": false,
+        "date_updated": 1751064886,
+        "date_posted": 1739233313,
+        "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6359139003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Wonderschool",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
