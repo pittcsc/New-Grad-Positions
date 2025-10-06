@@ -512,7 +512,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer – New College Graduate</td>
 <td>El Segundo, CA</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/siftstack/da9e9490-4156-4390-b9ed-54e215c894b6/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/33764b21-27c6-4c41-8e4b-7d8283de6aed?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>12d</td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Nextdoor?utm_source=GHList&utm_medium=company">Nextdoor</a></strong></td>
@@ -673,7 +673,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer</td>
 <td>Raleigh, NC</td>
 <td><a href="https://job-boards.greenhouse.io/lucidsoftware/jobs/5585768004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong>Anima</strong></td>
@@ -757,7 +757,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Cybersecurity Analyst</td>
 <td>New York, NY</td>
 <td><a href="https://www.janestreet.com/join-jane-street/position/8053215002/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -5534,7 +5534,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Quantitative Researcher 🎓</td>
 <td>Chicago, IL</td>
 <td><a href="https://boards.greenhouse.io/embed/job_app?for=blackedgecapital&token=4600444005&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Valkyrie-Trading?utm_source=GHList&utm_medium=company">Valkyrie Trading</a></strong></td>
