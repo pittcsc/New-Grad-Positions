@@ -28059,5 +28059,23 @@
         "date_posted": 1759737295,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759737518,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.jobvite.com/windriver/job/o97iyfwQ",
+        "company_name": "Wind River",
+        "title": "Embedded Software Engineer for Professional Services",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "243df026-7757-4464-8dcb-35f67dc5d17e",
+        "date_posted": 1759737518,
+        "company_url": "",
+        "is_visible": true
     }
 ]
