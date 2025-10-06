@@ -28171,5 +28171,23 @@
         "date_posted": 1759739587,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759739632,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C---Junior-Software-Developer_R0147273",
+        "company_name": "Amentum",
+        "title": "C++ Junior Software Developer",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "5fc15d6c-3a79-4484-8cd8-a40ca2a77331",
+        "date_posted": 1759739632,
+        "company_url": "",
+        "is_visible": true
     }
 ]
