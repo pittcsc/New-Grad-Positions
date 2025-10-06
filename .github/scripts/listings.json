@@ -28018,5 +28018,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1759737110,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/Data-Analyst-I---Consumer-Loan-Analytics_R21677-1",
+        "company_name": "Nelnet",
+        "title": "Data Analyst I - Consumer Loan Analytics",
+        "locations": [
+            "Lincoln, NE",
+            "Madison, WI",
+            "Brownsville, TX",
+            "Centennial, CO"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "d8d3cda0-8bc7-4420-b0a0-43c4dfe67ba7",
+        "date_posted": 1759737110,
+        "company_url": "",
+        "is_visible": true
     }
 ]
