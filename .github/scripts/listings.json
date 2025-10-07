@@ -30677,7 +30677,7 @@
         ]
     },
     {
-        "date_updated": 1759841072,
+        "date_updated": 1759858417,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [],
@@ -30692,7 +30692,7 @@
         "id": "12a75e5d-ff68-4227-9fbc-a596a3dbc0ff",
         "date_posted": 1759841072,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
