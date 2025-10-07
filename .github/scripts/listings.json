@@ -30773,5 +30773,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1759844317,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1879561/Software-Engineer",
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "locations": [
+            "USA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "d18c4c7e-b351-49e7-82db-b3cdf79f1bfd",
+        "date_posted": 1759844317,
+        "company_url": "",
+        "is_visible": true
     }
 ]
