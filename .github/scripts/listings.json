@@ -27246,7 +27246,7 @@
         "company_name": "StubHub",
         "id": "40f962b2-346b-422c-a1d0-8bf9e0bf3c4e",
         "title": "Software Engineer 1 \u2013 New Grad - AI Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1759559871,
         "date_posted": 1759559871,
         "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4685640101",
@@ -29525,6 +29525,26 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wonderschool",
+        "id": "e5fee829-850f-4ae1-9f1f-eda2ab36fdbe",
+        "title": "Early Career Software Engineer - Applied AI",
+        "active": false,
+        "date_updated": 1751064886,
+        "date_posted": 1739233313,
+        "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6359139003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Wonderschool",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
