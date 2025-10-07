@@ -27337,23 +27337,21 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Flexport",
+        "category": "Software Engineering",
+        "company_name": "flexport",
         "id": "eff76a88-c516-4dcd-b472-fe2e2a87d6ad",
         "title": "Software Engineer 1 - Import Team",
         "active": true,
-        "date_updated": 1759593612,
+        "date_updated": 1759840918,
         "date_posted": 1759593612,
         "url": "https://boards.greenhouse.io/flexport/jobs/7275329",
         "locations": [
             "Bellevue, WA"
         ],
         "company_url": "https://simplify.jobs/c/Flexport",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
