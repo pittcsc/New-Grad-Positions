@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 468 New Grad Roles by Category
+### Browse 469 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (319)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (320)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (9)
 
@@ -837,6 +837,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>26d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/I3?utm_source=GHList&utm_medium=company">Integration Innovation (i3)</a></strong></td>
+<td>Entry Level Full-Stack Software Engineer</td>
+<td>Huntsville, AL</td>
+<td><div align="center"><a href="https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/da2084e4-faca-4fb8-90c3-82fdeba3c6b1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>26d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
 <td>Software Engineer – Entry Level</td>
 <td>Manassas, VA</td>
@@ -848,7 +855,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Associate Software Engineer 🛂</td>
 <td>Sunnyvale, CA</td>
 <td><a href="https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/Sunnyvale/Associate-Software-Engineer---Sunnyvale--CA_R37010?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Travelers?utm_source=GHList&utm_medium=company">The Travelers Companies</a></strong></td>
@@ -2318,7 +2325,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (297)</summary>
+<summary>🗃️ Inactive roles (296)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2790,13 +2797,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Iridium-Communications?utm_source=GHList&utm_medium=company">Iridium Communications</a></strong></td>
 <td>Software Engineer I</td>
 <td>Chandler, AZ</td>
-<td>🔒</td>
-<td>26d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/I3?utm_source=GHList&utm_medium=company">Integration Innovation (i3)</a></strong></td>
-<td>Entry Level Full-Stack Software Engineer</td>
-<td>Huntsville, AL</td>
 <td>🔒</td>
 <td>26d</td>
 </tr>
@@ -6013,7 +6013,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Systems Software Engineer – New College Grad 2026 - AV Platform Scheduling</td>
 <td>Santa Clara, CA</td>
 <td>🔒</td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
@@ -6407,7 +6407,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Systems Security Engineer 1 - Systems Security Engineering</td>
 <td>Tewksbury, MA</td>
 <td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA131-Tewksbury-MA-Bldg--1-Assabet-50-Apple-Hill-Drive-Assabet---Building-1-Tewksbury-MA-01876-USA/XMLNAME-2026-Raytheon-Systems-Security-Engineer-I---Onsite---Massachusetts_01790370?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2568e71a-ea47-49df-897a-83e4e99d16f4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/AIG?utm_source=GHList&utm_medium=company">AIG</a></strong></td>
