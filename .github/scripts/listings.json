@@ -16338,7 +16338,7 @@
         "company_name": "Verisk",
         "id": "2206f5f3-7b68-47bd-8600-21f06f9a91b6",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1756202297,
         "date_posted": 1755192345,
         "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/2091",
@@ -30760,7 +30760,7 @@
         "company_name": "Wonderschool",
         "id": "e5fee829-850f-4ae1-9f1f-eda2ab36fdbe",
         "title": "Early Career Software Engineer - Applied AI",
-        "active": true,
+        "active": false,
         "date_updated": 1751064886,
         "date_posted": 1739233313,
         "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6359139003",
@@ -30809,5 +30809,25 @@
         "date_posted": 1759844439,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wonderschool",
+        "id": "e5fee829-850f-4ae1-9f1f-eda2ab36fdbe",
+        "title": "Early Career Software Engineer - Applied AI",
+        "active": true,
+        "date_updated": 1751064886,
+        "date_posted": 1739233313,
+        "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6359139003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Wonderschool",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
