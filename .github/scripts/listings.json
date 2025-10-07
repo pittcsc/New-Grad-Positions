@@ -30791,5 +30791,23 @@
         "date_posted": 1759844317,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759844439,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Deep-Learning-Algorithm-Engineer--Dynamo---New-College-Grad-2025_JR2001320-1",
+        "company_name": "NVIDIA",
+        "title": "Deep Learning Algorithm Engineer, Dynamo",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "640d9c0c-93ef-4bc7-8af6-cd3ff13deb35",
+        "date_posted": 1759844439,
+        "company_url": "",
+        "is_visible": true
     }
 ]
