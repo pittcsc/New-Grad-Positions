@@ -11175,7 +11175,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1754642937,
+        "date_updated": 1759961545,
         "url": "https://job-boards.greenhouse.io/pingidentity/jobs/8084784002",
         "company_name": "Ping Identity",
         "title": "Software Engineer I",
@@ -11188,7 +11188,8 @@
         "id": "b85f9a7d-08ab-407f-bed2-9b773c7b5aba",
         "date_posted": 1754642937,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1755041520,
