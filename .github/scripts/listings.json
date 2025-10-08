@@ -33215,5 +33215,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1759940786,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Springfield/Junior-AI-Specialist_32388",
+        "company_name": "Guidehouse",
+        "title": "Junior AI Specialist",
+        "locations": [
+            "Springfield, VA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "52afd7e9-a218-4374-a254-755be45676be",
+        "date_posted": 1759940786,
+        "company_url": "",
+        "is_visible": true
     }
 ]
