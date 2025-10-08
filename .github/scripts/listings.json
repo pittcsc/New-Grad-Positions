@@ -24996,7 +24996,7 @@
         ]
     },
     {
-        "date_updated": 1759961717,
+        "date_updated": 1758807373,
         "sponsorship": "Other",
         "active": true,
         "degrees": [],
@@ -25011,7 +25011,7 @@
         "id": "267b4d5e-784b-4381-890b-021ddbbe834b",
         "date_posted": 1758807373,
         "company_url": "",
-        "is_visible": false
+        "is_visible": true
     },
     {
         "date_updated": 1758807558,
@@ -25174,7 +25174,7 @@
         ]
     },
     {
-        "date_updated": 1759961704,
+        "date_updated": 1758868246,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [],
@@ -25189,7 +25189,7 @@
         "id": "f4793d06-e985-4d12-9368-ef4e5b86c6d5",
         "date_posted": 1758868246,
         "company_url": "",
-        "is_visible": false
+        "is_visible": true
     },
     {
         "date_updated": 1758868556,
@@ -33236,6 +33236,26 @@
         "date_posted": 1759940921,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wonderschool",
+        "id": "e5fee829-850f-4ae1-9f1f-eda2ab36fdbe",
+        "title": "Early Career Software Engineer - Applied AI",
+        "active": false,
+        "date_updated": 1751064886,
+        "date_posted": 1739233313,
+        "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6359139003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Wonderschool",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
