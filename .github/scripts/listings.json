@@ -32403,7 +32403,7 @@
         "company_name": "Expedia Group",
         "id": "155315d6-90d5-4b02-a09d-5bc24d343603",
         "title": "Software Engineer I - Developer Enablement Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1759909196,
         "date_posted": 1759909196,
         "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Engineer-I---Developer-Enablement-Platform_R-98318-1",
@@ -33234,6 +33234,26 @@
         "date_posted": 1759940921,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wonderschool",
+        "id": "e5fee829-850f-4ae1-9f1f-eda2ab36fdbe",
+        "title": "Early Career Software Engineer - Applied AI",
+        "active": false,
+        "date_updated": 1751064886,
+        "date_posted": 1739233313,
+        "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6359139003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Wonderschool",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
