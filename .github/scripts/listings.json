@@ -10096,7 +10096,7 @@
         "company_name": "Expedia",
         "id": "b70a274e-bd49-4aa1-9783-b02a85cd35f1",
         "title": "Security Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1754416461,
         "date_posted": 1753168828,
         "url": "https://expedia.wd5.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Security-Engineer-I_R-96894",
@@ -13226,7 +13226,7 @@
         "company_name": "The Travelers Companies",
         "id": "ccb4493a-9e84-4363-a43d-039392325b74",
         "title": "Software Engineer I - AWS/Node/React/AI",
-        "active": true,
+        "active": false,
         "date_updated": 1755295920,
         "date_posted": 1755295920,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS-Node-React-AI-_R-46121",
@@ -31590,6 +31590,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wonderschool",
+        "id": "e5fee829-850f-4ae1-9f1f-eda2ab36fdbe",
+        "title": "Early Career Software Engineer - Applied AI",
+        "active": false,
+        "date_updated": 1751064886,
+        "date_posted": 1739233313,
+        "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6359139003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Wonderschool",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     },
     {
