@@ -24794,7 +24794,7 @@
         "company_name": "Ciena",
         "id": "e99da8c0-784c-404e-a32b-9a4ce8a5fe59",
         "title": "New Grad Software Engineer - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1758754101,
         "date_posted": 1758754101,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/New-Grad-Software-Engineer---UK_R029045",
@@ -32226,6 +32226,127 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Artefact",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wonderschool",
+        "id": "e5fee829-850f-4ae1-9f1f-eda2ab36fdbe",
+        "title": "Early Career Software Engineer - Applied AI",
+        "active": false,
+        "date_updated": 1751064886,
+        "date_posted": 1739233313,
+        "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6359139003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Wonderschool",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Aurora Innovation",
+        "id": "cbe41088-5041-4ca2-a532-3aab7b8f8188",
+        "title": "Embedded Firmware Engineer I - Security",
+        "active": true,
+        "date_updated": 1759905964,
+        "date_posted": 1759905964,
+        "url": "https://aurora.tech/jobs/8170469002?gh_jid=8170469002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Aurora Innovation",
+        "id": "8fb17085-75ea-4b0f-93d6-0660ed6feda5",
+        "title": "Embedded Firmware Engineer I - Security",
+        "active": true,
+        "date_updated": 1759905965,
+        "date_posted": 1759905965,
+        "url": "https://aurora.tech/jobs/8201816002?gh_jid=8201816002",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Aurora Innovation",
+        "id": "14ce70b4-51d4-409b-b492-dfacbe2721f8",
+        "title": "Embedded Firmware Engineer I - Security",
+        "active": true,
+        "date_updated": 1759905964,
+        "date_posted": 1759905964,
+        "url": "https://aurora.tech/jobs/8201817002?gh_jid=8201817002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Aurora Innovation",
+        "id": "0d5f925b-a007-48bd-849f-fb3cde3632b6",
+        "title": "Embedded Firmware Engineer I - Security",
+        "active": true,
+        "date_updated": 1759905967,
+        "date_posted": 1759905967,
+        "url": "https://aurora.tech/jobs/8201705002?gh_jid=8201705002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "a6422dfd-8f30-4efe-ba7f-e5333957e5a4",
+        "title": "WebGL Software Engineer 1 - Online Team",
+        "active": true,
+        "date_updated": 1759905807,
+        "date_posted": 1759905807,
+        "url": "https://www.esri.com/careers/4859692007?gh_jid=4859692007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
