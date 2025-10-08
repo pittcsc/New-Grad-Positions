@@ -33233,5 +33233,23 @@
         "date_posted": 1759940786,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759940921,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/sunwatercapital/06f08a38-95a0-4dac-9997-4c46b3ae8fed/",
+        "company_name": "Sunwater Capital",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "North Bethesda, MD"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "117dce95-01b7-4d3f-9d71-2c862395b740",
+        "date_posted": 1759940921,
+        "company_url": "",
+        "is_visible": true
     }
 ]
