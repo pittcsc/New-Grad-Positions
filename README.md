@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 459 New Grad Roles by Category
+### Browse 458 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (303)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (302)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (9)
 
@@ -1425,13 +1425,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Qode-World?utm_source=GHList&utm_medium=company">qode.world</a></strong></td>
-<td>Junior Software Developer</td>
-<td>New Jersey, NJ</td>
-<td><a href="https://apply.workable.com/qodeworld/j/5718A36818/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/ProSidian-Consulting?utm_source=GHList&utm_medium=company">Prosidian Consulting</a></strong></td>
 <td>ITSM IT Security Engineer I</td>
 <td>Boulder, CO</td>
@@ -2700,14 +2693,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer I</td>
 <td>Chandler, AZ</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/I3?utm_source=GHList&utm_medium=company">Integration Innovation (i3)</a></strong></td>
 <td>Entry Level Full-Stack Software Engineer</td>
 <td>Huntsville, AL</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Visa?utm_source=GHList&utm_medium=company">🔥 Visa</a></strong></td>
