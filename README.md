@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 463 New Grad Roles by Category
+### Browse 464 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (313)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (314)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (9)
 
@@ -80,6 +80,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Artefact?utm_source=GHList&utm_medium=company">Artefact</a></strong></td>
+<td>Junior Software Engineer</td>
+<td>London, UK</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/artefactlinkedin/jobs/8119157002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/21a9a799-e66b-4fb4-9b59-fb50ee32c85d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/World-Kinect?utm_source=GHList&utm_medium=company">World Kinect</a></strong></td>
 <td>IT Software Engineer 1 - Multiple Teams</td>
@@ -400,21 +407,21 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Associate Data Engineer 🇺🇸</td>
 <td>Dallas, TX</td>
 <td><a href="https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Data-Engineer---Direct-College-Hire_R-2025-59813?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Associate Software Engineer 🇺🇸</td>
 <td>Dallas, TX</td>
 <td><a href="https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Software-Engineer---Direct-College-Hire_R-2025-59810?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Associate Software Engineer 🇺🇸</td>
 <td>Dallas, TX</td>
 <td><a href="https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Software-Engineer---Direct-College-Hire_R-2025-59811?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">🔥 Adobe</a></strong></td>
@@ -554,7 +561,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Associate Software Engineer 🛂</td>
 <td>San Diego, CA</td>
 <td><a href="https://costar.wd1.myworkdayjobs.com/confidential/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong>Sift</strong></td>
@@ -2294,7 +2301,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1 – New Grad - AI Platform</td>
 <td>Aliso Viejo, CA</br>Santa Monica, CA</td>
 <td>🔒</td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Expedia-Group?utm_source=GHList&utm_medium=company">Expedia Group</a></strong></td>
@@ -4440,7 +4447,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Product Operations Associate – AI Avatars 🛂</td>
 <td>Los Angeles, CA</td>
 <td><a href="https://job-boards.greenhouse.io/genies/jobs/7477215003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/IXL-Learning?utm_source=GHList&utm_medium=company">IXL Learning</a></strong></td>
@@ -4667,14 +4674,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Associate Data Engineer 🇺🇸</td>
 <td>Dallas, TX</td>
 <td><a href="https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Data-Engineer---Direct-College-Hire_R-2025-59816?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Associate Data Scientist 🇺🇸</td>
 <td>Dallas, TX</td>
 <td><a href="https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Data-Scientist---Direct-College-Hire_R-2025-59817?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong>Western Alliance Bancorporation</strong></td>
@@ -4814,7 +4821,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Data Science Graduate</td>
 <td>Fort Collins, CO</td>
 <td><a href="https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Ft-Collins-Colorado-United-States-of-America/Data-Science-Graduate--Colorado-_1193617?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>29d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Verisk?utm_source=GHList&utm_medium=company">Verisk</a></strong></td>
