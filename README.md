@@ -6,13 +6,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 456 New Grad Roles by Category
+### Browse 455 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (300)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (9)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (76)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (75)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (15)
 
@@ -4548,13 +4548,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Configuration and Logistics Data Analyst I, II, Engineering 🇺🇸</td>
 <td>Brunswick, ME</td>
 <td><a href="https://careers-gdbiw.icims.com/jobs/4839?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>Nelnet</strong></td>
-<td>Data Analyst I - Consumer Loan Analytics 🛂</td>
-<td><details><summary><strong>4 locations</strong></summary>Lincoln, NE</br>Madison, WI</br>Brownsville, TX</br>Centennial, CO</details></td>
-<td><a href="https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/Data-Analyst-I---Consumer-Loan-Analytics_R21677-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
 <td>2d</td>
 </tr>
 <tr>
