@@ -20666,7 +20666,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "ff834142-dd05-4ada-b858-b18e0bc0de19",
         "title": "Software Engineer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1757540304,
         "date_posted": 1757540304,
         "url": "https://careers-gdms.icims.com/jobs/67905/job?mobile=true&needsRedirect=false",
@@ -32634,6 +32634,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wonderschool",
+        "id": "e5fee829-850f-4ae1-9f1f-eda2ab36fdbe",
+        "title": "Early Career Software Engineer - Applied AI",
+        "active": false,
+        "date_updated": 1751064886,
+        "date_posted": 1739233313,
+        "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6359139003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Wonderschool",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     },
     {
