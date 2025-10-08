@@ -18683,7 +18683,7 @@
         "company_name": "ICF",
         "id": "d000a238-f90b-4c63-bfb9-69725e027ef3",
         "title": "Data Scientist \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1757025768,
         "date_posted": 1757025768,
         "url": "https://icf.wd5.myworkdayjobs.com/en-US/ICFExternal_Career_Site/job/Reston-VA/Data-Scientist--Entry-Level-_R2502152",
@@ -32593,6 +32593,47 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wonderschool",
+        "id": "e5fee829-850f-4ae1-9f1f-eda2ab36fdbe",
+        "title": "Early Career Software Engineer - Applied AI",
+        "active": false,
+        "date_updated": 1751064886,
+        "date_posted": 1739233313,
+        "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6359139003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Wonderschool",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Klaviyo",
+        "id": "056b01e2-b52b-4c95-80f7-93447fe07353",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1759914642,
+        "date_posted": 1759914642,
+        "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7489745003",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Klaviyo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     },
     {
