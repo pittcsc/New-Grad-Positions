@@ -10666,7 +10666,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1754377574,
+        "date_updated": 1759961567,
         "url": "https://simisinc.applytojob.com/apply/ViiE78Quow/Junior-Software-Developer-Modeling-Simulation",
         "company_name": "SimIS",
         "title": "Junior Software Developer - Modeling & Simulation",
@@ -10679,7 +10679,8 @@
         "id": "7a116e37-5c53-4f22-a4d3-0d53c3fae434",
         "date_posted": 1754377574,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "source": "Simplify",
