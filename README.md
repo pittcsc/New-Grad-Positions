@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 471 New Grad Roles by Category
+### Browse 470 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (315)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (314)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (9)
 
@@ -911,13 +911,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Jr. Software Engineer 🛂</td>
 <td>Austin, TX</td>
 <td><a href="https://jobs.lever.co/bumbleinc/6cc32636-4671-4838-a6b7-2dd16b97c110?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>29d</td>
-</tr>
-<tr>
-<td><strong>🔥 Amazon</strong></td>
-<td>Security Engineer</td>
-<td>Dallas, TX</td>
-<td><a href="http://amazon.jobs/en/jobs/3071644/security-engineer-aws-global-services-security?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
 <td>29d</td>
 </tr>
 <tr>
@@ -2290,7 +2283,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (305)</summary>
+<summary>🗃️ Inactive roles (306)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2853,6 +2846,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong>Disney</strong></td>
 <td>Software Engineer I</td>
 <td>Glendale, CA</br>New York, NY</td>
+<td>🔒</td>
+<td>29d</td>
+</tr>
+<tr>
+<td><strong>🔥 Amazon</strong></td>
+<td>Security Engineer</td>
+<td>Dallas, TX</td>
 <td>🔒</td>
 <td>29d</td>
 </tr>
