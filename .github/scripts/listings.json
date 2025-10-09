@@ -21848,7 +21848,7 @@
         "company_name": "RTX",
         "id": "96830d1e-2305-470c-8331-ed38089f6f47",
         "title": "Software Engineer I - Raytheon",
-        "active": false,
+        "active": true,
         "date_updated": 1757983520,
         "date_posted": 1757983520,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ802-RMS-AP-Bldg-802-1151-East-Hermans-Road-Building-802-Tucson-AZ-85756-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01793126",
@@ -28453,6 +28453,26 @@
             "Illinois"
         ],
         "company_url": "https://simplify.jobs/c/Centene",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Altice USA",
+        "id": "ccc0f5b0-eb43-4b51-9ae4-1264c6f8bb89",
+        "title": "Software Developer Engineer 1 - Front-End UI Development",
+        "active": true,
+        "date_updated": 1760052645,
+        "date_posted": 1760052645,
+        "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1333380400/?ats=successfactors",
+        "locations": [
+            "Plainview, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Altice-USA",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
