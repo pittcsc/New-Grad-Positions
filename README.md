@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 455 New Grad Roles by Category
+### Browse 457 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (303)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (305)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (9)
 
@@ -400,6 +400,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer</td>
 <td><details><summary><strong>10 locations</strong></summary>Mountain View, CA</br>Cambridge, MA</br>Kirkland, WA</br>Los Angeles, CA</br>New York, NY</br>Pittsburgh, PA</br>San Bruno, CA</br>Seattle, WA</br>San Jose, CA</br>Sunnyvale, CA</details></td>
 <td><a href="https://www.google.com/about/careers/applications/jobs/results/79125737784648390-software-engineer?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/NetImpact-Strategies?utm_source=GHList&utm_medium=company">NetImpact Strategies</a></strong></td>
+<td>Junior Full Stack .NET Developer - Multiple Teams</td>
+<td>Austin, TX</br>Reston, VA</td>
+<td><div align="center"><a href="https://careers-netimpactstrategies.icims.com/jobs/3589/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ace07096-f936-4feb-977a-eb89db502854?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>8d</td>
 </tr>
 <tr>
@@ -820,6 +827,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Entry Level Software Engineer</td>
 <td>Fredericksburg, VA</br>Dahlgren, VA</td>
 <td><div align="center"><a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer-for-Naval-Research-Technology_R0145740?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5d784d85-0c4c-465d-bc90-b69c2af6f4d3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Susquehanna?utm_source=GHList&utm_medium=company">Susquehanna International Group (SIG)</a></strong></td>
+<td>Software Developer – New Grad - Sprc</td>
+<td>Ardmore, PA</td>
+<td><div align="center"><a href="https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0f6d0bb1-d082-4bf0-99df-257b2f6072e1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>28d</td>
 </tr>
 <tr>
@@ -2206,7 +2220,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (307)</summary>
+<summary>🗃️ Inactive roles (305)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2272,13 +2286,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>↳</td>
 <td>IT Software Engineer 1 - Multiple Teams</td>
 <td>Miami, FL</td>
-<td>🔒</td>
-<td>8d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/NetImpact-Strategies?utm_source=GHList&utm_medium=company">NetImpact Strategies</a></strong></td>
-<td>Junior Full Stack .NET Developer - Multiple Teams</td>
-<td>Austin, TX</br>Reston, VA</td>
 <td>🔒</td>
 <td>8d</td>
 </tr>
@@ -2692,13 +2699,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Susquehanna?utm_source=GHList&utm_medium=company">Susquehanna International Group (SIG)</a></strong></td>
 <td>Software Developer – New Grad - Market Data - Libraries & Tools</td>
 <td>NYC</td>
-<td>🔒</td>
-<td>28d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Software Developer – New Grad - Sprc</td>
-<td>Ardmore, PA</td>
 <td>🔒</td>
 <td>28d</td>
 </tr>
@@ -5764,7 +5764,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Embedded Software Engineer – New Grad - Real-Time Systems</td>
 <td>Ottawa, ON, Canada</td>
 <td><div align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad--Real-Time-Systems-_R029145?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8d72a79c-78b3-4f4e-8a10-36e4bd8b6bd5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
