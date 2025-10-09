@@ -28101,12 +28101,12 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
+        "category": "Software Engineering",
         "company_name": "Leidos",
         "id": "7419dc98-8673-4535-8fbc-a1c2cf000dc8",
         "title": "Entry Level Software Developer",
         "active": true,
-        "date_updated": 1759968454,
+        "date_updated": 1760016385,
         "date_posted": 1759968454,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Software-Developer_R-00167822",
         "locations": [
@@ -28114,10 +28114,8 @@
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "sponsorship": "U.S. Citizenship is Required",
+        "degrees": []
     },
     {
         "source": "Simplify",
