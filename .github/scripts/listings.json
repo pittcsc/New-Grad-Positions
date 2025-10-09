@@ -28257,5 +28257,23 @@
         "date_posted": 1760018962,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760020120,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/CAD-Engineer--Physical-Design---New-College-Grad-2026_JR2005254",
+        "company_name": "NVIDIA",
+        "title": "CAD Engineer, Physical Design",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "category": "Hardware Engineering",
+        "source": "AlmondCroffle",
+        "id": "dac44822-c620-45a3-a77a-dab2815a645b",
+        "date_posted": 1760020120,
+        "company_url": "",
+        "is_visible": true
     }
 ]
