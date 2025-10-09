@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Applied Materials",
-        "id": "ab98155b-32e8-4be8-9740-e3728c2b98b1",
-        "title": "Software Engineer / Data Scientist New College Grad-Bachelor's",
-        "active": false,
-        "date_updated": 1739306826,
-        "date_posted": 1739306826,
-        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/Software-Engineer---Data-Scientist-New-College-Grad--Bachelor-s--Gloucester--MA-_R2511212",
-        "locations": [
-            "Essex County, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Apple",
         "id": "d9765ae9-aeab-4557-9368-2144b583f58c",
         "title": "Software Engineer \u2013 Early Career - IS&T",
@@ -28353,6 +28337,26 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Abnormal-Security",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Truveta",
+        "id": "d07a156c-288d-4c3e-b95b-c4e0e05614fb",
+        "title": "Software Engineer \u2013 Entry Level - Front End",
+        "active": true,
+        "date_updated": 1760043093,
+        "date_posted": 1760043093,
+        "url": "https://job-boards.greenhouse.io/truveta/jobs/5674617004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Truveta",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
