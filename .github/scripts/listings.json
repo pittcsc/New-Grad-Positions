@@ -10297,7 +10297,7 @@
         "degrees": []
     },
     {
-        "date_updated": 1754361784,
+        "date_updated": 1760050002,
         "url": "https://www.qualtrics.com/careers/us/en/job/QUALUS6580294EXTERNALENUS/Machine-Learning-Engineer",
         "company_name": "Qualtrics",
         "title": "Machine Learning Engineer",
@@ -10310,7 +10310,8 @@
         "id": "e0a7cfe0-c4a9-42fa-bfd5-fdeb0163dbce",
         "date_posted": 1754361784,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1754362176,
