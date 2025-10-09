@@ -28275,5 +28275,26 @@
         "date_posted": 1760020120,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Valon",
+        "id": "e767a1da-b658-44aa-b30c-3b926e51103f",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1760025765,
+        "date_posted": 1760025765,
+        "url": "https://jobs.ashbyhq.com/Valon/5348244b-763b-4ce7-8828-85575eba2a4c/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Valon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
