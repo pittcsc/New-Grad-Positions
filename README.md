@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 457 New Grad Roles by Category
+### Browse 458 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (305)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (306)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (9)
 
@@ -80,6 +80,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Truveta?utm_source=GHList&utm_medium=company">Truveta</a></strong></td>
+<td>Software Engineer – Entry Level - Front End</td>
+<td>Seattle, WA</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/truveta/jobs/5674617004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d07a156c-288d-4c3e-b95b-c4e0e05614fb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Abnormal-Security?utm_source=GHList&utm_medium=company">Abnormal Security</a></strong></td>
 <td>Software Engineer 1 - Identity Security</td>
