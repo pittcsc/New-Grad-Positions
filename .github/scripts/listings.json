@@ -28239,5 +28239,23 @@
         "date_posted": 1760016662,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760018962,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Associate-Software-Engineer-Software-Engineer---PGS-Space-Systems-_R10210446",
+        "company_name": "Northrop Grumman",
+        "title": "Associate Software Engineer/Software Engineer (PGS Space Systems)",
+        "locations": [
+            "Redondo Beach, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "5cf43f54-e3eb-4a11-b4e3-c4b9202f7297",
+        "date_posted": 1760018962,
+        "company_url": "",
+        "is_visible": true
     }
 ]
