@@ -28221,5 +28221,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1760016662,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/vultr/jobs/4602862006",
+        "company_name": "Vultr",
+        "title": "Junior Frontend Engineer",
+        "locations": [
+            "Remote in USA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "6536860e-4e4b-48e7-bbe6-2baed14b1377",
+        "date_posted": 1760016662,
+        "company_url": "",
+        "is_visible": true
     }
 ]
