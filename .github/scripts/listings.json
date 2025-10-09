@@ -20757,7 +20757,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "433df37a-1b0b-420a-86b5-60991427bfb8",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": false,
+        "active": true,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -33829,6 +33829,46 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Wonderschool",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wonderschool",
+        "id": "e5fee829-850f-4ae1-9f1f-eda2ab36fdbe",
+        "title": "Early Career Software Engineer - Applied AI",
+        "active": false,
+        "date_updated": 1751064886,
+        "date_posted": 1739233313,
+        "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6359139003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Wonderschool",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "7419dc98-8673-4535-8fbc-a1c2cf000dc8",
+        "title": "Entry Level Software Developer",
+        "active": true,
+        "date_updated": 1759968454,
+        "date_posted": 1759968454,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Software-Developer_R-00167822",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
