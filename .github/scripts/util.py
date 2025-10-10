@@ -339,7 +339,9 @@ def classifyJobCategory(job):
 
 def ensureCategories(listings):
     for listing in listings:
-        listing["category"] = classifyJobCategory(listing)
+        # Only classify if category is missing or empty
+        if "category" not in listing or not listing["category"]:
+            listing["category"] = classifyJobCategory(listing)
     return listings
 
 def embedTable(listings):    

@@ -11,18 +11,36 @@ YES_VALUES = {"yes", "y", "true", "open"}
 NO_VALUES  = {"no", "n", "false", "closed"}
 
 CATEGORY_MAPPING = {
-    "software engineering": "Software Engineering",
-    "software": "Software Engineering",
-    "product management": "Product Management", 
-    "product": "Product Management",
-    "data science, ai & machine learning": "Data Science, AI & Machine Learning",
+    # Hardware variations
+    "hardware": "Hardware Engineering",
+    "hardware engineering": "Hardware Engineering", 
+    "embedded engineering": "Hardware Engineering",
+    "embedded": "Hardware Engineering",
+    
+    # Quant variations
+    "quant": "Quantitative Finance",
+    "quantitative finance": "Quantitative Finance",
+    "quantitative": "Quantitative Finance",
+    
+    # Data Science variations  
+    "ai/ml/data": "Data Science, AI & Machine Learning",
+    "data & analytics": "Data Science, AI & Machine Learning",
+    "ai & machine learning": "Data Science, AI & Machine Learning", 
     "data science": "Data Science, AI & Machine Learning",
+    "data science, ai & machine learning": "Data Science, AI & Machine Learning",
     "ai": "Data Science, AI & Machine Learning",
     "machine learning": "Data Science, AI & Machine Learning",
-    "quantitative finance": "Quantitative Finance",
-    "quant": "Quantitative Finance",
-    "hardware engineering": "Hardware Engineering",
-    "hardware": "Hardware Engineering",
+    "ml": "Data Science, AI & Machine Learning",
+    
+    # Product variations
+    "product": "Product Management",
+    "product management": "Product Management",
+    
+    # Software variations
+    "software": "Software Engineering",
+    "software engineering": "Software Engineering",
+    
+    # Other
     "other": "Other",
 }
 
