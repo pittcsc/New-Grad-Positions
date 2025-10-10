@@ -339,8 +339,8 @@ def classifyJobCategory(job):
 
 def ensureCategories(listings):
     for listing in listings:
-        # Only classify if category is missing or empty
-        if "category" not in listing or not listing["category"]:
+        # Only classify if category is missing, empty, or null
+        if "category" not in listing or not listing.get("category"):
             listing["category"] = classifyJobCategory(listing)
     return listings
 
