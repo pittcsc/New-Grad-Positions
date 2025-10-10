@@ -28567,5 +28567,26 @@
         "date_posted": 1760086742,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Avery Dennison",
+        "id": "a35e1eab-45e3-4fb7-9d5c-f2514f975340",
+        "title": "Firmware Engineering Early Career Program Associate - Hardware Engineering - RFID and IoT",
+        "active": true,
+        "date_updated": 1760086204,
+        "date_posted": 1760086204,
+        "url": "https://jobs.smartrecruiters.com/AveryDennison/744000086898306",
+        "locations": [
+            "Miamisburg, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Avery-Dennison",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
