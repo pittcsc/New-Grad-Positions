@@ -1,38 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Apple",
-        "id": "d9765ae9-aeab-4557-9368-2144b583f58c",
-        "title": "Software Engineer \u2013 Early Career - IS&T",
-        "active": false,
-        "date_updated": 1739334673,
-        "date_posted": 1739334673,
-        "url": "https://jobs.apple.com/en-us/details/200590935",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Apple",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Apple",
-        "id": "2e65b1c2-691c-4938-8bd9-661851a332e9",
-        "title": "Software Engineer \u2013 Early Career - IS&T",
-        "active": false,
-        "date_updated": 1739334663,
-        "date_posted": 1739334663,
-        "url": "https://jobs.apple.com/en-us/details/200590936",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Apple",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "LexisNexis Risk Solutions",
         "id": "7484f389-5a98-4a88-a679-f350bc7b57b4",
         "title": "Graduate Software Engineer I",
