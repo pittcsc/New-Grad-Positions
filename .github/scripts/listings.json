@@ -20208,7 +20208,7 @@
         "company_name": "RTX",
         "id": "e9d56d2d-2eae-4b40-94e9-04b1b6f991a2",
         "title": "Embedded Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1757467264,
         "date_posted": 1757467264,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HTX36-Richardson-TX-3200-E-Renner-Rd---Richardson-TX-75082-2402-USA/Embedded-Software-Engineer-I--Onsite-_01788530-1",
@@ -22308,7 +22308,7 @@
         "company_name": "North Atlantic Industries",
         "id": "62c8d027-1bfb-4673-be23-d11d806a0ec6",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1758072616,
         "date_posted": 1758072616,
         "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3580950",
@@ -28647,6 +28647,26 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox",
+        "id": "f9697416-97dc-497c-8c91-2d42df97d6a0",
+        "title": "Software Engineer 1 - Salesforce - Backend Services",
+        "active": true,
+        "date_updated": 1760118596,
+        "date_posted": 1760118596,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-I_R202567898",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
