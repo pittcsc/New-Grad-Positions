@@ -291,18 +291,32 @@ def classifyJobCategory(job):
     # First check if there's an existing category
     if "category" in job and job["category"]:
         # Map the existing category to our standardized categories
-        category = job["category"].lower()
-        if category in ["hardware", "hardware engineering", "embedded engineering"]:
+        category = job["category"].lower().strip()
+        
+        # Hardware variations
+        if category in ["hardware", "hardware engineering", "embedded engineering", "embedded", "firmware", "fpga", "circuit", "chip", "silicon", "asic"]:
             return "Hardware Engineering"
-        elif category in ["quant", "quantitative finance"]:
+        
+        # Quantitative Finance variations
+        elif category in ["quant", "quantitative finance", "quantitative", "finance", "trading", "investment", "financial"]:
             return "Quantitative Finance"
-        elif category in ["ai/ml/data", "data & analytics", "ai & machine learning", "data science", "data science, ai & machine learning"]:
+        
+        # Data Science, AI & ML variations
+        elif category in ["ai/ml/data", "data & analytics", "ai & machine learning", "data science", "data science, ai & machine learning", 
+                         "ai", "ml", "machine learning", "data", "analytics", "research", "ai/ml", "data science & analytics"]:
             return "Data Science, AI & Machine Learning"
-        elif category in ["product", "product management"]:
+        
+        # Product Management variations
+        elif category in ["product", "product management", "pm", "apm", "product manager"]:
             return "Product Management"
-        elif category in ["software", "software engineering"]:
+        
+        # Software Engineering variations (most common)
+        elif category in ["software", "software engineering", "software engineer", "engineering", "swe", "dev", "developer", 
+                         "backend", "frontend", "fullstack", "full-stack", "mobile", "web", "infrastructure", "devops", "sre"]:
             return "Software Engineering"
-        elif category in ["other"]:
+        
+        # Other
+        elif category in ["other", "misc", "miscellaneous"]:
             return "Other"
         
         # If category is already in the correct format, return it as-is
@@ -339,9 +353,9 @@ def classifyJobCategory(job):
 
 def ensureCategories(listings):
     for listing in listings:
-        # Only classify if category is missing, empty, or null
-        if "category" not in listing or not listing.get("category"):
-            listing["category"] = classifyJobCategory(listing)
+        # Always classify to ensure proper category mapping
+        # This handles missing categories AND maps existing categories to standard format
+        listing["category"] = classifyJobCategory(listing)
     return listings
 
 def embedTable(listings):    

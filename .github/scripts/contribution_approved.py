@@ -16,13 +16,23 @@ CATEGORY_MAPPING = {
     "hardware engineering": "Hardware Engineering", 
     "embedded engineering": "Hardware Engineering",
     "embedded": "Hardware Engineering",
+    "firmware": "Hardware Engineering",
+    "fpga": "Hardware Engineering",
+    "circuit": "Hardware Engineering", 
+    "chip": "Hardware Engineering",
+    "silicon": "Hardware Engineering",
+    "asic": "Hardware Engineering",
     
-    # Quant variations
+    # Quantitative Finance variations
     "quant": "Quantitative Finance",
     "quantitative finance": "Quantitative Finance",
     "quantitative": "Quantitative Finance",
+    "finance": "Quantitative Finance",
+    "trading": "Quantitative Finance",
+    "investment": "Quantitative Finance",
+    "financial": "Quantitative Finance",
     
-    # Data Science variations  
+    # Data Science, AI & ML variations  
     "ai/ml/data": "Data Science, AI & Machine Learning",
     "data & analytics": "Data Science, AI & Machine Learning",
     "ai & machine learning": "Data Science, AI & Machine Learning", 
@@ -31,17 +41,41 @@ CATEGORY_MAPPING = {
     "ai": "Data Science, AI & Machine Learning",
     "machine learning": "Data Science, AI & Machine Learning",
     "ml": "Data Science, AI & Machine Learning",
+    "data": "Data Science, AI & Machine Learning",
+    "analytics": "Data Science, AI & Machine Learning",
+    "research": "Data Science, AI & Machine Learning",
+    "ai/ml": "Data Science, AI & Machine Learning",
+    "data science & analytics": "Data Science, AI & Machine Learning",
     
-    # Product variations
+    # Product Management variations
     "product": "Product Management",
     "product management": "Product Management",
+    "pm": "Product Management",
+    "apm": "Product Management",
+    "product manager": "Product Management",
     
-    # Software variations
+    # Software Engineering variations
     "software": "Software Engineering",
     "software engineering": "Software Engineering",
+    "software engineer": "Software Engineering",
+    "engineering": "Software Engineering",
+    "swe": "Software Engineering",
+    "dev": "Software Engineering",
+    "developer": "Software Engineering",
+    "backend": "Software Engineering",
+    "frontend": "Software Engineering",
+    "fullstack": "Software Engineering",
+    "full-stack": "Software Engineering",
+    "mobile": "Software Engineering",
+    "web": "Software Engineering",
+    "infrastructure": "Software Engineering",
+    "devops": "Software Engineering",
+    "sre": "Software Engineering",
     
     # Other
     "other": "Other",
+    "misc": "Other",
+    "miscellaneous": "Other",
 }
 
 def _clean(s: str) -> str:
