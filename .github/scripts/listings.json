@@ -28529,5 +28529,25 @@
         "date_posted": 1760085613,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760086424,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Software-Engineer-I_10131168",
+        "company_name": "Disney",
+        "title": "Software Engineer I",
+        "locations": [
+            "Santa Monica, CA",
+            "Seattle, WA",
+            "San Francisco, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "eed0ea40-7864-4623-9669-cf609126117f",
+        "date_posted": 1760086424,
+        "company_url": "",
+        "is_visible": true
     }
 ]
