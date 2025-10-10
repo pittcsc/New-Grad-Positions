@@ -28606,5 +28606,26 @@
         "date_posted": 1760086993,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "3c4db72d-f1d5-46ef-89dc-50130a6777fa",
+        "title": "Full-Stack Developer - Junior",
+        "active": true,
+        "date_updated": 1760107535,
+        "date_posted": 1760107535,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/Software-Developer_R0226649",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
