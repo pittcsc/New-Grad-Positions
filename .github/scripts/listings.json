@@ -28478,5 +28478,27 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anyscale",
+        "id": "46c32409-c67c-4b82-a4a4-a4e0896d9808",
+        "title": "Software Engineer \u2013 New Grad 2026",
+        "active": true,
+        "date_updated": 1760053361,
+        "date_posted": 1760053361,
+        "url": "https://jobs.ashbyhq.com/anyscale/31d09081-f5e7-45e4-b561-1c53d0ca9200/application",
+        "locations": [
+            "Palo Alto, CA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Anyscale",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     }
 ]
