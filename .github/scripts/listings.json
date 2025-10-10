@@ -1,23 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Bombora",
-        "id": "b91602b6-14e5-4b3e-93de-44d1785d605c",
-        "title": "Software Engineer I - Services Engineering",
-        "active": false,
-        "date_updated": 1739392439,
-        "date_posted": 1739392439,
-        "url": "https://bombora.com/about/bombora-careers?gh_jid=7859996002",
-        "locations": [
-            "Reno, NV",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Bombora",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Global Payments",
         "id": "f7592917-bf0d-4701-a15e-08a35bb0fd10",
         "title": "Mainframe Software Engineer I",
@@ -28651,6 +28634,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "259e77f9-44aa-4e06-80df-4f567fee9980",
+        "title": "Software Development Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1760128393,
+        "date_posted": 1760128393,
+        "url": "https://www.esri.com/careers/4940766007?gh_jid=4940766007",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
