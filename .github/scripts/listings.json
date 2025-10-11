@@ -1,102 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Coalition",
-        "id": "6c230b52-2752-4356-ae54-f6fa42072bc1",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1739480134,
-        "date_posted": 1739480134,
-        "url": "https://www.coalitioninc.com/job-posting?gh_jid=4529304005",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Coalition",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Marqeta",
-        "id": "765957b7-080f-4e21-833e-f09c694a3c35",
-        "title": "Software Engineer I - Continuous Integration Team",
-        "active": false,
-        "date_updated": 1739478680,
-        "date_posted": 1739478680,
-        "url": "https://job-boards.greenhouse.io/marqeta/jobs/6630879",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Marqeta",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Marqeta",
-        "id": "6afdb127-1c86-46e5-8d30-5f3a0be329cb",
-        "title": "Software Engineer I - Infrastructure as Code Team",
-        "active": false,
-        "date_updated": 1739478680,
-        "date_posted": 1739478680,
-        "url": "https://job-boards.greenhouse.io/marqeta/jobs/6630900",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Marqeta",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Marqeta",
-        "id": "d77d0a2b-bc5a-444f-a506-900a33b208a3",
-        "title": "Software Engineer I - Infrastructure as Code Team",
-        "active": false,
-        "date_updated": 1739478679,
-        "date_posted": 1739478679,
-        "url": "https://job-boards.greenhouse.io/marqeta/jobs/6617947",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Marqeta",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Marqeta",
-        "id": "bc5c2d20-7030-4fc3-829f-c9e6bd845a2b",
-        "title": "Software Engineer I - Continuous Integration Team",
-        "active": false,
-        "date_updated": 1739478678,
-        "date_posted": 1739478678,
-        "url": "https://job-boards.greenhouse.io/marqeta/jobs/6549903",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Marqeta",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Coalition",
-        "id": "1204a3e6-bb6a-4db3-a820-27dc60333e21",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1739480133,
-        "date_posted": 1739480133,
-        "url": "https://www.coalitioninc.com/job-posting?gh_jid=4528287005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Coalition",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Vanta",
         "id": "17aed23d-462e-4133-9778-26fc636fb537",
         "title": "Software Engineer \u2013 Entry Level",
@@ -20655,7 +20559,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1757551572,
         "date_posted": 1757542243,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
