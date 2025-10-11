@@ -28796,5 +28796,45 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "948ad4f6-0908-48f3-9343-cb5404c6d841",
+        "title": "Embedded Cybersecurity Software Engineer 1 - Crypto Team",
+        "active": true,
+        "date_updated": 1760155468,
+        "date_posted": 1760155468,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01798466",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "T-Rex Solutions",
+        "id": "ef598fdb-91d5-4ee8-82fd-8f88781dc7d7",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1760155233,
+        "date_posted": 1760155233,
+        "url": "https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8208235002",
+        "locations": [
+            "District Heights, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Rex-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
