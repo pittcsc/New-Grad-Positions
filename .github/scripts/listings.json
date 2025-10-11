@@ -28674,5 +28674,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Humana",
+        "id": "03f784d8-eee3-4099-82dd-5fac1ba800a8",
+        "title": "Software Engineer 1 - Cybersecurity Identity",
+        "active": true,
+        "date_updated": 1760141396,
+        "date_posted": 1760141396,
+        "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/XIAM-Software-Engineer_R-388461",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Humana",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
