@@ -28695,5 +28695,86 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "f33329f2-26bd-438c-8ae1-d31595d8e468",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1760147470,
+        "date_posted": 1760147470,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/3e08c6f4-dbf4-40d1-972f-e1aa5b21893b/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "451bc58a-ba6c-4172-abba-0a8d6581d92c",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1760147471,
+        "date_posted": 1760147471,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/da56e386-eb61-4cf4-bee8-fad6b1282ab0/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "220fe9df-0c32-4b8f-8a94-a26ff971e491",
+        "title": "Hardware Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1760147403,
+        "date_posted": 1760147403,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineer---New-Grad_R028768",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "fe31744c-2734-471f-a0fb-8a3a4e8dec14",
+        "title": "Associate - New Grad - Software Engineer",
+        "active": true,
+        "date_updated": 1760146222,
+        "date_posted": 1760146222,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R226913",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
