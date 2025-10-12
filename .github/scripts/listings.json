@@ -7428,23 +7428,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Qualcomm",
-        "id": "d48cfade-867f-4121-8743-d5458899b695",
-        "title": "Entry Level Software Engineer \u2013 University Graduate - Voice and Music Team - Software Engineering",
-        "active": false,
-        "date_updated": 1751553636,
-        "date_posted": 1739521761,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446703767811",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "State Street",
         "id": "57dfb70d-1413-4a27-998b-28752edc1f53",
@@ -20517,7 +20500,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": true,
+        "active": false,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
