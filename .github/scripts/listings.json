@@ -1,38 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Vanta",
-        "id": "17aed23d-462e-4133-9778-26fc636fb537",
-        "title": "Software Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1739564566,
-        "date_posted": 1739564566,
-        "url": "https://jobs.ashbyhq.com/vanta/13d263a6-ba81-4a93-87df-efda33a909bf/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Vanta",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "PayScale",
-        "id": "4bcdb1ec-2af2-48a8-93f6-577c1d850daf",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1739564226,
-        "date_posted": 1739564226,
-        "url": "https://jobs.jobvite.com/payscale/job/otRnvfwW?nl=1&nl=1&fr=false",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/PayScale",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Caterpillar Inc.",
         "id": "401fd6ec-e523-439f-8266-d46c148a2a19",
         "title": "Early Career Data Scientist / Technical Analyst",
