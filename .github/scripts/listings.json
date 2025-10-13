@@ -28810,5 +28810,23 @@
         "date_posted": 1760367437,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760367907,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.quinstreet.com/careers/?gh_jid=7316288",
+        "company_name": "QuinStreet",
+        "title": "Entry-level Software Engineer",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "6f023b94-9eb7-42ef-b966-358a4da91201",
+        "date_posted": 1760367907,
+        "company_url": "",
+        "is_visible": true
     }
 ]
