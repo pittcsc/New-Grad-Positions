@@ -28756,5 +28756,23 @@
         "date_posted": 1760366009,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760366462,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://carislifesciences.wd12.myworkdayjobs.com/en-US/cls/job/Irving-TX--75063/Associate-Software-Engineer---Clinical-Systems--External-Apps-_JR104015",
+        "company_name": "Caris",
+        "title": "Associate Software Engineer - Clinical Systems (External Apps)",
+        "locations": [
+            "Irving, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "4630c7ec-dfea-4383-bc4e-4e4138dda1e9",
+        "date_posted": 1760366462,
+        "company_url": "",
+        "is_visible": true
     }
 ]
