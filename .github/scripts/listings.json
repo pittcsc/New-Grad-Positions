@@ -28774,5 +28774,23 @@
         "date_posted": 1760366462,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760367075,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://carislifesciences.wd12.myworkdayjobs.com/en-US/cls/job/Irving-TX--75063/Associate-Software-Engineer---Clinical-Systems--Lab-Ops-_JR104012-1",
+        "company_name": "Caris",
+        "title": "Associate Software Engineer - Clinical Systems (Lab Ops)",
+        "locations": [
+            "Irving, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "46029e2b-d575-48b1-8067-d56666130303",
+        "date_posted": 1760367075,
+        "company_url": "",
+        "is_visible": true
     }
 ]
