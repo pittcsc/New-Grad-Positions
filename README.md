@@ -6,13 +6,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 468 New Grad Roles by Category
+### Browse 467 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (307)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (9)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (74)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (73)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (14)
 
@@ -5031,13 +5031,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Machine Learning Researcher 🎓</td>
 <td>Miami, FL</br>New York, NY</td>
 <td><a href="https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-us/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Harris</strong></td>
-<td>Junior Computational Linguist</td>
-<td><details><summary><strong>10 locations</strong></summary>VA</br>WI</br>AZ</br>TN</br>MI</br>MA</br>MO</br>CO</br>NM</br>Remote, London, UK</details></td>
-<td><a href="https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Virginia-United-States/Junior-Computational-Linguist_R0031051-4?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
 <td>1mo</td>
 </tr>
 <tr>
