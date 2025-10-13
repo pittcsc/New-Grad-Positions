@@ -28792,5 +28792,23 @@
         "date_posted": 1760367075,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760367437,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://carislifesciences.wd12.myworkdayjobs.com/en-US/cls/job/Irving-TX--75063/Associate-Software-Engineer---Clinical-Systems--Digital-Path-_JR104014",
+        "company_name": "Caris",
+        "title": "Associate Software Engineer - Clinical Systems (Digital Path)",
+        "locations": [
+            "Irving, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "a71e9450-55a7-4c44-a4ab-669c22c502f0",
+        "date_posted": 1760367437,
+        "company_url": "",
+        "is_visible": true
     }
 ]
