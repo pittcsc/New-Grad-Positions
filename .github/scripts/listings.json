@@ -28677,5 +28677,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1760362966,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR158639EXTERNALENUS/2026-University-Graduate-AI-Context-Engineer",
+        "company_name": "Adobe",
+        "title": "AI Context Engineer",
+        "locations": [
+            "San Jose, CA",
+            "San Francisco, CA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "a2c9e6fa-3eb2-462f-905a-8d1efb489643",
+        "date_posted": 1760362966,
+        "company_url": "",
+        "is_visible": true
     }
 ]
