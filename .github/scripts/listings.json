@@ -28716,5 +28716,27 @@
         "date_posted": 1760365345,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760365603,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Development-Graduate_3152963",
+        "company_name": "Hewlett Packard (HP)",
+        "title": "Software Development",
+        "locations": [
+            "Spring, TX",
+            "Palo Alto, CA",
+            "Boise, ID",
+            "Corvallis, OR",
+            "Vancouver, WA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "501542cf-69f6-4b4e-b10e-3f40c14f0cee",
+        "date_posted": 1760365603,
+        "company_url": "",
+        "is_visible": true
     }
 ]
