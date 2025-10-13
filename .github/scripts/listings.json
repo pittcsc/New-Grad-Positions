@@ -28810,23 +28810,5 @@
         "date_posted": 1760367437,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "date_updated": 1760367603,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://uneekor.bamboohr.com/careers/119",
-        "company_name": "Uneekor",
-        "title": "Software Quality Assurance Engineer",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "44d28ce5-6be0-4bca-aa48-050172523c6b",
-        "date_posted": 1760367603,
-        "company_url": "",
-        "is_visible": true
     }
 ]
