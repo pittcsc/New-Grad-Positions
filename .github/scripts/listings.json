@@ -28698,5 +28698,23 @@
         "date_posted": 1760362966,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760365345,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/lambda/1b1cac37-a29c-46b2-ad1a-a946d1e87d41",
+        "company_name": "Lambda",
+        "title": "Cloud Support Engineer I (Support Response) - Weekend Shift",
+        "locations": [
+            "Remote in USA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "2c8231b4-2c65-46b0-bd83-9fdc4858dbf0",
+        "date_posted": 1760365345,
+        "company_url": "",
+        "is_visible": true
     }
 ]
