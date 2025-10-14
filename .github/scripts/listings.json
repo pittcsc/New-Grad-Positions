@@ -29068,5 +29068,68 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Credit Acceptance Careers",
+        "id": "827f0ce0-ab85-465b-89a1-815b0df76eb4",
+        "title": "Software Engineer I - Engineering",
+        "active": true,
+        "date_updated": 1760475230,
+        "date_posted": 1760475230,
+        "url": "https://creditacceptance.wd5.myworkdayjobs.com/en-US/Credit_Acceptance/job/Michigan--Southfield-Office/Software-Engineer-I--Engineering_R13134",
+        "locations": [
+            "Southfield, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/1ba6d017-f1e1-44ac-af01-0ac2a47a6803",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "7b37bddf-4662-466d-9f54-3044feac8f6e",
+        "title": "Software Developer \u2013 2026 Grads",
+        "active": true,
+        "date_updated": 1760474895,
+        "date_posted": 1760474895,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Developer---2026-Grads_R029193",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "mthree",
+        "id": "f7573d3e-e4fd-464e-9e3f-c2c7c1c7ab72",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1760473791,
+        "date_posted": 1760473791,
+        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595457006",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Mthree",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
