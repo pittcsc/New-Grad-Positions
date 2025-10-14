@@ -516,7 +516,7 @@
         "company_name": "esri",
         "id": "80da21ce-b264-439a-a6e9-d6ba68a20436",
         "title": "Java Software Engineer I - Arcgis Enterprise",
-        "active": false,
+        "active": true,
         "date_updated": 1741222698,
         "date_posted": 1741222698,
         "url": "https://www.esri.com/careers/4660952007?gh_jid=4660952007",
@@ -29027,5 +29027,46 @@
         "date_posted": 1760465340,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "195b7fb1-c9f4-4abb-a06b-62e68bc3ce4c",
+        "title": "Associate \u2013 New Grad - Software Engineer",
+        "active": true,
+        "date_updated": 1760473502,
+        "date_posted": 1760473502,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R223350-2",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "8a1f8411-6a7a-41fb-9af1-da4beb2e18f1",
+        "title": "Java Software Engineer I",
+        "active": true,
+        "date_updated": 1760473324,
+        "date_posted": 1760473324,
+        "url": "https://www.esri.com/careers/4728895007?gh_jid=4728895007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
