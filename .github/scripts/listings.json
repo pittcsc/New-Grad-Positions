@@ -29007,5 +29007,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1760465340,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58552",
+        "company_name": "IBM",
+        "title": "Software Developer",
+        "locations": [
+            "Lowell, MA",
+            "San Jose, CA",
+            "Austin, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "GitHarsh19",
+        "id": "e3aea654-65ea-430b-8435-30ee760ae072",
+        "date_posted": 1760465340,
+        "company_url": "",
+        "is_visible": true
     }
 ]
