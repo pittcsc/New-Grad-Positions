@@ -29330,5 +29330,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Divergent Technologies",
+        "id": "b192eb3f-479a-4467-8761-5b5b93418ad0",
+        "title": "Software Engineer \u2013 New Grads: Fall 2025/Spring 2026",
+        "active": true,
+        "date_updated": 1760563242,
+        "date_posted": 1760563242,
+        "url": "https://job-boards.greenhouse.io/divergent/jobs/4954950008",
+        "locations": [
+            "Carson, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Divergent-TechnologiesDivergent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
