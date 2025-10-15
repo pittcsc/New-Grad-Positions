@@ -29210,5 +29210,23 @@
         "date_posted": 1760494951,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760495126,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://aurora.tech/careers/8209480002?gh_jid=8209480002",
+        "company_name": "Aurora Innovation",
+        "title": "Software Engineer I - Remote Assist",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "2199e407-beea-48a0-92e0-2e9baccabd36",
+        "date_posted": 1760495126,
+        "company_url": "",
+        "is_visible": true
     }
 ]
