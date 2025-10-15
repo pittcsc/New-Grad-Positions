@@ -29192,5 +29192,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1760494951,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://aurora.tech/careers/8191750002?gh_jid=8191750002",
+        "company_name": "Aurora Innovation",
+        "title": "Software Engineer I - Remote Assist",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "f794abf3-e79e-4923-aedb-de0fc28d1119",
+        "date_posted": 1760494951,
+        "company_url": "",
+        "is_visible": true
     }
 ]
