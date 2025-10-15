@@ -29228,5 +29228,25 @@
         "date_posted": 1760495126,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "3f4d8dc1-931f-4b12-93a2-908efafe1ab6",
+        "title": "Entry Level Software Engineer - Test & Verification",
+        "active": true,
+        "date_updated": 1760500406,
+        "date_posted": 1760500406,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer----Test---Verification_JR2025467783-1",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
