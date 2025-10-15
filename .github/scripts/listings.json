@@ -29350,5 +29350,24 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1760568390,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/glide/5ece3064-6884-43c2-923c-066d6187b25d",
+        "company_name": "Glide",
+        "title": "Full Stack Engineer \u2013 Early Career",
+        "locations": [
+            "New York, NY",
+            "Hybrid"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "5975c663-7367-4c03-acc7-b04055415e7d",
+        "date_posted": 1760568390,
+        "company_url": "",
+        "is_visible": true
     }
 ]
