@@ -20733,7 +20733,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
         "title": "Entry Level Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1757611606,
         "date_posted": 1757611606,
         "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
@@ -29369,5 +29369,25 @@
         "date_posted": 1760568390,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "D3",
+        "id": "21b95fb5-d489-4032-af81-46650b0e2764",
+        "title": "Frontend Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1760580897,
+        "date_posted": 1760580897,
+        "url": "https://d3.com/careers?gh_jid=4915213008",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/D3",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
