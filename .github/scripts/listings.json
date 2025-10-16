@@ -28858,19 +28858,16 @@
         "id": "11a24614-aae6-401d-b591-ee36aef2bd4c",
         "title": "Software Engineer 1 - Remote Assist",
         "active": true,
-        "date_updated": 1760385202,
+        "date_updated": 1760640623,
         "date_posted": 1760385202,
         "url": "https://aurora.tech/jobs/8191750002?gh_jid=8191750002",
         "locations": [
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Aurora-Innovation",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
