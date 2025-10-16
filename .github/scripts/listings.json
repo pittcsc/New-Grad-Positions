@@ -28837,19 +28837,16 @@
         "id": "4111e6c0-b494-4c0a-a3bd-c2361bf7fb4a",
         "title": "Software Engineer 1 - Remote Assist",
         "active": true,
-        "date_updated": 1760385199,
+        "date_updated": 1760640644,
         "date_posted": 1760385199,
         "url": "https://aurora.tech/jobs/8209480002?gh_jid=8209480002",
         "locations": [
             "Pittsburgh, PA"
         ],
         "company_url": "https://simplify.jobs/c/Aurora-Innovation",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
