@@ -1,23 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Caterpillar Inc.",
-        "id": "401fd6ec-e523-439f-8266-d46c148a2a19",
-        "title": "Early Career Data Scientist / Technical Analyst",
-        "active": false,
-        "date_updated": 1739852039,
-        "date_posted": 1739852039,
-        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/XMLNAME-2025-Cat-Digital---Early-Career-Data-Scientist---Technical-Analyst_R0000292585",
-        "locations": [
-            "Peoria, IL",
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "The Trade Desk",
         "id": "50ec14ed-3ef8-4a27-af0e-3a8791befc1c",
         "title": "Software Engineer I - 2025 Start",
