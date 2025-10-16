@@ -29372,5 +29372,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NewsBreak",
+        "id": "65b7b88a-dfaa-44a4-bb60-2668ec00dd55",
+        "title": "Software Engineer \u2013 New Grad Friendly - IOS",
+        "active": true,
+        "date_updated": 1760628067,
+        "date_posted": 1760628067,
+        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4610466006",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NewsBreak",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
