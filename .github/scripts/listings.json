@@ -29771,5 +29771,23 @@
         "date_posted": 1760736169,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760736226,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://external-telecom-teldta.icims.com/jobs/28150/data-analyst-i---gis/job",
+        "company_name": "TDS",
+        "title": "Data Analyst I - GIS",
+        "locations": [
+            "Madison, WI"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "f62254af-f510-4248-bb42-b56ef18bd581",
+        "date_posted": 1760736226,
+        "company_url": "",
+        "is_visible": true
     }
 ]

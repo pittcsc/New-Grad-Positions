@@ -6,13 +6,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 507 New Grad Roles by Category
+### Browse 508 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (328)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (8)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (83)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (84)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (14)
 
@@ -4745,7 +4745,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Product Management Track: Launch Early Career Leadership Program</td>
 <td>Carmel, IN</td>
 <td>🔒</td>
-<td>12d</td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Aristocrat-Leisure?utm_source=GHList&utm_medium=company">Aristocrat Leisure</a></strong></td>
@@ -4816,6 +4816,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TDS</strong></td>
+<td>Data Analyst I - GIS</td>
+<td>Madison, WI</td>
+<td><a href="https://external-telecom-teldta.icims.com/jobs/28150/data-analyst-i---gis/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company">Tencent</a></strong></td>
 <td>Junior AI Software Engineer 🎓</td>
