@@ -29712,5 +29712,23 @@
         "date_posted": 1760735616,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760735998,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/deltasands/4ae1b9e2-ebbd-416e-810a-58f296666125/",
+        "company_name": "Delta Solutions & Strategies",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "bdaf8305-781e-47ff-9f31-67df0006a58c",
+        "date_posted": 1760735998,
+        "company_url": "",
+        "is_visible": true
     }
 ]
