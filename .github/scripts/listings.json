@@ -29752,5 +29752,24 @@
         "date_posted": 1760736096,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760736169,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://caci.wd1.myworkdayjobs.com/en-US/External/job/Remote-Any-State/Junior-Software-Developer_318599",
+        "company_name": "CACI",
+        "title": "Junior Software Developer",
+        "locations": [
+            "Remote",
+            "Washington, DC"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "dfbd76dd-d98f-4b51-851c-8e55eb392472",
+        "date_posted": 1760736169,
+        "company_url": "",
+        "is_visible": true
     }
 ]
