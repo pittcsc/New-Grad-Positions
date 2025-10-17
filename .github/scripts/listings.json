@@ -29654,5 +29654,24 @@
         "date_posted": 1760735409,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760735470,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/capco/jobs/7335392",
+        "company_name": "Capco",
+        "title": "Junior AI Engineer",
+        "locations": [
+            "Orlando, FL",
+            "Hybrid"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "ceb6b24c-1163-438a-96d6-3e87daec2392",
+        "date_posted": 1760735470,
+        "company_url": "",
+        "is_visible": true
     }
 ]
