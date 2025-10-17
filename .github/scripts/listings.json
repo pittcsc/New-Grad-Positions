@@ -29598,5 +29598,23 @@
         "date_posted": 1760735095,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760735211,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://groundswell.wd12.myworkdayjobs.com/groundswell/job/McLean-VA/Technical-Consultant--Campus-Recruiting-Entry-Level-_JR100868",
+        "company_name": "Groundswell",
+        "title": "Technical Consultant",
+        "locations": [
+            "McLean, VA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "9bee60af-1346-402b-a520-49daf802c96c",
+        "date_posted": 1760735211,
+        "company_url": "",
+        "is_visible": true
     }
 ]
