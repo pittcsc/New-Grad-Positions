@@ -29437,5 +29437,45 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sierra Nevada Coporation",
+        "id": "4c40c38c-327e-4e50-b9d7-cbfb16910a7d",
+        "title": "Systems Security Engineer I",
+        "active": true,
+        "date_updated": 1760679817,
+        "date_posted": 1760679817,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Systems-Security-Engineer-I_R0028693-1",
+        "locations": [
+            "Lone Tree, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HeyGen",
+        "id": "5b7c2128-2cbc-447f-b60e-685d15101448",
+        "title": "Data Scientist \u2013 New Graduate",
+        "active": true,
+        "date_updated": 1760679378,
+        "date_posted": 1760679378,
+        "url": "https://job-boards.greenhouse.io/heygen/jobs/4279485007",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/HeyGen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
