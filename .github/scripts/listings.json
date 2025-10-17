@@ -29578,5 +29578,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1760735095,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.google.com/about/careers/applications/jobs/results/90452041138086598-software-engineer-ii-early-career-google-cloud-ai-catalyst-program",
+        "company_name": "Google",
+        "title": "Software Engineer II, Early Career - Google Cloud AI Catalyst Program",
+        "locations": [
+            "Sunnyvale, CA",
+            "Kirkland, WA",
+            "Seattle, WA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "222d836c-b253-401e-a3fe-413f8f2f350d",
+        "date_posted": 1760735095,
+        "company_url": "",
+        "is_visible": true
     }
 ]
