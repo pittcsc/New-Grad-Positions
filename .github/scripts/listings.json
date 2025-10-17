@@ -29730,5 +29730,27 @@
         "date_posted": 1760735998,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760736096,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-MO/Cloud-Platform-Engineer-I_1609134",
+        "company_name": "Centene",
+        "title": "Cloud Platform Engineer I",
+        "locations": [
+            "Remote in MO",
+            "Remote in GA",
+            "Remote in TN",
+            "Remote in FL",
+            "Remote in SC"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "c0169d49-d859-4eb0-9fae-66deaa5876fb",
+        "date_posted": 1760736096,
+        "company_url": "",
+        "is_visible": true
     }
 ]
