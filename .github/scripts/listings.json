@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Cadence Design Systems",
-        "id": "b1235d3d-8141-4b06-8e94-866e56eb42a9",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1739939246,
-        "date_posted": 1739939246,
-        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/Burlington-MA/Software-Engineer-1_R49174-2",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Pylon",
         "id": "7f0efd8d-7fd1-43b3-a205-0e4e1ff9fa8a",
         "title": "Software Engineer \u2013 New Grad",
@@ -21318,27 +21302,6 @@
         "date_posted": 1757929148,
         "company_url": "",
         "is_visible": false
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NewsBreak",
-        "id": "1d8e7ec9-fef4-48da-9a60-c4c37d0b3cbc",
-        "title": "Software Engineer \u2013 Junior & New Grad",
-        "active": true,
-        "date_updated": 1757975420,
-        "date_posted": 1739938781,
-        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4054592006",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NewsBreak",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
