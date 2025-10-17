@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "The Trade Desk",
-        "id": "50ec14ed-3ef8-4a27-af0e-3a8791befc1c",
-        "title": "Software Engineer I - 2025 Start",
-        "active": false,
-        "date_updated": 1739923942,
-        "date_posted": 1739923942,
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4655435007",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Cadence Design Systems",
         "id": "b1235d3d-8141-4b06-8e94-866e56eb42a9",
         "title": "Software Engineer 1",
@@ -29386,6 +29370,46 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "a2ffb74c-6eec-4c4c-83da-4869659da1f7",
+        "title": "Software Engineer I - AI Assistant Framework - Arcgis Enterprise",
+        "active": true,
+        "date_updated": 1760660202,
+        "date_posted": 1760660202,
+        "url": "https://www.esri.com/careers/4932485007?gh_jid=4932485007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RELX",
+        "id": "5791ff9b-5300-4df2-8676-42896017cee6",
+        "title": "Software Engineer I - Student Placement  months FTC",
+        "active": true,
+        "date_updated": 1760659303,
+        "date_posted": 1760659303,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Nottingham/Software-Engineer-I---Student-Placement-12-months-FTC_R101564-2",
+        "locations": [
+            "Nottingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/RELX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
