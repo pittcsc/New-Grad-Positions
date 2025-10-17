@@ -29477,5 +29477,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Relativity Space",
+        "id": "4eac7c2a-8806-47f7-b8b5-0a246114ef9f",
+        "title": "Avionics Hardware Engineer I",
+        "active": true,
+        "date_updated": 1760696898,
+        "date_posted": 1760696898,
+        "url": "https://boards.greenhouse.io/relativity/jobs/8216139002",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Relativity-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
