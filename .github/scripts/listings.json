@@ -29789,5 +29789,23 @@
         "date_posted": 1760736226,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760736347,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://microchiphr.wd5.myworkdayjobs.com/en-US/external/job/CA---San-Jose---3850-N-First-St/Engineer-I---Software--FPGA-Place-and-Route-_R1914-25",
+        "company_name": "Microchip Technology",
+        "title": "Engineer I - Software (FPGA Place and Route)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "6315407b-d0bc-4f43-8ea9-5d2d3d36717e",
+        "date_posted": 1760736347,
+        "company_url": "",
+        "is_visible": true
     }
 ]
