@@ -29634,5 +29634,25 @@
         "date_posted": 1760735293,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760735409,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://corebridgefinancial.wd1.myworkdayjobs.com/en-US/corebridgefinancial/job/TX-Houston/Entry-Level---Data-Scientist_JR2501686",
+        "company_name": "Corebridge Financial",
+        "title": "Entry Level \u2013 Data Scientist",
+        "locations": [
+            "Houston, TX",
+            "Woodland Hills, CA",
+            "Jersey City, NJ"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "c243210f-046a-4db3-9406-7d820e1ae90b",
+        "date_posted": 1760735409,
+        "company_url": "",
+        "is_visible": true
     }
 ]
