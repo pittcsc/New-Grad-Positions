@@ -29693,5 +29693,24 @@
         "date_posted": 1760735546,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760735616,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/St-PetersburgTampa-FL/Associate-Cloud-Engineer_J2429707",
+        "company_name": "Jabil",
+        "title": "Associate Cloud Engineer",
+        "locations": [
+            "St. Petersburg, FL",
+            "Tampa, FL"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "c391c4d7-b3b5-4117-b806-abd17ca4c657",
+        "date_posted": 1760735616,
+        "company_url": "",
+        "is_visible": true
     }
 ]
