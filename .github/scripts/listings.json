@@ -20419,7 +20419,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": true,
+        "active": false,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -20521,7 +20521,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -29870,6 +29870,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Veeva Systems",
+        "id": "ff10df50-35b8-47c4-8138-ff9083746abf",
+        "title": "Associate Software Engineer \u2013 Seeking 2025 & 2026 Grads",
+        "active": true,
+        "date_updated": 1760775318,
+        "date_posted": 1760775318,
+        "url": "https://jobs.lever.co/veeva/54f473e7-f225-44b3-beb7-b5d50403fe02/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
