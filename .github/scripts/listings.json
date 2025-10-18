@@ -21192,8 +21192,8 @@
         "company_name": "Sigma Computing",
         "id": "3bdc08a6-567f-4f30-97f0-01943c42a7e9",
         "title": "Software Engineer \u2013 New Grad Program",
-        "active": true,
-        "date_updated": 1757919076,
+        "active": false,
+        "date_updated": 1760818378,
         "date_posted": 1757919076,
         "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7313083003",
         "locations": [
@@ -21203,10 +21203,7 @@
         "company_url": "https://simplify.jobs/c/Sigma-Computing",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "date_updated": 1757927576,
