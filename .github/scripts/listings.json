@@ -29891,5 +29891,45 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Veeva Systems",
+        "id": "4f0ce480-21ee-4bdb-a42b-efac41ad8e1a",
+        "title": "Associate Software Engineer \u2013 Seeking 2025 & 2026 Grads",
+        "active": true,
+        "date_updated": 1760776171,
+        "date_posted": 1760776171,
+        "url": "https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9/apply",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Veeva Systems",
+        "id": "221f4f27-c95d-4fa4-98c1-bbb7b8aa79aa",
+        "title": "Associate Software Engineer \u2013 Seeking 2025 & 2026 Grads",
+        "active": true,
+        "date_updated": 1760776181,
+        "date_posted": 1760776181,
+        "url": "https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6/apply",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
