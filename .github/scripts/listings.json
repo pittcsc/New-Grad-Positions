@@ -9233,7 +9233,7 @@
         "company_name": "Chewy",
         "id": "68821ceb-0090-4a87-8061-42789cb56646",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1753918469,
         "date_posted": 1753918469,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7081410",
@@ -22897,7 +22897,7 @@
         "company_name": "Pinterest",
         "id": "7d4bbb99-10c6-4779-8c77-b7f3e0d6d520",
         "title": "Machine Learning Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1758331404,
         "date_posted": 1758331404,
         "url": "https://job-boards.greenhouse.io/pinterestjobadvertisements/jobs/7264418",
@@ -23696,7 +23696,7 @@
         "company_name": "Lennar Corporation",
         "id": "ca8a35db-e6f3-4eed-b520-d279fa43f2d4",
         "title": "Future Builders Recent College Grad Program - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1758583328,
         "date_posted": 1757025704,
         "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/LEN---Miami-FL---Corporate/Future-Builders-RCG-Program---Software-Engineering_R25_0000003694",
@@ -24064,7 +24064,7 @@
         "company_name": "Lennar Corporation",
         "id": "cb635c69-f2fd-45ce-bed2-f689cf5baadc",
         "title": "Future Builders Recent College Grad Program - Data Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1758644906,
         "date_posted": 1757025701,
         "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/LEN---Miami-FL---Corporate/Future-Builders-RCG-Program---Data-Engineering_R25_0000003696",
@@ -29923,6 +29923,26 @@
             "Pleasanton, CA"
         ],
         "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Applied Intuition",
+        "id": "21c755f3-ad58-4327-88dd-277b0116890f",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1760437844,
+        "date_posted": 1755740540,
+        "url": "https://boards.greenhouse.io/appliedintuition/jobs/4600029005",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Intuition",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
