@@ -6,13 +6,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 487 New Grad Roles by Category
+### Browse 486 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (319)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (8)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (77)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (76)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (14)
 
@@ -2525,7 +2525,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Full Stack .NET Developer - Multiple Teams</td>
 <td>Austin, TX</br>Reston, VA</td>
 <td>🔒</td>
-<td>17d</td>
+<td>18d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Evotec?utm_source=GHList&utm_medium=company">Evotec</a></strong></td>
@@ -5027,13 +5027,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>17d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Sonepar?utm_source=GHList&utm_medium=company">Sonepar</a></strong></td>
-<td>Junior Data Engineer</td>
-<td>Jackson, MS</td>
-<td><div align="center"><a href="https://career.sonepar.com/job/Jackson-Junior-Data-Engineer-MS-39201/1212241101/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d1936b00-4b8f-4cae-8b42-e5661e87bb7a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Applied-Materials?utm_source=GHList&utm_medium=company">Applied Materials</a></strong></td>
 <td>Data Scientist New College Grad - Multiple Teams</td>
 <td>Santa Clara, CA</td>
@@ -5125,7 +5118,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">🔥 Adobe</a></strong></td>
 <td>2026 University Graduate - Data Scientist</td>
 <td>San Jose, CA</td>
 <td><div align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Data-Scientist_R158866?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7f173f22-a3e4-4f68-8261-66e127ed0707?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
@@ -5402,7 +5395,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (66)</summary>
+<summary>🗃️ Inactive roles (67)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -5442,6 +5435,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Seattle, WA</br>San Jose, CA</td>
 <td>🔒</td>
 <td>18d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Sonepar?utm_source=GHList&utm_medium=company">Sonepar</a></strong></td>
+<td>Junior Data Engineer</td>
+<td>Jackson, MS</td>
+<td>🔒</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RELX?utm_source=GHList&utm_medium=company">RELX</a></strong></td>
@@ -6772,7 +6772,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Cadence-Design-Systems?utm_source=GHList&utm_medium=company">Cadence Design Systems</a></strong></td>
 <td>C++ Software Engineer – New College Grad</td>
 <td>Burlington, MA</td>
 <td>🔒</td>
