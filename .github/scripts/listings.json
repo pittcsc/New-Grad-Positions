@@ -29984,5 +29984,45 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "3d4bcfa0-c3fd-4384-8e5f-d16503e431c2",
+        "title": "Software Engineer I - Onsite",
+        "active": true,
+        "date_updated": 1760845427,
+        "date_posted": 1760845427,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MD440-8170-Maple-Lawn-Blvd-Fulton-MD-8170-Maple-Lawn-Boulevard---Fulton-MD-20759-USA/Software-Engineer-I--Onsite-_01801021",
+        "locations": [
+            "Fulton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TeleTracking",
+        "id": "fe22f0f9-715c-43ca-a6f6-0f2997928f32",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1760744103,
+        "date_posted": 1760744103,
+        "url": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/4937967008",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/TeleTracking",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
