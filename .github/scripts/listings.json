@@ -30028,5 +30028,25 @@
             "Master's",
             "JD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RoadRunner Recycling",
+        "id": "0b6c4dc6-3e39-46a3-a0eb-7cb3199dee87",
+        "title": "Software Engineer I - Full-Stack",
+        "active": true,
+        "date_updated": 1760389508,
+        "date_posted": 1760389508,
+        "url": "https://job-boards.greenhouse.io/roadrunner/jobs/4031672009",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/RoadRunner-Recycling",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
