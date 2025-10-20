@@ -30183,5 +30183,23 @@
         "date_posted": 1761004100,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761004191,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Associate-Software-Engineer_R10211419",
+        "company_name": "Northrop Grumman",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "d9980de4-2b70-42e8-bc57-dd8f4aef7f37",
+        "date_posted": 1761004191,
+        "company_url": "",
+        "is_visible": true
     }
 ]
