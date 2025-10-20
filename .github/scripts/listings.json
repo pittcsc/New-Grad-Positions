@@ -26910,8 +26910,8 @@
         "company_name": "Salesforce",
         "id": "fcb34217-b3f9-4df3-b09f-5661dc8d3a7e",
         "title": "AI Forward Deployed Engineer \u2013 Early Career - Agentforce - Software Engineering",
-        "active": true,
-        "date_updated": 1759592127,
+        "active": false,
+        "date_updated": 1760944441,
         "date_posted": 1759592127,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Washington---Bellevue/AI-Forward-Deployed-Engineer--New-Grad-_JR312405-1",
         "locations": [
@@ -26929,9 +26929,7 @@
         "company_url": "https://simplify.jobs/c/Salesforce",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
