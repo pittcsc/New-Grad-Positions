@@ -30165,5 +30165,23 @@
         "date_posted": 1761003868,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761004100,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://uscareers-pepsico.icims.com/jobs/415877/junior-data-scientist-%E2%80%93-new-grad/job",
+        "company_name": "PepsiCo",
+        "title": "Junior Data Scientist",
+        "locations": [
+            "Mississauga, ON"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "8473d46e-a340-4d92-bf27-5374a5875385",
+        "date_posted": 1761004100,
+        "company_url": "",
+        "is_visible": true
     }
 ]
