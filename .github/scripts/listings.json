@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Pylon",
-        "id": "7f0efd8d-7fd1-43b3-a205-0e4e1ff9fa8a",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1740197822,
-        "date_posted": 1740197822,
-        "url": "https://jobs.ashbyhq.com/pylon/69b335e7-0264-43ba-a3c3-f2dc8dfb1212/application",
-        "locations": [
-            "Menlo Park, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/PylonLending",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Cox",
         "id": "27b0e8df-5377-4ec6-84f0-77e94d52c2ae",
         "title": "Software Engineer I",
