@@ -19893,7 +19893,7 @@
         "company_name": "SMX",
         "id": "460df1fc-80a8-4761-8693-657bc844c1d8",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1757444743,
         "date_posted": 1757444743,
         "url": "https://www.smxtech.com/careers/?gh_jid=7141321003",
@@ -20505,7 +20505,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -30102,6 +30102,46 @@
             "Southampton, UK"
         ],
         "company_url": "https://simplify.jobs/c/RELX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Qualtrics",
+        "id": "42a4a32d-cb17-4adf-ab80-055c8824b4ee",
+        "title": "Software Engineer I - Digital Experience",
+        "active": true,
+        "date_updated": 1761002081,
+        "date_posted": 1761002081,
+        "url": "https://www.qualtrics.com/careers/us/en/job/7340628?gh_jid=7340628",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualtrics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Capital One",
+        "id": "cf4297fe-119f-4bd3-899c-40031c9dac08",
+        "title": "Associate \u2013 New Grad - Software Engineer",
+        "active": true,
+        "date_updated": 1761001165,
+        "date_posted": 1761001165,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R223348-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
