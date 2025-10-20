@@ -30069,5 +30069,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "date_updated": 1760994357,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/Rose%20Rocket/c074b14e-ebe0-4a14-beb2-1419eca9d447/application",
+        "company_name": "Roserocket",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "105eff5b-3ca1-493d-b81f-05cf7dde693c",
+        "date_posted": 1760994357,
+        "company_url": "",
+        "is_visible": true
     }
 ]
