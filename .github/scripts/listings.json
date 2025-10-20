@@ -30147,5 +30147,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1761003868,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.shopify.com/careers/demo-engineer-software-development_a6126bad-c0ba-4d02-94fb-7c5e21bef9f5",
+        "company_name": "Shopify",
+        "title": "Demo Engineer, Software Development",
+        "locations": [
+            "Remote in USA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "3b7b1744-bddb-4645-8ffe-3f4b1a0e5adf",
+        "date_posted": 1761003868,
+        "company_url": "",
+        "is_visible": true
     }
 ]
