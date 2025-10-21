@@ -30302,5 +30302,23 @@
         "date_posted": 1761068952,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761069073,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.battelle.org/us/en/job/BMIBMIUS75654EXTERNALENUS/Early-Career-Software-Engineer",
+        "company_name": "Battelle",
+        "title": "Early Career Software Engineer",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "f29707a4-936f-4644-b392-cf44bbbdfbfa",
+        "date_posted": 1761069073,
+        "company_url": "",
+        "is_visible": true
     }
 ]
