@@ -30201,5 +30201,48 @@
         "date_posted": 1761004191,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "4e1ec0f3-85ff-4f22-b10c-37f8efee27af",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1761006232,
+        "date_posted": 1761006232,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/09f6d3f8-3a52-4f6b-9ba3-c91fec1e6086/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Revionics",
+        "id": "9873b7c9-836b-4c1f-ac5a-d2e1bd8eb06b",
+        "title": "Machine Learning Engineer \u2013 New Graduate",
+        "active": true,
+        "date_updated": 1761005407,
+        "date_posted": 1761005407,
+        "url": "https://revionics.com/about/careers/open-jobs?gh_jid=7172125",
+        "locations": [
+            "Austin, TX",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Revionics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
