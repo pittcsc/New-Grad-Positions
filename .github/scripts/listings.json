@@ -30284,5 +30284,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1761068952,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Associate-Software-Engineer_JR-914584?source=Linkedin",
+        "company_name": "Evolent",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Remote"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "f65d4916-fb32-42fd-8d7f-6e675f17c844",
+        "date_posted": 1761068952,
+        "company_url": "",
+        "is_visible": true
     }
 ]
