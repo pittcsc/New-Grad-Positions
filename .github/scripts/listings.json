@@ -30320,5 +30320,23 @@
         "date_posted": 1761069073,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761069578,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.spotandtango.com/careers?gh_jid=4620638005",
+        "company_name": "Spot & Tango",
+        "title": "Jr. Software Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "993ac503-c6ec-4aea-8729-a736a944f3e0",
+        "date_posted": 1761069578,
+        "company_url": "",
+        "is_visible": true
     }
 ]
