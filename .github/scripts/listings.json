@@ -30376,5 +30376,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SMX",
+        "id": "6b0e1cce-1603-4928-8862-c9be2bbf7727",
+        "title": "Junior Data Scientist",
+        "active": true,
+        "date_updated": 1761170320,
+        "date_posted": 1761170320,
+        "url": "https://www.smxtech.com/careers/?gh_jid=7498313003",
+        "locations": [
+            "Patuxent River, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Smx",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
