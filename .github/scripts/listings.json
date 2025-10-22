@@ -30358,5 +30358,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hastings Direct",
+        "id": "3fcf882e-b106-447c-95fb-7b793b897e9a",
+        "title": "Junior Data Scientist - ",
+        "active": true,
+        "date_updated": 1761096036,
+        "date_posted": 1761096036,
+        "url": "https://hastingsdirect.wd3.myworkdayjobs.com/external_careers/job/London/Junior-Data-Scientist_60012560-1",
+        "locations": [
+            "London, UK",
+            "Leicester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hastings-Direct",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
