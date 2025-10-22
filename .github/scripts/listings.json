@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "USAA",
-        "id": "cd1e2acf-03bb-4fd7-b4fe-b5041860a5cb",
-        "title": "Software Engineer Entry Level",
-        "active": false,
-        "date_updated": 1740430781,
-        "date_posted": 1740430781,
-        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer-Entry-Level_R0107289",
-        "locations": [
-            "San Antonio, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Cox",
         "id": "a8f5b8eb-be6c-487f-9b83-84a4fb9fe28a",
         "title": "Software Engineer I",
@@ -3131,22 +3115,6 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/788246ec-e89c-499a-bb15-9a02acb178a9",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Curtiss-Wright Corporation",
-        "id": "0ac44fa3-4d8a-4242-bacc-4690d61dfb7a",
-        "title": "Junior Software Developer",
-        "active": false,
-        "date_updated": 1745412218,
-        "date_posted": 1740429670,
-        "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/Canada-Ottawa/Software-Developer-Onsite-Position---Ottawa--ON_JR7616",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Curtiss-Wright",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -20371,7 +20339,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": false,
+        "active": true,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -20636,7 +20604,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
         "title": "Entry Level Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1757611606,
         "date_posted": 1757611606,
         "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
@@ -30363,6 +30331,26 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/D2L",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "93c78b5d-5ecf-4eca-a08f-9ac97eb0a260",
+        "title": "Software Engineer I - Hardware Test - R3999",
+        "active": true,
+        "date_updated": 1761165452,
+        "date_posted": 1761165452,
+        "url": "https://jobs.lever.co/shieldai/8ed6bd48-2bf0-44a2-812d-7d8a2ab6b9f0/apply",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
