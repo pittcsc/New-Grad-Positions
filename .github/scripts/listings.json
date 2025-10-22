@@ -20403,7 +20403,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": false,
+        "active": true,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -30338,5 +30338,25 @@
         "date_posted": 1761069578,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capitolis",
+        "id": "e55e0b4b-64d9-41cf-bde0-50d494620b07",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1761092610,
+        "date_posted": 1761092610,
+        "url": "https://capitolis.com/careers/job/?gh_jid=6670061003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Capitolis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
