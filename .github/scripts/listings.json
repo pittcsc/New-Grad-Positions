@@ -30804,5 +30804,23 @@
         "date_posted": 1761217494,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761217917,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://uscareers-docusign.icims.com/jobs/27628/software-engineering/job",
+        "company_name": "Docusign",
+        "title": "Software Engineering",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "7d4125be-5513-424f-add4-7138bf3ea142",
+        "date_posted": 1761217917,
+        "company_url": "",
+        "is_visible": true
     }
 ]
