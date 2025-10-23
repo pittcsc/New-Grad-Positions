@@ -30639,5 +30639,23 @@
         "date_posted": 1761212766,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761212947,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Full-time---Java-Software-Engineer-I---Onsite--PA-_01801593",
+        "company_name": "RTX",
+        "title": "Java Software Engineer I",
+        "locations": [
+            "State College, PA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "3d6eb1e3-1840-4528-988a-d21c09064f3d",
+        "date_posted": 1761212947,
+        "company_url": "",
+        "is_visible": true
     }
 ]
