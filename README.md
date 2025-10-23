@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 513 New Grad Roles by Category
+### Browse 514 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (338)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (339)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (10)
 
@@ -80,6 +80,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>🔥 Microsoft</strong></td>
+<td>Software Engineer 🛂</td>
+<td>India</td>
+<td><a href="https://jobs.careers.microsoft.com/global/en/job/1900192/Software-Engineering?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong>2K</strong></td>
 <td>Software Development Engineer in Test I (SDET I)</td>
@@ -820,7 +827,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer, Fullstack</td>
 <td>San Francisco, CA</br>New York, NY</td>
 <td><a href="https://jobs.ashbyhq.com/notion/f7399542-9122-481a-bf64-43bf8093748b?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Meshy?utm_source=GHList&utm_medium=company">Meshy</a></strong></td>

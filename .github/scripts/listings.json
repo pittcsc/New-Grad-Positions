@@ -30786,5 +30786,23 @@
         "date_posted": 1761216799,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761217494,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1900192/Software-Engineering",
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "locations": [
+            "India"
+        ],
+        "category": "Software Engineering",
+        "source": "shail-patel-321",
+        "id": "9cbd7fb6-4fb2-4d80-93e9-df2c611812dd",
+        "date_posted": 1761217494,
+        "company_url": "",
+        "is_visible": true
     }
 ]
