@@ -30550,5 +30550,23 @@
         "date_posted": 1761211699,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761211981,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://logitech.wd5.myworkdayjobs.com/en-US/logitech/job/San-Jose-California---USA/Junior-Software-QA-Engineer_144324",
+        "company_name": "Logitech",
+        "title": "Junior Software QA Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "464f43ed-d9e1-4b22-9f15-0b32b482d844",
+        "date_posted": 1761211981,
+        "company_url": "",
+        "is_visible": true
     }
 ]
