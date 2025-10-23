@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 518 New Grad Roles by Category
+### Browse 517 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (343)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (342)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (10)
 
@@ -113,13 +113,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineering 🛂</td>
 <td>Seattle, WA</td>
 <td><a href="https://uscareers-docusign.icims.com/jobs/27628/software-engineering/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>0d</td>
-</tr>
-<tr>
-<td><strong>🔥 Microsoft</strong></td>
-<td>Software Engineer 🛂</td>
-<td>India</td>
-<td><a href="https://jobs.careers.microsoft.com/global/en/job/1900192/Software-Engineering?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -834,7 +827,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 2026 New Grad</td>
 <td>SF</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/persona/fd4d41b2-42b4-454e-91ad-d61fdc6a0042/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d98b5156-3839-4397-a1d7-d5af66db0527?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/ICF-International?utm_source=GHList&utm_medium=company">ICF International</a></strong></td>
