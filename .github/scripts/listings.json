@@ -30876,5 +30876,23 @@
         "date_posted": 1761228556,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761236989,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1894673/Software-Engineer",
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "locations": [
+            "Remond, WA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1cd30c6c-7bba-4173-8210-0c3fc34c38a7",
+        "date_posted": 1761236989,
+        "company_url": "",
+        "is_visible": true
     }
 ]
