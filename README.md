@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 510 New Grad Roles by Category
+### Browse 511 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (336)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (337)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (9)
 
@@ -80,6 +80,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/D2L?utm_source=GHList&utm_medium=company">D2L</a></strong></td>
+<td>Software Developer Rotation Program</td>
+<td><details><summary><strong>4 locations</strong></summary>Kitchener, ON, CAN</br>Toronto, ON, CAN</br>Vancouver, BC, CAN</br>Winnipeg, MB, CAN</details></td>
+<td><a href="https://www.d2l.com/careers/jobs/software-developer-rotation-program-spring-2026-new-graduate/7336031/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Software Engineer I 🇺🇸</td>
