@@ -30532,5 +30532,23 @@
         "date_posted": 1761211393,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761211699,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Edinburgh-SC-Freer/Associate-Engineer--Embedded-Software_R257164",
+        "company_name": "Analog Devices",
+        "title": "Associate Engineer, Embedded Software",
+        "locations": [
+            "Edinburgh, SC, UK"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "cf0f8d2d-ba56-4f2c-83e7-2e978574cbd6",
+        "date_posted": 1761211699,
+        "company_url": "",
+        "is_visible": true
     }
 ]
