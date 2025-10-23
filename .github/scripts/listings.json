@@ -30511,5 +30511,26 @@
         "date_posted": 1761211000,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761211393,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us/",
+        "company_name": "Citadel Securities",
+        "title": "Quantitative Research Engineer",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "f7e19966-4915-4ccd-9a1b-f31140c69353",
+        "date_posted": 1761211393,
+        "company_url": "",
+        "is_visible": true
     }
 ]
