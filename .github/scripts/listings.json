@@ -30750,5 +30750,23 @@
         "date_posted": 1761215683,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761215879,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://nabancard.wd1.myworkdayjobs.com/nab/job/US---Remote/Associate-Product-Engineer_JR101530",
+        "company_name": "NorthAB",
+        "title": "Associate Product Engineer",
+        "locations": [
+            "Remote in USA"
+        ],
+        "category": "Product Management",
+        "source": "AlmondCroffle",
+        "id": "02c7e07f-357f-47e2-ad51-267f548f6f9a",
+        "date_posted": 1761215879,
+        "company_url": "",
+        "is_visible": true
     }
 ]

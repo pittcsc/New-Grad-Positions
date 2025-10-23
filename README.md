@@ -6,11 +6,11 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 511 New Grad Roles by Category
+### Browse 512 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (337)
 
-📱 **[Product Management](#-product-management-new-grad-roles)** (9)
+📱 **[Product Management](#-product-management-new-grad-roles)** (10)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (81)
 
@@ -4876,6 +4876,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NorthAB</strong></td>
+<td>Associate Product Engineer 🛂</td>
+<td>Remote in USA</td>
+<td><a href="https://nabancard.wd1.myworkdayjobs.com/nab/job/US---Remote/Associate-Product-Engineer_JR101530?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong>FIS</strong></td>
 <td>Entry Level Technical Systems Analyst - Cloud background required</td>
