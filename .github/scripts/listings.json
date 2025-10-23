@@ -30603,5 +30603,23 @@
         "date_posted": 1761212221,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761212532,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4608642006",
+        "company_name": "SharkNinja",
+        "title": "Software Development Testing Engineer I",
+        "locations": [
+            "Needham, MA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "50028f47-431d-46d7-95a9-cc5d269c8348",
+        "date_posted": 1761212532,
+        "company_url": "",
+        "is_visible": true
     }
 ]
