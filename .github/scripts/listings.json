@@ -20324,7 +20324,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": true,
+        "active": false,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -30876,5 +30876,45 @@
         "date_posted": 1761236989,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DV Trading",
+        "id": "32314f06-2c67-40a5-abe3-6665e42b67cd",
+        "title": "2026 Graduate Software Developer - DV Commodities",
+        "active": true,
+        "date_updated": 1761249396,
+        "date_posted": 1754086272,
+        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4592931005",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/DV-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DV Trading",
+        "id": "ebce2464-8a88-4bfb-ace3-36495434337a",
+        "title": "2026 Graduate Software Developer - DV Commodities",
+        "active": true,
+        "date_updated": 1761249392,
+        "date_posted": 1754086269,
+        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4589615005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DV-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
