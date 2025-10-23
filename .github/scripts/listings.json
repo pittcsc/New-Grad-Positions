@@ -30568,5 +30568,40 @@
         "date_posted": 1761211981,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761212221,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/us_experienced_careers/job/GA-Atlanta/Cloud-Security-Experienced-Associate_671668WD-1",
+        "company_name": "PricewaterhouseCoopers (PwC)",
+        "title": "Cloud Security Experienced Associate",
+        "locations": [
+            "Atlanta, GA",
+            "Tampa, FL",
+            "Chicago, IL",
+            "Austin, TX",
+            "Washington, DC",
+            "Dallas, TX",
+            "Los Angeles, CA",
+            "Minneapolis, MN",
+            "Denver, CO",
+            "Detroit, MI",
+            "Boston, MA",
+            "Florham Park, NJ",
+            "New York, NY",
+            "San Francisco, CA",
+            "Silicon Valley, CA",
+            "Philadelphia, PA",
+            "Seattle, WA",
+            "Houston, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "fba2b1de-c490-4133-8e6c-186c281e59b2",
+        "date_posted": 1761212221,
+        "company_url": "",
+        "is_visible": true
     }
 ]
