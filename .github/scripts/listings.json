@@ -30858,5 +30858,23 @@
         "date_posted": 1761218991,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761228556,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR158465EXTERNALENUS/Software-Development-Engineer",
+        "company_name": "Adobe",
+        "title": "Software Development Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "92782192-cb9c-4040-a403-a599b825a952",
+        "date_posted": 1761228556,
+        "company_url": "",
+        "is_visible": true
     }
 ]
