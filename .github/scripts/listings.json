@@ -30493,5 +30493,23 @@
         "date_posted": 1761210817,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761211000,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.smxtech.com/jobs/smxtech/junior-data-scientist-4755/",
+        "company_name": "SMX",
+        "title": "Junior Data Scientist",
+        "locations": [
+            "Patuxent River, MD"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "64670896-ca74-4a3f-82be-ae7f2fc0ec6d",
+        "date_posted": 1761211000,
+        "company_url": "",
+        "is_visible": true
     }
 ]
