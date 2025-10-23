@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 519 New Grad Roles by Category
+### Browse 518 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (344)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (343)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (10)
 
@@ -183,13 +183,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Cloud Security Experienced Associate 🛂</td>
 <td><details><summary><strong>18 locations</strong></summary>Atlanta, GA</br>Tampa, FL</br>Chicago, IL</br>Austin, TX</br>Washington, DC</br>Dallas, TX</br>Los Angeles, CA</br>Minneapolis, MN</br>Denver, CO</br>Detroit, MI</br>Boston, MA</br>Florham Park, NJ</br>New York, NY</br>San Francisco, CA</br>Silicon Valley, CA</br>Philadelphia, PA</br>Seattle, WA</br>Houston, TX</details></td>
 <td><a href="https://pwc.wd3.myworkdayjobs.com/en-US/us_experienced_careers/job/GA-Atlanta/Cloud-Security-Experienced-Associate_671668WD-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>0d</td>
-</tr>
-<tr>
-<td><strong>Logitech</strong></td>
-<td>Junior Software QA Engineer</td>
-<td>San Jose, CA</td>
-<td><a href="https://logitech.wd5.myworkdayjobs.com/en-US/logitech/job/San-Jose-California---USA/Junior-Software-QA-Engineer_144324?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -848,7 +841,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Developer – Entry Level - Summer 2026</td>
 <td>Reston, VA</td>
 <td><div align="center"><a href="https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Software-Developer--Summer-2026--Entry-Level--Remote-_R2502713?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9b0ce0d5-9785-473a-acc4-c5fdb6a42dfa?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong>Wolverine Trading</strong></td>
