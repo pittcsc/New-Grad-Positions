@@ -30621,5 +30621,23 @@
         "date_posted": 1761212532,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761212766,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://fis.wd5.myworkdayjobs.com/en-US/SearchJobs/job/US-FL-JAX-347/Entry-Level-Technical-Systems-Analyst---Must-have-knowledge-of-Linux--Unix--and-Windows--Open-_JR0298762",
+        "company_name": "FIS",
+        "title": "Entry Level Technical Systems Analyst - Cloud background required",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "category": "Product Management",
+        "source": "AlmondCroffle",
+        "id": "313d18e5-2cf1-4e15-8d6b-e333b6a51baf",
+        "date_posted": 1761212766,
+        "company_url": "",
+        "is_visible": true
     }
 ]
