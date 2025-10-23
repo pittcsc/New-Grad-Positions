@@ -30693,5 +30693,23 @@
         "date_posted": 1761213418,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761214496,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN206-3939PriorityWay-3939-Priority-Way-Building-6-Indianapolis-IN-46240-USA/Software-Engineer-I---Onsite--IN-_01801710",
+        "company_name": "RTX",
+        "title": "Software Engineer I",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1318145a-f167-414b-8508-cff015fd63e5",
+        "date_posted": 1761214496,
+        "company_url": "",
+        "is_visible": true
     }
 ]
