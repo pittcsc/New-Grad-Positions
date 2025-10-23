@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Cox",
-        "id": "a8f5b8eb-be6c-487f-9b83-84a4fb9fe28a",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1740500466,
-        "date_posted": 1740500466,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202558865",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Teledyne",
         "id": "12bdc17d-bacd-4355-a17e-5c08ae7a38bf",
         "title": "Junior Research Engineer",
