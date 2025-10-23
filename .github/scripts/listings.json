@@ -30423,7 +30423,7 @@
         ]
     },
     {
-        "date_updated": 1761209366,
+        "date_updated": 1761244889,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [],
@@ -30431,9 +30431,7 @@
         "company_name": "Zapier",
         "title": "Software Engineer, Backend-leaning Full Stack or Backend (Runner Team)",
         "locations": [
-            "Remote in USA",
-            "Remote in CAN",
-            "Remote Globally"
+            "Remote"
         ],
         "category": "Software Engineering",
         "source": "AlmondCroffle",
