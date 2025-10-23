@@ -30436,5 +30436,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1761209366,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/zapier/63b14a57-064a-4617-bb8c-4a67c860e1e6",
+        "company_name": "Zapier",
+        "title": "Software Engineer, Backend-leaning Full Stack or Backend (Runner Team)",
+        "locations": [
+            "Remote in USA",
+            "Remote in CAN",
+            "Remote Globally"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "5f2cd0e0-9a14-4d9f-ad46-286dc5a045d7",
+        "date_posted": 1761209366,
+        "company_url": "",
+        "is_visible": true
     }
 ]
