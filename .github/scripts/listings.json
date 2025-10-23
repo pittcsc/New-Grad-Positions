@@ -30711,5 +30711,23 @@
         "date_posted": 1761214496,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761215298,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--CO-_01801589",
+        "company_name": "RTX",
+        "title": "Software Engineer I",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "ae3137d2-f144-4258-88b7-1c02551650d2",
+        "date_posted": 1761215298,
+        "company_url": "",
+        "is_visible": true
     }
 ]
