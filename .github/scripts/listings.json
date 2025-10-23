@@ -30416,5 +30416,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SS&C",
+        "id": "a1410a29-c173-4ed5-8cd4-28db286eea33",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1761092752,
+        "date_posted": 1761092752,
+        "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Windsor-CT/Junior-Software-Developer_R36760",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/SSC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
