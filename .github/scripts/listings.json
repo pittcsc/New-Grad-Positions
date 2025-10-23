@@ -30475,5 +30475,23 @@
         "date_posted": 1761210278,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761210817,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://aes.wd1.myworkdayjobs.com/en-US/AES_US/job/US-Indianapolis-IN/Junior-Data-Scientist_R1061631",
+        "company_name": "AES Corporation",
+        "title": "Junior Data Scientist",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "73d20479-a9e7-43df-a7a2-7e0b5ba585ec",
+        "date_posted": 1761210817,
+        "company_url": "",
+        "is_visible": true
     }
 ]
