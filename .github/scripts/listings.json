@@ -30840,5 +30840,23 @@
         "date_posted": 1761218267,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761218991,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/elevenlabs/bed47ac1-9c5c-44ae-8965-3a4312706328",
+        "company_name": "ElevenLabs",
+        "title": "Growth Engineering - Mobile",
+        "locations": [
+            "Remote Globally"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "d99d9d6f-3362-4114-b89f-fcd07434fa3f",
+        "date_posted": 1761218991,
+        "company_url": "",
+        "is_visible": true
     }
 ]
