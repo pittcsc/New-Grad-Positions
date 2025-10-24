@@ -30885,5 +30885,25 @@
         "date_posted": 1761287926,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761287960,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.boerboeltrading.com/jobs.html?gh_jid=5670371004",
+        "company_name": "Boerboel",
+        "title": "Developer",
+        "locations": [
+            "New York, NY",
+            "Chicago, IL",
+            "London, UK"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "3e052335-d644-4c6c-bee7-3057e3d555e8",
+        "date_posted": 1761287960,
+        "company_url": "",
+        "is_visible": true
     }
 ]

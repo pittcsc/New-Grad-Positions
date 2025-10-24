@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 517 New Grad Roles by Category
+### Browse 518 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (342)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (343)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (10)
 
@@ -80,6 +80,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Boerboel</strong></td>
+<td>Developer</td>
+<td>New York, NY</br>Chicago, IL</br>London, UK</td>
+<td><a href="https://www.boerboeltrading.com/jobs.html?gh_jid=5670371004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RELX?utm_source=GHList&utm_medium=company">RELX</a></strong></td>
 <td>Tech Accelerate Graduate Program - Software Engineer (June)</td>
