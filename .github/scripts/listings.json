@@ -30905,5 +30905,23 @@
         "date_posted": 1761287960,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761287984,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/amplitude/jobs/8223048002",
+        "company_name": "Amplitude",
+        "title": "Software Engineer I, Growth Platform",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "624fc6b0-a5d4-4328-83d0-e0b4173e6b78",
+        "date_posted": 1761287984,
+        "company_url": "",
+        "is_visible": true
     }
 ]
