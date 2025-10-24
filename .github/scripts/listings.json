@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "KBR",
-        "id": "871e08f9-4581-4a47-84c3-662f3f14ff0c",
-        "title": "Junior Software Developer",
-        "active": false,
-        "date_updated": 1740530363,
-        "date_posted": 1740530363,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Springfield-Virginia/Junior-Software-Developer_R2098967",
-        "locations": [
-            "Springfield, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/KBR",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Adobe",
         "id": "e6e76bc9-f0d3-4345-9a47-9133dc723ee6",
         "title": "Software Development Engineer 1",
@@ -577,22 +561,6 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Whoop",
-        "id": "5de1c3ac-3ffe-4fc2-bf0c-a547b5b4d15f",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1741655648,
-        "date_posted": 1740529975,
-        "url": "https://jobs.lever.co/whoop/f6a52874-4099-4768-b5bb-66b211c12140/apply",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Whoop",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -30834,6 +30802,26 @@
             "Aurora, CO"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "676e9f3c-e166-4409-95c3-cd96c5b4bd08",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1761265797,
+        "date_posted": 1761265797,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148073",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
