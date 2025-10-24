@@ -30827,5 +30827,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1761287865,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.boerboeltrading.com/jobs.html?gh_jid=5681668004",
+        "company_name": "Boerboel",
+        "title": "Quantitative Researcher",
+        "locations": [
+            "New York, NY",
+            "Chicago, IL",
+            "London, UK"
+        ],
+        "category": "Quantitative Finance",
+        "source": "angie-hue",
+        "id": "05384dfe-3c5b-40be-b984-1e6855e92967",
+        "date_posted": 1761287865,
+        "company_url": "",
+        "is_visible": true
     }
 ]
