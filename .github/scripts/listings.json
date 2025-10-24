@@ -30849,12 +30849,10 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761287895,
+        "date_updated": 1761337891,
         "sponsorship": "Other",
         "active": true,
-        "degrees": [
-            "Master's"
-        ],
+        "degrees": [],
         "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/mgbexternal/job/Boston-MA/Data-Analyst-I-Bioinformatician-Rheumatology_RQ4038981",
         "company_name": "Mass General Brigham",
         "title": "Data Analyst I Bioinformatician Rheumatology",
@@ -30866,7 +30864,7 @@
         "id": "f4b9ae2a-0d00-4989-ad83-f3a74f1b361c",
         "date_posted": 1761287895,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1761287926,
