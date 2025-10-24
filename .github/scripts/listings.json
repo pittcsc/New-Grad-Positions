@@ -30923,5 +30923,23 @@
         "date_posted": 1761287984,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761288024,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.oracle.com/en/sites/jobsearch/job/312200",
+        "company_name": "Oracle",
+        "title": "Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI)",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "7c363f36-2fc1-4cf8-930d-0e7034241f61",
+        "date_posted": 1761288024,
+        "company_url": "",
+        "is_visible": true
     }
 ]
