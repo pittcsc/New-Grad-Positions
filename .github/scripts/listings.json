@@ -1,70 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Onto Innovation",
-        "id": "34bb1875-7334-4028-8e57-fd6283e37b2f",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1740528631,
-        "date_posted": 1740528631,
-        "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Tucson-AZ/Software-Engineer-1_R-4313",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Onto-Innovation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Healthfirst",
-        "id": "cbce0fc3-4ecd-462b-8850-9144178409bd",
-        "title": "Technology Early Career Development Program - Full Stack Developer",
-        "active": false,
-        "date_updated": 1740528646,
-        "date_posted": 1740528646,
-        "url": "https://healthfirst.wd1.myworkdayjobs.com/healthfirst/job/Hybrid---NY/XMLNAME-2025-Technology-Early-Career-Development-Program---Full-Stack-Developer_R020017",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Healthfirst",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Wood Mackenzie",
-        "id": "07475729-6892-4070-8a63-a553fcfa9a6c",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1740528598,
-        "date_posted": 1740528598,
-        "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Software-Engineer-I_JR1383-1",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Wood-Mackenzie",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cox",
-        "id": "f8f8c43c-8d56-44e9-aa13-7f887bfc39ca",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1740529389,
-        "date_posted": 1740529389,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202558007",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "KBR",
         "id": "871e08f9-4581-4a47-84c3-662f3f14ff0c",
         "title": "Junior Software Developer",
@@ -2093,23 +2029,6 @@
             "Philadelphia, PA"
         ],
         "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "National Audubon Society",
-        "id": "98c5b79d-f3e7-4260-918b-ce5bc3a58a04",
-        "title": "Junior Data Engineer",
-        "active": false,
-        "date_updated": 1741914671,
-        "date_posted": 1740529740,
-        "url": "https://audubon.wd5.myworkdayjobs.com/Audubon/job/New-York-NY/Junior-Data-Engineer_JR624",
-        "locations": [
-            "Washington, DC",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/National-Audubon-Society",
         "is_visible": true,
         "sponsorship": "Other"
     },
