@@ -30941,5 +30941,23 @@
         "date_posted": 1761288024,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761288181,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--January-_R100297",
+        "company_name": "RELX",
+        "title": "Tech Accelerate Graduate Program - Software Engineer (January)",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "0a402116-2fb3-4be5-bcf0-91f2b47025ca",
+        "date_posted": 1761288181,
+        "company_url": "",
+        "is_visible": true
     }
 ]
