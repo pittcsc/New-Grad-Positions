@@ -30945,5 +30945,23 @@
         "date_posted": 1761354391,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761354446,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://radiancetech.wd12.myworkdayjobs.com/en-US/radiance_external/job/Beavercreek-OH/Junior-Full-Stack-Software-Engineer_HR101852",
+        "company_name": "Radiance Technologies",
+        "title": "Junior Full Stack Software Engineer",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "3dcee525-cbfb-4276-a5fa-4ed0d86bc94f",
+        "date_posted": 1761354446,
+        "company_url": "",
+        "is_visible": true
     }
 ]
