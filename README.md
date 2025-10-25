@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 520 New Grad Roles by Category
+### Browse 521 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (344)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (345)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (10)
 
@@ -80,6 +80,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>DMA</strong></td>
+<td>Associate Software Engineer 🛂</td>
+<td>Fort Wayne, IN</td>
+<td><a href="https://dmainc.wd5.myworkdayjobs.com/en-US/dma/job/Fort-Wayne-IN/Associate-Software-Engineer_REQ206?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong>Radiance Technologies</strong></td>
 <td>Junior Full Stack Software Engineer 🇺🇸</td>

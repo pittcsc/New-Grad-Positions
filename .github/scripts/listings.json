@@ -30963,5 +30963,23 @@
         "date_posted": 1761354446,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761354498,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://dmainc.wd5.myworkdayjobs.com/en-US/dma/job/Fort-Wayne-IN/Associate-Software-Engineer_REQ206",
+        "company_name": "DMA",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "8de921bb-1903-405a-a74f-8e450029fc69",
+        "date_posted": 1761354498,
+        "company_url": "",
+        "is_visible": true
     }
 ]
