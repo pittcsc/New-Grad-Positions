@@ -1,38 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Adobe",
-        "id": "e6e76bc9-f0d3-4345-9a47-9133dc723ee6",
-        "title": "Software Development Engineer 1",
-        "active": false,
-        "date_updated": 1740616284,
-        "date_posted": 1740616284,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer-1_R154031",
-        "locations": [
-            "Lehi, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Ciena",
-        "id": "0c0f0d44-9cdd-477e-aa21-f4956dc2ebf0",
-        "title": "Wavelogic Software Developer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1740617063,
-        "date_posted": 1740617063,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R027194",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "eBay",
         "id": "e7be3663-17a6-4893-88c2-343079ea6812",
         "title": "Software Engineer 1",
