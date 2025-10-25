@@ -30981,5 +30981,23 @@
         "date_posted": 1761354498,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761354551,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/Promise/f1bdeaba-567d-4d57-97b6-2d78719c0443",
+        "company_name": "Promise",
+        "title": "Software Engineer \u2013 Forward Deployed AI (New Grad)",
+        "locations": [
+            "Washington, D.C."
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "3b438dc8-8ffb-4f18-8aa4-7eb56191fcab",
+        "date_posted": 1761354551,
+        "company_url": "",
+        "is_visible": true
     }
 ]
