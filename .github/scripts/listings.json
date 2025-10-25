@@ -31017,5 +31017,25 @@
         "date_posted": 1761354606,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fidelity National Information Services",
+        "id": "cbbdcd6c-5c6c-48b8-827e-301428151c58",
+        "title": "Software Engineer I - C++ and Payments Systems",
+        "active": true,
+        "date_updated": 1761385915,
+        "date_posted": 1761385915,
+        "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/PHL-MAKA-8767-FLR42/Software-Engineer-I--C---and-Payments-Systems-_JR0300399",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-National-Information-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
