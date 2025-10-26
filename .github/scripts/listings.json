@@ -31015,5 +31015,25 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "2c40466c-9807-4564-b790-fc5981e2c872",
+        "title": "Junior Software Engineer - ",
+        "active": true,
+        "date_updated": 1761505342,
+        "date_posted": 1761505342,
+        "url": "https://careers-gdms.icims.com/jobs/68513/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dedham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
