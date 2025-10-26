@@ -1,20 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Apple",
-        "id": "e1182df4-c638-44ac-8b6a-a76247b838ff",
-        "title": "Software Development Engineer in Test \u2013 Early Career - Retail Engineering",
-        "active": false,
-        "date_updated": 1740775398,
-        "date_posted": 1740775398,
-        "url": "https://jobs.apple.com/en-us/details/200592987",
-        "locations": [],
-        "company_url": "https://simplify.jobs/c/Apple",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Sierra Nevada Coporation",
         "id": "19f38bf7-9f66-4300-a0ce-0d3baf782090",
         "title": "Software Engineer I",
@@ -20083,7 +20069,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": true,
+        "active": false,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
