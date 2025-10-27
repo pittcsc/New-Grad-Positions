@@ -19169,8 +19169,8 @@
         "company_name": "Adobe",
         "id": "cf31e3a7-ad75-4417-ba00-3fcbc98b644f",
         "title": "2026 University Graduate - Machine Learning Engineer",
-        "active": true,
-        "date_updated": 1757385678,
+        "active": false,
+        "date_updated": 1761557399,
         "date_posted": 1757385678,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R157573",
         "locations": [
@@ -19179,10 +19179,7 @@
         "company_url": "https://simplify.jobs/c/Adobe",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
