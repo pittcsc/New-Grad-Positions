@@ -26795,8 +26795,8 @@
         "company_name": "Fullbay",
         "id": "419f72c2-240d-4b3d-a47e-2ce148967ba0",
         "title": "Software Engineer I",
-        "active": true,
-        "date_updated": 1759808742,
+        "active": false,
+        "date_updated": 1761563968,
         "date_posted": 1759808742,
         "url": "https://fullbay.bamboohr.com/careers/178/",
         "locations": [
@@ -26805,9 +26805,7 @@
         "company_url": "https://simplify.jobs/c/Fullbay",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
