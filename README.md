@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 476 New Grad Roles by Category
+### Browse 475 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (318)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (317)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (9)
 
@@ -2167,13 +2167,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong>Coalition</strong></td>
-<td>Software Engineer I</td>
-<td>Remote in Canada</td>
-<td><a href="https://www.coalitioninc.com/job-posting/4560712005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>3mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Mthree?utm_source=GHList&utm_medium=company">mthree</a></strong></td>
 <td>Développeur génie logiciel / Junior Software Developer</td>
 <td>Montreal, QC</td>
@@ -2311,7 +2304,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (380)</summary>
+<summary>🗃️ Inactive roles (381)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -4335,6 +4328,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 <tr>
 <td><strong>Coalition</strong></td>
+<td>Software Engineer I</td>
+<td>Remote in Canada</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Software Engineer I</td>
 <td>Remote in USA</td>
 <td>🔒</td>
