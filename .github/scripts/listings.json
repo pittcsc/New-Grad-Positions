@@ -26665,12 +26665,10 @@
         "is_visible": false
     },
     {
-        "date_updated": 1759737295,
+        "date_updated": 1761559190,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Master's"
-        ],
+        "active": false,
+        "degrees": [],
         "url": "https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/745-7th-Avenue-New-York/Quantitative-Finance-Risk-Associate-Graduate-Program-2026-New-York_JR-0000076042",
         "company_name": "Barclays",
         "title": "Quantitative Finance Risk Associate Graduate Program",
