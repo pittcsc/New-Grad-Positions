@@ -23777,8 +23777,8 @@
         "company_name": "Adobe",
         "id": "2a4144eb-d683-41ab-aa6b-4054edea48eb",
         "title": "University Graduate - Data Scientist",
-        "active": true,
-        "date_updated": 1758666320,
+        "active": false,
+        "date_updated": 1761559562,
         "date_posted": 1758666320,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Data-Scientist_R160661",
         "locations": [
@@ -23788,10 +23788,7 @@
         "company_url": "https://simplify.jobs/c/Adobe",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
