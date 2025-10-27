@@ -12718,8 +12718,8 @@
         "company_name": "Citadel",
         "id": "703ca800-7739-4af0-ac22-fe5aa240bd03",
         "title": "Software Engineer \u2013 University Graduate",
-        "active": true,
-        "date_updated": 1755287791,
+        "active": false,
+        "date_updated": 1761555791,
         "date_posted": 1755287791,
         "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-europe/",
         "locations": [
@@ -12727,7 +12727,8 @@
         ],
         "company_url": "https://simplify.jobs/c/Citadel",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": []
     },
     {
         "source": "Simplify",
