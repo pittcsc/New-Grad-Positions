@@ -28933,8 +28933,8 @@
         "company_name": "NVIDIA",
         "id": "f2bbd6fe-b223-437d-ab87-208146764b13",
         "title": "Compiler Engineer \u2013 LLVM-New College Grad 2025",
-        "active": true,
-        "date_updated": 1760663214,
+        "active": false,
+        "date_updated": 1761564136,
         "date_posted": 1760663214,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--LLVM--New-College-Grad-2025_JR2005960",
         "locations": [
@@ -28945,10 +28945,7 @@
         "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
