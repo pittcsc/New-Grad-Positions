@@ -24608,8 +24608,8 @@
         "company_name": "RTX",
         "id": "30e1689b-a597-4661-a040-f1c4dcd2780e",
         "title": "Software Engineer 1",
-        "active": true,
-        "date_updated": 1758887825,
+        "active": false,
+        "date_updated": 1761561821,
         "date_posted": 1758887825,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01796448",
         "locations": [
@@ -24618,9 +24618,7 @@
         "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
