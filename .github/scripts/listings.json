@@ -26491,8 +26491,8 @@
         "company_name": "Cox",
         "id": "be6c567d-05ad-465d-b24b-e90f8d68692b",
         "title": "Data Engineer 1",
-        "active": true,
-        "date_updated": 1759588481,
+        "active": false,
+        "date_updated": 1761560325,
         "date_posted": 1759588481,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Engineer-I_R202567376",
         "locations": [
@@ -26501,9 +26501,7 @@
         "company_url": "https://simplify.jobs/c/Cox",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
