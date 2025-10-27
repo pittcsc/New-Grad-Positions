@@ -28859,8 +28859,8 @@
         "company_name": "Esri",
         "id": "a2ffb74c-6eec-4c4c-83da-4869659da1f7",
         "title": "Software Engineer I - AI Assistant Framework - Arcgis Enterprise",
-        "active": true,
-        "date_updated": 1760660202,
+        "active": false,
+        "date_updated": 1761564110,
         "date_posted": 1760660202,
         "url": "https://www.esri.com/careers/4932485007?gh_jid=4932485007",
         "locations": [
@@ -28869,9 +28869,7 @@
         "company_url": "https://simplify.jobs/c/Esri",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
