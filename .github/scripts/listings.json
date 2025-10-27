@@ -28958,8 +28958,8 @@
         "company_name": "RTX",
         "id": "11c5fd85-af9d-4c56-9f38-4c322e57a201",
         "title": "Software Engineer 1 - Embedded Communications",
-        "active": true,
-        "date_updated": 1760662670,
+        "active": false,
+        "date_updated": 1761560092,
         "date_posted": 1760662670,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIN02-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/Software-Engineer-I---Embedded-Communications--Onsite-_01799726",
         "locations": [
@@ -28968,9 +28968,7 @@
         "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
