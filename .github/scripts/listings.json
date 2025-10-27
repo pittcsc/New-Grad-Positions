@@ -19590,8 +19590,8 @@
         "company_name": "RTX",
         "id": "e9d56d2d-2eae-4b40-94e9-04b1b6f991a2",
         "title": "Embedded Software Engineer I",
-        "active": true,
-        "date_updated": 1757467264,
+        "active": false,
+        "date_updated": 1761561160,
         "date_posted": 1757467264,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HTX36-Richardson-TX-3200-E-Renner-Rd---Richardson-TX-75082-2402-USA/Embedded-Software-Engineer-I--Onsite-_01788530-1",
         "locations": [
@@ -19600,9 +19600,7 @@
         "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
