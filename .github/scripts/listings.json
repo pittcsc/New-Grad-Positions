@@ -9080,8 +9080,8 @@
         "company_name": "The Travelers Companies",
         "id": "4d1aca64-b187-4f97-adcc-5824d3b20dcb",
         "title": "Software Engineer I - Java - Aws - Jsf",
-        "active": true,
-        "date_updated": 1754031804,
+        "active": false,
+        "date_updated": 1761563459,
         "date_posted": 1754031804,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Java--AWS--JSF-_R-45189",
         "locations": [
@@ -9089,7 +9089,8 @@
         ],
         "company_url": "https://simplify.jobs/c/Travelers",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": []
     },
     {
         "source": "Simplify",
