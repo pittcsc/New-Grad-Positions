@@ -17986,8 +17986,8 @@
         "company_name": "ICF",
         "id": "d000a238-f90b-4c63-bfb9-69725e027ef3",
         "title": "Data Scientist \u2013 Entry Level",
-        "active": true,
-        "date_updated": 1757025768,
+        "active": false,
+        "date_updated": 1761557076,
         "date_posted": 1757025768,
         "url": "https://icf.wd5.myworkdayjobs.com/en-US/ICFExternal_Career_Site/job/Reston-VA/Data-Scientist--Entry-Level-_R2502152",
         "locations": [
@@ -17996,9 +17996,7 @@
         "company_url": "https://simplify.jobs/c/750f50d0-c3f8-4334-822f-fb70fa81b529",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
