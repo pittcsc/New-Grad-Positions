@@ -19413,12 +19413,10 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757401905,
+        "date_updated": 1761557632,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Master's"
-        ],
+        "active": false,
+        "degrees": [],
         "url": "https://ms.wd5.myworkdayjobs.com/en-US/external/job/New-York-New-York-United-States-of-America/Machine-Learning-Research-Associate-Program---PhD_JR020171",
         "company_name": "Morgan Stanley",
         "title": "Machine Learning Research Associate Program - PhD",
