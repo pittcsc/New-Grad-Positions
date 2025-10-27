@@ -11078,7 +11078,7 @@
         "degrees": []
     },
     {
-        "date_updated": 1754991338,
+        "date_updated": 1761555444,
         "url": "https://remodelhealth.com/resources/job/?gh_jid=4880033008",
         "company_name": "Remodel Health",
         "title": "Junior Software Engineer",
@@ -11086,12 +11086,13 @@
             "Indianapolis, IN"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "39827fea-c12e-438f-a718-8b6d2c41df51",
         "date_posted": 1754991338,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "degrees": []
     },
     {
         "date_updated": 1755223347,
