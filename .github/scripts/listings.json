@@ -26270,8 +26270,8 @@
         "company_name": "Medtronic",
         "id": "34a406e4-0580-4911-883a-71d3ae3b5230",
         "title": "Software Engineer 1 - Multiple Teams",
-        "active": true,
-        "date_updated": 1759518151,
+        "active": false,
+        "date_updated": 1761563880,
         "date_posted": 1759518151,
         "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Northridge-California-United-States-of-America/Software-Engineer-I--Northridge--CA-_R47859",
         "locations": [
@@ -26280,9 +26280,7 @@
         "company_url": "https://simplify.jobs/c/Medtronic",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
