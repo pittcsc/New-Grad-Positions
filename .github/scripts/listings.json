@@ -11319,7 +11319,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1755035689,
+        "date_updated": 1761560956,
         "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4592027005",
         "company_name": "Applied Intuition",
         "title": "Embedded Software Engineer - New Grad",
@@ -11327,12 +11327,13 @@
             "Mountain View, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "polinavishnev",
         "id": "3827b11f-faee-43e0-b92d-1fd2d3a75784",
         "date_posted": 1755035689,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "degrees": []
     },
     {
         "date_updated": 1755035710,
