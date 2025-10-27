@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 503 New Grad Roles by Category
+### Browse 502 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (330)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (329)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (10)
 
@@ -309,13 +309,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Engineer I - Software (FPGA Place and Route)</td>
 <td>San Jose, CA</td>
 <td><a href="https://microchiphr.wd5.myworkdayjobs.com/en-US/external/job/CA---San-Jose---3850-N-First-St/Engineer-I---Software--FPGA-Place-and-Route-_R1914-25?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>9d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company">CACI</a></strong></td>
-<td>Junior Software Developer 🇺🇸</td>
-<td>Remote</br>Washington, DC</td>
-<td><a href="https://caci.wd1.myworkdayjobs.com/en-US/External/job/Remote-Any-State/Junior-Software-Developer_318599?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
 <td>9d</td>
 </tr>
 <tr>
@@ -2395,7 +2388,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (367)</summary>
+<summary>🗃️ Inactive roles (368)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2505,6 +2498,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Southampton, UK</td>
 <td>🔒</td>
 <td>6d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company">CACI</a></strong></td>
+<td>Junior Software Developer 🇺🇸</td>
+<td>Remote</br>Washington, DC</td>
+<td>🔒</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Safran?utm_source=GHList&utm_medium=company">Safran</a></strong></td>
