@@ -28055,8 +28055,8 @@
         "company_name": "Amazon",
         "id": "bb70924a-8fbe-4b64-aa12-ca63069abcb2",
         "title": "Security Engineer 1 - Corporate Services Security",
-        "active": true,
-        "date_updated": 1760132121,
+        "active": false,
+        "date_updated": 1761553734,
         "date_posted": 1760132121,
         "url": "https://amazon.jobs/en/jobs/3099188/security-engineer-i-corporate-services-security",
         "locations": [
@@ -28065,9 +28065,7 @@
         "company_url": "https://simplify.jobs/c/Amazon",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",

@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 494 New Grad Roles by Category
+### Browse 493 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (321)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (320)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (10)
 
@@ -421,13 +421,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Software Developer</td>
 <td>District Heights, MD</td>
 <td><div align="center"><a href="https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8208235002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ef598fdb-91d5-4ee8-82fd-8f88781dc7d7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company">🔥 Amazon</a></strong></td>
-<td>Security Engineer 1 - Corporate Services Security</td>
-<td>Arlington, VA</td>
-<td><div align="center"><a href="https://amazon.jobs/en/jobs/3099188/security-engineer-i-corporate-services-security?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/bb70924a-8fbe-4b64-aa12-ca63069abcb2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>16d</td>
 </tr>
 <tr>
@@ -2332,7 +2325,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (376)</summary>
+<summary>🗃️ Inactive roles (377)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2566,6 +2559,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Humana?utm_source=GHList&utm_medium=company">Humana</a></strong></td>
 <td>Software Engineer 1 - Cybersecurity Identity</td>
 <td>California</td>
+<td>🔒</td>
+<td>16d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company">🔥 Amazon</a></strong></td>
+<td>Security Engineer 1 - Corporate Services Security</td>
+<td>Arlington, VA</td>
 <td>🔒</td>
 <td>16d</td>
 </tr>
