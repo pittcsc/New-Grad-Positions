@@ -28642,8 +28642,8 @@
         "company_name": "Credit Acceptance Careers",
         "id": "827f0ce0-ab85-465b-89a1-815b0df76eb4",
         "title": "Software Engineer I - Engineering",
-        "active": true,
-        "date_updated": 1760475230,
+        "active": false,
+        "date_updated": 1761553508,
         "date_posted": 1760475230,
         "url": "https://creditacceptance.wd5.myworkdayjobs.com/en-US/Credit_Acceptance/job/Michigan--Southfield-Office/Software-Engineer-I--Engineering_R13134",
         "locations": [
@@ -28652,12 +28652,7 @@
         "company_url": "https://simplify.jobs/c/1ba6d017-f1e1-44ac-af01-0ac2a47a6803",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
