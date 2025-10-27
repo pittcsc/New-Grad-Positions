@@ -23581,8 +23581,8 @@
         "company_name": "Nextdoor",
         "id": "2ee93cba-db12-4999-b7b8-bde62d8e9293",
         "title": "Software Engineer \u2013 New Grad 2026",
-        "active": true,
-        "date_updated": 1758605825,
+        "active": false,
+        "date_updated": 1761554908,
         "date_posted": 1758605825,
         "url": "https://about.nextdoor.com/careers-list/?gh_jid=6978039",
         "locations": [
@@ -23591,10 +23591,7 @@
         "company_url": "https://simplify.jobs/c/Nextdoor",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
