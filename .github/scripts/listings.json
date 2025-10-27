@@ -20683,8 +20683,8 @@
         "company_name": "Alphataraxia",
         "id": "ca019c65-43a2-44cb-9cfa-5d0348684d94",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
-        "date_updated": 1757721450,
+        "active": false,
+        "date_updated": 1761554341,
         "date_posted": 1757721450,
         "url": "https://job-boards.greenhouse.io/alphataraxia/jobs/4875669007",
         "locations": [
@@ -20693,9 +20693,7 @@
         "company_url": "https://simplify.jobs/c/Alphataraxia",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
