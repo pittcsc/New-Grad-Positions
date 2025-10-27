@@ -21554,8 +21554,8 @@
         "company_name": "RTX",
         "id": "43cdc060-d0df-432e-81b9-8643c49cc399",
         "title": "2026 Raytheon Systems Security Engineer I",
-        "active": true,
-        "date_updated": 1758063237,
+        "active": false,
+        "date_updated": 1761560626,
         "date_posted": 1758063237,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Raytheon-Systems-Security-Engineer-I---Onsite---Tucson--AZ_01790331",
         "locations": [
@@ -21564,9 +21564,7 @@
         "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
