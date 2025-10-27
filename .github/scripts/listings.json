@@ -29059,8 +29059,8 @@
         "company_name": "TD Bank",
         "id": "398629a0-aa3d-427e-a254-4b1d6613f219",
         "title": "Machine Learning Engineer 1 - Analytics, Insights, & Artificial Intelligence",
-        "active": true,
-        "date_updated": 1760715869,
+        "active": false,
+        "date_updated": 1761562534,
         "date_posted": 1760715869,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1451546",
         "locations": [
@@ -29069,9 +29069,7 @@
         "company_url": "https://simplify.jobs/c/TD-Bank",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
