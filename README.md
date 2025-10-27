@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 496 New Grad Roles by Category
+### Browse 495 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (323)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (322)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (10)
 
@@ -400,13 +400,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Entry-level Software Engineer</td>
 <td>Foster City, CA</td>
 <td><a href="https://www.quinstreet.com/careers/?gh_jid=7316288&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>Caris</strong></td>
-<td>Associate Software Engineer - Clinical Systems (Digital Path) 🛂</td>
-<td>Irving, TX</td>
-<td><a href="https://carislifesciences.wd12.myworkdayjobs.com/en-US/cls/job/Irving-TX--75063/Associate-Software-Engineer---Clinical-Systems--Digital-Path-_JR104014?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
 <td>13d</td>
 </tr>
 <tr>
@@ -1684,7 +1677,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Anduril?utm_source=GHList&utm_medium=company">Anduril Industries</a></strong></td>
 <td>Early Career Software Engineer 🇺🇸</td>
 <td>Boston, MA</td>
 <td><a href="https://job-boards.greenhouse.io/andurilindustries/jobs/4824362007?gh_jid=4824362007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
@@ -2346,7 +2339,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (374)</summary>
+<summary>🗃️ Inactive roles (375)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2554,6 +2547,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>West Redlands, Redlands, CA</td>
 <td>🔒</td>
 <td>12d</td>
+</tr>
+<tr>
+<td><strong>Caris</strong></td>
+<td>Associate Software Engineer - Clinical Systems (Digital Path) 🛂</td>
+<td>Irving, TX</td>
+<td>🔒</td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company">Capital One</a></strong></td>
