@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 455 New Grad Roles by Category
+### Browse 454 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (297)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (296)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (9)
 
@@ -316,13 +316,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Software Engineer</td>
 <td>Colorado Springs, CO</td>
 <td><a href="https://jobs.lever.co/deltasands/4ae1b9e2-ebbd-416e-810a-58f296666125/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>9d</td>
-</tr>
-<tr>
-<td><strong>Jabil</strong></td>
-<td>Associate Cloud Engineer</td>
-<td>St. Petersburg, FL</br>Tampa, FL</td>
-<td><a href="https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/St-PetersburgTampa-FL/Associate-Cloud-Engineer_J2429707?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
 <td>9d</td>
 </tr>
 <tr>
@@ -2164,7 +2157,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (401)</summary>
+<summary>🗃️ Inactive roles (402)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2293,6 +2286,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Centene?utm_source=GHList&utm_medium=company">Centene</a></strong></td>
 <td>Cloud Platform Engineer I</td>
 <td><details><summary><strong>5 locations</strong></summary>Remote in MO</br>Remote in GA</br>Remote in TN</br>Remote in FL</br>Remote in SC</details></td>
+<td>🔒</td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong>Jabil</strong></td>
+<td>Associate Cloud Engineer</td>
+<td>St. Petersburg, FL</br>Tampa, FL</td>
 <td>🔒</td>
 <td>9d</td>
 </tr>
