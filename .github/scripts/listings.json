@@ -29566,8 +29566,8 @@
         "company_name": "RTX",
         "id": "3d4bcfa0-c3fd-4384-8e5f-d16503e431c2",
         "title": "Software Engineer I - Onsite",
-        "active": true,
-        "date_updated": 1760845427,
+        "active": false,
+        "date_updated": 1761560218,
         "date_posted": 1760845427,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MD440-8170-Maple-Lawn-Blvd-Fulton-MD-8170-Maple-Lawn-Boulevard---Fulton-MD-20759-USA/Software-Engineer-I--Onsite-_01801021",
         "locations": [
@@ -29576,9 +29576,7 @@
         "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
