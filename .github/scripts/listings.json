@@ -28507,8 +28507,8 @@
         "company_name": "RTX",
         "id": "a6b60fa5-f8a2-4947-9026-e0a8acb16efa",
         "title": "Software Engineer I - Onsite",
-        "active": true,
-        "date_updated": 1760461253,
+        "active": false,
+        "date_updated": 1761559821,
         "date_posted": 1760461253,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HTX36-Richardson-TX-3200-E-Renner-Rd---Richardson-TX-75082-2402-USA/Software-Engineer-I--Onsite-_01799291",
         "locations": [
@@ -28517,9 +28517,7 @@
         "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "date_updated": 1760465340,
