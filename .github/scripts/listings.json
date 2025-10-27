@@ -18379,8 +18379,8 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "c93300ae-86b9-4433-993a-03a0e316ed71",
         "title": "Aspire Tech Graduate Security Engineer I",
-        "active": true,
-        "date_updated": 1757113543,
+        "active": false,
+        "date_updated": 1761560574,
         "date_posted": 1757113543,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Aspire-Tech-Graduate-Security-Engineer-I_R101084",
         "locations": [
@@ -18389,9 +18389,7 @@
         "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
