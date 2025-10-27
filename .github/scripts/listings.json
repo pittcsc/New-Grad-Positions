@@ -15919,8 +15919,8 @@
         "company_name": "Valon",
         "id": "b1c0c1f9-c373-466d-9230-5e7361962acc",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
-        "date_updated": 1756259302,
+        "active": false,
+        "date_updated": 1761563678,
         "date_posted": 1756259302,
         "url": "https://job-boards.greenhouse.io/valon/jobs/4409152006",
         "locations": [
@@ -15930,9 +15930,7 @@
         "company_url": "https://simplify.jobs/c/Valon",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "date_updated": 1756730767,
