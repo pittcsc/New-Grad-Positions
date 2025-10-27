@@ -23666,8 +23666,8 @@
         "company_name": "Bombora",
         "id": "a9b5eb62-ac85-4d24-98da-e3279e2d9474",
         "title": "Data Engineer 1",
-        "active": true,
-        "date_updated": 1758386974,
+        "active": false,
+        "date_updated": 1761556325,
         "date_posted": 1757715792,
         "url": "https://bombora.com/about/bombora-careers?gh_jid=8167665002",
         "locations": [
@@ -23676,10 +23676,7 @@
         "company_url": "https://simplify.jobs/c/Bombora",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
