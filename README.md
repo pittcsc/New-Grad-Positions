@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 468 New Grad Roles by Category
+### Browse 467 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (310)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (309)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (9)
 
@@ -1229,13 +1229,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>🔥 Atlassian</strong></td>
-<td>Software Engineer 🛂</td>
-<td>Seattle, WA</td>
-<td><a href="https://www.atlassian.com/company/careers/details/20901?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong>Ivo</strong></td>
 <td>Software Engineer</td>
 <td>San Francisco, CA</td>
@@ -2255,7 +2248,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (388)</summary>
+<summary>🗃️ Inactive roles (389)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -3399,6 +3392,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Fox?utm_source=GHList&utm_medium=company">FOX</a></strong></td>
 <td>Software Engineer I - Android</td>
 <td>Sharonville, OH</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>🔥 Atlassian</strong></td>
+<td>Software Engineer 🛂</td>
+<td>Seattle, WA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
