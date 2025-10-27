@@ -24119,8 +24119,8 @@
         "company_name": "RTX",
         "id": "62507386-0c71-4d73-93df-88bea3307b27",
         "title": "Software Engineer 1 - Air & Missile Defense Software Department",
-        "active": true,
-        "date_updated": 1758763930,
+        "active": false,
+        "date_updated": 1761561288,
         "date_posted": 1758763930,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01796017",
         "locations": [
@@ -24129,9 +24129,7 @@
         "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
