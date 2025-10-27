@@ -27622,8 +27622,8 @@
         "company_name": "Leidos",
         "id": "bc25fb10-2e86-40a0-a7e8-2e7d05f3b5ac",
         "title": "Software Developer \u2013 Entry Level",
-        "active": true,
-        "date_updated": 1760044720,
+        "active": false,
+        "date_updated": 1761562121,
         "date_posted": 1760044720,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Sill-OK/Software-Developer---Entry-level_R-00168259",
         "locations": [
@@ -27632,9 +27632,7 @@
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
