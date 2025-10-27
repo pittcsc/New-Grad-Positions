@@ -17199,8 +17199,8 @@
         "company_name": "Gecko Robotics",
         "id": "d782e6b5-6978-407c-affa-b4c257577a5a",
         "title": "Software Engineer \u2013 New Graduate Rotational Development Program",
-        "active": true,
-        "date_updated": 1756866418,
+        "active": false,
+        "date_updated": 1761563753,
         "date_posted": 1756866418,
         "url": "https://jobs.ashbyhq.com/gecko-robotics/7d9ce912-14c3-405b-9f8a-7f261fe8230d/application",
         "locations": [
@@ -17210,10 +17210,7 @@
         "company_url": "https://simplify.jobs/c/Gecko-Robotics",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
