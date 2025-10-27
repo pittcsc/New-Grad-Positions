@@ -12119,7 +12119,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755243068,
+        "date_updated": 1761555512,
         "url": "https://lifeattiktok.com/search/7536356589390301458",
         "company_name": "TikTok",
         "title": "Software Engineer Graduate (Recommendation Platform) - 2026 Start (BS/MS)",
@@ -12127,12 +12127,13 @@
             "San Jose, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "0c4dfc3f-b521-448c-bb0b-70202dcf34da",
         "date_posted": 1755243068,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "degrees": []
     },
     {
         "date_updated": 1755700368,
