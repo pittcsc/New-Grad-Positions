@@ -27834,8 +27834,8 @@
         "company_name": "Pioneering Evolution",
         "id": "1b9e2e9a-5f0b-46d0-9c94-b4e66a4177aa",
         "title": "Junior Full-Stack Developer",
-        "active": true,
-        "date_updated": 1760066974,
+        "active": false,
+        "date_updated": 1761553937,
         "date_posted": 1760066974,
         "url": "https://job-boards.greenhouse.io/pioneeringevolution/jobs/4740996008",
         "locations": [
@@ -27844,9 +27844,7 @@
         "company_url": "https://simplify.jobs/c/Pioneering-Evolution",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
