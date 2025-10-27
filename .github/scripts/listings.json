@@ -22437,8 +22437,8 @@
         "company_name": "Applied Intuition",
         "id": "e7ccdcef-3b63-4e49-8d4b-9a8ccbbaee67",
         "title": "Embedded Software Engineer \u2013 New Grad",
-        "active": true,
-        "date_updated": 1758321487,
+        "active": false,
+        "date_updated": 1761560915,
         "date_posted": 1755029047,
         "url": "https://boards.greenhouse.io/appliedintuition/jobs/4592027005",
         "locations": [
@@ -22447,11 +22447,7 @@
         "company_url": "https://simplify.jobs/c/Applied-Intuition",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
