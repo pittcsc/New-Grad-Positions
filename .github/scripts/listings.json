@@ -8228,7 +8228,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1753196375,
+        "date_updated": 1761556250,
         "url": "https://www.coalitioninc.com/job-posting/4560711005",
         "company_name": "Coalition",
         "title": "Software Engineer I",
@@ -8236,12 +8236,13 @@
             "Remote in USA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "9c9cb916-636c-461e-801d-614d77ddd2d0",
         "date_posted": 1753196375,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "degrees": []
     },
     {
         "date_updated": 1753196474,
