@@ -17459,8 +17459,8 @@
         "company_name": "RELX",
         "id": "819cf53e-93a1-4d6f-a7b7-496a8a3fee30",
         "title": "Aspire Tech Graduate Software Engineer I",
-        "active": true,
-        "date_updated": 1756949852,
+        "active": false,
+        "date_updated": 1761563803,
         "date_posted": 1756949852,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Raleigh-NC/Aspire-Tech-Graduate-Software-Engineer-I_R100927-1",
         "locations": [
@@ -17469,10 +17469,7 @@
         "company_url": "https://simplify.jobs/c/RELX",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
