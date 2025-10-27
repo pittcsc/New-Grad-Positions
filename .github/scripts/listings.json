@@ -28034,8 +28034,8 @@
         "company_name": "Esri",
         "id": "259e77f9-44aa-4e06-80df-4f567fee9980",
         "title": "Software Development Engineer 1 - Multiple Teams",
-        "active": true,
-        "date_updated": 1760128393,
+        "active": false,
+        "date_updated": 1761553783,
         "date_posted": 1760128393,
         "url": "https://www.esri.com/careers/4940766007?gh_jid=4940766007",
         "locations": [
@@ -28044,10 +28044,7 @@
         "company_url": "https://simplify.jobs/c/Esri",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
