@@ -21900,8 +21900,8 @@
         "company_name": "mthree",
         "id": "b9838953-7da7-4c81-9087-732f492e4215",
         "title": "Entry Level - C Software Developer",
-        "active": true,
-        "date_updated": 1758155936,
+        "active": false,
+        "date_updated": 1761554755,
         "date_posted": 1758155936,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4602555006",
         "locations": [
@@ -21910,9 +21910,7 @@
         "company_url": "https://simplify.jobs/c/Mthree",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
