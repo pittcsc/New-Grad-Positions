@@ -28627,8 +28627,8 @@
         "company_name": "NVIDIA",
         "id": "3d39f8ac-1b07-477e-ba27-9e224228e167",
         "title": "Deep Learning Software Engineer \u2013 New College Grad 2025 - Inference and Model Optimization",
-        "active": true,
-        "date_updated": 1760476888,
+        "active": false,
+        "date_updated": 1761562417,
         "date_posted": 1760476888,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--Inference-and-Model-Optimization---New-College-Grad-2025_JR2004584",
         "locations": [
@@ -28637,10 +28637,7 @@
         "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
