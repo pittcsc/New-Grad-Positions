@@ -25364,8 +25364,8 @@
         "company_name": "Cisco",
         "id": "c413137a-1419-4373-9109-2ab4f5a6ff2a",
         "title": "Early in Career Software Engineer - Intranet Experience Team",
-        "active": true,
-        "date_updated": 1759247994,
+        "active": false,
+        "date_updated": 1761554135,
         "date_posted": 1759247994,
         "url": "https://jobs.cisco.com/jobs/ProjectDetail/Early-in-Career-Software-Engineer-Intranet-Experience-Team-UK/1451073",
         "locations": [
@@ -25374,9 +25374,7 @@
         "company_url": "https://simplify.jobs/c/Cisco",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
