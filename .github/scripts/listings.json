@@ -30893,5 +30893,23 @@
         "date_posted": 1761689168,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761689278,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.qualtrics.com/careers/us/en/job/7347811?gh_jid=7347811",
+        "company_name": "Qualtrics",
+        "title": "Software Engineer I - Customer Experience",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "60874fa9-5223-4500-80dd-8cd0e637f315",
+        "date_posted": 1761689278,
+        "company_url": "",
+        "is_visible": true
     }
 ]
