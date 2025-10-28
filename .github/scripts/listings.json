@@ -30875,5 +30875,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1761689168,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8136092002",
+        "company_name": "Torc Robotics",
+        "title": "Machine Learning Engineer, I - App Engine (CUDA)",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "7f38d84b-2170-413b-b2f6-ddc00ac8d73f",
+        "date_posted": 1761689168,
+        "company_url": "",
+        "is_visible": true
     }
 ]
