@@ -30996,5 +30996,23 @@
         "date_posted": 1761863687,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761863707,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Associate-Systems-DV-Software-Development-Engineer-in-Test--SDET---Hybrid-_REQ-2025-13525",
+        "company_name": "Insulet Corporation",
+        "title": "Associate Systems DV Software Development Engineer in Test (SDET) (Hybrid)",
+        "locations": [
+            "Acton, MA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "b0448921-5179-4e01-926d-6012d9c1490f",
+        "date_posted": 1761863707,
+        "company_url": "",
+        "is_visible": true
     }
 ]
