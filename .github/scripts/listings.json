@@ -8699,7 +8699,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1755269424,
+        "date_updated": 1761835206,
         "url": "https://careers-lmi.icims.com/jobs/12942/junior-data-analyst---ts-sci-required/job",
         "company_name": "LMI",
         "title": "Junior Data Analyst - TS/SCI Required",
@@ -8707,12 +8707,13 @@
             "Washington, DC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "96761fd4-0cef-4998-a9b2-f26d93b789da",
         "date_posted": 1753901043,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "degrees": []
     },
     {
         "date_updated": 1754415808,
