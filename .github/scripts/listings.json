@@ -27606,8 +27606,8 @@
         "company_name": "Centene",
         "id": "0ba7509f-8cc2-424f-bb65-6898fdc2a8ac",
         "title": "Data Engineer 1",
-        "active": true,
-        "date_updated": 1761562394,
+        "active": false,
+        "date_updated": 1761839225,
         "date_posted": 1760051685,
         "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Engineer-I_1610112",
         "locations": [
