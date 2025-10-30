@@ -30955,5 +30955,23 @@
         "date_posted": 1761811110,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761811135,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.duolingo.com/jobs/8192328002",
+        "company_name": "Duolingo",
+        "title": "Associate Product Manager, Recent Grad",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "category": "Product Management",
+        "source": "DDH2004",
+        "id": "ce02deaf-5da8-4327-a55e-1a0b24533664",
+        "date_posted": 1761811135,
+        "company_url": "",
+        "is_visible": true
     }
 ]
