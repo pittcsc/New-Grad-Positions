@@ -30881,5 +30881,23 @@
         "date_posted": 1761799404,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761799458,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Sparks-NV/Software-Engineer-I_R0028801-1",
+        "company_name": "Sierra Nevada Coporation",
+        "title": "Software Engineer I",
+        "locations": [
+            "Sparks, NV"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "fdb75c79-d2ea-4ada-8e8c-50825f8098cf",
+        "date_posted": 1761799458,
+        "company_url": "",
+        "is_visible": true
     }
 ]
