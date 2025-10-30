@@ -30899,5 +30899,23 @@
         "date_posted": 1761799458,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761799523,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/rover/206facd5-3dec-45a0-a76a-189cb2397d3e/",
+        "company_name": "Rover",
+        "title": "Software Engineer I, Expansions",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "744f18fc-0e71-4426-a59b-002b2bd6ed5e",
+        "date_posted": 1761799523,
+        "company_url": "",
+        "is_visible": true
     }
 ]
