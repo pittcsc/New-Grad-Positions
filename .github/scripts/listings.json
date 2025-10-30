@@ -8647,7 +8647,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1753886045,
+        "date_updated": 1761841546,
         "url": "https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/XMLNAME-2026-Technology-Development-Program---Software-Engineering_R72033",
         "company_name": "M&T Bank",
         "title": "Technology Development Program - Software Engineering",
@@ -8655,12 +8655,13 @@
             "Buffalo, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "f31bd653-cebf-409f-99e7-bdbb99e9fd0b",
         "date_posted": 1753886045,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "degrees": []
     },
     {
         "date_updated": 1753897889,

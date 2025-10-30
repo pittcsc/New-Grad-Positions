@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 405 New Grad Roles by Category
+### Browse 404 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (273)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (272)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (9)
 
@@ -1852,13 +1852,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong>M&T Bank</strong></td>
-<td>Technology Development Program - Software Engineering 🛂</td>
-<td>Buffalo, NY</td>
-<td><a href="https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/XMLNAME-2026-Technology-Development-Program---Software-Engineering_R72033?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>3mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Supernova-Technology?utm_source=GHList&utm_medium=company">Supernova Technology</a></strong></td>
 <td>Junior Software Engineer - Multiple Teams</td>
 <td>Chicago, IL</td>
@@ -1996,7 +1989,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (429)</summary>
+<summary>🗃️ Inactive roles (430)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -4197,6 +4190,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Esri?utm_source=GHList&utm_medium=company">Esri</a></strong></td>
 <td>.NET/C# Software Development Engineer I - SDK</td>
 <td>West Redlands, Redlands, CA</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
+<tr>
+<td><strong>M&T Bank</strong></td>
+<td>Technology Development Program - Software Engineering 🛂</td>
+<td>Buffalo, NY</td>
 <td>🔒</td>
 <td>3mo</td>
 </tr>
