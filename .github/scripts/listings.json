@@ -26250,7 +26250,7 @@
         "company_name": "General Motors",
         "id": "a949f780-0ff6-4438-83e2-a09c88954fec",
         "title": "Software Developer \u2013 Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1759533878,
         "date_posted": 1759533878,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Markham-Ontario-Canada/Software-Developer---Early-Career_JR-202518755",
@@ -31104,6 +31104,27 @@
         "date_posted": 1761863875,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AppLovin",
+        "id": "fd71fcd7-bd28-49aa-b892-51e01e20f4f7",
+        "title": "Backend Engineer \u2013 New Grad",
+        "active": false,
+        "date_updated": 1758320704,
+        "date_posted": 1741133237,
+        "url": "https://boards.greenhouse.io/applovin/jobs/4451556006",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AppLovin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     },
     {
         "source": "Simplify",
