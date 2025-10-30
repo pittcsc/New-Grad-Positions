@@ -11946,7 +11946,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755241946,
+        "date_updated": 1761831242,
         "url": "https://www.amazon.jobs/en/jobs/3054843/robotics-systems-engineer-amazon-robotics-deployment-engineering",
         "company_name": "Amazon",
         "title": "Robotics Systems Engineer, Amazon Robotics Deployment Engineering",
@@ -11956,12 +11956,13 @@
             "North Reading, MA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "5dbf87bc-ac63-4ea4-9cd1-d9b81f90f3c5",
         "date_posted": 1755241946,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "degrees": []
     },
     {
         "date_updated": 1755242238,
