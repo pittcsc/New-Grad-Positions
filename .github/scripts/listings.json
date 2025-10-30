@@ -30978,5 +30978,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "date_updated": 1761863687,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Fairfax/XMLNAME-2025-Associate-Software-Engineer---Remote_R10212809",
+        "company_name": "Northrop Grumman",
+        "title": "2025 Associate Software Engineer - Remote",
+        "locations": [
+            "Remote in USA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "f20d2f9b-c39c-45b7-a0ad-7356d99e448b",
+        "date_posted": 1761863687,
+        "company_url": "",
+        "is_visible": true
     }
 ]
