@@ -30863,5 +30863,23 @@
         "date_posted": 1761689278,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761799404,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://morningstar.wd5.myworkdayjobs.com/en-US/Americas/job/Chicago/Associate-Quantitative-Analyst_REQ-053662-1",
+        "company_name": "Morningstar",
+        "title": "Associate Quantitative Analyst",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "category": "Quantitative Finance",
+        "source": "angie-hue",
+        "id": "b08340e7-5fa7-4920-89ee-e2cc0532e540",
+        "date_posted": 1761799404,
+        "company_url": "",
+        "is_visible": true
     }
 ]
