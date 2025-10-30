@@ -1,54 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Cox",
-        "id": "e6aafbb4-b094-4486-bfbb-8ca683084c4e",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1741121045,
-        "date_posted": 1741121045,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I---17330_R202559675",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Sierra Nevada Coporation",
-        "id": "50608479-06e7-4bca-b6fc-5714eaca5a3e",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1741120622,
-        "date_posted": 1741120622,
-        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0026099",
-        "locations": [
-            "Lone Tree, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "RTX",
-        "id": "a110b0e2-7980-4b85-b7df-0c7da7f581e3",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1741121549,
-        "date_posted": 1741121549,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA803-Marlborough-MA-Building-3-1001-Boston-Post-Road-Building-3-Marlborough-MA-01752-USA/Software-Engineer-I---Onsite-_01747844",
-        "locations": [
-            "Marlborough, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "AppLovin",
         "id": "fd71fcd7-bd28-49aa-b892-51e01e20f4f7",
         "title": "Software Engineer I - Backend",
@@ -27971,7 +27923,7 @@
         "company_name": "Ciena",
         "id": "220fe9df-0c32-4b8f-8a94-a26ff971e491",
         "title": "Hardware Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1760147403,
         "date_posted": 1760147403,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineer---New-Grad_R028768",
@@ -29474,7 +29426,7 @@
         "company_name": "Nordstrom",
         "id": "be7235e4-5c0a-45ae-a665-084b88935bdd",
         "title": "IOS Engineer 1 - Customer Mobile Applications Team - Hybrid - Seattle - WA",
-        "active": true,
+        "active": false,
         "date_updated": 1760865753,
         "date_posted": 1760865753,
         "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/iOS-Engineer-1---Customer-Mobile-Applications-Team---HYBRID--Seattle--WA-_R-780389",
