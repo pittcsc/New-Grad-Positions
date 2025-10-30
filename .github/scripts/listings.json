@@ -30917,5 +30917,23 @@
         "date_posted": 1761799523,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761799588,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/extrahopnetworks/jobs/5649570004",
+        "company_name": "ExtraHop",
+        "title": "Software Engineer I",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "cfd46ed0-f61f-4a9c-aff6-03fccb4286c2",
+        "date_posted": 1761799588,
+        "company_url": "",
+        "is_visible": true
     }
 ]
