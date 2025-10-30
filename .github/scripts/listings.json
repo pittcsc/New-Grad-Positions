@@ -13059,8 +13059,8 @@
         "company_name": "The Travelers Companies",
         "id": "37d641e3-9418-41e4-b20d-0cc2e8e29feb",
         "title": "Software Engineer I - Workday Programmer - Report Writer - Eib",
-        "active": true,
-        "date_updated": 1755532290,
+        "active": false,
+        "date_updated": 1761843026,
         "date_posted": 1755532290,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Workday-Programmer----Report-Writer--EIB_R-46062",
         "locations": [
@@ -13069,7 +13069,8 @@
         ],
         "company_url": "https://simplify.jobs/c/Travelers",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": []
     },
     {
         "date_updated": 1755593486,
