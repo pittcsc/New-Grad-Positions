@@ -31032,5 +31032,23 @@
         "date_posted": 1761863747,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761863794,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-gdms.icims.com/jobs/68964/junior-software-engineer-%28cleared%29/job",
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Junior Software Engineer (cleared)",
+        "locations": [
+            "Dedham, MA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "6dfdd58f-12ec-4064-934e-fdba1af36d93",
+        "date_posted": 1761863794,
+        "company_url": "",
+        "is_visible": true
     }
 ]

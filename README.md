@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 386 New Grad Roles by Category
+### Browse 387 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (260)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (261)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (9)
 
@@ -82,6 +82,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <tbody>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
+<td>Junior Software Engineer (cleared) 🇺🇸</td>
+<td>Dedham, MA</td>
+<td><a href="https://careers-gdms.icims.com/jobs/68964/junior-software-engineer-%28cleared%29/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>SDA Software Engineer – Entry Level 🇺🇸</td>
 <td>Scottsdale, AZ</td>
 <td><a href="https://careers-gdms.icims.com/jobs/68894/sda-software-engineer-%E2%80%93-entry-level/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
