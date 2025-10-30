@@ -4,7 +4,7 @@
         "company_name": "AppLovin",
         "id": "fd71fcd7-bd28-49aa-b892-51e01e20f4f7",
         "title": "Software Engineer I - Backend",
-        "active": true,
+        "active": false,
         "date_updated": 1741133237,
         "date_posted": 1741133237,
         "url": "https://boards.greenhouse.io/applovin/jobs/4451556006",
@@ -14940,7 +14940,7 @@
         "company_name": "Ciena",
         "id": "9140651d-f2e6-400d-ba0a-70c7f7c71031",
         "title": "Optical Network Embedded Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755908269,
         "date_posted": 1755908269,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Network-Embedded-Software-Engineer---New-Grad_R028715",
@@ -30915,5 +30915,26 @@
         "date_posted": 1761811135,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AppLovin",
+        "id": "fd71fcd7-bd28-49aa-b892-51e01e20f4f7",
+        "title": "Backend Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1758320704,
+        "date_posted": 1741133237,
+        "url": "https://boards.greenhouse.io/applovin/jobs/4451556006",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AppLovin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
