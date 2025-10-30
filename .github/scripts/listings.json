@@ -8035,7 +8035,7 @@
         "company_name": "Palantir",
         "id": "7e134007-3fa8-4732-84ca-e7119c8f4116",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1751385392,
         "date_posted": 1751385392,
         "url": "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply",
@@ -11430,7 +11430,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "9d74aeea-fa25-46c6-af6f-3d20a6065b64",
         "title": "Software Engineer I - Aldp",
-        "active": true,
+        "active": false,
         "date_updated": 1755147515,
         "date_posted": 1755147515,
         "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1",
@@ -29213,7 +29213,7 @@
         "company_name": "Amazon",
         "id": "80b49a28-e1da-46aa-80f6-07fe5c497415",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1760742996,
         "date_posted": 1760742996,
         "url": "https://amazon.jobs/en/jobs/3111761/software-engineer-i",
@@ -29899,7 +29899,7 @@
         "company_name": "SS&C",
         "id": "a1410a29-c173-4ed5-8cd4-28db286eea33",
         "title": "Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1761092752,
         "date_posted": 1761092752,
         "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Windsor-CT/Junior-Software-Developer_R36760",
@@ -30915,6 +30915,27 @@
         "date_posted": 1761811135,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AppLovin",
+        "id": "fd71fcd7-bd28-49aa-b892-51e01e20f4f7",
+        "title": "Backend Engineer \u2013 New Grad",
+        "active": false,
+        "date_updated": 1758320704,
+        "date_posted": 1741133237,
+        "url": "https://boards.greenhouse.io/applovin/jobs/4451556006",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AppLovin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     },
     {
         "source": "Simplify",
