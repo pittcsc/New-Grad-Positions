@@ -31050,5 +31050,23 @@
         "date_posted": 1761863794,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761863806,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Software-Developer-Associate---TS-SCI-w-Poly_RQ209620",
+        "company_name": "General Dynamics Information Technology",
+        "title": "Software Developer Associate - TS/SCI w/Poly",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "ac12fb08-57c6-4140-86aa-457e417b2d0c",
+        "date_posted": 1761863806,
+        "company_url": "",
+        "is_visible": true
     }
 ]
