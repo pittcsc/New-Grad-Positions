@@ -30935,5 +30935,25 @@
         "date_posted": 1761799588,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761811110,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.amazon.jobs/en/jobs/3116902/2026-annapurna-labs-at-aws-early-career-us-silicon-ai-systems-innovation",
+        "company_name": "Annapurna Labs",
+        "title": "Silicon & AI Systems Innovation",
+        "locations": [
+            "Austin, TX",
+            "Seattle, WA",
+            "Cupertino, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "DDH2004",
+        "id": "7eb81f0f-f375-4a4e-8a4c-4ee56e8640a9",
+        "date_posted": 1761811110,
+        "company_url": "",
+        "is_visible": true
     }
 ]
