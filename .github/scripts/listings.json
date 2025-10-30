@@ -31014,5 +31014,23 @@
         "date_posted": 1761863707,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761863747,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-gdms.icims.com/jobs/68894/sda-software-engineer-%E2%80%93-entry-level/job",
+        "company_name": "General Dynamics Mission Systems",
+        "title": "SDA Software Engineer \u2013 Entry Level",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "912c475e-01db-47f5-9008-90283faa3616",
+        "date_posted": 1761863747,
+        "company_url": "",
+        "is_visible": true
     }
 ]
