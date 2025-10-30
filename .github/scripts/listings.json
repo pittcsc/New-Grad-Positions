@@ -7700,8 +7700,8 @@
         "company_name": "Old Mission",
         "id": "9e3271b2-bfd1-4924-80cc-6adf115fe3ac",
         "title": "College Graduates - Full-Time - Junior Quantitative Trader",
-        "active": true,
-        "date_updated": 1752520276,
+        "active": false,
+        "date_updated": 1761835024,
         "date_posted": 1752520276,
         "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6602920003",
         "locations": [
@@ -7709,7 +7709,8 @@
         ],
         "company_url": "https://simplify.jobs/c/Old-Mission",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": []
     },
     {
         "source": "Simplify",
