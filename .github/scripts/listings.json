@@ -17150,7 +17150,7 @@
         "company_name": "Stripe",
         "id": "8510087c-34fe-43c9-b6e9-7f5a00f1d270",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1756871707,
         "date_posted": 1756871707,
         "url": "https://stripe.com/jobs/search?gh_jid=7206505",
@@ -21369,7 +21369,7 @@
         "company_name": "Applied Materials",
         "id": "83d8867d-65d8-4150-b9a7-deea6fc24578",
         "title": "Associate Product Manager New College Grad - Bachelors",
-        "active": true,
+        "active": false,
         "date_updated": 1758030167,
         "date_posted": 1755963370,
         "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Associate-Product-Manager--Austin--TX---NCG-_R2516315",
@@ -30964,7 +30964,7 @@
         "company_name": "AppLovin",
         "id": "fd71fcd7-bd28-49aa-b892-51e01e20f4f7",
         "title": "Backend Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1758320704,
         "date_posted": 1741133237,
         "url": "https://boards.greenhouse.io/applovin/jobs/4451556006",
@@ -31104,5 +31104,26 @@
         "date_posted": 1761863875,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AppLovin",
+        "id": "fd71fcd7-bd28-49aa-b892-51e01e20f4f7",
+        "title": "Backend Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1758320704,
+        "date_posted": 1741133237,
+        "url": "https://boards.greenhouse.io/applovin/jobs/4451556006",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AppLovin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
