@@ -27018,8 +27018,8 @@
         "company_name": "Aurora Innovation",
         "id": "cbe41088-5041-4ca2-a532-3aab7b8f8188",
         "title": "Embedded Firmware Engineer I - Security",
-        "active": true,
-        "date_updated": 1759905964,
+        "active": false,
+        "date_updated": 1761834156,
         "date_posted": 1759905964,
         "url": "https://aurora.tech/jobs/8170469002?gh_jid=8170469002",
         "locations": [
@@ -27028,9 +27028,7 @@
         "company_url": "https://simplify.jobs/c/Aurora-Innovation",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
