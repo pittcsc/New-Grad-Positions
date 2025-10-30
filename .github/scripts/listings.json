@@ -31086,5 +31086,23 @@
         "date_posted": 1761863840,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761863875,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4607272005?gh_jid=4607272005",
+        "company_name": "Applied Intuition",
+        "title": "Software Integration Engineer - New Grad",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "3a7737a1-23ec-4eeb-871b-819418c911be",
+        "date_posted": 1761863875,
+        "company_url": "",
+        "is_visible": true
     }
 ]
