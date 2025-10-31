@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 303 New Grad Roles by Category
+### Browse 302 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (210)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (209)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (7)
 
@@ -319,13 +319,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>10d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Sigma-Computing?utm_source=GHList&utm_medium=company">Sigma Computing</a></strong></td>
-<td>Software Engineer – New Grad Program</td>
-<td>SF</br>NYC</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/7501719003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3b14d946-f1a3-4591-8149-a54cb9fbd609?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company">Intuit</a></strong></td>
 <td>Software Engineer 1</td>
 <td>Mountain View, CA</td>
@@ -386,14 +379,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Product Engineer</td>
 <td>McLean, VA</td>
 <td><a href="https://job-boards.greenhouse.io/appian/jobs/7287884?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>17d</td>
+<td>18d</td>
 </tr>
 <tr>
 <td><strong>QuinStreet</strong></td>
 <td>Entry-level Software Engineer</td>
 <td>Foster City, CA</td>
 <td><a href="https://www.quinstreet.com/careers/?gh_jid=7316288&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>17d</td>
+<td>18d</td>
 </tr>
 <tr>
 <td><strong>Insulet Corporation</strong></td>
@@ -1555,7 +1548,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (500)</summary>
+<summary>🗃️ Inactive roles (501)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -1714,6 +1707,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Seattle, WA</td>
 <td>🔒</td>
 <td>12d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Sigma-Computing?utm_source=GHList&utm_medium=company">Sigma Computing</a></strong></td>
+<td>Software Engineer – New Grad Program</td>
+<td>SF</br>NYC</td>
+<td>🔒</td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company">🔥 Amazon</a></strong></td>
@@ -4390,7 +4390,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong>Coalition</strong></td>
+<td>↳</td>
 <td>Software Engineer I</td>
 <td>Remote in USA</td>
 <td>🔒</td>
