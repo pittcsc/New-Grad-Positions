@@ -27732,8 +27732,8 @@
         "company_name": "Cox",
         "id": "f9697416-97dc-497c-8c91-2d42df97d6a0",
         "title": "Software Engineer 1 - Salesforce - Backend Services",
-        "active": true,
-        "date_updated": 1760118596,
+        "active": false,
+        "date_updated": 1761920092,
         "date_posted": 1760118596,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-I_R202567898",
         "locations": [
@@ -27742,9 +27742,7 @@
         "company_url": "https://simplify.jobs/c/Cox",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
