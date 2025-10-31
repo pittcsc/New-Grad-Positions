@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "AppLovin",
-        "id": "fd71fcd7-bd28-49aa-b892-51e01e20f4f7",
-        "title": "Software Engineer I - Backend",
-        "active": false,
-        "date_updated": 1741133237,
-        "date_posted": 1741133237,
-        "url": "https://boards.greenhouse.io/applovin/jobs/4451556006",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AppLovin",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Creditgenie",
         "id": "d7005c45-1475-4b7c-9454-a840125eb066",
         "title": "New Grad \u2013 Software Engineer",
@@ -22618,7 +22602,7 @@
         "company_name": "Decagon",
         "id": "76bd6015-beee-4e02-bb81-8d04bfc62f4e",
         "title": "Agent Software Engineer \u2013 New Grad - 2026 Start",
-        "active": true,
+        "active": false,
         "date_updated": 1758362035,
         "date_posted": 1756943431,
         "url": "https://jobs.ashbyhq.com/decagon/2a435dd5-1212-42bb-ae5a-d7432902acd2/application",
@@ -23445,7 +23429,7 @@
         "company_name": "Nextdoor",
         "id": "2ee93cba-db12-4999-b7b8-bde62d8e9293",
         "title": "Software Engineer \u2013 New Grad 2026",
-        "active": false,
+        "active": true,
         "date_updated": 1761869385,
         "date_posted": 1758605825,
         "url": "https://about.nextdoor.com/careers-list/?gh_jid=6978039",
@@ -30917,69 +30901,6 @@
         "is_visible": true
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AppLovin",
-        "id": "fd71fcd7-bd28-49aa-b892-51e01e20f4f7",
-        "title": "Backend Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1758320704,
-        "date_posted": 1741133237,
-        "url": "https://boards.greenhouse.io/applovin/jobs/4451556006",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AppLovin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AppLovin",
-        "id": "fd71fcd7-bd28-49aa-b892-51e01e20f4f7",
-        "title": "Backend Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1758320704,
-        "date_posted": 1741133237,
-        "url": "https://boards.greenhouse.io/applovin/jobs/4451556006",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AppLovin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AppLovin",
-        "id": "fd71fcd7-bd28-49aa-b892-51e01e20f4f7",
-        "title": "Backend Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1758320704,
-        "date_posted": 1741133237,
-        "url": "https://boards.greenhouse.io/applovin/jobs/4451556006",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AppLovin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1761863687,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
@@ -31104,68 +31025,5 @@
         "date_posted": 1761863875,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AppLovin",
-        "id": "fd71fcd7-bd28-49aa-b892-51e01e20f4f7",
-        "title": "Backend Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1758320704,
-        "date_posted": 1741133237,
-        "url": "https://boards.greenhouse.io/applovin/jobs/4451556006",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AppLovin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AppLovin",
-        "id": "fd71fcd7-bd28-49aa-b892-51e01e20f4f7",
-        "title": "Backend Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1758320704,
-        "date_posted": 1741133237,
-        "url": "https://boards.greenhouse.io/applovin/jobs/4451556006",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AppLovin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AppLovin",
-        "id": "fd71fcd7-bd28-49aa-b892-51e01e20f4f7",
-        "title": "Backend Engineer \u2013 New Grad",
-        "active": true,
-        "date_updated": 1758320704,
-        "date_posted": 1741133237,
-        "url": "https://boards.greenhouse.io/applovin/jobs/4451556006",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AppLovin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     }
 ]
