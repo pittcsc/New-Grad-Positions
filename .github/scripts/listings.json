@@ -12330,7 +12330,7 @@
         "company_name": "Suno",
         "id": "f74fd95d-537a-4714-8fe7-05c9c3d10072",
         "title": "Software Engineer \u2013 Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1756120450,
         "date_posted": 1755291852,
         "url": "https://jobs.ashbyhq.com/suno/991c9785-9bd5-499a-98aa-146e8c947752/application",
@@ -21839,7 +21839,7 @@
         "company_name": "Watershed",
         "id": "a3f9d5e3-404d-4f55-8cb0-002c4308a3a0",
         "title": "Software engineer \u2013 New grad",
-        "active": true,
+        "active": false,
         "date_updated": 1758160388,
         "date_posted": 1758160388,
         "url": "https://jobs.ashbyhq.com/Watershed/d83c7850-2211-4cbd-a527-09e25f5d94a8/application",
@@ -23472,7 +23472,7 @@
         "company_name": "SIFT",
         "id": "33764b21-27c6-4c41-8e4b-7d8283de6aed",
         "title": "Software Engineer \u2013 New College Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1758618395,
         "date_posted": 1758618395,
         "url": "https://jobs.ashbyhq.com/siftstack/da9e9490-4156-4390-b9ed-54e215c894b6/application",
@@ -23510,7 +23510,7 @@
         "company_name": "American Express",
         "id": "24ba20e7-0e3a-4da8-b708-a448823b1663",
         "title": "Software Engineer 1 - Servicing Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1758623413,
         "date_posted": 1756950503,
         "url": "https://aexp.eightfold.ai/careers/job/30954270",
@@ -26023,7 +26023,7 @@
         "company_name": "Domino Data Lab",
         "id": "e9fac06c-a8f6-4e81-a5b3-6ee1c5827e79",
         "title": "Software Engineer \u2013 New Grad - Campus Recruiting 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1759478135,
         "date_posted": 1759478135,
         "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7275094?gh_jid=7275094",
@@ -31005,5 +31005,25 @@
         "date_posted": 1761863875,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "66a3aac2-842f-464c-b1ea-6a945f687473",
+        "title": "SDA Software Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1761865749,
+        "date_posted": 1761865749,
+        "url": "https://careers-gdms.icims.com/jobs/68894/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
