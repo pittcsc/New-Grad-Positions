@@ -31006,5 +31006,23 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "date_updated": 1761948465,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Omaha-Nebraska-United-States-of-America/Associate-Data-Scientist_R0132263-1",
+        "company_name": "PayPal",
+        "title": "Associate Data Scientist",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "da5d3683-dcb7-45cd-9a2c-fb1c0eac3b29",
+        "date_posted": 1761948465,
+        "company_url": "",
+        "is_visible": true
     }
 ]
