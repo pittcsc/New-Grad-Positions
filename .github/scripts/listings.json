@@ -24680,7 +24680,7 @@
         "company_name": "Honeywell",
         "id": "99165227-b6cf-49f7-a17c-dee1b2d38f26",
         "title": "Flight Controls Hardware Engineer 1 - Flight Control Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1758917756,
         "date_posted": 1758917756,
         "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119199",
@@ -31104,6 +31104,27 @@
         "date_posted": 1761863875,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AppLovin",
+        "id": "fd71fcd7-bd28-49aa-b892-51e01e20f4f7",
+        "title": "Backend Engineer \u2013 New Grad",
+        "active": false,
+        "date_updated": 1758320704,
+        "date_posted": 1741133237,
+        "url": "https://boards.greenhouse.io/applovin/jobs/4451556006",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AppLovin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     },
     {
         "source": "Simplify",
