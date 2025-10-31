@@ -28445,8 +28445,8 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "e5e5ac5c-5851-4ec2-a6f9-e8ad1a41540d",
         "title": "Software Engineer \u2013 Entry Level",
-        "active": true,
-        "date_updated": 1760483916,
+        "active": false,
+        "date_updated": 1761920420,
         "date_posted": 1760483916,
         "url": "https://careers-gdms.icims.com/jobs/68565/job?mobile=true&needsRedirect=false",
         "locations": [
@@ -28455,9 +28455,7 @@
         "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "date_updated": 1760640591,
