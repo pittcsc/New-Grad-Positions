@@ -31062,5 +31062,23 @@
         "date_posted": 1761948639,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761948657,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/TX---Work-from-home/Associate-Software-Development-Engineer_R0754288",
+        "company_name": "CVS Health",
+        "title": "Associate Software Development Engineer",
+        "locations": [
+            "Remote from USA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "b4ab4d74-1586-43ef-a3a5-861a8adbb11e",
+        "date_posted": 1761948657,
+        "company_url": "",
+        "is_visible": true
     }
 ]
