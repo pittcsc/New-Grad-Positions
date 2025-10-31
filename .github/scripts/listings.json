@@ -7502,7 +7502,7 @@
         "company_name": "Old Mission",
         "id": "f0523704-6917-4869-82a6-536b484b8fac",
         "title": "College Graduates - Full-Time - Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1752520275,
         "date_posted": 1752520275,
         "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6602927003",
@@ -15745,7 +15745,7 @@
         "company_name": "Sierra Nevada Coporation",
         "id": "5a66fea0-ed21-475d-9798-602e067f18eb",
         "title": "Systems Security Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1761830248,
         "date_posted": 1756254133,
         "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Systems-Security-Engineer-I_R0028118",
@@ -30991,6 +30991,28 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Trexquant",
+        "id": "d4cb56db-64d8-4fc9-af53-e99d85ba9c57",
+        "title": "Data Scientist \u2013 Early Career - USA",
+        "active": true,
+        "date_updated": 1761907052,
+        "date_posted": 1761907052,
+        "url": "https://apply.workable.com/trexquant/j/FA5B26F4EA/apply",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Trexquant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
