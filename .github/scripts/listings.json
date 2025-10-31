@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Creditgenie",
-        "id": "d7005c45-1475-4b7c-9454-a840125eb066",
-        "title": "New Grad \u2013 Software Engineer",
-        "active": false,
-        "date_updated": 1741134743,
-        "date_posted": 1741134743,
-        "url": "https://jobs.ashbyhq.com/creditgenie/016056e0-61cd-4a19-9d42-5f3cd88fed02/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/c3b8469f-97ee-485e-a48a-0bb2eaa55657",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Ciena",
         "id": "cb781e1c-9c0b-4f59-ad6c-4e4a74708fbf",
         "title": "New Grad Software Engineer",
@@ -13730,7 +13714,7 @@
         "company_name": "TikTok",
         "id": "43b55bb4-bbef-4b71-a42b-26c7f9782f9a",
         "title": "Machine Learning Engineer \u2013 University Graduate - E-Commerce Risk Control - Phd",
-        "active": true,
+        "active": false,
         "date_updated": 1754782127,
         "date_posted": 1754621887,
         "url": "https://lifeattiktok.com/search/7389784303494580490",
@@ -24800,7 +24784,7 @@
         "company_name": "expedia group",
         "id": "8263f802-80bc-43ec-8c4a-f041b5293a00",
         "title": "Machine Learning Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1759840938,
         "date_posted": 1758976509,
         "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Machine-Learning-Engineer-I_R-98322",
