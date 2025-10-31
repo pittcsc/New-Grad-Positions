@@ -25968,8 +25968,8 @@
         "company_name": "Abbott",
         "id": "10c77412-b7dc-4a78-b892-c261b33cb0e9",
         "title": "Software Engineer 1 - Digital Health Engineering",
-        "active": true,
-        "date_updated": 1759471560,
+        "active": false,
+        "date_updated": 1761918566,
         "date_posted": 1759471560,
         "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---California---Sylmar/Software-Engineer-I_31130840-1",
         "locations": [
@@ -25978,9 +25978,7 @@
         "company_url": "https://simplify.jobs/c/Abbott",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
