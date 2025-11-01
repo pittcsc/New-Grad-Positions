@@ -7453,7 +7453,7 @@
         "company_name": "Akuna Capital",
         "id": "1ac52fdb-7e69-4fc6-a38c-2d98bf9c0ca9",
         "title": "Junior Quantitative Developer & Strategist",
-        "active": false,
+        "active": true,
         "date_updated": 1752518406,
         "date_posted": 1752518406,
         "url": "https://www.akunacapital.com/job-details?gh_jid=7063563",
@@ -31033,6 +31033,28 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel",
+        "id": "d724f264-a5fb-4740-bde3-38ab45368cba",
+        "title": "Quantitative Research Analyst \u2013 University Graduate - US",
+        "active": true,
+        "date_updated": 1761857043,
+        "date_posted": 1752196369,
+        "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/",
+        "locations": [
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
