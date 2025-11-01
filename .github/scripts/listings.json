@@ -31076,5 +31076,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Travelers Companies",
+        "id": "26f34e14-a5d5-4afd-915a-0663507b10a7",
+        "title": "Data Engineer I - Abinitio/AWS/Devops",
+        "active": true,
+        "date_updated": 1761992389,
+        "date_posted": 1761992389,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AbInitio-AWS-DevOps_R-45764",
+        "locations": [
+            "Hartford, CT",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
