@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Jerry",
-        "id": "bdf8543c-a6e6-4f17-a2ea-55f292ced767",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1741235122,
-        "date_posted": 1741235122,
-        "url": "https://jobs.ashbyhq.com/Jerry/1b1559f1-24fb-4f38-a509-cf03198656a2/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Latitude Inc",
         "id": "44dc2f91-63ac-44b6-ad05-b2227ad5d38d",
         "title": "Entry Level Software Developer/Consultant",
@@ -7278,7 +7262,7 @@
         "company_name": "Citadel",
         "id": "1e5ec141-389c-43d9-8e1b-1e99a59ae8cf",
         "title": "Quantitative Research Engineer \u2013 University Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1755284243,
         "date_posted": 1752196364,
         "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-university-graduate-us/",
