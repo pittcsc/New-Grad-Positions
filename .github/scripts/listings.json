@@ -18935,7 +18935,7 @@
         "company_name": "Adobe",
         "id": "cf31e3a7-ad75-4417-ba00-3fcbc98b644f",
         "title": "2026 University Graduate - Machine Learning Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1761557399,
         "date_posted": 1757385678,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R157573",
@@ -31055,6 +31055,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "T-Rex Solutions",
+        "id": "7e65b3d9-88f5-444b-bdb7-a7f044d8bcc4",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1751105243,
+        "date_posted": 1749517340,
+        "url": "https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8029898002",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Rex-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
