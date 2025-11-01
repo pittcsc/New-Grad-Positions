@@ -1,23 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Splunk",
-        "id": "907fad13-9965-49f6-b379-785141633097",
-        "title": "Software Engineer - Frontend - Early in Career",
-        "active": false,
-        "date_updated": 1741233283,
-        "date_posted": 1741233283,
-        "url": "https://jobs.jobvite.com/splunk-careers/job/oVYzvfwH?nl=1&nl=1&fr=false",
-        "locations": [
-            "Colorado",
-            "North Carolina"
-        ],
-        "company_url": "https://simplify.jobs/c/Splunk",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Jerry",
         "id": "bdf8543c-a6e6-4f17-a2ea-55f292ced767",
         "title": "Software Engineer I",
@@ -2151,23 +2134,6 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/Amperity",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Splunk",
-        "id": "80524411-e4b5-4865-8e50-4269636da726",
-        "title": "Software Engineer - Backend/Fullstack - Early in Career",
-        "active": false,
-        "date_updated": 1744442076,
-        "date_posted": 1741233290,
-        "url": "https://jobs.jobvite.com/splunk-careers/job/oMYzvfwy?nl=1&nl=1&fr=false",
-        "locations": [
-            "Raleigh, NC",
-            "Boulder, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Splunk",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -31064,5 +31030,25 @@
         "date_posted": 1761948657,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Veeva Systems",
+        "id": "d3bdb070-74f3-4fe0-ad6a-508f9dc3d75a",
+        "title": "Associate Software Engineer \u2013 Seeking 2026 Grads",
+        "active": true,
+        "date_updated": 1761845900,
+        "date_posted": 1760775310,
+        "url": "https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
