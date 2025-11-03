@@ -1,137 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Latitude Inc",
-        "id": "44dc2f91-63ac-44b6-ad05-b2227ad5d38d",
-        "title": "Entry Level Software Developer/Consultant",
-        "active": false,
-        "date_updated": 1741306814,
-        "date_posted": 1741306814,
-        "url": "https://jobs.lever.co/latitudeinc/cff13310-5952-4608-8066-eaa1e394fee6/apply",
-        "locations": [
-            "Baltimore, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Latitude-Inc",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "RTX",
-        "id": "965443f4-2127-4b57-ab3e-a979ddc889d5",
-        "title": " - Raytheon Software Engineer I",
-        "active": false,
-        "date_updated": 1741321003,
-        "date_posted": 1741321003,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN301-1010-Production-Rd-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/XMLNAME-2025-Fulltime---Raytheon-Software-Engineer-I--On-site-_01755701",
-        "locations": [
-            "Fort Wayne, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Vapi",
-        "id": "413ac022-f691-466e-8145-4e292d5eb418",
-        "title": "New Grad Software Engineer",
-        "active": false,
-        "date_updated": 1741320505,
-        "date_posted": 1741320505,
-        "url": "https://jobs.ashbyhq.com/vapi/3613e24a-de10-4e76-8c28-530df2a9981b/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Vapi",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Comcast",
-        "id": "6f343dc0-7888-4d35-a250-f72e39058105",
-        "title": "Junior Engineer - Software Development & Engineering",
-        "active": false,
-        "date_updated": 1741364763,
-        "date_posted": 1741364763,
-        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Junior-Engineer--Software-Development---Engineering_R407396",
-        "locations": [
-            "Cherry Hills Village, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "The Aerospace Coporation",
-        "id": "ca919364-6ecd-4bc3-ac4d-3e433e969412",
-        "title": "Junior Software Developer",
-        "active": false,
-        "date_updated": 1741379543,
-        "date_posted": 1741379543,
-        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2025-Junior-Software-Developer-for-Modeling-and-Simulation-Computing_R011002",
-        "locations": [
-            "Colorado Springs, CO",
-            "Albuquerque, NM",
-            "Chantilly, VA",
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Aerospace-Coporation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Expedia Group",
-        "id": "d21f0ef4-ba4d-49e2-adaf-52d179bdcaf2",
-        "title": "Software Development Engineer I",
-        "active": false,
-        "date_updated": 1741378753,
-        "date_posted": 1741378753,
-        "url": "https://expedia.wd5.myworkdayjobs.com/en-US/private/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-94228-1",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "United Parcel Service (UPS)",
-        "id": "8e3dd754-8f42-4e84-8f17-15379e1a322b",
-        "title": "Software Development Engineer I",
-        "active": false,
-        "date_updated": 1741393653,
-        "date_posted": 1741393653,
-        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---AIR-GROUP-BUILDING-KYARP/Software-Development-Engineer-I_R25004867-1",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Apple",
-        "id": "117f8911-4d34-4aa5-a5fb-371901fcc642",
-        "title": "Junior Embedded Software Engineer",
-        "active": false,
-        "date_updated": 1741569605,
-        "date_posted": 1741321546,
-        "url": "https://jobs.apple.com/en-us/details/200593705",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Apple",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Marqeta",
         "id": "21a33f11-4648-442d-a523-03f00ac08f70",
         "title": "Software Engineer I - Continuous Integration Team",
@@ -19826,7 +19695,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": false,
+        "active": true,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
