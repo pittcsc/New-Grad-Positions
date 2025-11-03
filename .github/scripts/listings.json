@@ -30985,5 +30985,23 @@
         "date_posted": 1762178601,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762178736,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://metacareers.com/jobs/2578176955882259",
+        "company_name": "Meta",
+        "title": "Data Engineer, Analytics (University Grad)",
+        "locations": [
+            "New York, NY"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "b906fe61-e72b-4cd0-be5b-d24dd71d85d7",
+        "date_posted": 1762178736,
+        "company_url": "",
+        "is_visible": true
     }
 ]
