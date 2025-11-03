@@ -31003,5 +31003,23 @@
         "date_posted": 1762178736,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762178852,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Remote-US-NC/Associate-Software-Engineer_R-052052",
+        "company_name": "Red Hat",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Remote in USA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "a3b60e61-8524-41d1-90e0-e8d231872d7c",
+        "date_posted": 1762178852,
+        "company_url": "",
+        "is_visible": true
     }
 ]
