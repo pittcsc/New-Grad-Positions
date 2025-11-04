@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 477 New Grad Roles by Category
+### Browse 476 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (323)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (322)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (12)
 
@@ -575,13 +575,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Developer</td>
 <td>New York, NY</br>Chicago, IL</br>London, UK</td>
 <td><a href="https://www.boerboeltrading.com/jobs.html?gh_jid=5670371004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>11d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/RELX?utm_source=GHList&utm_medium=company">RELX</a></strong></td>
-<td>Tech Accelerate Graduate Program - Software Engineer (June)</td>
-<td>Alpharetta, GA</td>
-<td><a href="https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer_R98792-3?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
 <td>11d</td>
 </tr>
 <tr>
@@ -2346,7 +2339,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (472)</summary>
+<summary>🗃️ Inactive roles (473)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2475,6 +2468,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong>Amplitude</strong></td>
 <td>Software Engineer I, Growth Platform</td>
 <td>San Francisco, CA</td>
+<td>🔒</td>
+<td>11d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/RELX?utm_source=GHList&utm_medium=company">RELX</a></strong></td>
+<td>Tech Accelerate Graduate Program - Software Engineer (June)</td>
+<td>Alpharetta, GA</td>
 <td>🔒</td>
 <td>11d</td>
 </tr>
