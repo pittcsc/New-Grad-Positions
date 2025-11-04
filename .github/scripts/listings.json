@@ -33265,8 +33265,8 @@
             "Redmond, WA"
         ],
         "category": "Software Engineering",
-        "source": "DereC4",
-        "id": "d70cb95c-4270-48e5-be95-2905af2e3e92",
+        "source": "Simplify",
+        "id": "04b55f65-0a16-4f44-a2bd-e03eabdfcbe0",
         "date_posted": 1762269389,
         "company_url": "",
         "is_visible": true
@@ -33501,6 +33501,262 @@
             "Marlborough, MA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Applied Materials",
+        "id": "2280b052-eae6-4829-8e1e-05b3e0637449",
+        "title": "Systems/Software \u2013 Engineer I New College Grad - Controls - Bachelor's - Gloucester - MA",
+        "active": true,
+        "date_updated": 1761917862,
+        "date_posted": 1761917862,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/Systems-Software--Controls--Engineer-I-New-College-Grad---Bachelor-s--Gloucester--MA-_R2517413",
+        "locations": [
+            "Essex County, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Motors",
+        "id": "4cd0871e-e7dc-4b01-9629-13b26298c4b4",
+        "title": "Chassis Controls \u2013 Early Career - Software Quality Automation Developer",
+        "active": true,
+        "date_updated": 1761993708,
+        "date_posted": 1761993708,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Chassis-Controls---Software-Quality-Automation-Developer---Early-Career_JR-202518918",
+        "locations": [
+            "Markham, ON, Canada",
+            "Oshawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Applied Intuition",
+        "id": "50ce9f39-5e16-422e-b9b9-9ccca94a754f",
+        "title": "Software Integration Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1761821706,
+        "date_posted": 1761821706,
+        "url": "https://boards.greenhouse.io/appliedintuition/jobs/4607272005",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Intuition",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "PA Consulting",
+        "id": "7838a9b4-c1bf-4918-9cb8-a74a89e33a66",
+        "title": "2026 Graduate - Software & Controls Engineer - Cambridge",
+        "active": true,
+        "date_updated": 1761367073,
+        "date_posted": 1761367073,
+        "url": "https://jobs.smartrecruiters.com/PAConsulting/744000087635223",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PA-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "c947e732-5b57-453f-9469-897285a152c3",
+        "title": "Hardware Simulator SDE I - AWS Machine Learning Accelerators - Annapurna Labs",
+        "active": true,
+        "date_updated": 1760743014,
+        "date_posted": 1760743014,
+        "url": "https://amazon.jobs/en/jobs/2940695/hardware-simulator-sde-i-aws-machine-learning-accelerators-annapurna-labs",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TRM Labs",
+        "id": "a0d1ac83-2aaf-4c45-8110-18fe0a801615",
+        "title": "University Grad - Product Engineer - 2026",
+        "active": true,
+        "date_updated": 1761259434,
+        "date_posted": 1759339881,
+        "url": "https://job-boards.greenhouse.io/trmlabs/jobs/5662998004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/TRM-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Medpace, Inc.",
+        "id": "5b45f1a4-ce82-412c-adfb-6e28abe7f9b5",
+        "title": "Entry Level - Clinical Database Programmer",
+        "active": true,
+        "date_updated": 1761862200,
+        "date_posted": 1757538793,
+        "url": "https://careers.medpace.com/jobs/10870?lang=en-us&icims=1",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Medpace-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BryceTech",
+        "id": "b58d022a-bedb-4d2c-b0eb-432d8e208942",
+        "title": "Junior Exercise Software IT Specialist",
+        "active": true,
+        "date_updated": 1757521532,
+        "date_posted": 1757521532,
+        "url": "https://jobs.smartrecruiters.com/BryceTech/744000080865323",
+        "locations": [
+            "Suffolk, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/BryceTech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "1265b420-ce89-46db-9fb1-c97bcbddbc1a",
+        "title": "Product Engineer 1 - User Assistance - Workflow Manager",
+        "active": true,
+        "date_updated": 1761937106,
+        "date_posted": 1757114330,
+        "url": "https://www.esri.com/careers/4847546007?gh_jid=4847546007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dover",
+        "id": "ff072abe-5d3f-43be-9240-551170752c3f",
+        "title": "Product Engineer - Entry Level",
+        "active": true,
+        "date_updated": 1761936910,
+        "date_posted": 1756940514,
+        "url": "https://careers.dovercorporation.com/job/Keosauqua-Product-Engineer-IA-52565/1243842701/?ats=successfactors",
+        "locations": [
+            "Allerton, IA",
+            "Ottumwa, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/511130a6-b974-4ccb-a78b-14049de141bb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "21551ff3-c6e8-47b7-a06c-518211ce3efa",
+        "title": "New Graduate Engineer - Software - Starlink",
+        "active": true,
+        "date_updated": 1756847676,
+        "date_posted": 1756847676,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8121675002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "af006b99-f0cd-40b6-aa02-cf5333840403",
+        "title": "Publishing Product Engineer I - Arcgis Enterprise",
+        "active": true,
+        "date_updated": 1761874452,
+        "date_posted": 1761874452,
+        "url": "https://www.esri.com/careers/4828988007?gh_jid=4828988007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boston Scientific",
+        "id": "5488a260-8a0c-47e9-921d-5bdb5549d63a",
+        "title": "Software Design Assurance Engineer 1 - Engineering - Design Assurance",
+        "active": true,
+        "date_updated": 1758379328,
+        "date_posted": 1754617643,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602803067367",
+        "locations": [
+            "Maple Grove, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Datalab USA",
+        "id": "0b46c5ae-11ad-489e-944e-2d4dc26cb682",
+        "title": "Production Programmer \u2013 Entry Level SQL Developer",
+        "active": true,
+        "date_updated": 1754510242,
+        "date_posted": 1754066598,
+        "url": "https://jobs.lever.co/datalabusa/19b74a87-0d5f-4ca1-a218-5dae6004d0ee/apply",
+        "locations": [
+            "Germantown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Datalab-USA",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
