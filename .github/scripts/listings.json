@@ -33323,5 +33323,23 @@
         "date_posted": 1762269961,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762270182,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Assoc-Engineer--Software_REQ338499",
+        "company_name": "T-Mobile",
+        "title": "Associate Engineer, Software",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "7375092a-78e2-4928-aab4-835ffc1b0eee",
+        "date_posted": 1762270182,
+        "company_url": "",
+        "is_visible": true
     }
 ]
