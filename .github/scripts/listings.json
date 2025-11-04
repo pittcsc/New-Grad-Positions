@@ -9748,7 +9748,7 @@
         "degrees": []
     },
     {
-        "date_updated": 1762272026,
+        "date_updated": 1754528498,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/entry-level-full-stack-software-engineer/job",
         "company_name": "i3",
         "title": "Full-Stack Software Engineer",
@@ -9756,13 +9756,12 @@
             "Hunstville, AL"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
+        "active": true,
         "source": "AlmondCroffle",
         "id": "10757e82-0f1f-47cc-9dba-a04229089139",
         "date_posted": 1754528498,
         "company_url": "",
-        "is_visible": true,
-        "degrees": []
+        "is_visible": true
     },
     {
         "date_updated": 1755041580,
@@ -29175,7 +29174,7 @@
         "company_name": "RoadRunner Recycling",
         "id": "0b6c4dc6-3e39-46a3-a0eb-7cb3199dee87",
         "title": "Software Engineer I - Full-Stack",
-        "active": false,
+        "active": true,
         "date_updated": 1762271381,
         "date_posted": 1760389508,
         "url": "https://job-boards.greenhouse.io/roadrunner/jobs/4031672009",
@@ -33097,7 +33096,7 @@
         "company_name": "Dell Technologies",
         "id": "d47e4299-4764-440d-9168-7d4b08f20fc1",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1762270583,
         "date_posted": 1762211698,
         "url": "https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Software-Engineer-1_R271302",
