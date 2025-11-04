@@ -29440,9 +29440,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761069073,
+        "date_updated": 1762271259,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.battelle.org/us/en/job/BMIBMIUS75654EXTERNALENUS/Early-Career-Software-Engineer",
         "company_name": "Battelle",
