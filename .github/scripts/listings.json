@@ -33269,5 +33269,23 @@
         "date_posted": 1762269389,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762269891,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/en-US/external/job/Denver-CO-80223/Associate-Data-Scientist--Project-Management-Office-_JR111253-1",
+        "company_name": "Xcel Energy",
+        "title": "Associate Data Scientist (Project Management Office)",
+        "locations": [
+            "Denver, CO"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "2c231c79-4257-4fad-8024-b6bd409ba48b",
+        "date_posted": 1762269891,
+        "company_url": "",
+        "is_visible": true
     }
 ]
