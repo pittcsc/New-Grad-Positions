@@ -9387,7 +9387,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754362929,
+        "date_updated": 1762272094,
         "url": "https://lifeattiktok.com/search/7532627066714753288",
         "company_name": "TikTok",
         "title": "Software Engineer, Music - 2026 Start (BS/MS)",
@@ -9395,12 +9395,13 @@
             "San Jose, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "6e7b4c5b-6577-4445-8882-b803b257ac08",
         "date_posted": 1754362929,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "degrees": []
     },
     {
         "date_updated": 1754362997,
