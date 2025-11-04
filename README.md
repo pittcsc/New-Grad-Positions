@@ -6,7 +6,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 469 New Grad Roles by Category
+### Browse 468 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (317)
 
@@ -14,7 +14,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (71)
 
-📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (23)
+📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (22)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (37)
 
@@ -7210,13 +7210,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong>Edgehog Trading</strong></td>
-<td>C++ Software Developer – Trading Strategy Execution</td>
-<td>Chicago, IL</td>
-<td><a href="https://ats.rippling.com/en-CA/edgehog-trading/jobs/a39cf004-d79c-4588-9a5f-6bdce04a85ee?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>2mo</td>
-</tr>
-<tr>
 <td><strong>Hudson River Trading</strong></td>
 <td>Algorithm Developer (Quant Researcher) – 2026 Grads</td>
 <td>New York, NY</td>
@@ -7298,7 +7291,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (4)</summary>
+<summary>🗃️ Inactive roles (5)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -7317,6 +7310,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>7th Avenue, NY</td>
 <td>🔒</td>
 <td>29d</td>
+</tr>
+<tr>
+<td><strong>Edgehog Trading</strong></td>
+<td>C++ Software Developer – Trading Strategy Execution</td>
+<td>Chicago, IL</td>
+<td>🔒</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Old-Mission?utm_source=GHList&utm_medium=company">Old Mission</a></strong></td>

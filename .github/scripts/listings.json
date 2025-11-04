@@ -12861,7 +12861,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755593968,
+        "date_updated": 1762272491,
         "url": "https://ats.rippling.com/en-CA/edgehog-trading/jobs/a39cf004-d79c-4588-9a5f-6bdce04a85ee",
         "company_name": "Edgehog Trading",
         "title": "C++ Software Developer \u2013 Trading Strategy Execution",
@@ -12869,12 +12869,13 @@
             "Chicago, IL"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "27f9ff28-fd14-4e61-8106-0c7e12d19e25",
         "date_posted": 1755593968,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "degrees": []
     },
     {
         "date_updated": 1759329391,
