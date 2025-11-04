@@ -19963,7 +19963,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
         "title": "Entry Level Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1757611606,
         "date_posted": 1757611606,
         "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
@@ -33045,7 +33045,7 @@
         "company_name": "Sono-Tek Corporation",
         "id": "cbfb0cc9-c599-43df-8344-a3fda9036699",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1762213215,
         "date_posted": 1757614666,
         "url": "https://careers-councilofindustry.icims.com/jobs/4864/job?mobile=true&needsRedirect=false",
@@ -33342,5 +33342,41 @@
         "date_posted": 1762270182,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Graphcore",
+        "id": "bdcc2ad1-8fbd-449a-8c34-eb2908c31a8b",
+        "title": "2026 Graduate Software Engineer - Triton",
+        "active": true,
+        "date_updated": 1762274143,
+        "date_posted": 1762274143,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8238577002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "McDonald's",
+        "id": "d68e6692-037c-439c-8467-e1782471d327",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1762273828,
+        "date_posted": 1762273828,
+        "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1322913300/?ats=successfactors",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/McDonald",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
