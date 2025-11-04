@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 477 New Grad Roles by Category
+### Browse 476 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (324)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (323)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (12)
 
@@ -344,14 +344,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Android Engineer 1 - Growth</td>
 <td>Boston, MA</td>
 <td><div align="center"><a href="https://jobs.lever.co/whoop/c1ee90e7-697b-49c2-b805-fa2c1ee20e4f/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/e0da206b-f1c0-4af9-9fa2-f7d209331585?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/BTI-Solutions?utm_source=GHList&utm_medium=company">BTI Solutions</a></strong></td>
 <td>Entry Level Mobile Device Test Network Engineer SHQ</td>
 <td>Bellevue, WA</td>
 <td><div align="center"><a href="https://btisolutions.wd12.myworkdayjobs.com/External/job/Bellevue-WA/Entry-Level-Mobile-Device-Test-Network-Engineer-SHQ_JR101363?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/161ee3ad-9d36-463b-b3b1-bd9f04484723?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
@@ -471,13 +471,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Arlington, VA</td>
 <td><div align="center"><a href="https://amazon.jobs/en/jobs/3092566/security-engineer-i-security-incident-response-team-sirt?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b0906a17-3c0e-4e2c-bdd9-b294be62c9cd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>6d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/BTI-Solutions?utm_source=GHList&utm_medium=company">BTI Solutions</a></strong></td>
-<td>Entry Level Mobile Device Test Network Engineer</td>
-<td>Bellevue, WA</td>
-<td><div align="center"><a href="https://btisolutions.wd12.myworkdayjobs.com/External/job/Bellevue-WA/Entry-Level-Mobile-Device-Test-Network-Engineer_JR101382?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d6773e13-7c97-488e-ac3b-0058e9ced3f4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Wyetech-LLC?utm_source=GHList&utm_medium=company">Wyetech</a></strong></td>
@@ -1908,7 +1901,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/AG-Technologies?utm_source=GHList&utm_medium=company">AG Technologies</a></strong></td>
+<td>↳</td>
 <td>Hiring Entry Level Software Engineer 🎓</td>
 <td>Dallas, TX</td>
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/AGTechnologies1/112610151?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/399d1354-f5b5-4989-b9c4-8c64d157503c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
@@ -2353,7 +2346,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (461)</summary>
+<summary>🗃️ Inactive roles (462)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2400,6 +2393,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Seattle, WA</td>
 <td>🔒</td>
 <td>6d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/BTI-Solutions?utm_source=GHList&utm_medium=company">BTI Solutions</a></strong></td>
+<td>Entry Level Mobile Device Test Network Engineer</td>
+<td>Bellevue, WA</td>
+<td>🔒</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
@@ -3813,7 +3813,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>Scottsdale, AZ</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Altice-USA?utm_source=GHList&utm_medium=company">Altice USA</a></strong></td>
@@ -4597,7 +4597,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer I - CRM</td>
 <td>Blaine, MN</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Broadcom-Limited?utm_source=GHList&utm_medium=company">Broadcom Limited</a></strong></td>
@@ -5651,7 +5651,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Product Manager – New Grad</td>
 <td>SF</br>NYC</td>
 <td><div align="center"><a href="https://jobs.lever.co/uncountable/0cccea19-b6b7-445b-8895-36b9fc0e502e/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5bff7996-9388-4d35-91f2-291c8320b58f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong>Genies</strong></td>
@@ -7332,7 +7332,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer – New Grad - AI Platform</td>
 <td>Mountain View, CA</td>
 <td><div align="center"><a href="https://nuro.ai/careersitem?gh_jid=7351066&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/af8f1713-cafe-4400-b4bf-3eb36859265a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
@@ -7360,14 +7360,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1 - Embedded Communications</td>
 <td>Fort Wayne, IN</td>
 <td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIN02-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/Software-Engineer-I---Embedded-Communications--Onsite-_01799726?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/11c5fd85-af9d-4c56-9f38-4c322e57a201?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>17d</td>
+<td>18d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
 <td>Embedded Software Engineer – New Grad</td>
 <td>Ottawa, ON, Canada</td>
 <td><div align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R029246?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/383f52ed-0b0d-44de-ad50-61f7de22a158?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>17d</td>
+<td>18d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Seagate-Technology?utm_source=GHList&utm_medium=company">Seagate Technology </a></strong></td>
@@ -7850,7 +7850,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Software Engineer I - Raytheon</td>
 <td>Tucson, AZ</td>
 <td>🔒</td>
