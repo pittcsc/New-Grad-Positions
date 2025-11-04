@@ -6,11 +6,11 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 471 New Grad Roles by Category
+### Browse 470 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (317)
 
-📱 **[Product Management](#-product-management-new-grad-roles)** (12)
+📱 **[Product Management](#-product-management-new-grad-roles)** (11)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (72)
 
@@ -834,7 +834,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer – New Grad</td>
 <td>SF</br>NYC</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/Valon/5348244b-763b-4ce7-8828-85575eba2a4c/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/e767a1da-b658-44aa-b30c-3b926e51103f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong>Vultr</strong></td>
@@ -5710,13 +5710,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>5d</td>
 </tr>
 <tr>
-<td><strong>FIS</strong></td>
-<td>Entry Level Technical Systems Analyst - Cloud background required</td>
-<td>Jacksonville, FL</td>
-<td><a href="https://fis.wd5.myworkdayjobs.com/en-US/SearchJobs/job/US-FL-JAX-347/Entry-Level-Technical-Systems-Analyst---Must-have-knowledge-of-Linux--Unix--and-Windows--Open-_JR0298762?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>12d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Uncountable?utm_source=GHList&utm_medium=company">Uncountable</a></strong></td>
 <td>Product Manager – New Grad</td>
 <td>SF</br>NYC</td>
@@ -5777,7 +5770,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (9)</summary>
+<summary>🗃️ Inactive roles (10)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -5794,6 +5787,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong>NorthAB</strong></td>
 <td>Associate Product Engineer 🛂</td>
 <td>Remote in USA</td>
+<td>🔒</td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong>FIS</strong></td>
+<td>Entry Level Technical Systems Analyst - Cloud background required</td>
+<td>Jacksonville, FL</td>
 <td>🔒</td>
 <td>12d</td>
 </tr>
