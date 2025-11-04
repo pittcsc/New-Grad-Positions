@@ -33305,5 +33305,23 @@
         "date_posted": 1762269940,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762269961,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://redfcu.wd1.myworkdayjobs.com/rfcu/job/Huntsville-AL/Senior-Programmer-Analyst_R2671",
+        "company_name": "Redstone Federal Credit Union Careers",
+        "title": "Programmer / Analyst I",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "f8ef1694-2b30-432f-8e60-6465b4a88346",
+        "date_posted": 1762269961,
+        "company_url": "",
+        "is_visible": true
     }
 ]
