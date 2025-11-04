@@ -5726,7 +5726,7 @@
         "company_name": "Collective Hub",
         "id": "5d6deca1-e3ba-4a5d-999c-d15fc2bc7fd2",
         "title": "Software Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1755269760,
         "date_posted": 1750459321,
         "url": "https://www.collective.com/careers/6614825003?gh_jid=6614825003",
@@ -19838,7 +19838,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "0b9c09e9-ba2b-4d9c-b917-95ee6f7189ec",
         "title": "Software Engineer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1757558310,
         "date_posted": 1757558310,
         "url": "https://careers-gdms.icims.com/jobs/67972/job?mobile=true&needsRedirect=false",
@@ -19960,7 +19960,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
         "title": "Entry Level Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1757611606,
         "date_posted": 1757611606,
         "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
@@ -29080,7 +29080,7 @@
         "company_name": "Centene",
         "id": "c2981a89-e31a-4a64-9ffb-529384a1de21",
         "title": "Data Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1761839773,
         "date_posted": 1760844432,
         "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-GA/Data-Engineer-I_1606353-1",
@@ -33052,6 +33052,60 @@
             "Saratoga County, NY"
         ],
         "company_url": "https://simplify.jobs/c/Sono-Tek-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Keysight Technologies",
+        "id": "647ea1f4-86f5-48c7-aba3-1fbfe45e186e",
+        "title": "Entry Level R&D Software Engineer",
+        "active": true,
+        "date_updated": 1762212717,
+        "date_posted": 1762212717,
+        "url": "https://jobs.keysight.com/jobs/50042?lang=en-us&icims=1",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "1e9d9df1-ea42-4b07-94cf-ed9f8986d14c",
+        "title": "Full-time 2026 - Java Software Engineer 1",
+        "active": true,
+        "date_updated": 1762212270,
+        "date_posted": 1762212270,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Full-time---Java-Software-Engineer-I---Onsite--PA-_01804060",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dell Technologies",
+        "id": "d47e4299-4764-440d-9168-7d4b08f20fc1",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1762211698,
+        "date_posted": 1762211698,
+        "url": "https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Software-Engineer-1_R271302",
+        "locations": [
+            "Round Rock, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Dell-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
