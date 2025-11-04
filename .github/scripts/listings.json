@@ -33215,5 +33215,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1762269115,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Technology-Development-Program_R196707",
+        "company_name": "PNC Bank",
+        "title": "Technology Development Program",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "b29fbd21-bb35-4dc0-91ac-def463597b34",
+        "date_posted": 1762269115,
+        "company_url": "",
+        "is_visible": true
     }
 ]
