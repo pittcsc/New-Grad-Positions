@@ -13000,7 +13000,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755615218,
+        "date_updated": 1762272678,
         "url": "https://joinbytedance.com/search/7538109046751463688",
         "company_name": "ByteDance",
         "title": "Network Engineer Graduate (Physical Network Infra)",
@@ -13008,12 +13008,13 @@
             "Seattle, WA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "6a78cd19-8c35-45f3-bf12-1ece75258473",
         "date_posted": 1755615218,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "degrees": []
     },
     {
         "date_updated": 1755615250,
