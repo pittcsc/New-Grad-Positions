@@ -33287,5 +33287,23 @@
         "date_posted": 1762269891,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762269940,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://ncr.wd1.myworkdayjobs.com/en-US/ext_us/job/ATLANTA-GA-USA/Software-Engineer-I_R0155211",
+        "company_name": "NCR",
+        "title": "Software Engineer I",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "8d16615d-a45a-42c4-bfe8-31b452150689",
+        "date_posted": 1762269940,
+        "company_url": "",
+        "is_visible": true
     }
 ]
