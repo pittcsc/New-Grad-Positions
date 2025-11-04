@@ -33233,5 +33233,23 @@
         "date_posted": 1762269115,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762269232,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20262069",
+        "company_name": "Vertiv",
+        "title": "Associate Firmware Engineer",
+        "locations": [
+            "Saint Louis, MO"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "66814d3c-1578-4233-b459-1f4390b6d667",
+        "date_posted": 1762269232,
+        "company_url": "",
+        "is_visible": true
     }
 ]
