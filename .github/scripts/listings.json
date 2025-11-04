@@ -33251,5 +33251,23 @@
         "date_posted": 1762269232,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762269389,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/SONiC-Software-Design-Engineer--New-College-Grad-2025_JR2006947",
+        "company_name": "NVIDIA",
+        "title": "SONiC Software Design Engineer- New College Grad 2025",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "d70cb95c-4270-48e5-be95-2905af2e3e92",
+        "date_posted": 1762269389,
+        "company_url": "",
+        "is_visible": true
     }
 ]

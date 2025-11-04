@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 479 New Grad Roles by Category
+### Browse 480 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (326)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (327)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (12)
 
@@ -80,6 +80,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
+<td>SONiC Software Design Engineer- New College Grad 2025</td>
+<td>Redmond, WA</td>
+<td><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/SONiC-Software-Design-Engineer--New-College-Grad-2025_JR2006947?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong>Vertiv</strong></td>
 <td>Associate Firmware Engineer 🛂</td>
