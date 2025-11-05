@@ -33947,5 +33947,23 @@
         "date_posted": 1762359918,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762359934,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Cloud-Engineer-I_R25_0000038435",
+        "company_name": "Genuine Parts Company",
+        "title": "Cloud Engineer I",
+        "locations": [
+            "Birmingham, AL"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "6c575597-87bd-4197-a86f-296c8b647315",
+        "date_posted": 1762359934,
+        "company_url": "",
+        "is_visible": true
     }
 ]
