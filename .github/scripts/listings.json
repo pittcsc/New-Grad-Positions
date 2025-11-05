@@ -33913,7 +33913,7 @@
         "degrees": []
     },
     {
-        "date_updated": 1762359881,
+        "date_updated": 1762368693,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [],
@@ -33921,6 +33921,7 @@
         "company_name": "CACI",
         "title": "Junior Software Engineer",
         "locations": [
+            "Remote",
             "Annapolis Junction, MD"
         ],
         "category": "Software Engineering",
