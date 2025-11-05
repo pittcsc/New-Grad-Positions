@@ -33965,5 +33965,23 @@
         "date_posted": 1762359934,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762359957,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-gdms.icims.com/jobs/68913/software-engineer-%E2%80%93-entry-level/job",
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Software Engineer \u2013 Entry Level",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "7bec8170-20b1-4eab-a3cb-da6d56ce4b88",
+        "date_posted": 1762359957,
+        "company_url": "",
+        "is_visible": true
     }
 ]
