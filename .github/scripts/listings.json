@@ -34002,5 +34002,23 @@
         "date_posted": 1762359991,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762360166,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.smartrecruiters.com/Visa/615efbc7-5ef9-4dc3-b65a-cf364e55674e?dcr_ci=Visa",
+        "company_name": "Visa",
+        "title": "Graduate Software Engineer",
+        "locations": [
+            "Reading, United Kingdom"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "932cffa0-84c7-4356-acc9-63cdb672ba76",
+        "date_posted": 1762360166,
+        "company_url": "",
+        "is_visible": true
     }
 ]
