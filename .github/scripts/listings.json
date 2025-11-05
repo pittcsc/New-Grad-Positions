@@ -33911,5 +33911,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1762359881,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://caci.wd1.myworkdayjobs.com/en-US/External/job/US-MD-Annapolis-Junction/Junior-Software-Engineer_319292-1",
+        "company_name": "CACI",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "5eb4fd5d-ac5f-41b3-8130-69837e4e179a",
+        "date_posted": 1762359881,
+        "company_url": "",
+        "is_visible": true
     }
 ]
