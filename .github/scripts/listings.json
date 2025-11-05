@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Aurora Innovation",
-        "id": "27735beb-5ab1-4065-a41f-01d0c514b61c",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1741634833,
-        "date_posted": 1741634833,
-        "url": "https://aurora.tech/jobs/7781378002?gh_jid=7781378002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Amentum",
         "id": "e3d2efc7-aaf1-4c79-ab76-9ace2b1ba94a",
         "title": "Entry Level Software Engineer",
