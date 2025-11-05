@@ -19800,7 +19800,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -27977,7 +27977,7 @@
         "company_name": "The Boeing Company",
         "id": "83414be6-2f14-4ddc-934e-e2f8b5898baf",
         "title": "Entry Level Software Engineer - Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1760392052,
         "date_posted": 1760392052,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer---Developer_JR2025467505-1",
@@ -32102,7 +32102,7 @@
         "company_name": "Fireworks AI",
         "id": "da9805f7-0c21-4388-aecf-44758b8e3842",
         "title": "Software Engineer \u2013 Early Career - Cloud Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1760486475,
         "date_posted": 1760397777,
         "url": "https://job-boards.greenhouse.io/fireworksai/jobs/4036755009",
@@ -33757,6 +33757,80 @@
             "Germantown, MD"
         ],
         "company_url": "https://simplify.jobs/c/Datalab-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "fa5b2a21-5c3e-49cb-b195-630216dddf9b",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1762300008,
+        "date_posted": 1762300008,
+        "url": "https://careers-gdms.icims.com/jobs/68913/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "62978953-b87b-466b-a4b6-6e7dd4fd9da4",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1762298778,
+        "date_posted": 1762298778,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/UT207-1127-West-2320-South---West-Valley-City-UT-84119-USA/Software-Engineer-I_01804302",
+        "locations": [
+            "West Valley City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "5701cc8d-63ee-4c85-aaab-085bdcc9bf84",
+        "title": "Software Engineer I - Avionics Test Engineering - Onsite",
+        "active": true,
+        "date_updated": 1762298745,
+        "date_posted": 1762298745,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HMN01-SIS-Sensors---Burnsville-14300-Judicial-Rd-Burnsville-MN-55306-USA/Software-Engineer-I---Avionics-Test-Engineering--Onsite-_01802271",
+        "locations": [
+            "Burnsville, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "McDonald's",
+        "id": "8b055c51-7d1e-44f0-b190-12b9ab15e25a",
+        "title": "Software Engineer I C#",
+        "active": true,
+        "date_updated": 1762299020,
+        "date_posted": 1762299020,
+        "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-C-IL-60607/1340292800/?ats=successfactors",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/McDonald",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
