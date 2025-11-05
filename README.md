@@ -111,7 +111,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <tr>
 <td><strong><a href="https://simplify.jobs/c/EBSCO?utm_source=GHList&utm_medium=company">EBSCO</a></strong></td>
 <td>Cloud Platform Engineer I</td>
-<td>Ipswich, MA</td>
+<td>Ipswich, MA</br>Remote</td>
 <td><a href="https://careers-ebscoind.icims.com/jobs/1873/cloud-platform-engineer-i/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
 <td>0d</td>
 </tr>

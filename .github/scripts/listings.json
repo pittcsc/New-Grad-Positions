@@ -33931,7 +33931,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762359918,
+        "date_updated": 1762369109,
         "sponsorship": "Other",
         "active": true,
         "degrees": [],
@@ -33939,7 +33939,8 @@
         "company_name": "EBSCO",
         "title": "Cloud Platform Engineer I",
         "locations": [
-            "Ipswich, MA"
+            "Ipswich, MA",
+            "Remote"
         ],
         "category": "Software Engineering",
         "source": "angie-hue",
