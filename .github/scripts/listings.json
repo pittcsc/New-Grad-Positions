@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Marqeta",
-        "id": "21a33f11-4648-442d-a523-03f00ac08f70",
-        "title": "Software Engineer I - Continuous Integration Team",
-        "active": false,
-        "date_updated": 1741620455,
-        "date_posted": 1741620455,
-        "url": "https://job-boards.greenhouse.io/marqeta/jobs/6695137",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Marqeta",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Aurora Innovation",
         "id": "27735beb-5ab1-4065-a41f-01d0c514b61c",
         "title": "Software Engineer I",
