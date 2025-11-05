@@ -33983,5 +33983,24 @@
         "date_posted": 1762359957,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762359991,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/warp/jobs/4324888004",
+        "company_name": "Warp",
+        "title": "Software Engineer",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "1d5044c8-134a-46db-a46c-90a1f767d1ae",
+        "date_posted": 1762359991,
+        "company_url": "",
+        "is_visible": true
     }
 ]
