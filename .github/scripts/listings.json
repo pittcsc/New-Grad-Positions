@@ -33929,5 +33929,23 @@
         "date_posted": 1762359881,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762359918,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-ebscoind.icims.com/jobs/1873/cloud-platform-engineer-i/job",
+        "company_name": "EBSCO",
+        "title": "Cloud Platform Engineer I",
+        "locations": [
+            "Ipswich, MA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "044d2340-8c9f-4361-828e-a09cb0f4718b",
+        "date_posted": 1762359918,
+        "company_url": "",
+        "is_visible": true
     }
 ]
