@@ -1,56 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Amentum",
-        "id": "e3d2efc7-aaf1-4c79-ab76-9ace2b1ba94a",
-        "title": "Entry Level Software Engineer",
-        "active": false,
-        "date_updated": 1741635341,
-        "date_posted": 1741635341,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0135975",
-        "locations": [
-            "Fredericksburg, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Amentum",
-        "id": "623825f6-11b7-4f41-9cd5-38005ddc2ec1",
-        "title": "Entry Level Software Engineer",
-        "active": false,
-        "date_updated": 1741635346,
-        "date_posted": 1741635346,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0135976",
-        "locations": [
-            "Fredericksburg, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Dagster Labs",
-        "id": "1e5f3594-4498-4c41-812a-025b1f8ef444",
-        "title": "Software Engineer \u2013 University Grad",
-        "active": false,
-        "date_updated": 1741635674,
-        "date_posted": 1741635674,
-        "url": "https://job-boards.greenhouse.io/dagsterlabs/jobs/6505081003",
-        "locations": [
-            "SF",
-            "NYC",
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Dagster-Labs",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Cox",
         "id": "f905a2a5-5e35-42d8-bd8a-290b5659e316",
         "title": "Software Engineer I",
