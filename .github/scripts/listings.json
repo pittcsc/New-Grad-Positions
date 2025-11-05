@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Cox",
-        "id": "f905a2a5-5e35-42d8-bd8a-290b5659e316",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1741648416,
-        "date_posted": 1741648416,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I_R202558565",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Mastercard",
         "id": "6841ccde-82fa-45ee-83dd-7139b4e01265",
         "title": "Data Engineer I",
@@ -31690,7 +31674,7 @@
         "company_name": "BTI Solutions",
         "id": "d6773e13-7c97-488e-ac3b-0058e9ced3f4",
         "title": "Entry Level Mobile Device Test Network Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1761532774,
         "date_posted": 1761532774,
         "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Bellevue-WA/Entry-Level-Mobile-Device-Test-Network-Engineer_JR101382",
@@ -32471,7 +32455,7 @@
         "company_name": "Falconwood",
         "id": "9d0d22a0-23b9-4e83-811e-24ce734f2894",
         "title": "Data Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1762186584,
         "date_posted": 1757631601,
         "url": "https://careers-falconwood.icims.com/jobs/1672/job?mobile=true&needsRedirect=false",
