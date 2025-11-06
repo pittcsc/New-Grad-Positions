@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Mastercard",
-        "id": "6841ccde-82fa-45ee-83dd-7139b4e01265",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1741706552,
-        "date_posted": 1741706552,
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Data-Engineer-I_R-243234-1",
-        "locations": [
-            "O'Fallon, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Mastercard",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Onto Innovation",
         "id": "2520d7b3-f9a0-48af-bafc-172eea94afa5",
         "title": "Software Engineer 1",
@@ -19850,7 +19834,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
         "title": "Entry Level Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1757611606,
         "date_posted": 1757611606,
         "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
@@ -32587,7 +32571,7 @@
         "company_name": "The Travelers Companies",
         "id": "80de9ba4-405d-4b83-a4a6-6721a7d62e4a",
         "title": "Data Engineer I - Aws - Pyspark - Snowflake",
-        "active": true,
+        "active": false,
         "date_updated": 1761992389,
         "date_posted": 1761992389,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Data-Engineer-I--AWS--PySpark--Snowflake-_R-46325",
@@ -34106,6 +34090,24 @@
             "Annapolis Junction, MD"
         ],
         "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Axon",
+        "id": "d79bd3b7-c1d4-4bbd-913f-b004edba607b",
+        "title": "Embedded Software Engineer I",
+        "active": true,
+        "date_updated": 1762441004,
+        "date_posted": 1762441004,
+        "url": "https://job-boards.greenhouse.io/axon/jobs/6289451003",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Axon",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
