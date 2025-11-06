@@ -9635,7 +9635,7 @@
         "degrees": []
     },
     {
-        "date_updated": 1754528498,
+        "date_updated": 1762412567,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/entry-level-full-stack-software-engineer/job",
         "company_name": "i3",
         "title": "Full-Stack Software Engineer",
@@ -9643,12 +9643,13 @@
             "Hunstville, AL"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "10757e82-0f1f-47cc-9dba-a04229089139",
         "date_posted": 1754528498,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "degrees": []
     },
     {
         "date_updated": 1755041580,
