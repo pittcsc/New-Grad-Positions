@@ -1213,22 +1213,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Nexxen",
-        "id": "8f8cedaf-6a38-40c0-9550-913cd33d1aae",
-        "title": "Software Engineer I - SSP Backend",
-        "active": false,
-        "date_updated": 1743503207,
-        "date_posted": 1741649438,
-        "url": "https://job-boards.greenhouse.io/nexxen/jobs/7732428002",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nexxen",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "World Kinect",
         "id": "10c2ee3f-ec9d-4690-9e24-089c4e0393e6",
         "title": "IT Software Engineer I",
@@ -19600,7 +19584,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": false,
+        "active": true,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -19865,7 +19849,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
         "title": "Entry Level Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1757611606,
         "date_posted": 1757611606,
         "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
@@ -32004,7 +31988,7 @@
         "company_name": "Fireworks AI",
         "id": "da9805f7-0c21-4388-aecf-44758b8e3842",
         "title": "Software Engineer \u2013 Early Career - Cloud Infrastructure",
-        "active": false,
+        "active": true,
         "date_updated": 1760486475,
         "date_posted": 1760397777,
         "url": "https://job-boards.greenhouse.io/fireworksai/jobs/4036755009",
@@ -32947,7 +32931,7 @@
         "company_name": "Sono-Tek Corporation",
         "id": "cbfb0cc9-c599-43df-8344-a3fda9036699",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1762213215,
         "date_posted": 1757614666,
         "url": "https://careers-councilofindustry.icims.com/jobs/4864/job?mobile=true&needsRedirect=false",
@@ -33939,5 +33923,78 @@
         "date_posted": 1762360166,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citizen Health",
+        "id": "3e5892ca-46e1-443a-81fb-232870f8384a",
+        "title": "Early Career Software Engineer",
+        "active": true,
+        "date_updated": 1762386344,
+        "date_posted": 1762386344,
+        "url": "https://jobs.ashbyhq.com/Citizen%20Health/cd0a0119-9d37-4406-8e8e-e67bcc6b3de7/application",
+        "locations": [
+            "SF",
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Citizen-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Graphcore",
+        "id": "9881aa86-eda0-414b-acc4-7cc5e3e43413",
+        "title": "2026 Graduate Machine Learning Engineer - Applied AI",
+        "active": true,
+        "date_updated": 1762385788,
+        "date_posted": 1762385788,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8234675002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "d9abf54f-a175-43f8-a7f3-6f51fe94b888",
+        "title": "2026 Full-time - Software Engineer 1 - Onsite - CA",
+        "active": true,
+        "date_updated": 1762385237,
+        "date_posted": 1762385237,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA550-Fullerton-CA-Bldg-675-1801-West-Hughes-Drive-Building-675-Fullerton-CA-92834-USA/XMLNAME-2026-Full-time---Software-Engineer-1---Onsite--CA-_01804761",
+        "locations": [
+            "Anaheim, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "aec95556-7230-4983-9222-aab8112f843c",
+        "title": "Software Engineer 1 - Software Engineering",
+        "active": true,
+        "date_updated": 1762385242,
+        "date_posted": 1762385242,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/TX190-2501-West-University-McKinney-2501-West-University---McKinney-TX-75070-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--TX-_01804717",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
