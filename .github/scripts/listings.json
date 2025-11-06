@@ -19687,7 +19687,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -32932,7 +32932,7 @@
         "company_name": "Sono-Tek Corporation",
         "id": "cbfb0cc9-c599-43df-8344-a3fda9036699",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1762213215,
         "date_posted": 1757614666,
         "url": "https://careers-councilofindustry.icims.com/jobs/4864/job?mobile=true&needsRedirect=false",
@@ -33525,7 +33525,7 @@
         "company_name": "BryceTech",
         "id": "b58d022a-bedb-4d2c-b0eb-432d8e208942",
         "title": "Junior Exercise Software IT Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1757521532,
         "date_posted": 1757521532,
         "url": "https://jobs.smartrecruiters.com/BryceTech/744000080865323",
@@ -33950,7 +33950,7 @@
         "company_name": "Graphcore",
         "id": "9881aa86-eda0-414b-acc4-7cc5e3e43413",
         "title": "2026 Graduate Machine Learning Engineer - Applied AI",
-        "active": true,
+        "active": false,
         "date_updated": 1762385788,
         "date_posted": 1762385788,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8234675002",
@@ -34052,6 +34052,42 @@
             "Longmont, CO"
         ],
         "company_url": "https://simplify.jobs/c/Seagate-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "3341ad19-ff53-40d9-aed1-0eab9614c836",
+        "title": "Software Engineer 1 - Entry Level",
+        "active": true,
+        "date_updated": 1762435047,
+        "date_posted": 1762435047,
+        "url": "https://careers-gdms.icims.com/jobs/69129/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsfield, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "3c8ce518-58d5-41a0-b586-073f60bfd11d",
+        "title": "2026 Graduate Software Engineer - Drivers",
+        "active": true,
+        "date_updated": 1762434202,
+        "date_posted": 1762434202,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8238605002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
