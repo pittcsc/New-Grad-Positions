@@ -19686,7 +19686,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -33993,6 +33993,45 @@
             "McKinney, TX"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox",
+        "id": "0353ba8a-aaed-4fa7-934f-51e284c0970a",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1762386626,
+        "date_posted": 1762386626,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202569267",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Truist Bank",
+        "id": "525dddf0-89cc-4d9e-9452-085817670b1d",
+        "title": "Software Engineer 1 - Finance Technology Data & Reporting",
+        "active": true,
+        "date_updated": 1762386971,
+        "date_posted": 1762386971,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Greensboro-NC/Software-Engineer-I---Finance-Technology-Data---Reporting_R0108028-1",
+        "locations": [
+            "Charlotte, NC",
+            "Greensboro, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Truist-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
