@@ -19850,7 +19850,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
         "title": "Entry Level Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1757611606,
         "date_posted": 1757611606,
         "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
@@ -32896,7 +32896,7 @@
         "company_name": "RTX",
         "id": "861a0ca0-a8b2-43cd-bd83-1581ca871f82",
         "title": "2026 Full-time - Cyber Security Engineer I - Onsite - MA",
-        "active": true,
+        "active": false,
         "date_updated": 1762212270,
         "date_posted": 1762212270,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/XMLNAME-2026-Full-time---Cyber-Security-Engineer-I---Onsite--MA-_01802287",
@@ -34088,6 +34088,24 @@
             "Bristol, UK"
         ],
         "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wyetech",
+        "id": "2a65f3ef-8fd4-41c5-95ad-56c0714eee35",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1762436258,
+        "date_posted": 1752618104,
+        "url": "https://jobs.lever.co/wyetechllc/08805fb2-ec83-47ba-a4bb-a82e47805e94/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
