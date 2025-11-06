@@ -6,13 +6,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 467 New Grad Roles by Category
+### Browse 462 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (321)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (319)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (10)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (68)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (65)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (22)
 
@@ -270,13 +270,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>2d</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Full-time 2026 - Java Software Engineer 1</td>
-<td>State College, PA</td>
-<td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Full-time---Java-Software-Engineer-I---Onsite--PA-_01804060?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1e9d9df1-ea42-4b07-94cf-ed9f8986d14c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Cummins?utm_source=GHList&utm_medium=company">Cummins</a></strong></td>
 <td>Software Engineer I</td>
 <td>Indiana</td>
@@ -289,13 +282,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Remote in USA</td>
 <td><a href="https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Remote-US-NC/Associate-Software-Engineer_R-052052?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
 <td>2d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td>2026 Full-time - Software Engineer I - Onsite - TX</td>
-<td>Richardson, TX</td>
-<td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/TX234-Richardson-1717-CityLine-1717-East-CityLine-Drive-Building-C17-Richardson-TX-75082-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--TX-_01801919?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/75b31778-7091-4a2d-868c-f5c5bad93383?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
@@ -2332,7 +2318,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (500)</summary>
+<summary>🗃️ Inactive roles (502)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2395,6 +2381,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>2d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>Full-time 2026 - Java Software Engineer 1</td>
+<td>State College, PA</td>
+<td>🔒</td>
+<td>2d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Dell-Technologies?utm_source=GHList&utm_medium=company">Dell Technologies</a></strong></td>
 <td>Software Engineer 1</td>
 <td>Round Rock, TX</td>
@@ -2414,6 +2407,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>San Francisco, CA</br>San Mateo, CA</td>
 <td>🔒</td>
 <td>2d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>2026 Full-time - Software Engineer I - Onsite - TX</td>
+<td>Richardson, TX</td>
+<td>🔒</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
@@ -6070,13 +6070,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Centene?utm_source=GHList&utm_medium=company">Centene</a></strong></td>
-<td>Data Engineer I</td>
-<td><details><summary><strong>16 locations</strong></summary>New Mexico</br>Cunningham, KS</br>Pennsylvania</br>Texas</br>Florida</br>Wichita, KS</br>South Carolina</br>Edmond, OK</br>Tennessee</br>Minnesota</br>Fort Gibson, OK</br>Wisconsin</br>North Carolina</br>Missouri</br>Illinois</br>McKenzie, TN</details></td>
-<td><div align="center"><a href="https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-IA/Data-Engineer-I_1606352-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5df90d62-9b36-40cc-9472-654f58bfd160?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">🔥 Meta</a></strong></td>
 <td>Data Engineer, Analytics (University Grad)</td>
 <td>New York, NY</td>
@@ -6194,13 +6187,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Mississauga, ON</td>
 <td><a href="https://uscareers-pepsico.icims.com/jobs/415877/junior-data-scientist-%E2%80%93-new-grad/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
 <td>16d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Centene?utm_source=GHList&utm_medium=company">Centene</a></strong></td>
-<td>Data Engineer I</td>
-<td><details><summary><strong>17 locations</strong></summary>New Mexico</br>Pennsylvania</br>Iowa</br>Texas</br>Florida</br>South Carolina</br>Georgia</br>Tennessee</br>Minnesota</br>Utah</br>Wisconsin</br>North Carolina</br>Oklahoma</br>Missouri</br>Ohio</br>Michigan</br>Illinois</details></td>
-<td><div align="center"><a href="https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-GA/Data-Engineer-I_1606353-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c2981a89-e31a-4a64-9ffb-529384a1de21?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>18d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company">🔥 Amazon</a></strong></td>
@@ -6333,13 +6319,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Data Scientist – New Graduate</td>
 <td>Pittsburgh, PA</td>
 <td><div align="center"><a href="https://careers.duolingo.com/jobs/8162849002?gh_jid=8162849002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2e4edbe7-7a0b-4a89-98db-ff9a7fb2f31e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Falconwood?utm_source=GHList&utm_medium=company">Falconwood</a></strong></td>
-<td>Data Engineer I</td>
-<td>Suffolk, VA</td>
-<td><div align="center"><a href="https://careers-falconwood.icims.com/jobs/1672/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9d0d22a0-23b9-4e83-811e-24ce734f2894?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
@@ -6543,7 +6522,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (107)</summary>
+<summary>🗃️ Inactive roles (110)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -6556,6 +6535,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Centene?utm_source=GHList&utm_medium=company">Centene</a></strong></td>
+<td>Data Engineer I</td>
+<td><details><summary><strong>16 locations</strong></summary>New Mexico</br>Cunningham, KS</br>Pennsylvania</br>Texas</br>Florida</br>Wichita, KS</br>South Carolina</br>Edmond, OK</br>Tennessee</br>Minnesota</br>Fort Gibson, OK</br>Wisconsin</br>North Carolina</br>Missouri</br>Illinois</br>McKenzie, TN</details></td>
+<td>🔒</td>
+<td>2d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Smx?utm_source=GHList&utm_medium=company">SMX</a></strong></td>
 <td>Junior Data Scientist 🇺🇸</td>
@@ -6590,6 +6576,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Austin, TX</br>Atlanta, GA</td>
 <td>🔒</td>
 <td>16d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Centene?utm_source=GHList&utm_medium=company">Centene</a></strong></td>
+<td>Data Engineer I</td>
+<td><details><summary><strong>17 locations</strong></summary>New Mexico</br>Pennsylvania</br>Iowa</br>Texas</br>Florida</br>South Carolina</br>Georgia</br>Tennessee</br>Minnesota</br>Utah</br>Wisconsin</br>North Carolina</br>Oklahoma</br>Missouri</br>Ohio</br>Michigan</br>Illinois</details></td>
+<td>🔒</td>
+<td>18d</td>
 </tr>
 <tr>
 <td><strong>TDS</strong></td>
@@ -6826,6 +6819,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/PathAI?utm_source=GHList&utm_medium=company">PathAI</a></strong></td>
 <td>Machine Learning Engineer 1/2/3</td>
 <td>Boston, MA</br>NYC</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Falconwood?utm_source=GHList&utm_medium=company">Falconwood</a></strong></td>
+<td>Data Engineer I</td>
+<td>Suffolk, VA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
