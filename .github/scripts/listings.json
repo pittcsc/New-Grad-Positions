@@ -32424,7 +32424,7 @@
         "company_name": "Falconwood",
         "id": "9d0d22a0-23b9-4e83-811e-24ce734f2894",
         "title": "Data Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1762186584,
         "date_posted": 1757631601,
         "url": "https://careers-falconwood.icims.com/jobs/1672/job?mobile=true&needsRedirect=false",
@@ -32916,7 +32916,7 @@
         "company_name": "Sono-Tek Corporation",
         "id": "cbfb0cc9-c599-43df-8344-a3fda9036699",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1762213215,
         "date_posted": 1757614666,
         "url": "https://careers-councilofindustry.icims.com/jobs/4864/job?mobile=true&needsRedirect=false",
@@ -34108,6 +34108,24 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/Axon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intuit",
+        "id": "a5beff7a-688c-49b4-b43d-4ff0814d29c6",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1762434791,
+        "date_posted": 1762434791,
+        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/88102807904",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuit",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
