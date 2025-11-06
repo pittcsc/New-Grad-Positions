@@ -34035,5 +34035,24 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Seagate Technology ",
+        "id": "e0c1c023-3f8c-44e5-851b-2e07d863dbed",
+        "title": "Firmware Engineer I - Embedded Systems",
+        "active": true,
+        "date_updated": 1762385215,
+        "date_posted": 1762385215,
+        "url": "https://seagatecareers.com/job/Longmont-Firmware-Engineer-I-CO-80501/1340367500/?ats=successfactors",
+        "locations": [
+            "Shakopee, MN",
+            "Longmont, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Seagate-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
