@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 476 New Grad Roles by Category
+### Browse 475 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (327)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (326)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (10)
 
@@ -498,13 +498,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Integration Engineer - New Grad</td>
 <td>Mountain View, CA</td>
 <td><a href="https://job-boards.greenhouse.io/appliedintuition/jobs/4607272005?gh_jid=4607272005&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/GDIT?utm_source=GHList&utm_medium=company">General Dynamics Information Technology</a></strong></td>
-<td>Software Developer Associate - TS/SCI w/Poly 🇺🇸</td>
-<td>Annapolis Junction, MD</td>
-<td><a href="https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Software-Developer-Associate---TS-SCI-w-Poly_RQ209620?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
 <td>6d</td>
 </tr>
 <tr>
@@ -2374,7 +2367,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (494)</summary>
+<summary>🗃️ Inactive roles (495)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2496,6 +2489,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Expedia-Group?utm_source=GHList&utm_medium=company">Expedia Group</a></strong></td>
 <td>Software Development Engineer I</td>
 <td>Seattle, WA</td>
+<td>🔒</td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/GDIT?utm_source=GHList&utm_medium=company">General Dynamics Information Technology</a></strong></td>
+<td>Software Developer Associate - TS/SCI w/Poly 🇺🇸</td>
+<td>Annapolis Junction, MD</td>
 <td>🔒</td>
 <td>6d</td>
 </tr>
