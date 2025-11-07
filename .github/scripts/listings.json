@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Coalition",
-        "id": "9ea74609-457f-4c34-b3fd-dd541284ae1a",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1741736106,
-        "date_posted": 1741736106,
-        "url": "https://www.coalitioninc.com/job-posting?gh_jid=4538767005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Coalition",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "RippleMatch",
         "id": "2e48f710-d8c9-4233-b560-453287a828f7",
         "title": "Entry Level Software Engineer",
@@ -19537,7 +19521,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": false,
+        "active": true,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -19802,7 +19786,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
         "title": "Entry Level Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1757611606,
         "date_posted": 1757611606,
         "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
@@ -32884,7 +32868,7 @@
         "company_name": "Sono-Tek Corporation",
         "id": "cbfb0cc9-c599-43df-8344-a3fda9036699",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1762213215,
         "date_posted": 1757614666,
         "url": "https://careers-councilofindustry.icims.com/jobs/4864/job?mobile=true&needsRedirect=false",
@@ -34130,6 +34114,61 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Okta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citizen Health",
+        "id": "b39419cf-950a-488e-b775-01a81bbe2ad0",
+        "title": "Early Career Software Engineer",
+        "active": true,
+        "date_updated": 1762472986,
+        "date_posted": 1762472986,
+        "url": "https://jobs.ashbyhq.com/Citizen%20Health/6157ab51-0fc9-4ad8-90ea-8e87e2a95eef/application",
+        "locations": [
+            "SF",
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Citizen-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Viridien",
+        "id": "775c36f8-9bf5-425f-828b-2e2aa1ade7df",
+        "title": "Machine Learning Engineer/Researcher \u2013 2026 Graduate Programme",
+        "active": true,
+        "date_updated": 1762471948,
+        "date_posted": 1762471948,
+        "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Machine-Learning-Engineer-Researcher---2026-Graduate-Programme_JR101055-1",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Viridien",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Businessolver",
+        "id": "52000c2d-724b-4297-bfb6-f17fd27ceef9",
+        "title": "Java Software Engineer I - Remote within the USA",
+        "active": true,
+        "date_updated": 1762472194,
+        "date_posted": 1762472194,
+        "url": "https://www.businessolver.com/careers/openings/?gh_jid=7358032",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Businessolver",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
