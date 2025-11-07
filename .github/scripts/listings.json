@@ -11473,7 +11473,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1755246653,
+        "date_updated": 1762553366,
         "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4824362007?gh_jid=4824362007",
         "company_name": "Anduril Industries",
         "title": "Early Career Software Engineer",
@@ -11481,7 +11481,7 @@
             "Boston, MA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "826be62a-8eee-45dc-816f-986e9c4bc7bd",
         "date_posted": 1755246471,
@@ -25903,9 +25903,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1759739587,
+        "date_updated": 1762553366,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C---Junioe-Software-Developer_R0147255",
         "company_name": "Amentum",
