@@ -34215,5 +34215,23 @@
         "date_posted": 1762554945,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762555474,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://aspentech.wd5.myworkdayjobs.com/en-US/AspenTech/job/Medina-Minnesota/Associate-Software-Quality-Engineer_R8022-1",
+        "company_name": "AspenTech",
+        "title": "Associate Software Quality Engineer",
+        "locations": [
+            "Medina, MN"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "b1badcc7-16a0-4989-9c61-667c4ae9425b",
+        "date_posted": 1762555474,
+        "company_url": "",
+        "is_visible": true
     }
 ]
