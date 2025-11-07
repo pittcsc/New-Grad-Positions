@@ -6,7 +6,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 453 New Grad Roles by Category
+### Browse 452 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (314)
 
@@ -18,7 +18,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (37)
 
-💼 **[Other](#-other-new-grad-roles)** (8)
+💼 **[Other](#-other-new-grad-roles)** (7)
 
 ---
 
@@ -8523,13 +8523,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Aprio</strong></td>
-<td>Assurance Associate - Blockchain, Digital Assets, Specialty Lending and AI</td>
-<td>San Francisco, CA</td>
-<td><a href="https://jobs.lever.co/Aprio/e52783da-4116-4f88-9bfb-0cc6ce4a6993/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>1mo</td>
-</tr>
 <tr>
 <td><strong>Epic</strong></td>
 <td>Technical Solutions Engineer 🛂</td>
