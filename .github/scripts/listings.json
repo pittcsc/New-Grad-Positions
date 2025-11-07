@@ -18485,8 +18485,8 @@
         "company_name": "Figma",
         "id": "3bea35c7-6895-4566-a81a-32705074a380",
         "title": "Early Career - Data Scientist",
-        "active": true,
-        "date_updated": 1757356297,
+        "active": false,
+        "date_updated": 1762506254,
         "date_posted": 1757356297,
         "url": "https://boards.greenhouse.io/figma/jobs/5615025004",
         "locations": [
@@ -18496,9 +18496,7 @@
         "company_url": "https://simplify.jobs/c/Figma",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
