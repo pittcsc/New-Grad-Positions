@@ -34053,5 +34053,23 @@
         "date_posted": 1762554222,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762554544,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/thinkahead/ea0c65d1-dd6b-4f68-8abb-2bacebbd98a1",
+        "company_name": "AHEAD",
+        "title": "Associate AI Engineer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "14faf8be-cb39-4e8d-9146-fb74da0d7d17",
+        "date_posted": 1762554544,
+        "company_url": "",
+        "is_visible": true
     }
 ]
