@@ -34179,5 +34179,23 @@
         "date_posted": 1762554834,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762554873,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-98561-1",
+        "company_name": "Expedia Group",
+        "title": "Software Development Engineer I",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "af8ffce5-dd20-4103-80be-08e9bd58f84e",
+        "date_posted": 1762554873,
+        "company_url": "",
+        "is_visible": true
     }
 ]
