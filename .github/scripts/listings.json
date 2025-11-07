@@ -34089,5 +34089,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1762554697,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4615879006",
+        "company_name": "NewsBreak",
+        "title": "Software Engineer, ML Infra (Junior & New Grad)",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "699a858e-37ed-4cf5-b038-da228c57e7c6",
+        "date_posted": 1762554697,
+        "company_url": "",
+        "is_visible": true
     }
 ]
