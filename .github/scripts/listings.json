@@ -18325,8 +18325,8 @@
         "company_name": "Symbotic",
         "id": "93aeba4d-f9cc-4ab2-bdf9-18797a9a15d0",
         "title": "New Grad-Hardware Engineer",
-        "active": true,
-        "date_updated": 1757377925,
+        "active": false,
+        "date_updated": 1762506371,
         "date_posted": 1757377925,
         "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Hardware-Engineer_R5411",
         "locations": [
@@ -18335,9 +18335,7 @@
         "company_url": "https://simplify.jobs/c/symbotic",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
