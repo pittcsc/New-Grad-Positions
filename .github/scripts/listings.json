@@ -6063,7 +6063,7 @@
         "company_name": "Palantir",
         "id": "1448f4ee-fa48-4c3e-807a-2faf4016ae0f",
         "title": "Software Engineer \u2013 New Grad - Production Infrastructure",
-        "active": false,
+        "active": true,
         "date_updated": 1751385401,
         "date_posted": 1751385401,
         "url": "https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af/apply",
@@ -23288,7 +23288,7 @@
         "company_name": "mthree",
         "id": "de2aa833-1aeb-4eec-b942-b25dd9ec163a",
         "title": "Junior Software Developer - Go Lang",
-        "active": false,
+        "active": true,
         "date_updated": 1758755035,
         "date_posted": 1758755035,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006",
@@ -27962,7 +27962,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "d8575087-4761-455e-81d5-76128b7545eb",
         "title": "Entry Level Infrastructure Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1760520636,
         "date_posted": 1760520636,
         "url": "https://careers-gdms.icims.com/jobs/68517/job?mobile=true&needsRedirect=false",
@@ -33995,6 +33995,24 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intuit",
+        "id": "14ab0e89-be76-410f-97d1-d2821f3daba3",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1762539294,
+        "date_posted": 1762539294,
+        "url": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/88136864768",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuit",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
