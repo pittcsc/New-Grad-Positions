@@ -34125,5 +34125,23 @@
         "date_posted": 1762554734,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762554778,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/94f60162-99c7-4251-bbb5-dc9582902422?dcr_ci=ServiceNow",
+        "company_name": "ServiceNow",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "c36e584f-e56e-4e2d-9ba5-dea79f90ff66",
+        "date_posted": 1762554778,
+        "company_url": "",
+        "is_visible": true
     }
 ]
