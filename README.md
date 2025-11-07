@@ -6,9 +6,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 465 New Grad Roles by Category
+### Browse 466 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (321)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (322)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (11)
 
@@ -80,6 +80,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Celonis</strong></td>
+<td>Associate Software Engineer</td>
+<td>Los Angeles, CA</td>
+<td><a href="https://job-boards.greenhouse.io/celonis/jobs/6598373003?gh_jid=6598373003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong>MaintainX</strong></td>
 <td>AI IoT Connectivity Associate</td>
@@ -5752,7 +5759,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Entry Level Full Stack AI Engineer</td>
 <td>Remote in USA</br>Remote in Canada</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Esri?utm_source=GHList&utm_medium=company">Esri</a></strong></td>

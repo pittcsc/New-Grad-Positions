@@ -34107,5 +34107,23 @@
         "date_posted": 1762554697,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762554734,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/celonis/jobs/6598373003?gh_jid=6598373003",
+        "company_name": "Celonis",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "7016aef7-3b55-437f-97ec-bb8113d4fd87",
+        "date_posted": 1762554734,
+        "company_url": "",
+        "is_visible": true
     }
 ]
