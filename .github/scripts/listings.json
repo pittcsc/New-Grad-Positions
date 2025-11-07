@@ -34143,5 +34143,23 @@
         "date_posted": 1762554778,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762554791,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/Trend-Health-Partners/d975ec6f-3b70-4993-af9f-9cfd715ca399",
+        "company_name": "Trend Health Partners",
+        "title": "Machine Learning Engineer I",
+        "locations": [
+            "Remote in USA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "0a4e0ab7-61ef-4cb0-affb-57680b199151",
+        "date_posted": 1762554791,
+        "company_url": "",
+        "is_visible": true
     }
 ]
