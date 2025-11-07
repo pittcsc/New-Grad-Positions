@@ -34161,5 +34161,23 @@
         "date_posted": 1762554791,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762554834,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.smartrecruiters.com/BryceTech/f40e9665-32d7-47d8-90fd-ac1f18dc05be?dcr_ci=BryceTech",
+        "company_name": "BryceTech",
+        "title": "Junior Exercise Software IT Specialist",
+        "locations": [
+            "Suffolk, VA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "3e8a341b-5b62-445c-8382-6d3bdb849f34",
+        "date_posted": 1762554834,
+        "company_url": "",
+        "is_visible": true
     }
 ]
