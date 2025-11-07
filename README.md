@@ -6,13 +6,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 ---
 
-### Browse 451 New Grad Roles by Category
+### Browse 450 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (311)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (10)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (63)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (62)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (21)
 
@@ -820,7 +820,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer, Test & Infrastructure I</td>
 <td>Greater Chicago Area, IL</td>
 <td><a href="https://jobs.lever.co/vailsys/ad5c0c59-c301-4ac5-983b-bbd62b736c94/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Truveta?utm_source=GHList&utm_medium=company">Truveta</a></strong></td>
@@ -6182,13 +6182,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>11d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/PepsiCo?utm_source=GHList&utm_medium=company">PepsiCo</a></strong></td>
-<td>Junior Data Scientist</td>
-<td>Mississauga, ON</td>
-<td><a href="https://uscareers-pepsico.icims.com/jobs/415877/junior-data-scientist-%E2%80%93-new-grad/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>17d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company">🔥 Amazon</a></strong></td>
 <td>Hardware Simulator SDE I - AWS Machine Learning Accelerators - Annapurna Labs</td>
 <td>Cupertino, CA</td>
@@ -6522,7 +6515,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (112)</summary>
+<summary>🗃️ Inactive roles (113)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -6588,6 +6581,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Revionics?utm_source=GHList&utm_medium=company">Revionics</a></strong></td>
 <td>Machine Learning Engineer – New Graduate</td>
 <td>Austin, TX</br>Atlanta, GA</td>
+<td>🔒</td>
+<td>17d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/PepsiCo?utm_source=GHList&utm_medium=company">PepsiCo</a></strong></td>
+<td>Junior Data Scientist</td>
+<td>Mississauga, ON</td>
 <td>🔒</td>
 <td>17d</td>
 </tr>
