@@ -1,54 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Vanta",
-        "id": "7789d0e6-f80b-4702-a488-c0baabebb726",
-        "title": "Software Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1741821470,
-        "date_posted": 1741821470,
-        "url": "https://jobs.ashbyhq.com/vanta/e48bccb9-069c-4921-a5db-1385050e878b/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Vanta",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Scale AI",
-        "id": "a3d4b82c-cab5-453a-8309-27159f8ed204",
-        "title": "Software Engineer Public Sector \u2013 New Grad",
-        "active": false,
-        "date_updated": 1741821810,
-        "date_posted": 1741821810,
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4537496005",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Scale-AI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Splunk",
-        "id": "07ffc73d-aed6-4d82-9fc5-371e2650d332",
-        "title": "Fedramp Machine Learning Engineer - Early in Career",
-        "active": false,
-        "date_updated": 1741822135,
-        "date_posted": 1741822135,
-        "url": "https://jobs.jobvite.com/splunk-careers/job/o6QAvfwL?nl=1&nl=1&fr=false",
-        "locations": [
-            "California"
-        ],
-        "company_url": "https://simplify.jobs/c/Splunk",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Amentum",
         "id": "4631071e-36ba-47fc-9e54-ed7c8f957140",
         "title": "Entry Level Software Developer",
@@ -2517,7 +2469,7 @@
         "company_name": "Tower Research Capital",
         "id": "3024ecd6-2e55-431c-8c8f-d62ccd0e0e51",
         "title": "New Grad C++ Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1746141480,
         "date_posted": 1746141480,
         "url": "https://www.tower-research.com/open-positions/?gh_jid=6855851",
@@ -19293,7 +19245,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": true,
+        "active": false,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -19395,7 +19347,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -34036,7 +33988,7 @@
         "degrees": []
     },
     {
-        "date_updated": 1762554222,
+        "date_updated": 1762557353,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -34051,6 +34003,186 @@
         "source": "angie-hue",
         "id": "5f7e6647-c5a4-4aee-b5d6-28bb5165637c",
         "date_posted": 1762554222,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1762554544,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/thinkahead/ea0c65d1-dd6b-4f68-8abb-2bacebbd98a1",
+        "company_name": "AHEAD",
+        "title": "Associate AI Engineer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "14faf8be-cb39-4e8d-9146-fb74da0d7d17",
+        "date_posted": 1762554544,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TD Bank",
+        "id": "d3d2420c-88e1-4dbf-8f26-729ec5ac165f",
+        "title": "Software Engineer 1 - Technology Solutions",
+        "active": true,
+        "date_updated": 1762543578,
+        "date_posted": 1762543578,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1451394",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "date_updated": 1762554697,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4615879006",
+        "company_name": "NewsBreak",
+        "title": "Software Engineer, ML Infra (Junior & New Grad)",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "699a858e-37ed-4cf5-b038-da228c57e7c6",
+        "date_posted": 1762554697,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762554734,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/celonis/jobs/6598373003?gh_jid=6598373003",
+        "company_name": "Celonis",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "7016aef7-3b55-437f-97ec-bb8113d4fd87",
+        "date_posted": 1762554734,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762554778,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/94f60162-99c7-4251-bbb5-dc9582902422?dcr_ci=ServiceNow",
+        "company_name": "ServiceNow",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "c36e584f-e56e-4e2d-9ba5-dea79f90ff66",
+        "date_posted": 1762554778,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762554791,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/Trend-Health-Partners/d975ec6f-3b70-4993-af9f-9cfd715ca399",
+        "company_name": "Trend Health Partners",
+        "title": "Machine Learning Engineer I",
+        "locations": [
+            "Remote in USA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "0a4e0ab7-61ef-4cb0-affb-57680b199151",
+        "date_posted": 1762554791,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762554834,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.smartrecruiters.com/BryceTech/f40e9665-32d7-47d8-90fd-ac1f18dc05be?dcr_ci=BryceTech",
+        "company_name": "BryceTech",
+        "title": "Junior Exercise Software IT Specialist",
+        "locations": [
+            "Suffolk, VA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "3e8a341b-5b62-445c-8382-6d3bdb849f34",
+        "date_posted": 1762554834,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762554873,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-98561-1",
+        "company_name": "Expedia Group",
+        "title": "Software Development Engineer I",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "af8ffce5-dd20-4103-80be-08e9bd58f84e",
+        "date_posted": 1762554873,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762554945,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://aspentech.wd5.myworkdayjobs.com/en-US/AspenTech/job/Medina-Minnesota/Associate-Software-Quality-Engineer_R7865",
+        "company_name": "AspenTech",
+        "title": "Associate Software Quality Engineer",
+        "locations": [
+            "Medina, MN"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "5ac059b5-bf58-4eb3-9df5-5a1a5094d78d",
+        "date_posted": 1762554945,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762555474,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://aspentech.wd5.myworkdayjobs.com/en-US/AspenTech/job/Medina-Minnesota/Associate-Software-Quality-Engineer_R8022-1",
+        "company_name": "AspenTech",
+        "title": "Associate Software Quality Engineer",
+        "locations": [
+            "Medina, MN"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "b1badcc7-16a0-4989-9c61-667c4ae9425b",
+        "date_posted": 1762555474,
         "company_url": "",
         "is_visible": true
     }
