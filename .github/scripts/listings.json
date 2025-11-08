@@ -33,22 +33,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Nike",
-        "id": "df9291bd-9054-435f-98ae-c5df7cf3d46d",
-        "title": "Software Engineer I - Platforms Team",
-        "active": false,
-        "date_updated": 1741908614,
-        "date_posted": 1741908614,
-        "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer-I---Platforms-Team_R-55721",
-        "locations": [
-            "Beaverton, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Nike",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Amentum",
         "id": "73a564fa-3e6e-4aff-822f-55e53ecabcc5",
         "title": "Entry Level Software Developer",
