@@ -19347,7 +19347,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -19510,7 +19510,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
         "title": "Entry Level Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1757611606,
         "date_posted": 1757611606,
         "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
@@ -19909,7 +19909,7 @@
         "company_name": "RTX",
         "id": "fc663241-b323-42be-8eb7-61d5630089e1",
         "title": "Embedded Linux Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1757728253,
         "date_posted": 1757728253,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Linux-Software-Engineer-I--Onsite-_01793223",
@@ -21179,7 +21179,7 @@
         "company_name": "RTX",
         "id": "fbbd7a18-8a0a-42d8-a1ea-b89a7a31eebd",
         "title": "Embedded Cybersecurity Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1758162132,
         "date_posted": 1758162132,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01792039",
@@ -23491,7 +23491,7 @@
         "company_name": "Persona",
         "id": "d98b5156-3839-4397-a1d7-d5af66db0527",
         "title": "Software Engineer 2026 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1761883975,
         "date_posted": 1758826054,
         "url": "https://jobs.ashbyhq.com/persona/fd4d41b2-42b4-454e-91ad-d61fdc6a0042/application",
@@ -34185,5 +34185,78 @@
         "date_posted": 1762555474,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "ce1b7315-c7c5-4f62-8778-86d02ccc97d2",
+        "title": "Product Engineer I - Generative AI - Arcgis Enterprise",
+        "active": true,
+        "date_updated": 1762620376,
+        "date_posted": 1762620376,
+        "url": "https://www.esri.com/careers/4961122007?gh_jid=4961122007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CoStar Group",
+        "id": "62086d7b-7c04-4dec-8a8b-8559b1f9c128",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1762620536,
+        "date_posted": 1762620536,
+        "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Arlington/Software-Engineer-I_R37764",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CoStar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citizen Health",
+        "id": "5d1a6f22-c3b6-4bdf-a503-95cb98bb8e6c",
+        "title": "Early Career Software Engineer",
+        "active": true,
+        "date_updated": 1762620460,
+        "date_posted": 1762620460,
+        "url": "https://jobs.ashbyhq.com/Citizen%20Health/ab0cc0c1-7122-4ca2-8ac9-84d1812b22d4/application",
+        "locations": [
+            "SF",
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Citizen-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Travelers Companies",
+        "id": "b1062ca6-2c4c-41bb-8f95-29addce94379",
+        "title": "Data Engineer 1 - Databricks - PySpark - Snowflake",
+        "active": true,
+        "date_updated": 1762619493,
+        "date_posted": 1762619493,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Data-Engineer-I--AWS--Databricks--PySpark--Snowflake-_R-47919",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
