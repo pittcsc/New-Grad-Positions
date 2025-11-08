@@ -34034,5 +34034,24 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1762554222,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/maintainx/jobs/4969878007",
+        "company_name": "MaintainX",
+        "title": "AI IoT Connectivity Associate",
+        "locations": [
+            "Montr\u00e9al, Canada",
+            "Raleigh, NC"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "5f7e6647-c5a4-4aee-b5d6-28bb5165637c",
+        "date_posted": 1762554222,
+        "company_url": "",
+        "is_visible": true
     }
 ]
