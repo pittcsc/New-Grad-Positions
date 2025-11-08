@@ -27914,7 +27914,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "d8575087-4761-455e-81d5-76128b7545eb",
         "title": "Entry Level Infrastructure Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1760520636,
         "date_posted": 1760520636,
         "url": "https://careers-gdms.icims.com/jobs/68517/job?mobile=true&needsRedirect=false",
@@ -34255,6 +34255,60 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KBR",
+        "id": "ffd2177c-8222-49f7-8299-947840841cf0",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1762620994,
+        "date_posted": 1762620994,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Software-Engineer-I_R2114865",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Versaterm",
+        "id": "8a3f9fa0-e010-4e72-b2ab-9a9350dd7515",
+        "title": "Software Engineer I - Community Report",
+        "active": true,
+        "date_updated": 1762619159,
+        "date_posted": 1762619159,
+        "url": "https://job-boards.greenhouse.io/versaterm/jobs/4981617008",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Versaterm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Information Technology",
+        "id": "d3f3a88a-3946-4704-9375-3afd0df7aeda",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1762620606,
+        "date_posted": 1762620606,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-I_RQ210148-1",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
