@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Sophos",
-        "id": "ccddb4be-ddda-4cb3-87b2-0a5b877a6224",
-        "title": "Junior Software Engineer - Linux",
-        "active": false,
-        "date_updated": 1741951820,
-        "date_posted": 1741951820,
-        "url": "https://jobs.lever.co/sophos/0f37ccf8-ca84-4a50-b231-c31d6f013939/apply",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/d1f5dbd0-ca93-42bc-a680-4b4613524aae",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Esri",
         "id": "d06e6ab5-48c8-4cf1-80bf-802a3acd6a7e",
         "title": "Software Development Engineer I",
