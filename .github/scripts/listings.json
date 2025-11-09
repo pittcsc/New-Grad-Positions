@@ -1,38 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Esri",
-        "id": "d06e6ab5-48c8-4cf1-80bf-802a3acd6a7e",
-        "title": "Software Development Engineer I",
-        "active": false,
-        "date_updated": 1741978662,
-        "date_posted": 1741978662,
-        "url": "https://www.esri.com/careers/4678530007?gh_jid=4678530007",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Esri",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Esri",
-        "id": "5e8b008f-631b-470f-98a6-38a5705dc38b",
-        "title": "Software Development Engineer I",
-        "active": false,
-        "date_updated": 1741978664,
-        "date_posted": 1741978664,
-        "url": "https://www.esri.com/careers/4678529007?gh_jid=4678529007",
-        "locations": [
-            "Vienna, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Esri",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Leidos",
         "id": "c701232e-bf47-45bc-a196-931b1c1ce666",
         "title": "Software Engineer Junior",
