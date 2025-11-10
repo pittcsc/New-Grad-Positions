@@ -8826,7 +8826,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754363658,
+        "date_updated": 1762779112,
         "url": "https://lifeattiktok.com/search/7532629935644002578",
         "company_name": "TikTok",
         "title": "Software Engineer, Short Video - 2026 Start (BS/MS)",
@@ -8834,12 +8834,13 @@
             "Los Angeles, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "d2334f75-6d4d-4fed-a333-2b28f4515603",
         "date_posted": 1754363658,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "degrees": []
     },
     {
         "date_updated": 1754363781,
