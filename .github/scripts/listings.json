@@ -34165,5 +34165,26 @@
         "date_posted": 1762776196,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762776405,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/San-Leandro-California-United-States-of-America/Software-Developer-Graduate--US_R011626",
+        "company_name": "AVEVA",
+        "title": "Software Developer Graduate",
+        "locations": [
+            "San Leandro, CA",
+            "Lake Forest, CA",
+            "Scottsdale, AZ",
+            "Philadelphia, PA"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "282577e0-c3e6-4340-b5ef-895b53022095",
+        "date_posted": 1762776405,
+        "company_url": "",
+        "is_visible": true
     }
 ]
