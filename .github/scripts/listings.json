@@ -19768,12 +19768,10 @@
         "degrees": []
     },
     {
-        "date_updated": 1757927576,
+        "date_updated": 1762779347,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Master's"
-        ],
+        "active": false,
+        "degrees": [],
         "url": "https://boards.greenhouse.io/embed/job_app?for=blackedgecapital&token=4600444005",
         "company_name": "BlackEdge Capital",
         "title": "Quantitative Researcher",
