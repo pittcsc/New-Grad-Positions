@@ -1,54 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Jerry",
-        "id": "a711364b-832c-4ada-af6d-b5dfc5682786",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1742009017,
-        "date_posted": 1742009017,
-        "url": "https://jobs.ashbyhq.com/Jerry/4e64a103-5ac4-4456-923e-a877e47ffdda/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cox",
-        "id": "fa3ffb85-7489-42f4-bbf6-e6037d710ca3",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1742009078,
-        "date_posted": 1742009078,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202560209",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cox",
-        "id": "b805d6ce-d320-4841-b839-0c861039f2f7",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1742009075,
-        "date_posted": 1742009075,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202560208",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Leidos",
         "id": "0744419e-63d3-44f5-8bba-a7e598dcc141",
         "title": "Entry Level Software Engineer",
@@ -27706,7 +27658,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "d8575087-4761-455e-81d5-76128b7545eb",
         "title": "Entry Level Infrastructure Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1760520636,
         "date_posted": 1760520636,
         "url": "https://careers-gdms.icims.com/jobs/68517/job?mobile=true&needsRedirect=false",
