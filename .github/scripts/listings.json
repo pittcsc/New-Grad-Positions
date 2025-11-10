@@ -34074,5 +34074,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1762771308,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://lifeattiktok.com/search/7535528357414570248",
+        "company_name": "TikTok",
+        "title": "Software Engineer Graduate (Data Platfrom TikTok BP)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "2c56bd8c-8992-403e-bf6d-64e4d7cf9a60",
+        "date_posted": 1762771308,
+        "company_url": "",
+        "is_visible": true
     }
 ]
