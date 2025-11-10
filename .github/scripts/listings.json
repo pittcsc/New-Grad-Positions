@@ -8525,7 +8525,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754359368,
+        "date_updated": 1762779296,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649942",
         "company_name": "JPMorganChase",
         "title": "Software Engineer",
@@ -8542,12 +8542,13 @@
             "Tampa, FL"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "013a4e35-eeac-4d37-af0f-a84ae3187306",
         "date_posted": 1754359368,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "degrees": []
     },
     {
         "date_updated": 1757032325,
