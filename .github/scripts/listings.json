@@ -20924,8 +20924,8 @@
         "company_name": "RTX",
         "id": "fbbd7a18-8a0a-42d8-a1ea-b89a7a31eebd",
         "title": "Embedded Cybersecurity Software Engineer I",
-        "active": true,
-        "date_updated": 1758162132,
+        "active": false,
+        "date_updated": 1762779365,
         "date_posted": 1758162132,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01792039",
         "locations": [
@@ -20934,9 +20934,7 @@
         "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
