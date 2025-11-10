@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 463 New Grad Roles by Category
+### Browse 464 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (321)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (322)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (11)
 
@@ -79,6 +79,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>🔥 ServiceNow</strong></td>
+<td>Frontend Software Engineer 🛂</td>
+<td>San Diego, CA</td>
+<td><a href="https://jobs.smartrecruiters.com/ServiceNow/744000092424475?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">🔥 TikTok</a></strong></td>
 <td>Software Engineer Graduate (Data Arch - Data Ecosystem)</td>
@@ -357,21 +364,21 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>DL Performance Software Engineer – New College Graduate 2025 - LLM Inference</td>
 <td>Toronto, ON, Canada</td>
 <td><div align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/DL-Performance-Software-Engineer--LLM-Inference---New-College-Graduate-2025_JR2006789?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/36268d45-69b7-43af-8189-08e11c92ba67?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Systems Software Engineer – New College Grad 2025 - Geforce NOW Low Latency Streaming Technology</td>
 <td>Santa Clara, CA</td>
 <td><div align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--GeForce-NOW-Low-Latency-Streaming-Technology---New-College-Grad-2025_JR2007180?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5aa28239-b291-4936-af82-eb51accfa37e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
 <td>Modeling & Simulation Software Engineer 1 or 2 - Aht</td>
 <td>Northridge, LA</td>
 <td><div align="center"><a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Modeling-and-Simulation-Engineer--level-1-2---AHT-_R10202089?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6ab2b733-65e2-4060-8a02-4f9b41c40945?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Trimble?utm_source=GHList&utm_medium=company">Trimble</a></strong></td>
@@ -2517,14 +2524,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer – New College Grad 2026 - AI Infrastructure</td>
 <td>Santa Clara, CA</td>
 <td>🔒</td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Amentum?utm_source=GHList&utm_medium=company">Amentum</a></strong></td>
 <td>Entry Level Information Technology Operations Support Specialist - Information Technology - Software Engineering</td>
 <td>Dahlgren, VA</td>
 <td>🔒</td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Citizen-Health?utm_source=GHList&utm_medium=company">Citizen Health</a></strong></td>
@@ -8028,7 +8035,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer I</td>
 <td>Annapolis Junction, MD</td>
 <td>🔒</td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>

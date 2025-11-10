@@ -34110,5 +34110,23 @@
         "date_posted": 1762771383,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762771678,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000092424475",
+        "company_name": "ServiceNow",
+        "title": "Frontend Software Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "efacdb64-de8f-46db-9d25-a04bf3702bac",
+        "date_posted": 1762771678,
+        "company_url": "",
+        "is_visible": true
     }
 ]
