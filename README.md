@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 464 New Grad Roles by Category
+### Browse 465 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (322)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (323)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (11)
 
@@ -79,6 +79,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Rochester Regional Health</strong></td>
+<td>Software Developer</td>
+<td>Remote</br>Rochester, NY</td>
+<td><a href="https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/Software-Developer_REQ_226365?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong>🔥 ServiceNow</strong></td>
 <td>Frontend Software Engineer 🛂</td>

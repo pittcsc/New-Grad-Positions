@@ -34128,5 +34128,24 @@
         "date_posted": 1762771678,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762771910,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/Software-Developer_REQ_226365",
+        "company_name": "Rochester Regional Health",
+        "title": "Software Developer",
+        "locations": [
+            "Remote",
+            "Rochester, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "639df699-5bf2-42a2-ac9d-7be861e813e9",
+        "date_posted": 1762771910,
+        "company_url": "",
+        "is_visible": true
     }
 ]
