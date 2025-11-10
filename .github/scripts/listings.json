@@ -34092,5 +34092,23 @@
         "date_posted": 1762771308,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762771383,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://lifeattiktok.com/search/7535220808265681159",
+        "company_name": "TikTok",
+        "title": "Software Engineer Graduate (Data Arch - Data Ecosystem)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "ecf7d091-6ed3-442e-97d9-cb9868bb3a13",
+        "date_posted": 1762771383,
+        "company_url": "",
+        "is_visible": true
     }
 ]
