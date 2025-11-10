@@ -34183,5 +34183,23 @@
         "date_posted": 1762776405,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762815508,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.servicenow.com/jobs/744000092358511/software-engineer/",
+        "company_name": "ServiceNow",
+        "title": "Software Engineer",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "e5ed6d0d-9cd9-43df-9884-abed766aa362",
+        "date_posted": 1762815508,
+        "company_url": "",
+        "is_visible": true
     }
 ]
