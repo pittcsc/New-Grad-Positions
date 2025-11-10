@@ -1,54 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Leidos",
-        "id": "c701232e-bf47-45bc-a196-931b1c1ce666",
-        "title": "Software Engineer Junior",
-        "active": false,
-        "date_updated": 1741995263,
-        "date_posted": 1741995263,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Software-Engineer-Junior_R-00155575",
-        "locations": [
-            "Alexandria, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Leidos",
-        "id": "4be0cb1d-b3a2-4b85-ac1c-53a0a0081b53",
-        "title": "Software Engineer Junior",
-        "active": false,
-        "date_updated": 1741995256,
-        "date_posted": 1741995256,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Software-Engineer-Junior_R-00155576",
-        "locations": [
-            "Alexandria, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Leidos",
-        "id": "bcdb9db3-0bd0-4cc9-9eae-e45b6f4d24d0",
-        "title": "Software Engineer Junior",
-        "active": false,
-        "date_updated": 1741995254,
-        "date_posted": 1741995254,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Software-Engineer-Junior_R-00155572",
-        "locations": [
-            "Alexandria, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Jerry",
         "id": "a711364b-832c-4ada-af6d-b5dfc5682786",
         "title": "Software Engineer I",
