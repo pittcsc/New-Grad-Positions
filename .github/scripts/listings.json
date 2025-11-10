@@ -34147,5 +34147,23 @@
         "date_posted": 1762771910,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762776196,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://qualcomm.eightfold.ai/careers/job/446715361809",
+        "company_name": "Qualcomm",
+        "title": "Product Software Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "6ea9838c-48f5-4ab2-9231-f9c7cc4eb632",
+        "date_posted": 1762776196,
+        "company_url": "",
+        "is_visible": true
     }
 ]
