@@ -33951,7 +33951,7 @@
         "company_name": "CoStar Group",
         "id": "62086d7b-7c04-4dec-8a8b-8559b1f9c128",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1762620536,
         "date_posted": 1762620536,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Arlington/Software-Engineer-I_R37764",
@@ -34289,6 +34289,64 @@
             "Nashville, TN"
         ],
         "company_url": "https://simplify.jobs/c/Cook-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "8502fe00-7b15-42b4-81f6-690f0a1a340b",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1762819289,
+        "date_posted": 1762819289,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/c8e6d1e7-0130-457e-a257-00eb7f6e25b3/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "401acf90-5541-49cf-bd1f-9696bd9ff91d",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1762819301,
+        "date_posted": 1762819301,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/ab9408e2-4b9b-4346-9e8f-48345fe91737/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citizen Health",
+        "id": "3b44b8e4-54ba-4194-8687-432e7fe7197f",
+        "title": "Early Career Software Engineer",
+        "active": true,
+        "date_updated": 1762819609,
+        "date_posted": 1762819609,
+        "url": "https://jobs.ashbyhq.com/Citizen%20Health/32a83b78-f3e1-47c3-af38-f28a715f2337/application",
+        "locations": [
+            "SF",
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Citizen-Health",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
