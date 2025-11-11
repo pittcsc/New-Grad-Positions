@@ -34350,5 +34350,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Graphcore",
+        "id": "936e4f8d-c318-4fa2-a18d-da426777294d",
+        "title": "2026 Graduate Software Engineer - AI/ML Test Systems",
+        "active": true,
+        "date_updated": 1762820279,
+        "date_posted": 1762434200,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8245655002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
