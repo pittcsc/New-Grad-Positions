@@ -18329,7 +18329,7 @@
     {
         "date_updated": 1757401781,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
+        "active": true,
         "degrees": [],
         "url": "https://job-boards.greenhouse.io/verkada/jobs/4835616007",
         "company_name": "Verkada",
@@ -26125,7 +26125,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "c7750d10-de6f-4f10-b1a5-edfc2c2341c3",
         "title": "Software Engineer \u2013 Entry Level - Secret Clearance Required",
-        "active": true,
+        "active": false,
         "date_updated": 1759913652,
         "date_posted": 1759913652,
         "url": "https://careers-gdms.icims.com/jobs/68432/job?mobile=true&needsRedirect=false",
@@ -34208,7 +34208,7 @@
         "company_name": "Seismic",
         "id": "02fb9964-eeee-492a-adcd-5b1717cc727f",
         "title": "Data Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1762816263,
         "date_posted": 1759308681,
         "url": "https://ca-careers-seismic.icims.com/jobs/2053/job?mobile=true&needsRedirect=false",
@@ -34216,6 +34216,42 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Seismic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Koddi",
+        "id": "164a2a44-afa0-442d-bb8c-e9dc4f6fbefb",
+        "title": "Junior Software Engineering Cohort",
+        "active": true,
+        "date_updated": 1762818724,
+        "date_posted": 1762818724,
+        "url": "https://job-boards.greenhouse.io/koddi/jobs/8250132002",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Koddi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Worldpay",
+        "id": "7a6882ee-9d2d-4571-a173-16ca6921d90a",
+        "title": "Software Engineer 1 - Java and API Development",
+        "active": true,
+        "date_updated": 1762818249,
+        "date_posted": 1762818249,
+        "url": "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/US-OH-CIN-8500/Software-Engineer-I---Java-and-API-Development_JR0607845",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Worldpay",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
