@@ -33481,7 +33481,7 @@
         "company_name": "Graphcore",
         "id": "3c8ce518-58d5-41a0-b586-073f60bfd11d",
         "title": "2026 Graduate Software Engineer - Drivers",
-        "active": true,
+        "active": false,
         "date_updated": 1762434202,
         "date_posted": 1762434202,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8238605002",
@@ -34371,5 +34371,41 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mimecast",
+        "id": "f78198ee-cb00-4fc2-b9e1-8f4dad4aeb66",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1762820137,
+        "date_posted": 1762820137,
+        "url": "https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America---Ohio---Columbus/Software-Engineer-I_R6082-1",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Mimecast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "84b591e7-17f9-4431-94fb-c662cce79b59",
+        "title": "Software Engineer - Entry Level-Java / C++ - Start Date",
+        "active": true,
+        "date_updated": 1762820744,
+        "date_posted": 1762820744,
+        "url": "https://careers-gdms.icims.com/jobs/69189/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
