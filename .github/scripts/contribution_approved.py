@@ -1,6 +1,7 @@
 import json
 import sys
 import uuid
+import subprocess
 from datetime import datetime
 from typing import Union, Optional
 import util
@@ -252,12 +253,32 @@ def main():
         return
 
     try:
-        # CHECK IF NEW OR OLD JOB
-        new_role = "new_role" in [label["name"] for label in event_data["issue"]["labels"]]
-        edit_role = "edit_role" in [label["name"] for label in event_data["issue"]["labels"]]
+        # CHECK IF NEW, EDIT, OR BULK MARK INACTIVE
+        labels = [label["name"] for label in event_data["issue"]["labels"]]
+        new_role = "new_role" in labels
+        edit_role = "edit_role" in labels
+        bulk_mark_inactive = "bulk_mark_inactive" in labels
+
+        # If this is a bulk mark inactive issue, delegate to the bulk script
+        if bulk_mark_inactive:
+            try:
+                result = subprocess.run([
+                    sys.executable, ".github/scripts/bulk_mark_inactive.py", event_file_path
+                ], capture_output=True, text=True, check=True)
+                
+                print("Bulk mark inactive completed successfully")
+                print("STDOUT:", result.stdout)
+                return
+                
+            except subprocess.CalledProcessError as e:
+                util.fail(f"Bulk mark inactive failed: {e.stderr}")
+                return
+            except Exception as e:
+                util.fail(f"Error running bulk mark inactive: {str(e)}")
+                return
 
         if not new_role and not edit_role:
-            util.fail("Only new_role and edit_role issues can be approved")
+            util.fail("Only new_role, edit_role, and bulk_mark_inactive issues can be approved")
             return
 
         # GET DATA FROM ISSUE FORM

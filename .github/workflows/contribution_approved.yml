@@ -46,9 +46,24 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: dev
 
-      - name: Auto Close Issue
-        run: gh issue close --comment "Your contribution was accepted. Auto-closing issue" ${{ github.event.issue.number }}
-        if: success()
+      - name: Comment on bulk mark inactive issue with results
+        if: success() && contains(github.event.issue.labels.*.name, 'bulk_mark_inactive')
+        run: |
+          gh issue comment ${{ github.event.issue.number }} --body "${{ steps.python_script.outputs.summary_comment }}"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Auto Close Bulk Mark Inactive Issue
+        if: success() && contains(github.event.issue.labels.*.name, 'bulk_mark_inactive')
+        run: |
+          gh issue close --comment "Bulk mark inactive operation completed. See results above." ${{ github.event.issue.number }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Auto Close Regular Issue
+        if: success() && !contains(github.event.issue.labels.*.name, 'bulk_mark_inactive')
+        run: |
+          gh issue close --comment "Your contribution was accepted. Auto-closing issue" ${{ github.event.issue.number }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

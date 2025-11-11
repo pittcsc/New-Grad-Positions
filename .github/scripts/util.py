@@ -57,7 +57,16 @@ FAANG_PLUS = {
 def setOutput(key, value):
     if 'GITHUB_OUTPUT' in os.environ:
         with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
-            print(f'{key}={value}', file=fh)
+            # Handle multiline values using heredoc format
+            if isinstance(value, str) and ('\n' in value or '\r' in value or value.startswith('#') or value.startswith('*')):
+                # Use heredoc format for multiline or markdown content
+                delimiter = f"EOF_{key}_{hash(value) % 10000}"
+                print(f'{key}<<{delimiter}', file=fh)
+                print(value, file=fh)
+                print(delimiter, file=fh)
+            else:
+                # Use simple format for single-line values
+                print(f'{key}={value}', file=fh)
     else:
         # Safe fallback for local/dev use
         print(f'[set-output] {key}={value}')
