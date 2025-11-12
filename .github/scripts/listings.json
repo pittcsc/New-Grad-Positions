@@ -24045,7 +24045,7 @@
         "company_name": "McDonald's",
         "id": "6a3c013b-9b7d-42f4-9de4-e1064c13e339",
         "title": "Software Engineer 1 - iOS - iOS",
-        "active": false,
+        "active": true,
         "date_updated": 1761918478,
         "date_posted": 1759165156,
         "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-iOS-IL-60607/1322170500/?ats=successfactors",
@@ -27285,7 +27285,7 @@
         "company_name": "Wyetech",
         "id": "3d02295d-8294-4340-b125-2a6c7bf22136",
         "title": "Software Engineer 0",
-        "active": true,
+        "active": false,
         "date_updated": 1760395619,
         "date_posted": 1760395619,
         "url": "https://jobs.lever.co/wyetechllc/68850aff-cd40-44e9-9af0-8124ac21e930/apply",
@@ -34628,6 +34628,24 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WebFX",
+        "id": "ab02ee55-a577-453a-bb9f-7cd2320ae755",
+        "title": "Junior Back-End Software Engineer",
+        "active": true,
+        "date_updated": 1762914022,
+        "date_posted": 1762212129,
+        "url": "https://jobs.lever.co/webfx/497bb548-b7d7-4aff-b87b-da9dcc8fbcc8/apply",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/WebFX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
