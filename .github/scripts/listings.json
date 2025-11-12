@@ -30278,7 +30278,7 @@
     {
         "date_updated": 1762178736,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://metacareers.com/jobs/2578176955882259",
         "company_name": "Meta",
@@ -34506,7 +34506,7 @@
         "company_name": "Scientific Research Corporation",
         "id": "ab009c7a-52ce-4339-9af4-6b08040e68a5",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1762905236,
         "date_posted": 1759447090,
         "url": "https://careers-scires.icims.com/jobs/10602/job?mobile=true&needsRedirect=false",
@@ -34700,6 +34700,24 @@
             "Boise, ID"
         ],
         "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Washpost",
+        "id": "9cba0739-3489-4992-aacf-6ac868f0b589",
+        "title": "Software Engineer 1 - iOS App Development",
+        "active": true,
+        "date_updated": 1762989472,
+        "date_posted": 1762989472,
+        "url": "https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Software-Engineer-1--iOS-App-Development_JR-90275609",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Washpost",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
