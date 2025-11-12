@@ -19094,7 +19094,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -30988,7 +30988,7 @@
         "company_name": "IXL Learning",
         "id": "9b7524ef-f7fb-4789-b675-2641d4c64ed9",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1761724235,
         "date_posted": 1761724235,
         "url": "https://www.ixl.com/company/jobs?gh_jid=8231360002",
@@ -34499,5 +34499,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Scientific Research Corporation",
+        "id": "ab009c7a-52ce-4339-9af4-6b08040e68a5",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1762905236,
+        "date_posted": 1759447090,
+        "url": "https://careers-scires.icims.com/jobs/10602/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Scientific-Research-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
