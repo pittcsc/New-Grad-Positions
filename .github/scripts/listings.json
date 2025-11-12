@@ -34575,5 +34575,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WebFX",
+        "id": "d976fc06-b431-419f-8dcf-be9c0a1ff03e",
+        "title": "Junior Front-End Web Developer",
+        "active": true,
+        "date_updated": 1762911172,
+        "date_posted": 1762212140,
+        "url": "https://jobs.lever.co/webfx/e424e486-c772-443b-98cf-9088fef288d1/apply",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/WebFX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
