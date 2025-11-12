@@ -21805,7 +21805,7 @@
         "company_name": "Roblox",
         "id": "cb516fb8-a980-4251-9c89-91f871f258b4",
         "title": "Associate Product Manager - Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1757969510,
         "date_posted": 1756867324,
         "url": "https://careers.roblox.com/jobs/7167343?gh_jid=7167343",
@@ -30278,7 +30278,7 @@
     {
         "date_updated": 1762178736,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://metacareers.com/jobs/2578176955882259",
         "company_name": "Meta",
@@ -31841,7 +31841,7 @@
         "company_name": "Falconwood",
         "id": "9d0d22a0-23b9-4e83-811e-24ce734f2894",
         "title": "Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1762186584,
         "date_posted": 1757631601,
         "url": "https://careers-falconwood.icims.com/jobs/1672/job?mobile=true&needsRedirect=false",
@@ -32333,7 +32333,7 @@
         "company_name": "Sono-Tek Corporation",
         "id": "cbfb0cc9-c599-43df-8344-a3fda9036699",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1762213215,
         "date_posted": 1757614666,
         "url": "https://careers-councilofindustry.icims.com/jobs/4864/job?mobile=true&needsRedirect=false",
@@ -32981,7 +32981,7 @@
         "company_name": "SpaceX",
         "id": "21551ff3-c6e8-47b7-a06c-518211ce3efa",
         "title": "New Graduate Engineer - Software - Starlink",
-        "active": true,
+        "active": false,
         "date_updated": 1756847676,
         "date_posted": 1756847676,
         "url": "https://boards.greenhouse.io/spacex/jobs/8121675002",
@@ -34425,5 +34425,23 @@
         "date_posted": 1762875377,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "b4268fa0-6f32-4ec1-be14-c593261cb39f",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1762905944,
+        "date_posted": 1762905944,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7366016",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
