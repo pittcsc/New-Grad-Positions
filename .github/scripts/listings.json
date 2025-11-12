@@ -9657,7 +9657,7 @@
         "company_name": "Databricks",
         "id": "6229e804-43a5-47a4-882c-c7bf3dc4968f",
         "title": "Software Engineer \u2013 New Grad - 2026 Start",
-        "active": true,
+        "active": false,
         "date_updated": 1754705218,
         "date_posted": 1754705218,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6865698002",
@@ -18042,7 +18042,7 @@
         "company_name": "Scale AI",
         "id": "ba5a73f8-843e-45cd-a294-03a095ff6701",
         "title": "Software Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1757382023,
         "date_posted": 1757382023,
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4605996005",
@@ -20669,7 +20669,7 @@
     {
         "date_updated": 1758103748,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://job-boards.greenhouse.io/verkada/jobs/4872797007",
         "company_name": "Verkada",
@@ -21035,7 +21035,7 @@
         "company_name": "Toyota Connected",
         "id": "ad826aa9-729b-43bb-a565-2b7ffd21855b",
         "title": "Machine Learning Engineer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1758221382,
         "date_posted": 1758221382,
         "url": "https://boards.greenhouse.io/embed/job_app?token=8174950002",
@@ -21376,7 +21376,7 @@
         "company_name": "Verkada",
         "id": "5ebdc12b-1fa5-4a99-aa76-6e5db5368ff8",
         "title": "Frontend Software Engineer \u2013 University Graduate 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1758321868,
         "date_posted": 1757122520,
         "url": "https://job-boards.greenhouse.io/verkada/jobs/4855439007",
@@ -34481,5 +34481,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "8df883ab-c282-4fa8-b05a-560395728c1f",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1762905947,
+        "date_posted": 1762905947,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7365960",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
