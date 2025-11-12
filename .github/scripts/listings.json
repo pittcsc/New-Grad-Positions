@@ -25464,7 +25464,7 @@
         "company_name": "General Motors",
         "id": "34668e73-8db2-4cf0-ba75-f0af0b7c0d66",
         "title": "Software Developer \u2013 Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1759600127,
         "date_posted": 1759600127,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Markham-Ontario-Canada/Software-Developer---Early-Career_JR-202518896",
@@ -32727,7 +32727,7 @@
         "company_name": "Seagate Technology ",
         "id": "10fb1ffb-603e-4227-a4cc-b8103fed973e",
         "title": "Test Process Firmware Engineer \u2013 Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1762273544,
         "date_posted": 1762273544,
         "url": "https://seagatecareers.com/job/Longmont-Test-Process-Firmware-Engineer-Early-Career-CO-80501/1340168000/?ats=successfactors",
@@ -34646,6 +34646,24 @@
             "Ann Arbor, MI"
         ],
         "company_url": "https://simplify.jobs/c/WebFX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intuit",
+        "id": "076f6b0a-836e-4dc4-a55d-c9664c77f5f0",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1762923768,
+        "date_posted": 1762224084,
+        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/88025996944",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuit",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
