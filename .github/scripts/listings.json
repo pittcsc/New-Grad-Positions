@@ -12806,7 +12806,7 @@
         "company_name": "TikTok",
         "id": "075e3218-263c-4582-bebd-b74cc4567164",
         "title": "Machine Learning Engineer \u2013 University Graduate - E-Commerce Recommendation/Search Alliance - Phd",
-        "active": true,
+        "active": false,
         "date_updated": 1754756723,
         "date_posted": 1754621621,
         "url": "https://lifeattiktok.com/search/7374538073428478259",
@@ -28331,7 +28331,7 @@
         "company_name": "Veeva Systems",
         "id": "221f4f27-c95d-4fa4-98c1-bbb7b8aa79aa",
         "title": "Associate Software Engineer \u2013 Seeking 2025 & 2026 Grads",
-        "active": true,
+        "active": false,
         "date_updated": 1760776181,
         "date_posted": 1760776181,
         "url": "https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6/apply",
@@ -32673,7 +32673,7 @@
         "company_name": "McDonald's",
         "id": "b3ae3dcc-9d58-4df0-9e68-cdd089f8e648",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1762779061,
         "date_posted": 1762273839,
         "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1322906200/?ats=successfactors",
@@ -34608,6 +34608,26 @@
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "ecabd409-e607-48fc-9bf4-aeec9fd6ef45",
+        "title": "Compiler Engineer \u2013 New College Grad - LLVM",
+        "active": true,
+        "date_updated": 1762908908,
+        "date_posted": 1761912586,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--LLVM---New-College-Grad-2025_JR2006491",
+        "locations": [
+            "Austin, TX",
+            "Redmond, WA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
