@@ -30278,7 +30278,7 @@
     {
         "date_updated": 1762178736,
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "degrees": [],
         "url": "https://metacareers.com/jobs/2578176955882259",
         "company_name": "Meta",
@@ -33608,7 +33608,7 @@
         "company_name": "Viridien",
         "id": "775c36f8-9bf5-425f-828b-2e2aa1ade7df",
         "title": "Machine Learning Engineer/Researcher \u2013 2026 Graduate Programme",
-        "active": true,
+        "active": false,
         "date_updated": 1762471948,
         "date_posted": 1762471948,
         "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Machine-Learning-Engineer-Researcher---2026-Graduate-Programme_JR101055-1",
@@ -34664,6 +34664,24 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Equip Health",
+        "id": "57c62c14-bd02-41ec-aab4-0fbab842901f",
+        "title": "Data Engineer 1",
+        "active": true,
+        "date_updated": 1762916801,
+        "date_posted": 1761874755,
+        "url": "https://jobs.ashbyhq.com/equip/a93220cf-9ab7-4256-bee7-9641f8bc8313/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Equip-Health",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
