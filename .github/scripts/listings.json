@@ -34689,5 +34689,42 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Truist Bank",
+        "id": "1364f9e4-2756-4370-954b-1e3c9173e962",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1762994751,
+        "date_posted": 1762994751,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Software-Engineer-I_R0108269",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Truist-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Horace Mann",
+        "id": "e87197d3-8397-4cf1-9c71-a43682dc0f0b",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1762992555,
+        "date_posted": 1762992555,
+        "url": "https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/5664039004",
+        "locations": [
+            "Plano, TX",
+            "Springfield, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Horace-Mann",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
