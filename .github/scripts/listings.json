@@ -8715,7 +8715,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755271057,
+        "date_updated": 1763027857,
         "url": "https://lifeattiktok.com/search/7532631803707738376",
         "company_name": "TikTok",
         "title": "Software Engineer, Live-Foundation-Ecosystem - 2026 Start (BS/MS)",
@@ -8723,7 +8723,7 @@
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "cabb3cb1-fec9-4ce4-8d23-3ce8476055ba",
         "date_posted": 1754363233,
@@ -20200,9 +20200,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1758012249,
+        "date_updated": 1763027857,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.ashbyhq.com/Anima/a6b86f92-0679-423b-b575-a23f8677dfd1",
         "company_name": "Anima",
@@ -28915,9 +28915,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761210278,
+        "date_updated": 1763027857,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Alexandria-VA/Backend-Developer_R0228366",
         "company_name": "Booz Allen",
@@ -34077,9 +34077,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762771678,
+        "date_updated": 1763027857,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000092424475",
         "company_name": "ServiceNow",
@@ -34153,9 +34153,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762815508,
+        "date_updated": 1763027857,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://careers.servicenow.com/jobs/744000092358511/software-engineer/",
         "company_name": "ServiceNow",
