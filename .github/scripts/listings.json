@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Leidos",
-        "id": "0744419e-63d3-44f5-8bba-a7e598dcc141",
-        "title": "Entry Level Software Engineer",
-        "active": false,
-        "date_updated": 1742255142,
-        "date_posted": 1742255142,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Entry-Level-Software-Engineer_R-00155651-1",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Fifth Third Bank",
         "id": "750b5a2a-34a0-4657-91b7-6792ac77542c",
         "title": "Data Engineer 1 - Fdic",
@@ -76,22 +60,6 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Sierra Nevada Coporation",
-        "id": "3689f8fd-fda7-4633-9550-ebbe9a908711",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1742254360,
-        "date_posted": 1742254360,
-        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0027045",
-        "locations": [
-            "Lone Tree, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -26125,7 +26093,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "c7750d10-de6f-4f10-b1a5-edfc2c2341c3",
         "title": "Software Engineer \u2013 Entry Level - Secret Clearance Required",
-        "active": true,
+        "active": false,
         "date_updated": 1759913652,
         "date_posted": 1759913652,
         "url": "https://careers-gdms.icims.com/jobs/68432/job?mobile=true&needsRedirect=false",
@@ -34208,7 +34176,7 @@
         "company_name": "Seismic",
         "id": "02fb9964-eeee-492a-adcd-5b1717cc727f",
         "title": "Data Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1762816263,
         "date_posted": 1759308681,
         "url": "https://ca-careers-seismic.icims.com/jobs/2053/job?mobile=true&needsRedirect=false",
