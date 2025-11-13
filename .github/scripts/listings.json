@@ -34854,5 +34854,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1763048606,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Associate-Engineer-Embedded-Software_R25-8467",
+        "company_name": "Rockwell Automation",
+        "title": "Associate Engineer Embedded Software",
+        "locations": [
+            "Mayfield Heights, OH"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "459d8e17-d7ab-41e7-813a-cfe999058b13",
+        "date_posted": 1763048606,
+        "company_url": "",
+        "is_visible": true
     }
 ]
