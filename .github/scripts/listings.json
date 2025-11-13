@@ -34780,5 +34780,59 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TD Bank",
+        "id": "7dd0ce8d-736a-4853-92ea-cb39790b131f",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1762992895,
+        "date_posted": 1762992895,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1449707",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nordstrom",
+        "id": "bf5f8a14-23b3-47ee-94fa-9ca5a1e62678",
+        "title": "Engineer 1 - Full-Stack",
+        "active": true,
+        "date_updated": 1762992923,
+        "date_posted": 1762992923,
+        "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1---Full-Stack--Store-Experience-Technology--Hybrid---Seattle--WA-_R-799099",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nordstrom",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "82ca0567-325c-44c3-85ff-ac5d2c47b09c",
+        "title": "New Graduate Engineer - Software",
+        "active": true,
+        "date_updated": 1763001350,
+        "date_posted": 1756850601,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8145483002",
+        "locations": [
+            "West Athens, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
