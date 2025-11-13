@@ -18960,7 +18960,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": false,
+        "active": true,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -30246,7 +30246,7 @@
     {
         "date_updated": 1762178736,
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "degrees": [],
         "url": "https://metacareers.com/jobs/2578176955882259",
         "company_name": "Meta",
@@ -31809,7 +31809,7 @@
         "company_name": "Falconwood",
         "id": "9d0d22a0-23b9-4e83-811e-24ce734f2894",
         "title": "Data Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1762186584,
         "date_posted": 1757631601,
         "url": "https://careers-falconwood.icims.com/jobs/1672/job?mobile=true&needsRedirect=false",
@@ -34176,7 +34176,7 @@
         "company_name": "Seismic",
         "id": "02fb9964-eeee-492a-adcd-5b1717cc727f",
         "title": "Data Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1762816263,
         "date_posted": 1759308681,
         "url": "https://ca-careers-seismic.icims.com/jobs/2053/job?mobile=true&needsRedirect=false",
@@ -34723,6 +34723,42 @@
             "Springfield, IL"
         ],
         "company_url": "https://simplify.jobs/c/Horace-Mann",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "iSpot.tv",
+        "id": "74d406f5-1179-4dd9-9084-b40db3c2e00d",
+        "title": "Software Development Engineer 1",
+        "active": true,
+        "date_updated": 1762991991,
+        "date_posted": 1762991991,
+        "url": "https://job-boards.greenhouse.io/ispottv/jobs/4629254005",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ISpot-TV",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Truist Bank",
+        "id": "7c9e842e-7dd5-4980-a6f8-d0455e567e14",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1762997331,
+        "date_posted": 1762997331,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Software-Engineer-I_R0108252",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Truist-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
