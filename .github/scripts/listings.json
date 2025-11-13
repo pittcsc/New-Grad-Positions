@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Fifth Third Bank",
-        "id": "750b5a2a-34a0-4657-91b7-6792ac77542c",
-        "title": "Data Engineer 1 - Fdic",
-        "active": false,
-        "date_updated": 1742313211,
-        "date_posted": 1742313211,
-        "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Data-Engineer-1---FDIC_R57309",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "RBI",
         "id": "c4e1362c-9c08-46f0-9817-26bcde8bca6c",
         "title": "Software Engineer I - AI & Machine Learning",
