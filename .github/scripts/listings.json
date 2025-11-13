@@ -34890,5 +34890,23 @@
         "date_posted": 1763048742,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763048787,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/commonlit/7ecb41f7-552c-4879-afaf-b9810a9b6f56/",
+        "company_name": "CommonLit",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Remote in USA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "ba93a912-46a7-414d-984c-2b89be80fa7e",
+        "date_posted": 1763048787,
+        "company_url": "",
+        "is_visible": true
     }
 ]
