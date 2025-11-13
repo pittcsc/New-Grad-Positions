@@ -23029,7 +23029,7 @@
         "company_name": "Meshy",
         "id": "ca943fdd-edd4-4fe7-8ae1-33ed7976a2c3",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1758778957,
         "date_posted": 1758778957,
         "url": "https://job-boards.greenhouse.io/meshy/jobs/4932258008",
@@ -34831,6 +34831,42 @@
             "West Athens, CA"
         ],
         "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Databricks",
+        "id": "0c371caf-e8f4-4052-bb57-cf6f1dc9555f",
+        "title": "Software Engineer New Grad - 2026 Start",
+        "active": true,
+        "date_updated": 1762995134,
+        "date_posted": 1762991550,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6866542002",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Databricks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "790bd7f6-d54d-457b-b1c7-7d4b5227bfe1",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1762990985,
+        "date_posted": 1762990985,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Miamisburg-OH/Software-Engineer-I_R104044",
+        "locations": [
+            "Miamisburg, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
