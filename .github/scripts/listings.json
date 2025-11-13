@@ -34872,5 +34872,23 @@
         "date_posted": 1763048606,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763048742,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/maybern/90f7a0d4-4e6c-43e0-a444-06301faa4058",
+        "company_name": "Maybern",
+        "title": "Software Engineer, New Grad",
+        "locations": [
+            "New York, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "9f2a9400-3895-4ff2-bde7-506309f8ae20",
+        "date_posted": 1763048742,
+        "company_url": "",
+        "is_visible": true
     }
 ]
