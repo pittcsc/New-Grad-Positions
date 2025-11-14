@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 422 New Grad Roles by Category
+### Browse 421 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (307)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (306)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (9)
 
@@ -1999,13 +1999,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 <tr>
 <td><strong>🔥 ByteDance</strong></td>
-<td>Backend Software Engineer (Customer Service Platform) - 2026 Start (BS/MS)</td>
-<td>Seattle, WA</td>
-<td><a href="https://jobs.bytedance.com/en/position/7527836662400026898/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>3mo</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>3D Graphics Software Engineer (PICO Foundation) - 2026 Start (BS/MS)</td>
 <td>San Jose, CA</td>
 <td><a href="https://jobs.bytedance.com/en/position/7532618536427391240/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
@@ -2233,7 +2226,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (581)</summary>
+<summary>🗃️ Inactive roles (582)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -5295,6 +5288,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Back End Processing Network Engineer I</td>
 <td>Bristol, RI</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
+<tr>
+<td><strong>🔥 ByteDance</strong></td>
+<td>Backend Software Engineer (Customer Service Platform) - 2026 Start (BS/MS)</td>
+<td>Seattle, WA</td>
 <td>🔒</td>
 <td>3mo</td>
 </tr>
