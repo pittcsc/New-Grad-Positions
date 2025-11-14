@@ -35137,5 +35137,23 @@
         "date_posted": 1763138093,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763138127,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://microchiphr.wd5.myworkdayjobs.com/en-US/external/job/AZ---Chandler/Engineer-I-Software_R2272-25",
+        "company_name": "Microchip Technology",
+        "title": "Engineer I-Software",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "e17ecf28-343c-40a5-9971-24e5cf005dd0",
+        "date_posted": 1763138127,
+        "company_url": "",
+        "is_visible": true
     }
 ]
