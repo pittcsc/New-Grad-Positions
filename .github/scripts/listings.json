@@ -35027,5 +35027,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DoorDash",
+        "id": "34a2227f-b88a-4459-86f3-799abbf995cf",
+        "title": "Software Engineer - Entry Level",
+        "active": true,
+        "date_updated": 1763087403,
+        "date_posted": 1763087403,
+        "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/7392991",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/DoorDash",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
