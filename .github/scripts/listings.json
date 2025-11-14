@@ -35155,5 +35155,23 @@
         "date_posted": 1763138127,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763138170,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://metecs.applytojob.com/apply/csAVnq7Ij4/Junior-Software-Engineer-DST",
+        "company_name": "METECS",
+        "title": "Junior Software Engineer - DST",
+        "locations": [
+            "Houston, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "76295fb2-f3bc-499e-bd1c-bd591ce14c36",
+        "date_posted": 1763138170,
+        "company_url": "",
+        "is_visible": true
     }
 ]
