@@ -34504,7 +34504,7 @@
         "company_name": "RTX",
         "id": "9f0253cf-72a0-4648-907d-3206a926d78d",
         "title": "Java Software Engineer 1 - Java Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1762907194,
         "date_posted": 1762907194,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Full-time---Java-Software-Engineer-I---Onsite--PA-_01803259",
@@ -35060,6 +35060,25 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Google",
+        "id": "a82a890b-8353-4fd9-a660-63af762e9f11",
+        "title": "Data Scientist \u2013 Early Career - Research - PhD",
+        "active": true,
+        "date_updated": 1763116964,
+        "date_posted": 1762385224,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/106428613359739590",
+        "locations": [
+            "NYC",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
