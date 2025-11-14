@@ -35101,5 +35101,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1763138049,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Glendale-CA-USA/Software-Engineer-I_10136425",
+        "company_name": "The Walt Disney Company",
+        "title": "Software Engineer I",
+        "locations": [
+            "Glendale, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "48f0a8d3-18fc-4d85-a03d-f49f6350c2c9",
+        "date_posted": 1763138049,
+        "company_url": "",
+        "is_visible": true
     }
 ]
