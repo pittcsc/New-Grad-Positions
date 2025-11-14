@@ -35173,5 +35173,23 @@
         "date_posted": 1763138170,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763138209,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Huntsville-Alabama/Junior-Software-Engineer_R2115179",
+        "company_name": "KBR",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "81b868dd-353e-4c2a-ae8e-30170c73a203",
+        "date_posted": 1763138209,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 425 New Grad Roles by Category
+### Browse 426 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (312)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (313)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (9)
 
@@ -79,6 +79,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/KBR?utm_source=GHList&utm_medium=company">KBR</a></strong></td>
+<td>Junior Software Engineer 🇺🇸</td>
+<td>Huntsville, AL</td>
+<td><a href="https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Huntsville-Alabama/Junior-Software-Engineer_R2115179?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong>METECS</strong></td>
 <td>Junior Software Engineer - DST 🇺🇸</td>
