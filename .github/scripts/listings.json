@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Amentum",
-        "id": "c6f5fa87-9c0c-4939-a1a9-87a43898ce75",
-        "title": "Entry Level Software Engineer",
-        "active": false,
-        "date_updated": 1742340883,
-        "date_posted": 1742340883,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0136097",
-        "locations": [
-            "Fredericksburg, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Chewy",
         "id": "ca65759c-b0f2-44f0-bb32-4a618febfb74",
         "title": "Software Engineer I",
