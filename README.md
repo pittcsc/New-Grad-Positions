@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 458 New Grad Roles by Category
+### Browse 457 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (320)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (319)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (10)
 
@@ -721,13 +721,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer I, Expansions</td>
 <td>Seattle, WA</td>
 <td><a href="https://jobs.lever.co/rover/206facd5-3dec-45a0-a76a-189cb2397d3e/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/McDonald?utm_source=GHList&utm_medium=company">McDonald's</a></strong></td>
-<td>Software Engineer I C#</td>
-<td>Chicago, IL</td>
-<td><div align="center"><a href="https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-C-IL-60607/1338320000/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5152a4d9-e591-4607-848e-02d7021253a0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>16d</td>
 </tr>
 <tr>
@@ -962,7 +955,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Glide?utm_source=GHList&utm_medium=company">Glide</a></strong></td>
 <td>Junior Full Stack Engineer - Frontend and Backend - TypeScript, React, Node.js, Next.js</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/glide/5ece3064-6884-43c2-923c-066d6187b25d/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d68084c5-ab49-4255-ae22-0c224fc51dfe?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
@@ -2324,7 +2317,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (571)</summary>
+<summary>🗃️ Inactive roles (572)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2867,14 +2860,21 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer I</td>
 <td>Seattle, WA</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sierra-Nevada-Coporation?utm_source=GHList&utm_medium=company">Sierra Nevada Coporation</a></strong></td>
 <td>Software Engineer I 🇺🇸</td>
 <td>Sparks, NV</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/McDonald?utm_source=GHList&utm_medium=company">McDonald's</a></strong></td>
+<td>Software Engineer I C#</td>
+<td>Chicago, IL</td>
+<td>🔒</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
@@ -7417,7 +7417,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">🔥 Adobe</a></strong></td>
 <td>2026 University Graduate - Data Scientist</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
@@ -8092,7 +8092,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Associate Quantitative Analyst</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong>Barclays</strong></td>
@@ -9046,7 +9046,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Cadence-Design-Systems?utm_source=GHList&utm_medium=company">Cadence Design Systems</a></strong></td>
 <td>C++ Software Engineer – New College Grad</td>
 <td>Burlington, MA</td>
 <td>🔒</td>
