@@ -51682,7 +51682,7 @@
         "company_name": "GM financial",
         "id": "4bbfb65b-1329-4f16-b490-7348b58e6be3",
         "title": "Economist I",
-        "active": true,
+        "active": false,
         "date_updated": 1761876698,
         "date_posted": 1761876698,
         "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1154",
@@ -60874,7 +60874,7 @@
         "company_name": "American Express",
         "id": "2e9925b2-2b85-4513-96f4-5d6ba71ada9b",
         "title": "Campus \u2013 Full Time - Associate Digital Product Management",
-        "active": true,
+        "active": false,
         "date_updated": 1761879744,
         "date_posted": 1761879744,
         "url": "https://aexp.eightfold.ai/careers/job/38535542",
@@ -94284,7 +94284,7 @@
         "company_name": "Sainsbury's",
         "id": "c184d20d-06b1-4afa-90a1-3c87198a157a",
         "title": "Trading Assistant - Local",
-        "active": true,
+        "active": false,
         "date_updated": 1763192576,
         "date_posted": 1763192576,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037256",
@@ -94748,6 +94748,24 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Gladia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Assort Health",
+        "id": "7005669b-e677-4960-ac79-dbef1b80b4c8",
+        "title": "Software Engineer - Agent",
+        "active": true,
+        "date_updated": 1763206918,
+        "date_posted": 1761876387,
+        "url": "https://jobs.ashbyhq.com/assorthealth/e6abd4f1-2081-40a1-b38e-e4eba8903fb1/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Assort-Health",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
