@@ -5,13 +5,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 461 New Grad Roles by Category
+### Browse 460 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (321)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (10)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (73)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (72)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (19)
 
@@ -2657,7 +2657,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Dev Engineer I</td>
 <td>Plainview, NY</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company">Intuit</a></strong></td>
@@ -6818,13 +6818,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Centene?utm_source=GHList&utm_medium=company">Centene</a></strong></td>
-<td>Data Engineer I</td>
-<td><details><summary><strong>8 locations</strong></summary>Remote in MO</br>Remote in GA</br>Remote in TN</br>Remote in FL</br>Remote in SC</br>Remote in TX</br>Remote in NC</br>Remote in IL</details></td>
-<td><div align="center"><a href="https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Engineer-I_1604624?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/724db6f9-bf05-4239-a33c-1010510c9725?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">🔥 Adobe</a></strong></td>
 <td>University Graduate - Machine Learning Engineer 🎓</td>
 <td>Seattle, WA</td>
@@ -7074,7 +7067,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (118)</summary>
+<summary>🗃️ Inactive roles (119)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -7106,7 +7099,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Data Engineer I</td>
 <td><details><summary><strong>16 locations</strong></summary>New Mexico</br>Cunningham, KS</br>Pennsylvania</br>Texas</br>Florida</br>Wichita, KS</br>South Carolina</br>Edmond, OK</br>Tennessee</br>Minnesota</br>Fort Gibson, OK</br>Wisconsin</br>North Carolina</br>Missouri</br>Illinois</br>McKenzie, TN</details></td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Travelers?utm_source=GHList&utm_medium=company">The Travelers Companies</a></strong></td>
@@ -7298,6 +7291,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Centene?utm_source=GHList&utm_medium=company">Centene</a></strong></td>
+<td>Data Engineer I</td>
+<td><details><summary><strong>8 locations</strong></summary>Remote in MO</br>Remote in GA</br>Remote in TN</br>Remote in FL</br>Remote in SC</br>Remote in TX</br>Remote in NC</br>Remote in IL</details></td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/AIG?utm_source=GHList&utm_medium=company">AIG</a></strong></td>
 <td>Early Career Analyst - Gen AI Technology - Software Engineering</td>
 <td>Atlanta, GA</td>
@@ -7417,7 +7417,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">🔥 Adobe</a></strong></td>
+<td>↳</td>
 <td>2026 University Graduate - Data Scientist</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
@@ -9032,7 +9032,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>↳</td>
 <td>Embedded Cybersecurity Software Engineer I</td>
 <td>Cedar Rapids, IA</td>
 <td>🔒</td>
