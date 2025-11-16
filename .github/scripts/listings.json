@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Adobe",
-        "id": "98b6f911-612d-48fc-84d5-a883ae08e00d",
-        "title": "Software Development Engineer 1",
-        "active": false,
-        "date_updated": 1742542551,
-        "date_posted": 1742542551,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Software-Development-Engineer-1_R154765",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Mastercard",
         "id": "f052183d-4f31-4032-8ed3-315c1ececc8a",
         "title": "Software Engineer I",
