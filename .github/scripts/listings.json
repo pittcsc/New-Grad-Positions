@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Mastercard",
-        "id": "f052183d-4f31-4032-8ed3-315c1ececc8a",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1742583351,
-        "date_posted": 1742583351,
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Seattle-Washington/Software-Engineer-I_R-225610",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mastercard",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Comcast",
         "id": "55d4f4ae-99c0-4c87-8692-a0e0c6bfc302",
         "title": "Software Engineer 1",
@@ -29,22 +13,6 @@
             "Reston, VA"
         ],
         "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Booz Allen",
-        "id": "d094593d-fe82-460d-9875-a4080cc87b7c",
-        "title": "Software Developer - Junior",
-        "active": false,
-        "date_updated": 1742583596,
-        "date_posted": 1742583596,
-        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charleston-SC/Software-Developer--Junior_R0216902",
-        "locations": [
-            "Charleston, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Booz-Allen",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -91021,24 +90989,6 @@
             "Dayton, OH"
         ],
         "company_url": "https://simplify.jobs/c/Premier-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Improbable",
-        "id": "4e439fa5-cd3a-4cd6-a0f3-820db8b6f725",
-        "title": "Graduate Software Engineer: Msquared",
-        "active": true,
-        "date_updated": 1761859359,
-        "date_posted": 1742583447,
-        "url": "https://jobs.ashbyhq.com/improbable/c0d19a3f-a3ac-4893-b0e3-018bed5094c6/application",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Improbable",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
