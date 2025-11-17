@@ -94300,7 +94300,7 @@
         "company_name": "Sainsbury's",
         "id": "4543b85c-1ff5-43e2-9c45-4480191d6d7f",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1763192579,
         "date_posted": 1763192579,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037500",
@@ -94883,7 +94883,7 @@
         "company_name": "Sainsbury's",
         "id": "c5b892b3-5589-47d9-b3cd-89927dcf5a07",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1763250136,
         "date_posted": 1763250136,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400034286",
@@ -95941,6 +95941,24 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Electronic-Arts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "5c92f994-fdfe-4606-b2ac-a10a3e7b09d0",
+        "title": "Electronics Technician",
+        "active": true,
+        "date_updated": 1763378598,
+        "date_posted": 1763378598,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/Goodrich-Control-Systems-The-Radleys-Marston-Green-Birmingham-B33-0HZ/Electronics-Technician_01805668",
+        "locations": [
+            "Solihull, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
