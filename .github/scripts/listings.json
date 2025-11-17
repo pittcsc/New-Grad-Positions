@@ -41148,7 +41148,7 @@
         "company_name": "Sainsbury's",
         "id": "654f90cc-70b9-4b52-b3c2-7350770af2b0",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1762908106,
         "date_posted": 1762908106,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400036393",
@@ -95900,6 +95900,29 @@
             "Boulder, CO"
         ],
         "company_url": "https://simplify.jobs/c/Astreya",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "CVS Health",
+        "id": "c0ad4da8-d2c5-46ac-a01f-ddc59a494c34",
+        "title": "Innovation & Technology Leadership Development Program - Aetna Product Management - Summer 2026",
+        "active": true,
+        "date_updated": 1763368197,
+        "date_posted": 1763368197,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Innovation---Technology-Leadership-Development-Program--Aetna-Product-Management----Summer-2026_R0771788",
+        "locations": [
+            "Wheeling, IL",
+            "Smithfield, RI",
+            "Scottsdale, AZ",
+            "Hartford, CT",
+            "NYC",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
