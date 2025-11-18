@@ -98442,5 +98442,23 @@
         "date_posted": 1763482717,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763482797,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/parallelwireless/0608a395-7c6d-4e01-acfe-ade970b991dd/",
+        "company_name": "Parallel Wireless",
+        "title": "Junior RT Software Engineer 5G Stack",
+        "locations": [
+            "Nashua, NH"
+        ],
+        "category": "Hardware Engineering",
+        "source": "angie-hue",
+        "id": "343d1734-5ba1-4337-ae45-088cf64f7eda",
+        "date_posted": 1763482797,
+        "company_url": "",
+        "is_visible": true
     }
 ]
