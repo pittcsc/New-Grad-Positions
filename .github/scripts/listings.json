@@ -98460,5 +98460,24 @@
         "date_posted": 1763482797,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763482852,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://kar.wd1.myworkdayjobs.com/en-US/OPENLANE_Careers/job/Remote-United-States/Junior-Software-Engineer_R-253158",
+        "company_name": "OPENLANE",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "4333b214-19cf-4982-88ce-2454e740701a",
+        "date_posted": 1763482852,
+        "company_url": "",
+        "is_visible": true
     }
 ]
