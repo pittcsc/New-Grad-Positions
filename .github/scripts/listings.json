@@ -98424,5 +98424,23 @@
         "date_posted": 1763482649,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763482717,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.apple.com/en-us/details/200627852-3956/software-engineer-is-t-early-career",
+        "company_name": "Apple",
+        "title": "Software Engineer, IS&T Early Career",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "5913752b-66db-42f5-b735-95de34f2e57e",
+        "date_posted": 1763482717,
+        "company_url": "",
+        "is_visible": true
     }
 ]
