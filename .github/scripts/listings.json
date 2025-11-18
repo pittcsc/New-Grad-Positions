@@ -84091,7 +84091,7 @@
         "company_name": "Scientific Games",
         "id": "dfcde5e7-2b4b-4631-8ab2-fad13dc70f64",
         "title": "Field Service Tech 1 - Albuquerque",
-        "active": true,
+        "active": false,
         "date_updated": 1762918516,
         "date_posted": 1761871150,
         "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Albuquerque-NM/Field-Service-Tech-I--Albuquerque_R503550",
@@ -96582,7 +96582,7 @@
         "company_name": "Lloyds Bank",
         "id": "dab60363-2411-410c-8651-d507ad8ca664",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1763397883,
         "date_posted": 1763397883,
         "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Software-Engineer_142814-2",
@@ -98036,6 +98036,24 @@
             "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Walmart",
+        "id": "74ae478a-698c-41f5-a48a-ba0b192a25ad",
+        "title": "Senior Analyst - Advanced Analytics",
+        "active": true,
+        "date_updated": 1763428491,
+        "date_posted": 1763428491,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Hoboken-NJ/Senior-Analyst--Advanced-Analytics_R-2355992-1",
+        "locations": [
+            "Union City, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
