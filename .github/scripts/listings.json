@@ -98352,5 +98352,41 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rapid7",
+        "id": "0996383a-6bd5-46cb-9144-fc21996371d9",
+        "title": "Business Systems Analyst",
+        "active": true,
+        "date_updated": 1763459920,
+        "date_posted": 1763233026,
+        "url": "https://mymoose.wd1.myworkdayjobs.com/careers/job/US---MA---Boston/Business-Systems-Analyst_R10501",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rapid7",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Beth Israel Lahey Health",
+        "id": "b9e2e529-59e0-4a7c-88b1-1d277df09967",
+        "title": "Research Data Coordinator-Cardiovascular Research",
+        "active": true,
+        "date_updated": 1763460670,
+        "date_posted": 1763167335,
+        "url": "https://bilh.wd1.myworkdayjobs.com/External/job/Beth-Israel-Deaconess-Medical-Center/Research-Data-Coordinator--Cardiovascular-Research--Nezafat-Lab_JR87230",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Beth-Israel-Lahey-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
