@@ -98406,5 +98406,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1763482649,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://zoom.wd5.myworkdayjobs.com/Zoom/job/Remote--WA/Software-Development_R17786-1",
+        "company_name": "Zoom",
+        "title": "Software Development",
+        "locations": [
+            "Remote in USA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "2316e6fd-7d71-44bb-a671-cde022188740",
+        "date_posted": 1763482649,
+        "company_url": "",
+        "is_visible": true
     }
 ]
