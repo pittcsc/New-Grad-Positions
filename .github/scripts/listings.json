@@ -10946,7 +10946,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755246784,
+        "date_updated": 1763456565,
         "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4824369007?gh_jid=4824369007",
         "company_name": "Anduril Industries",
         "title": "Early Career Software Engineer",
@@ -10954,7 +10954,7 @@
             "Washington, DC"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "c54c42b1-9017-469d-87db-dc5e53e2d3cb",
         "date_posted": 1755246784,
@@ -10962,7 +10962,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759953540,
+        "date_updated": 1763456565,
         "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4824378007?gh_jid=4824378007",
         "company_name": "Anduril Industries",
         "title": "Early Career Software Engineer",
@@ -10970,7 +10970,7 @@
             "Atlanta, GA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "5d44da7e-2d82-486a-9745-c25640724161",
         "date_posted": 1755246824,
@@ -32318,9 +32318,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762269891,
+        "date_updated": 1763456565,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://xcelenergy.wd1.myworkdayjobs.com/en-US/external/job/Denver-CO-80223/Associate-Data-Scientist--Project-Management-Office-_JR111253-1",
         "company_name": "Xcel Energy",
@@ -34662,9 +34662,9 @@
         "degrees": []
     },
     {
-        "date_updated": 1763048888,
+        "date_updated": 1763456565,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Associate-Engineer-Embedded-Software_R25-8467",
         "company_name": "Rockwell Automation",
