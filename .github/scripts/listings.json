@@ -98205,5 +98205,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "date_updated": 1763443877,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://apply.workable.com/mlabs/j/9FD344525A/",
+        "company_name": "MLabs",
+        "title": "Software Engineer (New Grads)",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "d98e3a89-77a0-4a6f-a6d1-6155ebee62e5",
+        "date_posted": 1763443877,
+        "company_url": "",
+        "is_visible": true
     }
 ]
