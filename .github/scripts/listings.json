@@ -101004,5 +101004,25 @@
         "date_posted": 1763558581,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763558834,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.skillstorm.com/jobs/entry-level-software-developer-42267",
+        "company_name": "SkillStorm",
+        "title": "Entry Level Software Developer",
+        "locations": [
+            "Plano, TX",
+            "McKinney, TX",
+            "Houston, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "12abd7de-caa3-423d-96cb-8087bafb7bc0",
+        "date_posted": 1763558834,
+        "company_url": "",
+        "is_visible": true
     }
 ]
