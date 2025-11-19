@@ -101026,5 +101026,24 @@
         "date_posted": 1763558961,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763559123,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Development-Engineer-I-NY-11714/1327484300/",
+        "company_name": "Optimum",
+        "title": "Software Development Engineer I",
+        "locations": [
+            "Bethpage, NY",
+            "Plano TX"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "7a717584-07e6-42cf-a189-423b7308030b",
+        "date_posted": 1763559123,
+        "company_url": "",
+        "is_visible": true
     }
 ]
