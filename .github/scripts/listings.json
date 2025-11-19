@@ -101045,5 +101045,23 @@
         "date_posted": 1763559123,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763559469,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/amaehealth/jobs/4050820009",
+        "company_name": "Amae Health",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "8f66b6bc-3b74-4805-8d01-473ea18572d7",
+        "date_posted": 1763559469,
+        "company_url": "",
+        "is_visible": true
     }
 ]
