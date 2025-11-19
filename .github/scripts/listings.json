@@ -30402,7 +30402,7 @@
         "company_name": "Apple",
         "id": "9a41e383-c4b1-40b8-9ee9-b1a38e6310c9",
         "title": "IOS Engineer \u2013 Early Career - Generative AI Experiences Software",
-        "active": false,
+        "active": true,
         "date_updated": 1761908785,
         "date_posted": 1761908785,
         "url": "https://jobs.apple.com/en-us/details/200628168",
@@ -31130,7 +31130,7 @@
         "company_name": "Apple",
         "id": "0cf99e7c-ec97-4f06-bd0a-48305f997d34",
         "title": "Software Engineer \u2013 Early Career Opportunities - Aidp Reliability Engineering - IS&T",
-        "active": false,
+        "active": true,
         "date_updated": 1760408594,
         "date_posted": 1760408594,
         "url": "https://jobs.apple.com/en-us/details/200621756",
@@ -44938,7 +44938,7 @@
         "company_name": "BetterHelp",
         "id": "07a7c346-27c2-4741-8582-898b8d2130e4",
         "title": "AI Extern",
-        "active": true,
+        "active": false,
         "date_updated": 1762532930,
         "date_posted": 1762532930,
         "url": "https://job-boards.greenhouse.io/betterhelpcom/jobs/4679163008",
@@ -100066,6 +100066,656 @@
             "Florence, SC"
         ],
         "company_url": "https://simplify.jobs/c/ASM-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "a63d6fe7-a4b4-43b1-a20f-46ad544f4d72",
+        "title": "Sensing Hardware Lab Technician",
+        "active": true,
+        "date_updated": 1763514551,
+        "date_posted": 1763514551,
+        "url": "https://jobs.apple.com/en-us/details/200616453",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Apple",
+        "id": "8f161277-15b0-4c06-9f11-8202b154a633",
+        "title": "Applied ML Engineer AI/ML Evaluation & Simulation",
+        "active": true,
+        "date_updated": 1763514559,
+        "date_posted": 1763514559,
+        "url": "https://jobs.apple.com/en-us/details/200616700",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "2313d079-9af4-4916-aaba-f15655456434",
+        "title": "Virtual Memory Kernel Engineer",
+        "active": true,
+        "date_updated": 1763514643,
+        "date_posted": 1763514643,
+        "url": "https://jobs.apple.com/en-us/details/200611790",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "1b4b0bfe-f23d-438f-a66b-ad36051c5936",
+        "title": "Xcode Internals Engineer",
+        "active": true,
+        "date_updated": 1763514656,
+        "date_posted": 1763514656,
+        "url": "https://jobs.apple.com/en-us/details/200586465",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "164db7d0-2fdd-42eb-9b0e-e63fb37c1e73",
+        "title": "Design Verification Engineer",
+        "active": true,
+        "date_updated": 1763514626,
+        "date_posted": 1763514626,
+        "url": "https://jobs.apple.com/en-us/details/200578743",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "09e4d3e1-9bc5-402b-a884-536cd1f46e39",
+        "title": "Graphics FE Integration Engineer",
+        "active": true,
+        "date_updated": 1763514743,
+        "date_posted": 1763514743,
+        "url": "https://jobs.apple.com/en-us/details/200586882",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "fbe98d74-dbaa-4b95-91f5-c18fe2bd492f",
+        "title": "SoC Full Chip DV Engineer",
+        "active": true,
+        "date_updated": 1763514491,
+        "date_posted": 1763514491,
+        "url": "https://jobs.apple.com/en-us/details/200620362",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "f44ae0ca-45c3-469f-824c-7e4bff0a8292",
+        "title": "GPU Design Engineer - Memory Hierarchy",
+        "active": true,
+        "date_updated": 1763514489,
+        "date_posted": 1763514489,
+        "url": "https://jobs.apple.com/en-us/details/200605625",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "f3bd2a78-7dc2-432f-ac62-41cca100af91",
+        "title": "SoC DFT DV Engineer",
+        "active": true,
+        "date_updated": 1763514377,
+        "date_posted": 1763514377,
+        "url": "https://jobs.apple.com/en-us/details/200623238",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "e24b5f59-1334-45e8-b080-5b9045c67811",
+        "title": "SOC Verification Engineer",
+        "active": true,
+        "date_updated": 1763514432,
+        "date_posted": 1763514432,
+        "url": "https://jobs.apple.com/en-us/details/200622425",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "d8f0a507-8cac-4265-881d-cf6ebc137a7e",
+        "title": "SoC Firmware Engineer",
+        "active": true,
+        "date_updated": 1763514517,
+        "date_posted": 1763514517,
+        "url": "https://jobs.apple.com/en-us/details/200585802",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "bb9e2d7a-12d3-4912-97e2-6b6745a826ea",
+        "title": "SoC DFT Engineer",
+        "active": true,
+        "date_updated": 1763514385,
+        "date_posted": 1763514385,
+        "url": "https://jobs.apple.com/en-us/details/200623294",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "a8ffab90-e4eb-43aa-9013-382f7556353b",
+        "title": "Graphics - GPU - RTL Design Engineer",
+        "active": true,
+        "date_updated": 1763514444,
+        "date_posted": 1763514444,
+        "url": "https://jobs.apple.com/en-us/details/200565082",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "9ec28ed5-51e6-4701-8916-6956958e196e",
+        "title": "ASIC Design Engineer - Cache Controller",
+        "active": true,
+        "date_updated": 1763514312,
+        "date_posted": 1763514312,
+        "url": "https://jobs.apple.com/en-us/details/200624401",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "81aa0136-3adc-4ba4-860c-0e4db3d442ea",
+        "title": "Design Verification Engineer",
+        "active": true,
+        "date_updated": 1763514507,
+        "date_posted": 1763514507,
+        "url": "https://jobs.apple.com/en-us/details/200619236",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Apple",
+        "id": "6ecc1f4c-295f-4de3-8fc8-29449a9db7cc",
+        "title": "Physical Design Engineer - Machine Learning",
+        "active": true,
+        "date_updated": 1763514461,
+        "date_posted": 1763514461,
+        "url": "https://jobs.apple.com/en-us/details/200608195",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "6b893e2b-6a22-4749-8b3b-fe2402cbce97",
+        "title": "Design Verification Engineer",
+        "active": true,
+        "date_updated": 1763514478,
+        "date_posted": 1763514478,
+        "url": "https://jobs.apple.com/en-us/details/200619218",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "5fa57ac0-28c3-4ab9-ac11-5d269e14e9ac",
+        "title": "Formal Verification Framework for Hardware Ips Validation",
+        "active": true,
+        "date_updated": 1763514397,
+        "date_posted": 1763514397,
+        "url": "https://jobs.apple.com/en-us/details/200622734",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "53861d35-c8cc-406b-979e-5db9b3e77ea6",
+        "title": "SoC Physical Design Engineer - STA/Timing",
+        "active": true,
+        "date_updated": 1763514452,
+        "date_posted": 1763514452,
+        "url": "https://jobs.apple.com/en-us/details/200608528",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "4a6b9b73-67a1-4b17-8eb7-025a5e0f2b1a",
+        "title": "Front End Engineer - Apple Data Platforms",
+        "active": true,
+        "date_updated": 1763514369,
+        "date_posted": 1763514369,
+        "url": "https://jobs.apple.com/en-us/details/200623468",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "4a60ab32-1510-4f08-a57b-0f1a37f6b131",
+        "title": "SoC Physical Design Engineer - Pnr",
+        "active": true,
+        "date_updated": 1763514427,
+        "date_posted": 1763514427,
+        "url": "https://jobs.apple.com/en-us/details/200599509",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "25a85892-5b38-4bdf-af39-3e37ebbfa917",
+        "title": "Design Verification Engineer",
+        "active": true,
+        "date_updated": 1763514529,
+        "date_posted": 1763514529,
+        "url": "https://jobs.apple.com/en-us/details/200619242",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "1c3d075a-8671-4995-b1ae-f11e46373031",
+        "title": "SWE \u2013 Early Career - User Land Security Researcher - Sear",
+        "active": true,
+        "date_updated": 1763514403,
+        "date_posted": 1763514403,
+        "url": "https://jobs.apple.com/en-us/details/200622968",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "1395c9f4-2936-41e9-8c9e-850a904b72b4",
+        "title": "Design Verification Engineer",
+        "active": true,
+        "date_updated": 1763514493,
+        "date_posted": 1763514493,
+        "url": "https://jobs.apple.com/en-us/details/200619227",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "0fba4d54-3b6f-434a-aed7-02bb05a9a02e",
+        "title": "Software Engineer - Core OS Telemetry",
+        "active": true,
+        "date_updated": 1763514374,
+        "date_posted": 1763514374,
+        "url": "https://jobs.apple.com/en-us/details/200623424",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "0217c138-bf13-498f-8e31-142367e9a78e",
+        "title": "Silicon Prototyping Engineer",
+        "active": true,
+        "date_updated": 1763514325,
+        "date_posted": 1763514325,
+        "url": "https://jobs.apple.com/en-us/details/200624624",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "d82b22f9-83b0-415c-90c6-39be9aa6b6fb",
+        "title": "Formal Verification Engineer",
+        "active": true,
+        "date_updated": 1763514186,
+        "date_posted": 1763514186,
+        "url": "https://jobs.apple.com/en-us/details/200593173",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "113f8d6d-8c02-4243-b0a9-467ff87ee02d",
+        "title": "SoC Integration Engineer",
+        "active": true,
+        "date_updated": 1763514199,
+        "date_posted": 1763514199,
+        "url": "https://jobs.apple.com/en-us/details/200626487",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "ef678f6c-95da-4390-af59-758850d4efe6",
+        "title": "GPU Design Engineer - Memory Hierarchy",
+        "active": true,
+        "date_updated": 1763513863,
+        "date_posted": 1763513863,
+        "url": "https://jobs.apple.com/en-us/details/200629696",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "d0d10226-c10d-422a-bfee-9f12dd68d764",
+        "title": "GPU DFT Design Verification Engineer",
+        "active": true,
+        "date_updated": 1763513938,
+        "date_posted": 1763513938,
+        "url": "https://jobs.apple.com/en-us/details/200629433",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "b2a63f92-40cb-43b2-9066-f02026b5871c",
+        "title": "SoC Physical Design Engineer - Place and Route",
+        "active": true,
+        "date_updated": 1763514064,
+        "date_posted": 1763514064,
+        "url": "https://jobs.apple.com/en-us/details/200627232",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "952b5de2-a0e4-4bd3-a020-8ae56c258257",
+        "title": "Entry Level Software Developer",
+        "active": true,
+        "date_updated": 1763513926,
+        "date_posted": 1763513926,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Developer_R0149243",
+        "locations": [
+            "Fredericksburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "779f1a7a-7c6e-4b06-a5a1-850e4d8a2d4f",
+        "title": "Mixed-Signal IP Firmware Engineer",
+        "active": true,
+        "date_updated": 1763513905,
+        "date_posted": 1763513905,
+        "url": "https://jobs.apple.com/en-us/details/200629448",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "6daaaaef-5e4a-4b26-9900-827315575009",
+        "title": "Software Triage Engineer - Siri Attention and Invocation",
+        "active": true,
+        "date_updated": 1763513850,
+        "date_posted": 1763513850,
+        "url": "https://jobs.apple.com/en-us/details/200630271",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Apple",
+        "id": "56cc76b7-a1a1-436f-9153-79169cd4c63f",
+        "title": "Integration Engineer",
+        "active": true,
+        "date_updated": 1763513841,
+        "date_posted": 1763513841,
+        "url": "https://jobs.apple.com/en-us/details/200629915",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "44b186e2-794b-4fb5-9f22-74fd4a5eb2dd",
+        "title": "SoC Physical Design Engineer - Place and Route",
+        "active": true,
+        "date_updated": 1763513859,
+        "date_posted": 1763513859,
+        "url": "https://jobs.apple.com/en-us/details/200628796",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
