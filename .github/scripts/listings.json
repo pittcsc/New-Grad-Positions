@@ -100968,5 +100968,23 @@
         "date_posted": 1763558319,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763558438,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4577504101",
+        "company_name": "IMC",
+        "title": "Software Engineer, Early Career",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "c9518ae3-44d7-4b27-8252-71a5f8b45391",
+        "date_posted": 1763558438,
+        "company_url": "",
+        "is_visible": true
     }
 ]
