@@ -101118,5 +101118,23 @@
         "date_posted": 1763560351,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763569228,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://spacedynamicslaboratory.applytojob.com/apply/9YHX63vuSs/EntryLevel-Software-Engineer",
+        "company_name": "Space Dynamics Laboratory",
+        "title": "Entry-Level Software Engineer",
+        "locations": [
+            "North Logan, UT"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "b66701f5-f31f-4301-96b8-bd5ae3e7cbea",
+        "date_posted": 1763569228,
+        "company_url": "",
+        "is_visible": true
     }
 ]
