@@ -9480,7 +9480,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1754747431,
+        "date_updated": 1763561375,
         "url": "https://www.tesla.com/careers/search/job/247659",
         "company_name": "Tesla",
         "title": "Machine Learning Engineer, Model Optimization & Deployment, Optimus",
@@ -9488,7 +9488,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "f10df930-2707-43a7-8c03-f5fe269294f5",
         "date_posted": 1754747431,
@@ -9616,7 +9616,7 @@
         "degrees": []
     },
     {
-        "date_updated": 1754755775,
+        "date_updated": 1763561375,
         "url": "https://jobs.lever.co/lumafield/0bdaed8e-3234-4073-afa6-410d1362fe25",
         "company_name": "Lumafield",
         "title": "Embedded Systems Engineer",
@@ -9625,7 +9625,7 @@
             "Everett, MA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "2494635c-0be1-4065-b0d6-fd28c52d0841",
         "date_posted": 1754755775,
@@ -27872,9 +27872,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760735998,
+        "date_updated": 1763561375,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.lever.co/deltasands/4ae1b9e2-ebbd-416e-810a-58f296666125/",
         "company_name": "Delta Solutions & Strategies",
@@ -32320,9 +32320,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762269940,
+        "date_updated": 1763561375,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://ncr.wd1.myworkdayjobs.com/en-US/ext_us/job/ATLANTA-GA-USA/Software-Engineer-I_R0155211",
         "company_name": "NCR",
@@ -33616,9 +33616,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762554873,
+        "date_updated": 1763561375,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-98561-1",
         "company_name": "Expedia Group",
