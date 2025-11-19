@@ -101136,5 +101136,24 @@
         "date_posted": 1763569228,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763569349,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://spectris.wd3.myworkdayjobs.com/en-US/Malvern_Panalytical_Careers/job/Northampton-MA/Graduate-Software-Engineer_16693",
+        "company_name": "Malvern Panalytical",
+        "title": "Graduate Software Engineer",
+        "locations": [
+            "Northampton, MA",
+            "Malvern, GB"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "a863e40c-2bc0-4c8b-b880-b3dbd872dd3f",
+        "date_posted": 1763569349,
+        "company_url": "",
+        "is_visible": true
     }
 ]
