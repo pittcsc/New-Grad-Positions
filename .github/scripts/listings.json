@@ -100986,5 +100986,23 @@
         "date_posted": 1763558438,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763558581,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=74549",
+        "company_name": "IBM",
+        "title": "Entry Level Software Developer",
+        "locations": [
+            "New York, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "d97b5b70-7378-4cb5-86e7-5b9047ac09b4",
+        "date_posted": 1763558581,
+        "company_url": "",
+        "is_visible": true
     }
 ]
