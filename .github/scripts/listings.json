@@ -100920,5 +100920,35 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1763557991,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-%E2%80%93-United-States",
+        "company_name": "Cisco",
+        "title": "Software Engineer Data/AI/Intelligent Systems I (Full Time)",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA",
+            "Alpharetta, GA",
+            "Atlanta, GA",
+            "Boston, MA",
+            "Dallas, TX",
+            "Fulton, MD",
+            "Hillsboro, OR",
+            "Knoxville, TN",
+            "Maynard, MA",
+            "Milpitas, CA",
+            "New York, NY",
+            "Research Triangle Park, NC"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "dff4c026-8cab-4cdd-92eb-26189980b28c",
+        "date_posted": 1763557991,
+        "company_url": "",
+        "is_visible": true
     }
 ]
