@@ -98136,7 +98136,7 @@
         "company_name": "Sainsbury's",
         "id": "17da0ce3-b7a8-4ba8-b30a-9dd322556002",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1763443488,
         "date_posted": 1763443488,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038185",
@@ -99965,7 +99965,7 @@
         "company_name": "Sainsbury's",
         "id": "05ca1ba7-51a7-446c-9afa-b918e30335ad",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1763512826,
         "date_posted": 1763512826,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038348",
@@ -100881,6 +100881,24 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/SP-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OpenAI",
+        "id": "8ea0ad2d-3e90-4d24-850f-cdcd98174634",
+        "title": "Software Engineer - Backend",
+        "active": true,
+        "date_updated": 1762441664,
+        "date_posted": 1758775628,
+        "url": "https://jobs.ashbyhq.com/openai/d0e21c22-c089-44f7-9acb-1e67c8925635/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/OpenAI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
