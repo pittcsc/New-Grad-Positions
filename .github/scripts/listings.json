@@ -100950,5 +100950,23 @@
         "date_posted": 1763557991,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763558319,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/applovin/jobs/4451556006",
+        "company_name": "AppLovin",
+        "title": "Backend Engineer, New Grad",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "b8ccf2d6-f57b-44fd-bb25-fdda3e617777",
+        "date_posted": 1763558319,
+        "company_url": "",
+        "is_visible": true
     }
 ]
