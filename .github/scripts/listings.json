@@ -101024,5 +101024,23 @@
         "date_posted": 1763558834,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763558961,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/flexport/jobs/7354795",
+        "company_name": "Flexport",
+        "title": "Software Engineer I, Finance",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "d4721527-227a-4fe0-aead-5f222ffa6d22",
+        "date_posted": 1763558961,
+        "company_url": "",
+        "is_visible": true
     }
 ]
