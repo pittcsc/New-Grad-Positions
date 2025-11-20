@@ -5,13 +5,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 446 New Grad Roles by Category
+### Browse 444 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (313)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (312)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (11)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (65)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (64)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (19)
 
@@ -189,13 +189,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Software Engineer 🛂</td>
 <td>Remote in USA</br>Remote in Canada</td>
 <td><a href="https://kar.wd1.myworkdayjobs.com/en-US/OPENLANE_Careers/job/Remote-United-States/Junior-Software-Engineer_R-253158?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>1d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">🔥 Apple</a></strong></td>
-<td>Software Engineer, IS&T Early Career</td>
-<td>Sunnyvale, CA</td>
-<td><a href="https://jobs.apple.com/en-us/details/200627852-3956/software-engineer-is-t-early-career?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
 <td>1d</td>
 </tr>
 <tr>
@@ -2275,7 +2268,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (611)</summary>
+<summary>🗃️ Inactive roles (612)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2306,6 +2299,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/TDS?utm_source=GHList&utm_medium=company">TDS</a></strong></td>
 <td>Software Engineer 1</td>
 <td>Remote in USA</td>
+<td>🔒</td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">🔥 Apple</a></strong></td>
+<td>Software Engineer, IS&T Early Career</td>
+<td>Sunnyvale, CA</td>
 <td>🔒</td>
 <td>1d</td>
 </tr>
@@ -2783,7 +2783,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Dev Engineer I</td>
 <td>Plainview, NY</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company">Intuit</a></strong></td>
@@ -7238,13 +7238,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong>Spotify</strong></td>
-<td>Associate Machine Learning Engineer</td>
-<td>New York, NY</td>
-<td><a href="https://jobs.lever.co/spotify/21c24edb-f625-4895-ad23-5a6320d54813?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>3mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Tucows-Domains?utm_source=GHList&utm_medium=company">Tucows Domains</a></strong></td>
 <td>Software Engineer 1 - Artificial Intelligence</td>
 <td>Remote in Canada</td>
@@ -7263,7 +7256,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (126)</summary>
+<summary>🗃️ Inactive roles (127)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -7309,7 +7302,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Data Engineer I</td>
 <td><details><summary><strong>16 locations</strong></summary>New Mexico</br>Cunningham, KS</br>Pennsylvania</br>Texas</br>Florida</br>Wichita, KS</br>South Carolina</br>Edmond, OK</br>Tennessee</br>Minnesota</br>Fort Gibson, OK</br>Wisconsin</br>North Carolina</br>Missouri</br>Illinois</br>McKenzie, TN</details></td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">🔥 Meta</a></strong></td>
@@ -7655,7 +7648,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">🔥 Adobe</a></strong></td>
+<td>↳</td>
 <td>2026 University Graduate - Data Scientist</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
@@ -8015,6 +8008,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong>LMI</strong></td>
 <td>Junior Data Analyst - TS/SCI Required</td>
 <td>Washington, DC</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
+<tr>
+<td><strong>Spotify</strong></td>
+<td>Associate Machine Learning Engineer</td>
+<td>New York, NY</td>
 <td>🔒</td>
 <td>3mo</td>
 </tr>
@@ -9312,7 +9312,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>↳</td>
 <td>Embedded Cybersecurity Software Engineer I</td>
 <td>Cedar Rapids, IA</td>
 <td>🔒</td>

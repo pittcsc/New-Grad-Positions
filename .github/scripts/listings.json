@@ -7358,7 +7358,7 @@
         "degrees": []
     },
     {
-        "date_updated": 1753897889,
+        "date_updated": 1763623536,
         "url": "https://jobs.lever.co/spotify/21c24edb-f625-4895-ad23-5a6320d54813",
         "company_name": "Spotify",
         "title": "Associate Machine Learning Engineer",
@@ -7366,7 +7366,7 @@
             "New York, NY"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "polinavishnev",
         "id": "a511f7ae-4c18-4d15-84b8-373bebee7cf1",
         "date_posted": 1753897889,
@@ -98378,9 +98378,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1763482717,
+        "date_updated": 1763623536,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.apple.com/en-us/details/200627852-3956/software-engineer-is-t-early-career",
         "company_name": "Apple",
