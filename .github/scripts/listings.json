@@ -101364,5 +101364,23 @@
         "date_posted": 1763656703,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763656743,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/TX---Richardson/Associate-Software-Development-Engineer_R0745817-1",
+        "company_name": "CVS Health",
+        "title": "Associate Software Development Engineer",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "f699ccfb-49f8-4469-b35e-f0ad4d2a2285",
+        "date_posted": 1763656743,
+        "company_url": "",
+        "is_visible": true
     }
 ]
