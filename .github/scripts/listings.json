@@ -36568,7 +36568,7 @@
         "company_name": "The Boeing Company",
         "id": "a8bf1d23-c52e-4403-8738-78b42e5e9644",
         "title": "Entry-Level Software Engineer-Embedded",
-        "active": true,
+        "active": false,
         "date_updated": 1763087584,
         "date_posted": 1763087584,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Entry-Level-Software-Engineer-Embedded_JR2025483359",
@@ -45180,7 +45180,7 @@
         "company_name": "Sainsbury's",
         "id": "79afb947-561a-41ff-a763-f4c969cbf592",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1762541192,
         "date_posted": 1762541192,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035123",
@@ -96119,7 +96119,7 @@
         "company_name": "Sainsbury's",
         "id": "a696185e-0fe0-4468-82d9-c56c0083171d",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1763381093,
         "date_posted": 1763381093,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037891",
@@ -101339,6 +101339,24 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PA Consulting",
+        "id": "db53eec0-88a0-4d9f-9d9e-b9644d8db5ae",
+        "title": "2026 Industrial Placement - Digital - Digital & Data",
+        "active": true,
+        "date_updated": 1763643253,
+        "date_posted": 1763643253,
+        "url": "https://jobs.smartrecruiters.com/PAConsulting/744000094587784",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PA-Consulting",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
