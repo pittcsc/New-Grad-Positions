@@ -91831,7 +91831,7 @@
         "company_name": "SDSU Research Foundation",
         "id": "5b3ad9d4-7b1e-4787-992d-8e8fc387c7b7",
         "title": "Niwc Senior",
-        "active": false,
+        "active": true,
         "date_updated": 1763161865,
         "date_posted": 1757572789,
         "url": "https://careers-sdsurf.icims.com/jobs/18659/job?mobile=true&needsRedirect=false",
@@ -91849,7 +91849,7 @@
         "company_name": "Utah State University",
         "id": "b184063f-0ffd-4768-88e7-c0febdf63fda",
         "title": "AI and Machine Learning Assistant Professor/Professional Practice Assistant Professor",
-        "active": false,
+        "active": true,
         "date_updated": 1763161923,
         "date_posted": 1757603339,
         "url": "https://careers-usu.icims.com/jobs/8433/job?mobile=true&needsRedirect=false",
@@ -93770,7 +93770,7 @@
         "company_name": "Sysmex",
         "id": "bd24eda5-ecb6-497b-9a0f-e45bf2378726",
         "title": "Technician - Field Service - Regional Wausau WI",
-        "active": true,
+        "active": false,
         "date_updated": 1763191293,
         "date_posted": 1757611970,
         "url": "https://careers-sysmex.icims.com/jobs/4456/job?mobile=true&needsRedirect=false",
@@ -93916,7 +93916,7 @@
         "company_name": "DataDirect Networks (DDN)",
         "id": "84ae96e6-a404-47b0-ad52-1acc8b5c7846",
         "title": "Firmware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1763192059,
         "date_posted": 1763191880,
         "url": "https://careers-ddn.icims.com/jobs/5270/job?mobile=true&needsRedirect=false",
@@ -96941,7 +96941,7 @@
         "company_name": "SDSU Research Foundation",
         "id": "aa3663c0-e0d6-43a7-a761-4dbbd5f6bdc4",
         "title": "Niwc Senior - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1763421131,
         "date_posted": 1757541157,
         "url": "https://careers-sdsurf.icims.com/jobs/19750/job?mobile=true&needsRedirect=false",
@@ -98519,7 +98519,7 @@
         "company_name": "Bernhard",
         "id": "38397afb-0492-458e-94ec-89b7bddd369a",
         "title": "Site Build Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1763507435,
         "date_posted": 1760025315,
         "url": "https://careers-enfra.icims.com/jobs/8764/job?mobile=true&needsRedirect=false",
@@ -101403,5 +101403,43 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Schweitzer Engineering Laboratories",
+        "id": "df23ccde-7af7-43d5-acff-b2a829cecd29",
+        "title": "Associate Trend Insight Analyst",
+        "active": true,
+        "date_updated": 1763662550,
+        "date_posted": 1763662550,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Trend-Insight-Analyst_2025-18678",
+        "locations": [
+            "Moscow, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Schweitzer Engineering Laboratories",
+        "id": "07212bbc-e593-46dc-bd93-84599b9e2d30",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1763662563,
+        "date_posted": 1763662563,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Data-Analyst_2025-18806",
+        "locations": [
+            "Moscow, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
