@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Affirm",
-        "id": "13bccf43-fca6-42f3-90e5-eded47991d26",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1742918902,
-        "date_posted": 1742918902,
-        "url": "https://job-boards.greenhouse.io/affirm/jobs/6513925003",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Affirm",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Leidos",
         "id": "ff9dbaef-9ce9-47c5-8c3b-cbe7b8d2c624",
         "title": "Software Developer \u2013 Entry level",
@@ -28,22 +12,6 @@
             "Lawton, OK"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Affirm",
-        "id": "15663158-7f05-4675-b15c-fc57c30fd714",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1742918902,
-        "date_posted": 1742918902,
-        "url": "https://job-boards.greenhouse.io/affirm/jobs/6513927003",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Affirm",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -66418,7 +66386,7 @@
         "company_name": "Ameresco",
         "id": "ad1a025b-96da-47d7-bb9e-28796d6507cb",
         "title": "Integration Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1760044468,
         "date_posted": 1760044468,
         "url": "https://ameresco.wd5.myworkdayjobs.com/en-US/Ameresco/job/United-States---Arizona---Chandler/Integration-Technician_R3434",
@@ -78333,7 +78301,7 @@
         "company_name": "Walmart",
         "id": "cd661880-67e3-442f-a7b6-ea82fa12434d",
         "title": "Software Engineer 3",
-        "active": true,
+        "active": false,
         "date_updated": 1762924457,
         "date_posted": 1755648010,
         "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2118821-1",
@@ -98747,7 +98715,7 @@
         "company_name": "Perle",
         "id": "0b172d6c-bef2-4b27-8dda-4c594ef1b2f7",
         "title": "Farsi Language Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1763509299,
         "date_posted": 1763509299,
         "url": "https://ats.rippling.com/perle/jobs/97f0c5b3-ffd2-4460-bceb-73bdc85e0eaf",
