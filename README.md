@@ -5,7 +5,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 446 New Grad Roles by Category
+### Browse 447 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (314)
 
@@ -15,7 +15,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (19)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (30)
+🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (31)
 
 💼 **[Other](#-other-new-grad-roles)** (7)
 
@@ -2082,7 +2082,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">🔥 TikTok</a></strong></td>
+<td>↳</td>
 <td>Backend Software Engineer, Trust and Safety - 2026 Start (BS/MS)</td>
 <td>Seattle, WA</td>
 <td><a href="https://lifeattiktok.com/search/7530752375372466439?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
@@ -5117,7 +5117,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/IXL-Learning?utm_source=GHList&utm_medium=company">IXL Learning</a></strong></td>
+<td>↳</td>
 <td>Software Engineer – New Grad</td>
 <td>San Mateo, CA</td>
 <td>🔒</td>
@@ -8404,6 +8404,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Cisco?utm_source=GHList&utm_medium=company">Cisco</a></strong></td>
+<td>Hardware Engineer 1 - Full time - United States</td>
+<td><details><summary><strong>4 locations</strong></summary>Austin, TX</br>San Jose, CA</br>Carlsbad, CA</br>Acton, MA</details></td>
+<td><div align="center"><a href="https://careers.cisco.com/global/en/job/2000108?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/fdae5a64-1c52-49be-b26c-d4ceabecac4e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
 <td>Photonic Hardware Engineer – New Grad</td>
