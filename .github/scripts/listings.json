@@ -33870,7 +33870,7 @@
         "company_name": "Seismic",
         "id": "02fb9964-eeee-492a-adcd-5b1717cc727f",
         "title": "Data Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1762816263,
         "date_posted": 1759308681,
         "url": "https://ca-careers-seismic.icims.com/jobs/2053/job?mobile=true&needsRedirect=false",
@@ -62997,7 +62997,7 @@
         "company_name": "Waters Corporation",
         "id": "3f24e174-4564-43a8-99fc-a3a96aa890fc",
         "title": "Software Engineer - AI/ML",
-        "active": true,
+        "active": false,
         "date_updated": 1763050923,
         "date_posted": 1761873940,
         "url": "https://uscareers-waters.icims.com/jobs/24756/job?mobile=true&needsRedirect=false",
@@ -101440,6 +101440,160 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hawk-Eye Innovations",
+        "id": "e289b438-270d-4d2a-bd82-83872a5db38b",
+        "title": "Cricket Systems Operator",
+        "active": true,
+        "date_updated": 1763664476,
+        "date_posted": 1763664476,
+        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/d0fdf1aa-c4e4-4d2a-a3d3-f9bcc131efa9/application",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisco",
+        "id": "3075024f-45f6-4a9b-bf63-0e47dfaa186f",
+        "title": "Ensoft - Software Engineer",
+        "active": true,
+        "date_updated": 1763664503,
+        "date_posted": 1763664503,
+        "url": "https://careers.cisco.com/global/en/job/2000025",
+        "locations": [
+            "Welwyn Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisco",
+        "id": "c19579ac-cc84-4455-96e5-f56733ea0be3",
+        "title": "Software Engineer Backend/Platform Systems 1",
+        "active": true,
+        "date_updated": 1763664376,
+        "date_posted": 1763664376,
+        "url": "https://careers.cisco.com/global/en/job/2000046",
+        "locations": [
+            "Boston, MA",
+            "Knoxville, TN",
+            "Milpitas, CA",
+            "Austin, TX",
+            "San Jose, CA",
+            "Fulton, MD",
+            "Dallas, TX",
+            "Hillsboro, OR",
+            "Alpharetta, GA",
+            "NYC",
+            "Acton, MA",
+            "Research Triangle, Durham, NC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisco",
+        "id": "5199b683-6293-4db7-9b3b-04a3a15cb801",
+        "title": "Software Engineer Data/AI/Intelligent Systems 1",
+        "active": true,
+        "date_updated": 1763664375,
+        "date_posted": 1763664375,
+        "url": "https://careers.cisco.com/global/en/job/2000073",
+        "locations": [
+            "Boston, MA",
+            "Knoxville, TN",
+            "Milpitas, CA",
+            "Austin, TX",
+            "San Jose, CA",
+            "Fulton, MD",
+            "Dallas, TX",
+            "Hillsboro, OR",
+            "Alpharetta, GA",
+            "NYC",
+            "Acton, MA",
+            "Research Triangle, Durham, NC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisco",
+        "id": "410cb684-be34-4522-8f7f-f996067c1a1d",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1763664389,
+        "date_posted": 1763664389,
+        "url": "https://careers.cisco.com/global/en/job/2001170",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Campbell's Company",
+        "id": "4e9d4a6b-7f64-498a-986b-ec47e1bddd97",
+        "title": "Insights Analyst",
+        "active": true,
+        "date_updated": 1763664048,
+        "date_posted": 1763664048,
+        "url": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Insights-Analyst_Req-61534-1",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Campbells-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CoreWeave",
+        "id": "6063a4cb-22bd-49de-9833-d977ed1cda79",
+        "title": "Data Center Technician - Afton - TX",
+        "active": true,
+        "date_updated": 1763663373,
+        "date_posted": 1763663373,
+        "url": "https://coreweave.com/careers/job?4619658006&board=coreweave&gh_jid=4619658006",
+        "locations": [
+            "Cee Vee, United States"
+        ],
+        "company_url": "https://simplify.jobs/c/CoreWeave",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
