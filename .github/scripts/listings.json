@@ -93342,7 +93342,7 @@
         "company_name": "Waters Corporation",
         "id": "d7ed5872-e4df-403f-9749-cf908e873331",
         "title": "Instrument Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1763162513,
         "date_posted": 1757612897,
         "url": "https://uscareers-waters.icims.com/jobs/23762/job?mobile=true&needsRedirect=false",
@@ -97275,7 +97275,7 @@
         "company_name": "Databricks",
         "id": "07bf115e-5d15-4e88-9d55-926eb301f77a",
         "title": "AI Tooling Program Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1763422850,
         "date_posted": 1763422850,
         "url": "https://boards.greenhouse.io/embed/job_app?token=8295414002",
@@ -102219,5 +102219,43 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cisco",
+        "id": "f48c72a3-96f6-4642-bd40-b7dff24b1f90",
+        "title": "Early in Career Data Analyst / Engineer",
+        "active": true,
+        "date_updated": 1763664504,
+        "date_posted": 1763664504,
+        "url": "https://careers.cisco.com/global/en/job/2000221",
+        "locations": [
+            "Feltham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hawk-Eye Innovations",
+        "id": "c84c02a4-6dfe-4282-ae6e-4d0a7f61e35e",
+        "title": "Student Intern - Cricket - Systems Operators",
+        "active": true,
+        "date_updated": 1763664485,
+        "date_posted": 1763664485,
+        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/50f06f78-97ea-4e8b-9cfe-8a43ca892f36/application",
+        "locations": [
+            "Basingstoke, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
