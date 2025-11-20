@@ -101328,5 +101328,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1763656654,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://wellsky.wd1.myworkdayjobs.com/en-US/WellSkyCareers/job/Overland-Park-KS/Associate-Software-Engineer_JR3933",
+        "company_name": "WellSky",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "8ed61c7c-b120-494f-a466-b359d74daaef",
+        "date_posted": 1763656654,
+        "company_url": "",
+        "is_visible": true
     }
 ]
