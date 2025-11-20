@@ -101346,5 +101346,23 @@
         "date_posted": 1763656654,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763656703,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-New-York-Buffalo/XMLNAME-2026-Associate-Embedded-Software-Embedded-Software-Engineer---Buffalo-NY_R10215183-1",
+        "company_name": "Northrop Grumman",
+        "title": "2026 Associate Embedded Software/Embedded Software Engineer",
+        "locations": [
+            "Buffalo NY"
+        ],
+        "category": "Hardware Engineering",
+        "source": "angie-hue",
+        "id": "b68c9871-c894-41f5-8f3d-f85956bb894a",
+        "date_posted": 1763656703,
+        "company_url": "",
+        "is_visible": true
     }
 ]
