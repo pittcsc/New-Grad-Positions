@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Jerry",
-        "id": "37354d24-4f7a-4a1e-9937-70a59c0a8752",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1742935966,
-        "date_posted": 1742935966,
-        "url": "https://jobs.ashbyhq.com/Jerry/b3ae5f20-9e99-48fb-bce9-2436b0ebe88e/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Western Digital",
         "id": "375e5b72-c155-4bce-9f71-2a92341e6773",
         "title": "New College Grad - Software Development Engineering - Apps",
@@ -45,23 +29,6 @@
             "Huntsville, AL"
         ],
         "company_url": "https://simplify.jobs/c/Blue-Origin",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Splunk",
-        "id": "48b6fe61-fbcb-4e57-9576-4bf7c8b19a0a",
-        "title": "Fedramp Software Engineer \u2013 Early Career",
-        "active": false,
-        "date_updated": 1742934647,
-        "date_posted": 1742934647,
-        "url": "https://jobs.jobvite.com/splunk-careers/job/ozXHvfws?nl=1&nl=1&fr=false",
-        "locations": [
-            "Colorado",
-            "North Carolina"
-        ],
-        "company_url": "https://simplify.jobs/c/Splunk",
         "is_visible": true,
         "sponsorship": "Other"
     },
