@@ -47829,7 +47829,7 @@
         "company_name": "NBCUniversal",
         "id": "4f3ed6ab-2964-4518-b397-a8c6bfdc2658",
         "title": "Software Engineer - Fandango",
-        "active": true,
+        "active": false,
         "date_updated": 1763559830,
         "date_posted": 1762363544,
         "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000091519849",
@@ -92563,7 +92563,7 @@
         "company_name": "Centerline Communications",
         "id": "3fe89490-7bf8-4327-ac17-6e8f950aaf24",
         "title": "Small Cell/DAS Technician - Level 1",
-        "active": false,
+        "active": true,
         "date_updated": 1763162453,
         "date_posted": 1761811033,
         "url": "https://careers-clinellc.icims.com/jobs/2609/job?mobile=true&needsRedirect=false",
@@ -102257,5 +102257,186 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisco",
+        "id": "dd797e7e-6141-454b-b22e-5b4f071593ae",
+        "title": "Early in Career Software Engineer - UK",
+        "active": true,
+        "date_updated": 1763664456,
+        "date_posted": 1763664456,
+        "url": "https://careers.cisco.com/global/en/job/2000016",
+        "locations": [
+            "Feltham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cisco",
+        "id": "aec98da3-3097-4a36-b643-d8a76173f735",
+        "title": "Software Engineer Embedded/Network Systems 1",
+        "active": true,
+        "date_updated": 1763664386,
+        "date_posted": 1763664386,
+        "url": "https://careers.cisco.com/global/en/job/2000081",
+        "locations": [
+            "Boston, MA",
+            "Knoxville, TN",
+            "Milpitas, CA",
+            "Austin, TX",
+            "San Jose, CA",
+            "Fulton, MD",
+            "Dallas, TX",
+            "Hillsboro, OR",
+            "Alpharetta, GA",
+            "NYC",
+            "Acton, MA",
+            "Research Triangle, Durham, NC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NBCUniversal",
+        "id": "799ac07f-f521-4ae3-ac75-bbf82c658ba2",
+        "title": "Analyst \u2013 Distribution Insights & Analytics",
+        "active": true,
+        "date_updated": 1763664163,
+        "date_posted": 1763664163,
+        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000093278906",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/NBCUniversal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Glydways",
+        "id": "59d2581f-5585-4112-9649-93dda3939395",
+        "title": "Autonomous Vehicle Engineering Technician",
+        "active": true,
+        "date_updated": 1763664105,
+        "date_posted": 1763664105,
+        "url": "https://job-boards.greenhouse.io/glydways/jobs/4987804007",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Glydways",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisco",
+        "id": "d429909a-8374-4fde-afa9-c1fb684e2b9d",
+        "title": "Software Engineer 2 - Full Stack and Application Development",
+        "active": true,
+        "date_updated": 1763664387,
+        "date_posted": 1763664387,
+        "url": "https://careers.cisco.com/global/en/job/2000127",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisco",
+        "id": "752cc127-39ae-4bed-977a-4fcbab271df8",
+        "title": "Software Developer 1",
+        "active": true,
+        "date_updated": 1763664416,
+        "date_posted": 1763664416,
+        "url": "https://careers.cisco.com/global/en/job/2001076",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Calgary, AB, Canada",
+            "Kanata, Ottawa, ON, Canada",
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DXC Technology",
+        "id": "f40be7e1-20e8-44dd-b21d-179f8d0ee1c7",
+        "title": "DXC Graduate Programme",
+        "active": true,
+        "date_updated": 1763664406,
+        "date_posted": 1763664406,
+        "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---LAN---MANCHESTER/DXC-Graduate-Programme-2026_51565840",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/DXC-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "2fe1a970-e19c-4892-8f9c-72915f411219",
+        "title": "Manufacturing Technician A",
+        "active": true,
+        "date_updated": 1763664181,
+        "date_posted": 1763664181,
+        "url": "https://jobs.l3harris.com/job/Rochester-Manufacturing-Technician-A-NY-14623/1344237800/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Akima",
+        "id": "3671237e-3222-4845-8fc2-b9e9b0841fc6",
+        "title": "Game Developer",
+        "active": true,
+        "date_updated": 1763664134,
+        "date_posted": 1763664134,
+        "url": "https://careers.akima.com/jobs/20304?lang=en-us&icims=1",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akima",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
