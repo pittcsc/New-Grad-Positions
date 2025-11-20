@@ -70003,7 +70003,7 @@
         "company_name": "JP Morgan Chase",
         "id": "eb73775c-7e2a-4b64-be95-1f5557870cef",
         "title": "2026 Data Science Analyst Program - Full-Time Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1761270960,
         "date_posted": 1758961513,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210646415",
@@ -74254,7 +74254,7 @@
         "company_name": "Parkhill",
         "id": "20c16b4a-cbaf-4965-b9cf-085e960b1695",
         "title": "Senior LiDAR Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1763130904,
         "date_posted": 1757612308,
         "url": "https://careers-parkhill.icims.com/jobs/1338/job?mobile=true&needsRedirect=false",
@@ -92668,7 +92668,7 @@
         "company_name": "Parkhill",
         "id": "05e2768b-65e9-4366-8587-b5d2f086ee03",
         "title": "Senior Lidar Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1763163403,
         "date_posted": 1757612897,
         "url": "https://careers-parkhill.icims.com/jobs/1351/job?mobile=true&needsRedirect=false",
@@ -93734,7 +93734,7 @@
         "company_name": "Fidelity National Financial",
         "id": "73f0ce41-659d-4358-93d5-12ad9003809a",
         "title": "Imaging Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1763191560,
         "date_posted": 1763162169,
         "url": "https://careers-fnf.icims.com/jobs/3210/job?mobile=true&needsRedirect=false",
@@ -101754,6 +101754,61 @@
             "Columbus, IN"
         ],
         "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bank of America",
+        "id": "ed236d8c-366e-4b58-8207-3cb3f7642d19",
+        "title": "Software Engineer 1 - Year Up",
+        "active": true,
+        "date_updated": 1763669854,
+        "date_posted": 1763669854,
+        "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Charlotte/Software-Engineer-I---Year-Up---Charlotte--NC_25044048-1",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "American Express",
+        "id": "560e8f3e-7e26-4c26-a835-c64e2119be4a",
+        "title": "Campus Undergraduate Full-Time - Associate Digital Product Management - Technology",
+        "active": true,
+        "date_updated": 1763669661,
+        "date_posted": 1763669661,
+        "url": "https://aexp.eightfold.ai/careers/job/38887410",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Linamar",
+        "id": "dca32202-3cb8-4f37-a08e-77d42b6d9936",
+        "title": "Mechatronics Engineer/Designer - Intermediate",
+        "active": true,
+        "date_updated": 1763669207,
+        "date_posted": 1763669207,
+        "url": "https://fa-epmd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/12157",
+        "locations": [
+            "Oakland, ON, Canada",
+            "London, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Linamar",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
