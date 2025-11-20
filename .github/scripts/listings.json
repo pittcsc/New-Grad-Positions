@@ -101382,5 +101382,23 @@
         "date_posted": 1763656743,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763656787,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://assetmark.wd5.myworkdayjobs.com/en-US/AssetMark_Careers/job/Charlotte-NC/Associate-Data-Engineer_Req-003533",
+        "company_name": "AssetMark",
+        "title": "Associate Data Engineer",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "aeffba1e-6fcb-4058-9ed6-5040eec8671d",
+        "date_posted": 1763656787,
+        "company_url": "",
+        "is_visible": true
     }
 ]
