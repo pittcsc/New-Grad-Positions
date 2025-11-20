@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Esri",
-        "id": "01f0e606-70e7-47e3-8d11-7b8ccbc87568",
-        "title": "C++ Software Development Engineer I - Arcgis Enterprise",
-        "active": false,
-        "date_updated": 1742873875,
-        "date_posted": 1742873875,
-        "url": "https://www.esri.com/careers/4671729007?gh_jid=4671729007",
-        "locations": [
-            "West Redlands, Redlands, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Esri",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Affirm",
         "id": "13bccf43-fca6-42f3-90e5-eded47991d26",
         "title": "Software Engineer I",
@@ -44632,7 +44616,7 @@
         "company_name": "Oshkosh",
         "id": "23504a83-ebc3-494e-9fc1-3889b4c0fddb",
         "title": "NASCAR Track Support Engineer-Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1762538594,
         "date_posted": 1762538594,
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/NASCAR-Track-Support-Engineer-Entry-Level_R41700",
@@ -73167,7 +73151,7 @@
         "company_name": "Barclays",
         "id": "d68989ec-5a5b-4ee2-a684-e687321cfa94",
         "title": "Technology Analyst Graduate Program",
-        "active": true,
+        "active": false,
         "date_updated": 1763119498,
         "date_posted": 1761993475,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-115-South-Jefferson-Rd-Campus-Whippany/Technology-Analyst-Graduate-Program-2026-Whippany_JR-0000067431",
@@ -101265,6 +101249,24 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Clearway Energy",
+        "id": "6c5dee18-7fe6-4fcd-b6ee-eb3600f1845f",
+        "title": "Analyst \u2013 Power Market Fundamentals",
+        "active": true,
+        "date_updated": 1763610368,
+        "date_posted": 1763610368,
+        "url": "https://job-boards.greenhouse.io/clearwayjobs/jobs/4960648007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Clearway-Energy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
