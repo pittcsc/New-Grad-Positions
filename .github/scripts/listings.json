@@ -9672,7 +9672,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1755007633,
+        "date_updated": 1763710136,
         "url": "https://www.databricks.com/company/careers/university-recruiting/data-scientist---new-grad-2026-start-6866554002?gh_jid=6866554002",
         "company_name": "Databricks",
         "title": "Data Scientist",
@@ -9681,7 +9681,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "2a99602b-1ec5-4b99-9050-41fc36613ffb",
         "date_posted": 1755007633,
@@ -10332,7 +10332,7 @@
         "degrees": []
     },
     {
-        "date_updated": 1755170921,
+        "date_updated": 1763710136,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/software-developer---entry-level/job",
         "company_name": "Sev1Tech",
         "title": "Software Developer - Entry Level",
@@ -10340,7 +10340,7 @@
             "Fort Sill, OK"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "c4fb508a-96f2-497a-a116-33572aa2d59f",
         "date_posted": 1755170921,
@@ -14533,9 +14533,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1756304248,
+        "date_updated": 1763710136,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.ashbyhq.com/Cape/bd280ded-4298-47de-a186-1aebd1bd94b8",
         "company_name": "Cape",
@@ -100843,9 +100843,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1763558961,
+        "date_updated": 1763710136,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://job-boards.greenhouse.io/flexport/jobs/7354795",
         "company_name": "Flexport",
@@ -100916,9 +100916,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1763559741,
+        "date_updated": 1763710136,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://app.dover.com/apply/wanderlog/561b05dd-36f6-43ab-aeb9-93b04d97b3fb?rs=42706078",
         "company_name": "Wanderlog",
