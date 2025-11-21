@@ -24257,27 +24257,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nuro",
-        "id": "740351dd-9445-4fb3-a463-78239f471cbe",
-        "title": "Software Engineer \u2013 New Grad - AI Platform",
-        "active": false,
-        "date_updated": 1753190422,
-        "date_posted": 1742961453,
-        "url": "https://nuro.ai/careersitem?gh_jid=6447851",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nuro",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "World Kinect",
         "id": "80e7b3e0-fdce-497e-8b23-ba94e51691fc",
@@ -37221,7 +37200,7 @@
         "company_name": "Sainsbury's",
         "id": "c25f23cf-048b-410a-ab21-e33ecf9c5c76",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1763052346,
         "date_posted": 1763052346,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037096",
