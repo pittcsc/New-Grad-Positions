@@ -65391,7 +65391,7 @@
         "company_name": "Anaplan",
         "id": "ef1c7b51-06d3-4712-913f-a6754868cefc",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1760249335,
         "date_posted": 1760249335,
         "url": "https://job-boards.greenhouse.io/anaplan/jobs/8208697002",
@@ -92125,7 +92125,7 @@
         "company_name": "Thoughtworks",
         "id": "66f0fa8a-a89e-445f-acaa-4ae9b2d986ff",
         "title": "Consultant Graduate Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1763163637,
         "date_posted": 1763163637,
         "url": "https://www.thoughtworks.com/careers/jobs/7393760?gh_jid=7393760",
@@ -98194,7 +98194,7 @@
         "company_name": "Beth Israel Lahey Health",
         "id": "b9e2e529-59e0-4a7c-88b1-1d277df09967",
         "title": "Research Data Coordinator-Cardiovascular Research",
-        "active": true,
+        "active": false,
         "date_updated": 1763460670,
         "date_posted": 1763167335,
         "url": "https://bilh.wd1.myworkdayjobs.com/External/job/Beth-Israel-Deaconess-Medical-Center/Research-Data-Coordinator--Cardiovascular-Research--Nezafat-Lab_JR87230",
@@ -105643,6 +105643,25 @@
             "Highlands Ranch, CO"
         ],
         "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Oregon State Government",
+        "id": "7f6c63f5-0813-4289-aab2-4da7580cea52",
+        "title": "Engineering Geologist",
+        "active": true,
+        "date_updated": 1763755148,
+        "date_posted": 1762386985,
+        "url": "https://oregon.wd5.myworkdayjobs.com/sor_external_career_site/job/Roseburg--ODOT--Headquarters/Professional-Geologist-1---Engineering-Geologist_REQ-188874",
+        "locations": [
+            "Oregon",
+            "Roseburg, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Oregon-State-Government",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
