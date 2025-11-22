@@ -71169,7 +71169,7 @@
         "company_name": "LPL Financial Holdings",
         "id": "52eeb4f5-59d0-4660-9d2e-7cacde0dafc6",
         "title": "Graduate - Technology - Product",
-        "active": true,
+        "active": false,
         "date_updated": 1762935200,
         "date_posted": 1758602009,
         "url": "https://lplfinancial.wd1.myworkdayjobs.com/External/job/San-Diego-CA/New-Grad-2026---Technology--Product_R-046437-1",
@@ -107343,6 +107343,24 @@
             "St. Louis, MO"
         ],
         "company_url": "https://simplify.jobs/c/Wash-U",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SHI International ",
+        "id": "7af2b39d-de44-4ba6-8ef5-cc7c3c0b56e5",
+        "title": "Pubsec Project Admin",
+        "active": true,
+        "date_updated": 1763776674,
+        "date_posted": 1762243166,
+        "url": "https://shi.wd12.myworkdayjobs.com/shicareers/job/Somerset-NJ-USA/PubSec-Project-Admin_JR2034",
+        "locations": [
+            "Somerset County, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/SHI-International",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
