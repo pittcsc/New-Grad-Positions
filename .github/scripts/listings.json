@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Western Digital",
-        "id": "49f13974-486b-4e60-a8a3-03754947e5d9",
-        "title": "New College Grad - Software Development Engineering - Apps",
-        "active": false,
-        "date_updated": 1743104055,
-        "date_posted": 1743104055,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000050379715",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Cox",
         "id": "07d80948-2695-4e50-abbf-68fc7a2d2e33",
         "title": "Software Engineer I",
