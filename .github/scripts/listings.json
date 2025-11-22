@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Cox",
-        "id": "07d80948-2695-4e50-abbf-68fc7a2d2e33",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1743107333,
-        "date_posted": 1743107333,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202560561",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "RTX",
         "id": "ae2bdc4f-47ed-474d-81df-d7912227988b",
         "title": "Software Engineer I",
