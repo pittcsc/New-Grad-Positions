@@ -75356,7 +75356,7 @@
         "company_name": "Brellium",
         "id": "b58e272b-e158-4d3b-8bb4-d3db140de556",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1762935498,
         "date_posted": 1757004067,
         "url": "https://jobs.ashbyhq.com/brellium/8209ac68-d966-4d5f-a925-3b277f8583c3/application",
@@ -82671,7 +82671,7 @@
         "company_name": "Field AI",
         "id": "87e2e1e4-f415-4c4e-9555-1b6d0ddbedb7",
         "title": "Robotics Hardware Engineer - Sensor Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1761886199,
         "date_posted": 1755025892,
         "url": "https://jobs.lever.co/field-ai/0c026e5f-99c5-419d-9458-1f2db08fcb8f/apply",
@@ -91644,7 +91644,7 @@
         "company_name": "Wiltshire Farm Foods",
         "id": "b60145a7-6db4-43b0-a5e4-2013691b4980",
         "title": "Product Administrator",
-        "active": true,
+        "active": false,
         "date_updated": 1762740890,
         "date_posted": 1758647092,
         "url": "https://wiltshirefarmfoods-apetito.icims.com/jobs/7663/job?mobile=true&needsRedirect=false",
@@ -107297,6 +107297,42 @@
             "Somerset County, NJ"
         ],
         "company_url": "https://simplify.jobs/c/SHI-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Heron Power",
+        "id": "cad2f1cb-bef8-45a0-acbe-7a9c714ef9c4",
+        "title": "Power Electronics PCBA Technician",
+        "active": true,
+        "date_updated": 1763881176,
+        "date_posted": 1763669627,
+        "url": "http://jobs.ashbyhq.com/heron-power/9f03d489-7fb1-48f8-9f41-70a9e64aed62/application",
+        "locations": [
+            "Santa Cruz, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Heron-Power",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Atlas Copco Group",
+        "id": "989cb509-2067-4d11-a557-239f6465bd1b",
+        "title": "Service Technician",
+        "active": true,
+        "date_updated": 1763882202,
+        "date_posted": 1763192100,
+        "url": "https://www.careers.homeofindustrialideas.com/job/Grayling,-MI-Service-Technician-Mich/1255550901/?ats=successfactors",
+        "locations": [
+            "Cadillac, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Atlas-Copco-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
