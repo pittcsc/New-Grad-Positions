@@ -17,27 +17,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Blue Origin",
-        "id": "83f20d07-1cda-4239-9412-e6955ba2aa50",
-        "title": "Software Development Engineer I \u2013 Early Career 2025 University Grad",
-        "active": false,
-        "date_updated": 1743193831,
-        "date_posted": 1743193831,
-        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career-2025-University-Grad_R50741",
-        "locations": [
-            "Seattle, WA",
-            "LA",
-            "Merritt Island, FL",
-            "Denver, CO",
-            "Huntsville, AL",
-            "Van Horn, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Blue-Origin",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Booz Allen",
         "id": "236bae2b-c334-41a6-b4fb-726a84ffa839",
         "title": "Software Developer - Junior",
@@ -72329,7 +72308,7 @@
         "company_name": "CAE",
         "id": "f6403b0f-3eef-4fbb-a225-edec266d5f8e",
         "title": "Simulator Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1761914895,
         "date_posted": 1761914895,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Tampa/Simulator-Technician_117991",
