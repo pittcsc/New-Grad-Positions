@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Wood Mackenzie",
-        "id": "93df262b-25e1-4990-bd08-6ef8ad48ae1f",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1743194672,
-        "date_posted": 1743194672,
-        "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Software-Engineer-I_JR1405",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Wood-Mackenzie",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Booz Allen",
         "id": "236bae2b-c334-41a6-b4fb-726a84ffa839",
         "title": "Software Developer - Junior",
@@ -31966,7 +31950,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "42e61775-f544-4875-aabf-780ba7476d36",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1762255239,
         "date_posted": 1762255239,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Nottingham/Software-Engineer-1_R102845",
@@ -74209,7 +74193,7 @@
         "company_name": "Cook Group",
         "id": "50c09ca4-36b0-428e-81cd-fdc2d0a1b157",
         "title": "Service Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1763130877,
         "date_posted": 1757536555,
         "url": "https://americas-cookmedical.icims.com/jobs/17170/job?mobile=true&needsRedirect=false",
@@ -107639,6 +107623,24 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039464",
         "locations": [
             "Reading, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "69a93d1a-16e7-4d03-9441-96b7fd329db0",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1763891044,
+        "date_posted": 1763891044,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039470",
+        "locations": [
+            "Exeter, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
