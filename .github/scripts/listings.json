@@ -24765,7 +24765,7 @@
         "company_name": "General Motors",
         "id": "a949f780-0ff6-4438-83e2-a09c88954fec",
         "title": "Software Developer \u2013 Early Career",
-        "active": false,
+        "active": true,
         "date_updated": 1759533878,
         "date_posted": 1759533878,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Markham-Ontario-Canada/Software-Developer---Early-Career_JR-202518755",
@@ -42781,7 +42781,7 @@
         "company_name": "CIBC",
         "id": "406d7a5c-55fb-4513-9840-cd0e96e31a84",
         "title": "Associate \u2013 Institutional Equity Research - Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1762818099,
         "date_posted": 1762818099,
         "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate--Institutional-Equity-Research--Data-Scientist-_2524873",
@@ -57744,7 +57744,7 @@
         "company_name": "AT&T",
         "id": "c8555368-9dc8-499a-9282-bc9a44b700ba",
         "title": "Software Developer - Asset Management - SWE I','Government",
-        "active": false,
+        "active": true,
         "date_updated": 1761825729,
         "date_posted": 1761825729,
         "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Columbia-Maryland/Software-Developer---Asset-Management--SWE-I---Government-_R-88334",
@@ -96483,7 +96483,7 @@
         "company_name": "Aberdeen",
         "id": "77f4ffbb-8d4e-4a45-9a8a-b4004f0351b8",
         "title": "Product & Marketing Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1763397469,
         "date_posted": 1763397469,
         "url": "https://abrdn.wd3.myworkdayjobs.com/abrdn/job/Edinburgh/Product---Marketing-Graduate_R0073433",
@@ -107624,6 +107624,42 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039479",
         "locations": [
             "Nuneaton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "48e7e82e-2ed6-4d21-9de2-e43bac811958",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1763926355,
+        "date_posted": 1763926355,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039335",
+        "locations": [
+            "Bedford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "ea3c3b6a-2592-40a1-9e97-78b6ca493eab",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1763926259,
+        "date_posted": 1763926259,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039464",
+        "locations": [
+            "Reading, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
