@@ -1,23 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Jerry",
-        "id": "252e1c9c-a58b-4385-b400-0a7b19f51f63",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1743186940,
-        "date_posted": 1743186940,
-        "url": "https://jobs.ashbyhq.com/Jerry/222b1802-9206-49cd-ae8f-fe8341683a5c/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Wood Mackenzie",
         "id": "93df262b-25e1-4990-bd08-6ef8ad48ae1f",
         "title": "Software Engineer I",
