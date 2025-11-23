@@ -1582,7 +1582,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Development Engineer I</td>
 <td>Arlington, TX</td>
 <td><div align="center"><a href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/557?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7aced101-ae2c-4a84-bc43-e6596dde3bda?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Zip?utm_source=GHList&utm_medium=company">Zip</a></strong></td>
@@ -2916,7 +2916,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Associate Software Development Engineer</td>
 <td>Remote from USA</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/American-Express?utm_source=GHList&utm_medium=company">American Express</a></strong></td>
@@ -3070,7 +3070,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer I - Customer Experience</td>
 <td>Seattle, WA</td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Aevex-Aerospace?utm_source=GHList&utm_medium=company">Aevex Aerospace</a></strong></td>
@@ -6816,7 +6816,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Product Management Xcelerator Rotation Program – Entry Level Product - Remote</td>
 <td>Remote in USA</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Solace-Health?utm_source=GHList&utm_medium=company">Solace Health</a></strong></td>
@@ -6990,7 +6990,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Associate AI Engineer 🛂</td>
 <td>Chicago, IL</td>
 <td><a href="https://jobs.lever.co/thinkahead/ea0c65d1-dd6b-4f68-8abb-2bacebbd98a1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Adtheorant?utm_source=GHList&utm_medium=company">Adtheorant</a></strong></td>
@@ -7018,7 +7018,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Associate Data Scientist</td>
 <td>Omaha, NE</td>
 <td><a href="https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Omaha-Nebraska-United-States-of-America/Associate-Data-Scientist_R0132263-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Trexquant?utm_source=GHList&utm_medium=company">Trexquant</a></strong></td>
@@ -7477,14 +7477,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Computer Vision Data Scientist 🎓 🛂</td>
 <td>Westbrook, ME</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong>OneRail</strong></td>
 <td>Junior Data Analyst</td>
 <td>Orlando, FL</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">🔥 Adobe</a></strong></td>
@@ -8079,7 +8079,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Development Engineer 1 - GenAI</td>
 <td>Irving, TX</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">🔥 Adobe</a></strong></td>
