@@ -23411,7 +23411,7 @@
         "company_name": "General Motors",
         "id": "520a10d0-a5ec-46d6-acfe-66d0ec30804c",
         "title": "Software Engineer \u2013 Early Career",
-        "active": false,
+        "active": true,
         "date_updated": 1758995548,
         "date_posted": 1758995548,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Engineer---Early-Career_JR-202518329",
@@ -41338,7 +41338,7 @@
         "company_name": "McGill University",
         "id": "acfea957-91c2-4f2f-b8b2-65fb560ed84d",
         "title": "Student Research Assistant - Sensitive Research Data Management",
-        "active": false,
+        "active": true,
         "date_updated": 1762908069,
         "date_posted": 1762908069,
         "url": "https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/McLennan-Library/Student-Research-Assistant---Sensitive-Research-Data-Management---Qubec-_JR0000071670",
@@ -48577,7 +48577,7 @@
         "company_name": "White Cap Supply Holdings",
         "id": "65bc56dc-2a4b-4b28-86dd-b3190359d499",
         "title": "Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1762274628,
         "date_posted": 1762274628,
         "url": "https://whitecap.wd1.myworkdayjobs.com/careers/job/Orlando_32822/Application-Engineer_WCJR-028621-1",
@@ -49213,7 +49213,7 @@
         "company_name": "Vanderlande Industries",
         "id": "1cd80650-d6dd-4af2-af34-ee7f5a314adb",
         "title": "Mechanic Mechatronic 3",
-        "active": false,
+        "active": true,
         "date_updated": 1762213344,
         "date_posted": 1762213344,
         "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/White/Mechanic-Mechatronic-III_JR34404-1",
@@ -107408,6 +107408,60 @@
             "McKenzie, TN"
         ],
         "company_url": "https://simplify.jobs/c/Centene",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0644ba76-28d0-4ff7-968c-3f90900a5422",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1763890132,
+        "date_posted": 1763890132,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035430",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "da38f820-61a4-4249-b7a7-c0c3e75bf015",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1763890135,
+        "date_posted": 1763890135,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039284",
+        "locations": [
+            "Bracknell, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "4f8865ce-d442-4934-8a87-342d14041fa8",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1763890133,
+        "date_posted": 1763890133,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039478",
+        "locations": [
+            "Nuneaton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
