@@ -2720,21 +2720,21 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Associate Engineer, Software 🛂</td>
 <td>Bellevue, WA</td>
 <td>🔒</td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td><strong>Redstone Federal Credit Union</strong></td>
 <td>Programmer / Analyst I</td>
 <td>Huntsville, AL</td>
 <td>🔒</td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td><strong>NCR</strong></td>
 <td>Software Engineer I</td>
 <td>Atlanta, GA</td>
 <td>🔒</td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/LexisNexis-Risk-Solutions?utm_source=GHList&utm_medium=company">LexisNexis Risk Solutions</a></strong></td>
@@ -6027,7 +6027,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong>Coalition</strong></td>
+<td>↳</td>
 <td>Software Engineer I</td>
 <td>Remote in USA</td>
 <td>🔒</td>
@@ -6332,7 +6332,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Eggp – Software Development Engineer I</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company">🔥 Uber</a></strong></td>
@@ -7407,7 +7407,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Associate Data Scientist (Project Management Office)</td>
 <td>Denver, CO</td>
 <td>🔒</td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Centene?utm_source=GHList&utm_medium=company">Centene</a></strong></td>
