@@ -27762,7 +27762,7 @@
         "company_name": "Intuit",
         "id": "55a00559-28b9-41bc-b6dc-cda5714e2846",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1760765120,
         "date_posted": 1760765120,
         "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720",
@@ -107333,6 +107333,45 @@
             "Cadillac, MI"
         ],
         "company_url": "https://simplify.jobs/c/Atlas-Copco-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intuit",
+        "id": "02419a40-bdee-41bb-90f4-75ad890cb839",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1763883611,
+        "date_posted": 1761118292,
+        "url": "https://jobs.intuit.com/job/mountain-view/principal-product-manager-mid-market-payments/27595/87369450768",
+        "locations": [
+            "NYC",
+            "Mountain View, CA",
+            "Atlanta, GA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rivian",
+        "id": "2a522a3e-4157-4c4b-840e-4d00cf65e342",
+        "title": "Technical Trades Technician",
+        "active": true,
+        "date_updated": 1763883486,
+        "date_posted": 1761898460,
+        "url": "https://careers.rivian.com/jobs/25067?lang=en-us&icims=1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
