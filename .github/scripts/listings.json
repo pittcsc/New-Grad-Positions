@@ -58069,7 +58069,7 @@
         "company_name": "Four Seasons",
         "id": "ac9a8563-5688-44dd-82d6-427cc1d03dbe",
         "title": "Barista - Barista",
-        "active": false,
+        "active": true,
         "date_updated": 1761937835,
         "date_posted": 1761776232,
         "url": "https://fourseasons.wd3.myworkdayjobs.com/search/job/Hualalai/Trading-Company---Barista---Part-Time_REQ10360785",
@@ -106241,7 +106241,7 @@
         "company_name": "The Boeing Company",
         "id": "5b4be754-2860-4730-bf9a-6a750da601e3",
         "title": "Systems Engineer - Operations/Systems Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1763769703,
         "date_posted": 1763769703,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Arlington-VA/Systems-Engineer--Operations-Systems-Analyst---Associate-and-Experienced-_JR2025485949-1",
@@ -108024,6 +108024,24 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "00732365-3861-4405-a90b-44f00888c391",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1763891040,
+        "date_posted": 1763891040,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039279",
+        "locations": [
+            "Bury Saint Edmunds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
