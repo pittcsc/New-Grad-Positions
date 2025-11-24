@@ -33665,7 +33665,7 @@
         "company_name": "Seismic",
         "id": "02fb9964-eeee-492a-adcd-5b1717cc727f",
         "title": "Data Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1762816263,
         "date_posted": 1759308681,
         "url": "https://ca-careers-seismic.icims.com/jobs/2053/job?mobile=true&needsRedirect=false",
@@ -38028,7 +38028,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "925be3dd-561f-4a79-a34a-0c1c46d4654f",
         "title": "Sports Trader",
-        "active": true,
+        "active": false,
         "date_updated": 1762991967,
         "date_posted": 1762991967,
         "url": "https://careers-sig.icims.com/jobs/8860/job?mobile=true&needsRedirect=false",
@@ -96028,7 +96028,7 @@
         "company_name": "Scientific Research Corporation",
         "id": "be6d091e-e4a3-4463-ba08-d765a55e5fd4",
         "title": "Salesforce Database Administrator",
-        "active": true,
+        "active": false,
         "date_updated": 1763396248,
         "date_posted": 1757611408,
         "url": "https://careers-scires.icims.com/jobs/10598/job?mobile=true&needsRedirect=false",
@@ -107664,5 +107664,43 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "7c87b129-7d03-4ebb-bd00-0264cba78220",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1763942211,
+        "date_posted": 1763942211,
+        "url": "https://jobs.l3harris.com/job/Waco-Assoc,-Software-Engineer-(Waco,-TX)-TX-76705/1345039600/?ats=successfactors",
+        "locations": [
+            "Waco, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "07a89285-0761-4f66-b50d-e8564e3bfbc6",
+        "title": "Assoc \u2013 Software Engineer - Waco - TX",
+        "active": true,
+        "date_updated": 1763942211,
+        "date_posted": 1763942211,
+        "url": "https://jobs.l3harris.com/job/Waco-Assoc,-Software-Engineer-(Waco,-TX)-TX-76705/1345039700/?ats=successfactors",
+        "locations": [
+            "Waco, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
