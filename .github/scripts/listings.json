@@ -42910,7 +42910,7 @@
         "company_name": "Light & Wonder",
         "id": "bf1616f9-9a2a-4ffc-b224-5639164d68aa",
         "title": "Associate Mathematician",
-        "active": true,
+        "active": false,
         "date_updated": 1762818084,
         "date_posted": 1762818084,
         "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Las-Vegas-NV/Associate-Mathematician_R320784",
@@ -47044,7 +47044,7 @@
         "company_name": "Epicor",
         "id": "7873aca3-1d72-4a6b-8ce9-40e3b2272382",
         "title": "Associate Product Developer - Bistrack",
-        "active": true,
+        "active": false,
         "date_updated": 1762386622,
         "date_posted": 1762386622,
         "url": "https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/Canada-Vernon-BC/Associate-Product-Developer---Bistrack_JR103586",
@@ -101227,7 +101227,7 @@
         "company_name": "Hawk-Eye Innovations",
         "id": "e289b438-270d-4d2a-bd82-83872a5db38b",
         "title": "Cricket Systems Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1763664476,
         "date_posted": 1763664476,
         "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/d0fdf1aa-c4e4-4d2a-a3d3-f9bcc131efa9/application",
@@ -109567,6 +109567,24 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Regeneron Pharmaceuticals",
+        "id": "57d117e6-52f3-4625-8444-6a9404934531",
+        "title": "Process Development Engineer 3 - Data Enablement and Analytics - DEA/PMPD",
+        "active": true,
+        "date_updated": 1764084069,
+        "date_posted": 1763896569,
+        "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/PDE-III--Data-Enablement-and-Analytics--DEA-PMPD-_R43767",
+        "locations": [
+            "Tarrytown, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Regeneron-Pharmaceuticals",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
