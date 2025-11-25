@@ -49069,7 +49069,7 @@
         "company_name": "Fortinet",
         "id": "dca0dcff-2025-44b1-8695-665eaa86a511",
         "title": "AI Researcher - Fortideceptor",
-        "active": true,
+        "active": false,
         "date_updated": 1763114455,
         "date_posted": 1762213396,
         "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/21140",
@@ -92445,7 +92445,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "f861852c-6f73-4bab-be32-8ce5f83d20df",
         "title": "Quantitative Researcher - Master's: 2026",
-        "active": false,
+        "active": true,
         "date_updated": 1763163779,
         "date_posted": 1759769813,
         "url": "https://careers-sig.icims.com/jobs/9437/job?mobile=true&needsRedirect=false",
@@ -104456,7 +104456,7 @@
         "company_name": "Booz Allen",
         "id": "4a9acc43-430a-43a8-a027-5134b2722f3c",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1763711056,
         "date_posted": 1763711056,
         "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/Data-Scientist_R0229618",
@@ -109009,5 +109009,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "822405bb-f4e1-4ef4-8dc9-db4719585f9c",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1764045430,
+        "date_posted": 1764045430,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/e805f417-8daf-43de-8396-ea55ba08edce/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
