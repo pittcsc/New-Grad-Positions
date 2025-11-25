@@ -91610,7 +91610,7 @@
         "company_name": "SDSU Research Foundation",
         "id": "5b3ad9d4-7b1e-4787-992d-8e8fc387c7b7",
         "title": "Niwc Senior",
-        "active": true,
+        "active": false,
         "date_updated": 1763161865,
         "date_posted": 1757572789,
         "url": "https://careers-sdsurf.icims.com/jobs/18659/job?mobile=true&needsRedirect=false",
@@ -93695,7 +93695,7 @@
         "company_name": "DataDirect Networks (DDN)",
         "id": "5de47942-3d88-4f29-84d5-a53914f2be08",
         "title": "Firmware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1763192059,
         "date_posted": 1763191880,
         "url": "https://careers-ddn.icims.com/jobs/5270/job?mobile=true&needsRedirect=false",
@@ -109285,5 +109285,151 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "120d1c2a-5641-4d09-b4ca-47cd986cfc40",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1764060795,
+        "date_posted": 1764060795,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039858",
+        "locations": [
+            "Aldershot, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "ba11d6f1-8f7f-43fa-94df-4a051ccc3e97",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1764060507,
+        "date_posted": 1764060507,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039827",
+        "locations": [
+            "Exeter, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "059c929f-90ab-4710-b229-c272bd1731c9",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1764060491,
+        "date_posted": 1764060491,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039852",
+        "locations": [
+            "Aldershot, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "c2456664-ed50-4104-a734-df43ba9c4212",
+        "title": "Trading Assistant - Local",
+        "active": true,
+        "date_updated": 1764060464,
+        "date_posted": 1764060464,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039653",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "S&P Global ",
+        "id": "7700c74c-e9eb-4fc3-830c-f32462df1986",
+        "title": "Product Specialist - Indices & ETFs",
+        "active": true,
+        "date_updated": 1764060484,
+        "date_posted": 1764060484,
+        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Product-Specialist---Indices---ETF-s_321476-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/SP-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "51901cc1-22fe-4522-ba2c-73d6a3bb040c",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1764060325,
+        "date_posted": 1764060325,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039623",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0a5ce1e3-503f-4363-8482-116eacb716e2",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1764060473,
+        "date_posted": 1764060473,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039673",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "FactSet",
+        "id": "d3ece732-260b-477b-baa0-850a7e963ed5",
+        "title": "Client Solutions Associate",
+        "active": true,
+        "date_updated": 1764059700,
+        "date_posted": 1764059700,
+        "url": "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/London-GBR/Client-Solutions-Associate---London--February-2026_R29574",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/FactSet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
