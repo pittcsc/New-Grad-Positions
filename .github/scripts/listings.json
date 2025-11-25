@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Booz Allen",
-        "id": "236bae2b-c334-41a6-b4fb-726a84ffa839",
-        "title": "Software Developer - Junior",
-        "active": false,
-        "date_updated": 1743319541,
-        "date_posted": 1743319541,
-        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charleston-SC/Software-Developer--Junior_R0216776",
-        "locations": [
-            "Charleston, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Booz-Allen",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Remitly",
         "id": "832ca7f0-45a2-4707-9ac2-4c0674aaedb1",
         "title": "Software Development Engineer I",
@@ -56378,7 +56362,7 @@
         "company_name": "LSEG",
         "id": "b710bdf0-03a1-45d7-a5aa-94348add1be4",
         "title": "Engineering Graduate Programme",
-        "active": true,
+        "active": false,
         "date_updated": 1761878826,
         "date_posted": 1761878826,
         "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Nottingham-United-Kingdom/Engineering-Graduate-Programme--Nottingham-_R0111521-1",
@@ -93078,7 +93062,7 @@
         "company_name": "Cook Group",
         "id": "4ea8dd49-cbfa-4332-a958-77f42d32e29b",
         "title": "Equipment Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1763163388,
         "date_posted": 1761919645,
         "url": "https://americas-cookmedical.icims.com/jobs/16134/job?mobile=true&needsRedirect=false",
@@ -109205,6 +109189,24 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039853",
         "locations": [
             "Aldershot, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e679b6bf-7f6f-4fa6-be9d-5321a0a084a0",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1764055112,
+        "date_posted": 1764055112,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039736",
+        "locations": [
+            "Bracknell, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
