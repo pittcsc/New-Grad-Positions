@@ -47348,7 +47348,7 @@
         "company_name": "The Boeing Company",
         "id": "88826c89-5927-4d93-85c0-fe90ff1c9527",
         "title": "Systems Engineer - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1762939176,
         "date_posted": 1762385688,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Systems-Engineer--Associate--Mid-Level--or-Senior-_JR2025471608-1",
@@ -73995,7 +73995,7 @@
         "company_name": "Sharp Electronics",
         "id": "70b658c3-fc29-4a96-a976-ccc56c9e4f84",
         "title": "Shop Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1763130659,
         "date_posted": 1757635379,
         "url": "https://careers-sharpusa.icims.com/jobs/8625/job?mobile=true&needsRedirect=false",
@@ -93078,7 +93078,7 @@
         "company_name": "Cook Group",
         "id": "4ea8dd49-cbfa-4332-a958-77f42d32e29b",
         "title": "Equipment Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1763163388,
         "date_posted": 1761919645,
         "url": "https://americas-cookmedical.icims.com/jobs/16134/job?mobile=true&needsRedirect=false",
@@ -94871,7 +94871,7 @@
         "company_name": "Sainsbury's",
         "id": "17d28c09-e066-467e-b4e3-02b3711ed6da",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1763250141,
         "date_posted": 1763250141,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037695",
@@ -104346,7 +104346,7 @@
         "company_name": "Geosyntec Consultants",
         "id": "a61a955c-2b9b-403c-9927-0e4b185d3b97",
         "title": "Staff or Sr. Staff Environmental Engineer - Geologist - Or Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1763712348,
         "date_posted": 1759849177,
         "url": "https://careers-geosyntec.icims.com/jobs/3292/job?mobile=true&needsRedirect=false",
@@ -108879,6 +108879,78 @@
             "Pflugerville, TX"
         ],
         "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "e35a871e-8091-4a36-8c24-03c28971cdeb",
+        "title": "Calibration Technician",
+        "active": true,
+        "date_updated": 1764042853,
+        "date_posted": 1764042853,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/West-Chester-PA/Calibration-Technician_J2432993-1",
+        "locations": [
+            "West Chester, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Alkami Technology",
+        "id": "2971ec4c-863c-415c-b325-cb179a5df726",
+        "title": "Technical Implementation Engineer 1",
+        "active": true,
+        "date_updated": 1764042537,
+        "date_posted": 1764042537,
+        "url": "https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Technical-Implementation-Engineer-I_JR-000447",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alkami-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ford Motor Company",
+        "id": "8879342f-7604-45b1-8165-dcda82a93e0d",
+        "title": "Associate Electrical Hardware Engineer",
+        "active": true,
+        "date_updated": 1764042209,
+        "date_posted": 1764042209,
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/55210",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ford-Motor-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "39f3621b-0f48-4f94-aecc-ebf008044aba",
+        "title": "Engineer 1",
+        "active": true,
+        "date_updated": 1764041806,
+        "date_posted": 1764041806,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3850-N-First-St/Engineer-I---Test--Development-_R2065-25",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
