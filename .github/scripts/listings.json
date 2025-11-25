@@ -33649,7 +33649,7 @@
         "company_name": "Seismic",
         "id": "02fb9964-eeee-492a-adcd-5b1717cc727f",
         "title": "Data Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1762816263,
         "date_posted": 1759308681,
         "url": "https://ca-careers-seismic.icims.com/jobs/2053/job?mobile=true&needsRedirect=false",
@@ -93513,7 +93513,7 @@
         "company_name": "Fidelity National Financial",
         "id": "75713ae8-9fca-469c-904d-eb1a3430a359",
         "title": "Imaging Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1763191560,
         "date_posted": 1763162169,
         "url": "https://careers-fnf.icims.com/jobs/3210/job?mobile=true&needsRedirect=false",
@@ -97604,7 +97604,7 @@
         "company_name": "Boston Consulting Group",
         "id": "8eb528db-4fce-43ca-8294-3be1e24886f9",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1763425998,
         "date_posted": 1763425998,
         "url": "https://careers.bcg.com/global/en/job/55555",
@@ -109449,5 +109449,62 @@
         "date_posted": 1764068020,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "aa922d27-47c8-4aeb-8178-6962e7ed88f7",
+        "title": "Graduate Machine Learning Engineer - App Ads and Gaming - Bachelor of Science/Master of Science",
+        "active": true,
+        "date_updated": 1764076163,
+        "date_posted": 1761869599,
+        "url": "https://lifeattiktok.com/search/7532006305218447623",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Honeywell",
+        "id": "d9511021-14dd-4074-851f-8f15040f091c",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1764075419,
+        "date_posted": 1764075419,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/128960",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "OneRail",
+        "id": "3eb91961-056f-4648-934c-ee20a0cc9e80",
+        "title": "Onerail",
+        "active": true,
+        "date_updated": 1764076656,
+        "date_posted": 1763771188,
+        "url": "https://onerail.applytojob.com/apply/CNOA6LYsNb/Product-Analyst-Integrations",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/OneRail",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
