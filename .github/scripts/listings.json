@@ -109606,5 +109606,23 @@
         "date_posted": 1764087943,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764088015,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.baesystems.com/global/en/job/BAE1US118690BREXTERNAL/Entry-Level-Software-Engineer",
+        "company_name": "BAE Systems",
+        "title": "Entry Level Software Engineer",
+        "locations": [
+            "Totowa, NJ"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "cdbda0b6-3175-4a45-a415-912d3acee1c4",
+        "date_posted": 1764088015,
+        "company_url": "",
+        "is_visible": true
     }
 ]
