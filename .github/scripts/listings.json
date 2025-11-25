@@ -109588,5 +109588,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1764087943,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Junior-Data-Scientist_34033",
+        "company_name": "Guidehouse",
+        "title": "Junior Data Scientist",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "75a88053-120b-4ec6-9fd4-4295fbb98125",
+        "date_posted": 1764087943,
+        "company_url": "",
+        "is_visible": true
     }
 ]
