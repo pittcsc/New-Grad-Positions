@@ -93565,7 +93565,7 @@
         "company_name": "Sysmex",
         "id": "bd24eda5-ecb6-497b-9a0f-e45bf2378726",
         "title": "Technician - Field Service - Regional Wausau WI",
-        "active": false,
+        "active": true,
         "date_updated": 1763191293,
         "date_posted": 1757611970,
         "url": "https://careers-sysmex.icims.com/jobs/4456/job?mobile=true&needsRedirect=false",
@@ -94474,7 +94474,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "53bd44b1-ca36-45a5-a3fd-c8377fe45574",
         "title": "Quantitative Strategy Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1763232652,
         "date_posted": 1757793162,
         "url": "https://careers-sig.icims.com/jobs/9531/job?mobile=true&needsRedirect=false",
@@ -109044,6 +109044,60 @@
             "Coconut Creek, FL"
         ],
         "company_url": "https://simplify.jobs/c/Seminole-Hard-Rock",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "7e269d4e-fb77-4905-b001-8458fb675167",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1764052054,
+        "date_posted": 1764052054,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039603",
+        "locations": [
+            "Tunbridge Wells, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "American Express",
+        "id": "7dbb3916-d8ad-417e-b500-990011153e90",
+        "title": "Senior Analyst",
+        "active": true,
+        "date_updated": 1764050913,
+        "date_posted": 1764050913,
+        "url": "https://aexp.eightfold.ai/careers/job/39002164",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Air Liquide",
+        "id": "9a50b998-0876-4fd2-8ae4-caf81a03f2ab",
+        "title": "Product Management - f/m/d",
+        "active": true,
+        "date_updated": 1764050538,
+        "date_posted": 1764050538,
+        "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Germany-Krefeld/VIE-Product-Management-NCE----F-M-D-_R10080448",
+        "locations": [
+            "Neukirchen-Vluyn, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/Air-Liquide",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
