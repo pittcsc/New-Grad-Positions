@@ -109431,5 +109431,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1764068020,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://stonybrooku.taleo.net/careersection/2/jobdetail.ftl?job=2503221&tz=GMT-05%3A00&tzname=America%2FNew_York",
+        "company_name": "Stony Brook University",
+        "title": "Programmer-Analyst",
+        "locations": [
+            "Stony Brook, NY"
+        ],
+        "category": "Other",
+        "source": "hieuqmai",
+        "id": "d0eeeeee-6f82-41c9-aa5a-77b3f01965ec",
+        "date_posted": 1764068020,
+        "company_url": "",
+        "is_visible": true
     }
 ]
