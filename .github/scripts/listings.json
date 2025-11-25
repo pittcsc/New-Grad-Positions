@@ -33665,7 +33665,7 @@
         "company_name": "Seismic",
         "id": "02fb9964-eeee-492a-adcd-5b1717cc727f",
         "title": "Data Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1762816263,
         "date_posted": 1759308681,
         "url": "https://ca-careers-seismic.icims.com/jobs/2053/job?mobile=true&needsRedirect=false",
@@ -93547,7 +93547,7 @@
         "company_name": "Rambus",
         "id": "6ae11029-0e99-4ec7-a18f-3bec057a9629",
         "title": "Firmware Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1763191068,
         "date_posted": 1761950058,
         "url": "https://careers-rambus.icims.com/jobs/22415/job?mobile=true&needsRedirect=false",
@@ -93565,7 +93565,7 @@
         "company_name": "Sysmex",
         "id": "bd24eda5-ecb6-497b-9a0f-e45bf2378726",
         "title": "Technician - Field Service - Regional Wausau WI",
-        "active": true,
+        "active": false,
         "date_updated": 1763191293,
         "date_posted": 1757611970,
         "url": "https://careers-sysmex.icims.com/jobs/4456/job?mobile=true&needsRedirect=false",
@@ -108951,6 +108951,61 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "f363b0ab-588a-4d55-a2a7-93aeb8a22e61",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1764044667,
+        "date_posted": 1764044667,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400028818",
+        "locations": [
+            "Essex, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "IMEG",
+        "id": "63abed04-2df1-4c3b-9fc9-30e1ef8b192f",
+        "title": "Building Performance Engineering New Grad - St. Louis - MO",
+        "active": true,
+        "date_updated": 1764043266,
+        "date_posted": 1764043266,
+        "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/St-Louis-MO/Building-Performance-Engineering-New-Grad----St-Louis--MO_R-15526",
+        "locations": [
+            "Chicago, IL",
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/IMEG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "664657d3-fba8-4c28-99e9-9cc26e47486a",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1764043184,
+        "date_posted": 1764043184,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039854",
+        "locations": [
+            "Bedford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
