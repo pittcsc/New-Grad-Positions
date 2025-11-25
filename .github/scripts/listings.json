@@ -25640,9 +25640,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759940921,
+        "date_updated": 1764068324,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.lever.co/sunwatercapital/06f08a38-95a0-4dac-9997-4c46b3ae8fed/",
         "company_name": "Sunwater Capital",
@@ -100671,9 +100671,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1763558581,
+        "date_updated": 1764068324,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=74549",
         "company_name": "IBM",
