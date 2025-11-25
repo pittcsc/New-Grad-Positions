@@ -109624,5 +109624,23 @@
         "date_posted": 1764088015,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nielsen",
+        "id": "2dfbcd68-152f-4af6-a3a4-ef91db1e7463",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1764087895,
+        "date_posted": 1764087895,
+        "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000095409894",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Nielsen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
