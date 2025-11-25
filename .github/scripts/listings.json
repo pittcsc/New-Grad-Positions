@@ -33665,7 +33665,7 @@
         "company_name": "Seismic",
         "id": "02fb9964-eeee-492a-adcd-5b1717cc727f",
         "title": "Data Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1762816263,
         "date_posted": 1759308681,
         "url": "https://ca-careers-seismic.icims.com/jobs/2053/job?mobile=true&needsRedirect=false",
@@ -93711,7 +93711,7 @@
         "company_name": "DataDirect Networks (DDN)",
         "id": "5de47942-3d88-4f29-84d5-a53914f2be08",
         "title": "Firmware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1763192059,
         "date_posted": 1763191880,
         "url": "https://careers-ddn.icims.com/jobs/5270/job?mobile=true&needsRedirect=false",
@@ -101668,7 +101668,7 @@
         "company_name": "Sainsbury's",
         "id": "d01db62c-55e6-46bc-9a5e-efb54b73718a",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1763673703,
         "date_posted": 1763673703,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400036870",
@@ -109029,5 +109029,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Seminole Hard Rock",
+        "id": "1829b233-e37b-43d5-ab0c-2fcc51352a0d",
+        "title": "Slot Technician 1 - Ft",
+        "active": true,
+        "date_updated": 1764050215,
+        "date_posted": 1764050215,
+        "url": "https://careers-seminole.icims.com/jobs/63405/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Coconut Creek, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Seminole-Hard-Rock",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
