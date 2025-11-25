@@ -41284,7 +41284,7 @@
         "company_name": "McGill University",
         "id": "acfea957-91c2-4f2f-b8b2-65fb560ed84d",
         "title": "Student Research Assistant - Sensitive Research Data Management",
-        "active": true,
+        "active": false,
         "date_updated": 1762908069,
         "date_posted": 1762908069,
         "url": "https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/McLennan-Library/Student-Research-Assistant---Sensitive-Research-Data-Management---Qubec-_JR0000071670",
@@ -73995,7 +73995,7 @@
         "company_name": "Sharp Electronics",
         "id": "70b658c3-fc29-4a96-a976-ccc56c9e4f84",
         "title": "Shop Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1763130659,
         "date_posted": 1757635379,
         "url": "https://careers-sharpusa.icims.com/jobs/8625/job?mobile=true&needsRedirect=false",
@@ -93529,7 +93529,7 @@
         "company_name": "Fidelity National Financial",
         "id": "73f0ce41-659d-4358-93d5-12ad9003809a",
         "title": "Imaging Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1763191560,
         "date_posted": 1763162169,
         "url": "https://careers-fnf.icims.com/jobs/3210/job?mobile=true&needsRedirect=false",
@@ -104346,7 +104346,7 @@
         "company_name": "Geosyntec Consultants",
         "id": "a61a955c-2b9b-403c-9927-0e4b185d3b97",
         "title": "Staff or Sr. Staff Environmental Engineer - Geologist - Or Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1763712348,
         "date_posted": 1759849177,
         "url": "https://careers-geosyntec.icims.com/jobs/3292/job?mobile=true&needsRedirect=false",
@@ -109098,6 +109098,115 @@
             "Neukirchen-Vluyn, Germany"
         ],
         "company_url": "https://simplify.jobs/c/Air-Liquide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qorvo",
+        "id": "19195a12-223d-449d-99fc-405a6da02c7a",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1764053595,
+        "date_posted": 1764053595,
+        "url": "https://careers.qorvo.com/job/Greensboro-Engineering-Technician-NC-27409/1345360400/?ats=successfactors",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Qorvo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "313eef59-04bc-4994-b3d4-8d73d364a999",
+        "title": "Electrical Mechanical Technician - Nasa CMC",
+        "active": true,
+        "date_updated": 1764052994,
+        "date_posted": 1764052994,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Webster-TX/Electrical-Mechanical-Technician--NASA-CMC-_R-00170878",
+        "locations": [
+            "Webster, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Manulife Financial",
+        "id": "de61acac-8c3d-42d2-9fd5-0b6e905b4955",
+        "title": "Associate Full-Stack Software Engineer",
+        "active": true,
+        "date_updated": 1764052605,
+        "date_posted": 1764052605,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Associate-Full-Stack-Software-Engineer_JR25110777-1",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "be4b0fae-7668-4a37-85ce-0a08df4783b0",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1764052300,
+        "date_posted": 1764052300,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039350",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "eca824cc-a674-43e4-913d-b407c554ecea",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1764052205,
+        "date_posted": 1764052205,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039847",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d6be1359-44df-4d8e-9260-b456e95ecfb5",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1764052217,
+        "date_posted": 1764052217,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039853",
+        "locations": [
+            "Aldershot, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
