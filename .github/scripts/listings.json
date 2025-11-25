@@ -37190,7 +37190,7 @@
         "company_name": "Dillards",
         "id": "aed96b10-3d08-44c9-b7bc-bcf9a142f723",
         "title": "Electronics Repair Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1763052407,
         "date_posted": 1763052407,
         "url": "https://job-boards.greenhouse.io/dillards/jobs/4728351007",
@@ -50761,7 +50761,7 @@
         "company_name": "Cummins",
         "id": "b7aee515-cadf-470a-a574-a3c8e7cd0ab7",
         "title": "Placement Student - Blockline Quality",
-        "active": true,
+        "active": false,
         "date_updated": 1761950368,
         "date_posted": 1761950368,
         "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2410206",
@@ -61935,7 +61935,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "49115a2a-7c32-4e3f-b860-60ef111d8a8d",
         "title": "Trading Operations Analyst - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1763131292,
         "date_posted": 1761173070,
         "url": "https://careers-sig.icims.com/jobs/9928/job?mobile=true&needsRedirect=false",
@@ -93168,7 +93168,7 @@
         "company_name": "Lewis Brisbois",
         "id": "67e55469-8951-44d9-966d-ba73ca70409b",
         "title": "Financial Systems Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1763163832,
         "date_posted": 1758324017,
         "url": "https://careers-lewisbrisbois.icims.com/jobs/12144/job?mobile=true&needsRedirect=false",
@@ -108681,6 +108681,42 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Truist Bank",
+        "id": "91642467-0a79-437b-a740-9dea7e112cc7",
+        "title": "Investment Analyst 1",
+        "active": true,
+        "date_updated": 1764035330,
+        "date_posted": 1764035330,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Investment-Analyst-I---Atlanta_R0108611",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Truist-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "f3e7f3a6-dde9-45c4-b76e-eb47c90e3ca3",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1764034894,
+        "date_posted": 1764034894,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/d75ef549-303a-442d-bd9e-b4ce7641de4a/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
