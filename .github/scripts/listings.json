@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Jerry",
-        "id": "4e95ea6b-4dd4-4153-9376-b541acb352f8",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1743456415,
-        "date_posted": 1743456415,
-        "url": "https://jobs.ashbyhq.com/Jerry/f013aaf2-e0a4-4d3f-89a1-6877c6b4f4a2/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Amentum",
         "id": "6c108d64-9864-41f2-afb3-44c267d421f6",
         "title": "Entry Level Software Engineer",
