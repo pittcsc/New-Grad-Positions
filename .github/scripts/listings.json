@@ -43434,7 +43434,7 @@
         "company_name": "Sainsbury's",
         "id": "40eada79-a09e-4ff8-8c85-298476d3b0dd",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1762621019,
         "date_posted": 1762621019,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035380",
@@ -74671,7 +74671,7 @@
         "company_name": "Viavi Solutions",
         "id": "f45194e5-2a9b-4bd9-bdb4-e442a791b93d",
         "title": "Early Careers Rotational Program - Development Engineer - FPGA Track",
-        "active": true,
+        "active": false,
         "date_updated": 1757386672,
         "date_posted": 1757386672,
         "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Rotational-Program---Development-Engineer--FPGA-Track-_250003821-1",
@@ -95221,7 +95221,7 @@
         "company_name": "Sainsbury's",
         "id": "56a65aaa-5e86-4908-aba6-1a63acd24642",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1763340034,
         "date_posted": 1763340034,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400034766",
@@ -110884,6 +110884,65 @@
             "South Jordan, UT"
         ],
         "company_url": "https://simplify.jobs/c/Morgan-Stanley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "United Parcel Service (UPS)",
+        "id": "eba10cdd-4f81-400c-a682-b149bdc4e5b6",
+        "title": "Software Development Engineer 1 - Salesforce",
+        "active": true,
+        "date_updated": 1764126712,
+        "date_posted": 1764126712,
+        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-PARSIPPANY-NJPRS/Software-Development-Engineer-I---Salesforce_R25023930",
+        "locations": [
+            "Georgia",
+            "Parsippany-Troy Hills, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "82f429db-858c-406d-818c-6ed6557227e7",
+        "title": "DL System Software Engineer \u2013 New College Graduate - AI Platform",
+        "active": true,
+        "date_updated": 1764126651,
+        "date_posted": 1764126651,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DL-System-Software-Engineer--AI-Platform---New-College-Graduate-2025_JR2007061",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "3b80e808-16cb-4297-ac49-0f3fc2b5a220",
+        "title": "Research Scientist \u2013 New College Grad 2026 - Fundamental LLM Research for Knowledge - Reasoning And Agents",
+        "active": true,
+        "date_updated": 1764126650,
+        "date_posted": 1764126650,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-LLM-Research-for-Knowledge--Reasoning--and-Agents---New-College-Grad-2026_JR2008820",
+        "locations": [
+            "California",
+            "Remote in USA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
