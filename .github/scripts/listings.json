@@ -12651,9 +12651,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1755695312,
+        "date_updated": 1764154693,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://careers.oracle.com/en/sites/jobsearch/job/305127",
         "company_name": "Oracle",
@@ -97874,9 +97874,9 @@
         ]
     },
     {
-        "date_updated": 1763443877,
+        "date_updated": 1764154693,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://apply.workable.com/mlabs/j/9FD344525A/",
         "company_name": "MLabs",
@@ -98498,8 +98498,8 @@
         "company_name": "MLabs",
         "id": "e6385c50-593d-47cf-b7b2-0c38a5a4467a",
         "title": "Founding Software Engineer",
-        "active": true,
-        "date_updated": 1763508433,
+        "active": false,
+        "date_updated": 1764154693,
         "date_posted": 1763508433,
         "url": "https://apply.workable.com/mlabs/j/CCD61C931E/apply",
         "locations": [
@@ -98516,8 +98516,8 @@
         "company_name": "MLabs",
         "id": "cd16fbb8-f554-47f3-aa06-664b82ce7d6e",
         "title": "Software Engineer \u2013 New Grads",
-        "active": true,
-        "date_updated": 1763508427,
+        "active": false,
+        "date_updated": 1764154693,
         "date_posted": 1763508427,
         "url": "https://apply.workable.com/mlabs/j/9FD344525A/apply",
         "locations": [
