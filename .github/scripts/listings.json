@@ -111776,5 +111776,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1764174063,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Lincoln-NE-Base-Camp/CLUB-Data-Analyst-I_R242594",
+        "company_name": "Bass Pro Shops",
+        "title": "CLUB Data Analyst I",
+        "locations": [
+            "locations Lincoln, NE"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "8db7d639-145f-45cf-91a4-2748ab758f6e",
+        "date_posted": 1764174063,
+        "company_url": "",
+        "is_visible": true
     }
 ]
