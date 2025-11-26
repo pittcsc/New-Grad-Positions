@@ -31758,7 +31758,7 @@
         "company_name": "Sono-Tek Corporation",
         "id": "cbfb0cc9-c599-43df-8344-a3fda9036699",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1762213215,
         "date_posted": 1757614666,
         "url": "https://careers-councilofindustry.icims.com/jobs/4864/job?mobile=true&needsRedirect=false",
@@ -69565,7 +69565,7 @@
         "company_name": "Lewis Brisbois",
         "id": "cf471875-55fa-4973-bf5e-f69d5d5c0e0d",
         "title": "Financial Systems Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1763131316,
         "date_posted": 1758987947,
         "url": "https://careers-lewisbrisbois.icims.com/jobs/12138/job?mobile=true&needsRedirect=false",
@@ -86284,7 +86284,7 @@
         "company_name": "TikTok",
         "id": "82409362-9cd4-4850-a248-245fb2659786",
         "title": "Graduate Data Scientist - TikTok-Search",
-        "active": true,
+        "active": false,
         "date_updated": 1762917432,
         "date_posted": 1754554576,
         "url": "https://lifeattiktok.com/search/7533416449727432968",
@@ -106044,7 +106044,7 @@
         "company_name": "MLabs",
         "id": "1cd69c21-a187-4558-b938-75ed5a498e42",
         "title": "Applied AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1763767713,
         "date_posted": 1763767713,
         "url": "https://apply.workable.com/mlabs/j/7D9F037556/apply",
@@ -110384,7 +110384,7 @@
         "company_name": "Sainsbury's",
         "id": "90c4b8dc-ae01-4904-bba0-56c3198bfbed",
         "title": "Trading Assistant - Local",
-        "active": true,
+        "active": false,
         "date_updated": 1764124705,
         "date_posted": 1764124705,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039251",
@@ -110567,7 +110567,7 @@
         "company_name": "Sainsbury's",
         "id": "eaf46d10-750f-4b00-949b-46eddd27c3e4",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1764124747,
         "date_posted": 1764124747,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039967",
@@ -111738,5 +111738,43 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "89974dd3-a1c2-40fc-86d6-5dad3c14bdc3",
+        "title": "Software Systems Engineer",
+        "active": true,
+        "date_updated": 1764156556,
+        "date_posted": 1764156556,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Systems-Engineer_R-00171075",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "219510e4-d1e4-436c-a04c-ffc121fb19ab",
+        "title": "Systems Integration and Test - Systems Integration and Test - Systems Test Engineering",
+        "active": true,
+        "date_updated": 1764156504,
+        "date_posted": 1764156504,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446715507241",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
