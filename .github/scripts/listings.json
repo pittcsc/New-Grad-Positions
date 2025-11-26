@@ -111794,5 +111794,23 @@
         "date_posted": 1764174063,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764174118,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://selectmilk.wd12.myworkdayjobs.com/en-US/selectmilkproducers/job/La-Crosse-WI/Data-Analyst-I_JR101657",
+        "company_name": "Select Milk Producers",
+        "title": "Data Analyst I",
+        "locations": [
+            "La Crosse, WI"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "b78eaeea-bdf3-4b70-9b0c-69731ba85c3c",
+        "date_posted": 1764174118,
+        "company_url": "",
+        "is_visible": true
     }
 ]
