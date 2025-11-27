@@ -113068,5 +113068,23 @@
         "date_posted": 1764259764,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764259856,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/clear/jobs/7403318",
+        "company_name": "CLEAR",
+        "title": "Software Engineer, New Grad, Backend",
+        "locations": [
+            "New York, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "9376d6c8-050e-4931-a2b0-150f22f2fcb9",
+        "date_posted": 1764259856,
+        "company_url": "",
+        "is_visible": true
     }
 ]
