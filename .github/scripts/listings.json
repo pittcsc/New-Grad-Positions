@@ -21364,9 +21364,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1758520324,
+        "date_updated": 1764252808,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -34299,9 +34299,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1763048787,
+        "date_updated": 1764252808,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.lever.co/commonlit/7ecb41f7-552c-4879-afaf-b9810a9b6f56/",
         "company_name": "CommonLit",
