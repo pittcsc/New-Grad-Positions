@@ -113011,5 +113011,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "True Anomaly",
+        "id": "a7a6ee54-b2af-4153-bd7f-6a9746e20c3d",
+        "title": "Elixir Software Engineer",
+        "active": true,
+        "date_updated": 1764238063,
+        "date_posted": 1760054791,
+        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/4940122007",
+        "locations": [
+            "Long Beach, CA",
+            "Washington, DC",
+            "Colorado Springs, CO",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/TrueAnomaly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
