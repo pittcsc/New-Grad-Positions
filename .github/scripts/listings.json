@@ -113086,5 +113086,23 @@
         "date_posted": 1764259856,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764259915,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/bpcs/jobs/7271702",
+        "company_name": "Blueprint Technologies",
+        "title": "Software Engineer 1",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "9b924116-b104-4b44-885f-e5779c2915f0",
+        "date_posted": 1764259915,
+        "company_url": "",
+        "is_visible": true
     }
 ]
