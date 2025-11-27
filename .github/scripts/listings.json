@@ -113050,5 +113050,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1764259764,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/clear/jobs/7430247",
+        "company_name": "CLEAR",
+        "title": "Software Engineer, New Grad, Fullstack",
+        "locations": [
+            "New York, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "d810628b-21d7-408e-a1d8-56b909d0bd64",
+        "date_posted": 1764259764,
+        "company_url": "",
+        "is_visible": true
     }
 ]
