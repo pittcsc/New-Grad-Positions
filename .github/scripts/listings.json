@@ -1,86 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "World Kinect",
-        "id": "10c2ee3f-ec9d-4690-9e24-089c4e0393e6",
-        "title": "IT Software Engineer I",
-        "active": false,
-        "date_updated": 1743575246,
-        "date_posted": 1743575246,
-        "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Software-Engineer-I_R21134",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/World-Kinect",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "World Kinect",
-        "id": "298387d9-b823-4337-9efc-9706af980938",
-        "title": "IT Software Engineer I",
-        "active": false,
-        "date_updated": 1743575241,
-        "date_posted": 1743575241,
-        "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Software-Engineer-I_R21136",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/World-Kinect",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "World Kinect",
-        "id": "4aa0a2fe-6120-4285-9f7b-c770845048e5",
-        "title": "IT Software Engineer I",
-        "active": false,
-        "date_updated": 1743575241,
-        "date_posted": 1743575241,
-        "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Software-Engineer-I_R21132-1",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/World-Kinect",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "World Kinect",
-        "id": "d41e163d-db9b-40a7-9e70-ffdcd7508cfd",
-        "title": "IT Software Engineer I",
-        "active": false,
-        "date_updated": 1743575240,
-        "date_posted": 1743575240,
-        "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Software-Engineer-I_R21133",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/World-Kinect",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cox",
-        "id": "88e07ea8-b5b0-48f0-8893-b0a51880256b",
-        "title": "Software Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1743575170,
-        "date_posted": 1743575170,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer---Entry-Level--Austin--TX-_R202560991",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Amentum",
         "id": "96bf9737-b6bc-408e-879d-646f1c8faee5",
         "title": "Entry Level Software Engineer",
@@ -92,22 +12,6 @@
             "Dahlgren, VA"
         ],
         "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cox",
-        "id": "ee65e3f2-cead-4b97-81a5-73b23d4dc6ee",
-        "title": "Software Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1743575177,
-        "date_posted": 1743575177,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA---6205-Peachtree-Dunwoody-Rd-Bldg-B/Software-Engineer---Entry-Level_R202560990",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -107230,7 +107134,7 @@
         "company_name": "Centene",
         "id": "4bfaf25c-a9a8-482b-835b-849803bb2865",
         "title": "Business Solutions Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1763889011,
         "date_posted": 1763889011,
         "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-OH/Business-Solutions-Developer-I_1601216",
