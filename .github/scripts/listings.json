@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Amentum",
-        "id": "96bf9737-b6bc-408e-879d-646f1c8faee5",
-        "title": "Entry Level Software Engineer",
-        "active": false,
-        "date_updated": 1743578094,
-        "date_posted": 1743578094,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0136999",
-        "locations": [
-            "Dahlgren, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Sev1Tech",
         "id": "064c38df-95e2-4461-a241-32dda71e01c3",
         "title": "Software Developer \u2013 Entry Level",
@@ -80847,7 +80831,7 @@
         "company_name": "Tencent",
         "id": "c078569e-e6d3-4c94-af57-471f75b447b3",
         "title": "Senior \u2013 Graduate - Data Scientist - Adtech",
-        "active": true,
+        "active": false,
         "date_updated": 1761269160,
         "date_posted": 1755565256,
         "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/XMLNAME--Senior--Researcher--2026-Graduate_R105910-2",
@@ -90533,24 +90517,6 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/Truveta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Accenture",
-        "id": "7e54b60b-542b-4f8a-aa27-55bd95ef4032",
-        "title": "Embedded Developer 0",
-        "active": true,
-        "date_updated": 1762905542,
-        "date_posted": 1743577970,
-        "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4555415006",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Accenture-FS",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -103694,7 +103660,7 @@
         "company_name": "Advanced Energy",
         "id": "67e54134-0a57-4814-af7c-ec51c9a99ec7",
         "title": "Electronics Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1763711662,
         "date_posted": 1763711662,
         "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Electronics-Service-Technician-CO-80525/1344542600/?ats=successfactors",
