@@ -31692,7 +31692,7 @@
         "company_name": "Sono-Tek Corporation",
         "id": "cbfb0cc9-c599-43df-8344-a3fda9036699",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1762213215,
         "date_posted": 1757614666,
         "url": "https://careers-councilofindustry.icims.com/jobs/4864/job?mobile=true&needsRedirect=false",
@@ -102969,7 +102969,7 @@
         "company_name": "URBN",
         "id": "936de21a-95ba-44f3-8c1f-0ab522920ec4",
         "title": "Assistant Product Development Coordinator",
-        "active": false,
+        "active": true,
         "date_updated": 1763665532,
         "date_posted": 1760456719,
         "url": "https://homeoffice-na-urbn.icims.com/jobs/22705/job?mobile=true&needsRedirect=false",
@@ -113466,6 +113466,24 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/KCI-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "William Blair",
+        "id": "0e820fc5-e397-4823-ab37-30fa89b0c301",
+        "title": "Technology - Application Development",
+        "active": true,
+        "date_updated": 1764292309,
+        "date_posted": 1764292309,
+        "url": "https://www.williamblair.com/Careers/job-description?gh_jid=4960398007",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/William-Blair",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
