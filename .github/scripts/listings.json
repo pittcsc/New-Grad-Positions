@@ -114943,5 +114943,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CVS Health",
+        "id": "5c6e0ea7-ddd5-4795-9212-8980c4b73069",
+        "title": "Application Developer",
+        "active": true,
+        "date_updated": 1764384890,
+        "date_posted": 1764384890,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Arizona/Application-Developer_R0707420",
+        "locations": [
+            "Arizona"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
