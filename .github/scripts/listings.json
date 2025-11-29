@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Sev1Tech",
-        "id": "064c38df-95e2-4461-a241-32dda71e01c3",
-        "title": "Software Developer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1743662360,
-        "date_posted": 1743662360,
-        "url": "https://careers-sev1tech.icims.com/jobs/8763/job",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Sev1Tech",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Amentum",
         "id": "5ff18a1f-9327-4932-81ef-7c33d958f442",
         "title": "Entry Level Software Engineer",
@@ -104228,7 +104212,7 @@
         "company_name": "L3Harris Technologies",
         "id": "0b854df4-1e8f-47aa-a825-4a11b996820c",
         "title": "Associate \u2013 Software Engineering - Wilmington - MA",
-        "active": true,
+        "active": false,
         "date_updated": 1763711846,
         "date_posted": 1763711846,
         "url": "https://jobs.l3harris.com/job/Wilmington-Associate,-Software-Engineering-(Wilmington,-MA)-MA-01887/1344556300/?ats=successfactors",
@@ -106049,7 +106033,7 @@
         "company_name": "General Dynamics",
         "id": "27a24335-8bd8-40cd-bfc6-cf337d566cde",
         "title": "IPS CTF Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1763770783,
         "date_posted": 1759966979,
         "url": "https://careers-gdeb.icims.com/jobs/16864/job?mobile=true&needsRedirect=false",
