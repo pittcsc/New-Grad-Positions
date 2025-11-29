@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Amentum",
-        "id": "5ff18a1f-9327-4932-81ef-7c33d958f442",
-        "title": "Entry Level Software Engineer",
-        "active": false,
-        "date_updated": 1743664844,
-        "date_posted": 1743664844,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0136997",
-        "locations": [
-            "Dahlgren, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Qualtrics",
         "id": "96c5f451-9282-415b-a118-e348da769d15",
         "title": "Software Development Engineer I - Digital Experience",
