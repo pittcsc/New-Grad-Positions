@@ -115299,5 +115299,41 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "EUNA Solutions",
+        "id": "200bde5e-f205-446e-8769-16e4c01ff06d",
+        "title": "Associate Technical Solution Specialist",
+        "active": true,
+        "date_updated": 1762213489,
+        "date_posted": 1762213489,
+        "url": "https://euna.bamboohr.com/careers/488/",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/86636c38-0e05-4ec1-b699-ea03e743f151",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Savannah River National Laboratory",
+        "id": "9c103625-b40b-43d0-b531-21cf09ea3b87",
+        "title": "Graduate Research Associate - Post Bachelors",
+        "active": true,
+        "date_updated": 1758156011,
+        "date_posted": 1758156011,
+        "url": "https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1819",
+        "locations": [
+            "North Augusta, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Savannah-River-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
