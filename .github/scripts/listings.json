@@ -88282,7 +88282,7 @@
         "company_name": "Core One",
         "id": "ca6ba120-30b7-463f-8084-5f11fa08eebc",
         "title": "Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1762816865,
         "date_posted": 1752519352,
         "url": "https://job-boards.greenhouse.io/coreone/jobs/6603161002",
@@ -112837,8 +112837,8 @@
             "New York, NY"
         ],
         "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "9376d6c8-050e-4931-a2b0-150f22f2fcb9",
+        "source": "Simplify",
+        "id": "13175006-e5f3-4600-94cf-20c3dd115faa",
         "date_posted": 1764259856,
         "company_url": "",
         "is_visible": true
@@ -113955,7 +113955,7 @@
         "company_name": "Danaher Corporation",
         "id": "bc182196-d43a-4193-93ba-0cd5272996a2",
         "title": "Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1764300146,
         "date_posted": 1764300146,
         "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/GBR---Remote/Field-Service-Engineer--London-_R1298398",
@@ -113991,7 +113991,7 @@
         "company_name": "Danaher Corporation",
         "id": "65321c89-77db-43ee-b1ab-1f8ee993463e",
         "title": "Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1764300145,
         "date_posted": 1764300145,
         "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/GBR---Remote/Field-Service-Engineer--London-_R1298396",
@@ -115206,6 +115206,24 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Affirm",
+        "id": "ac6b854a-c6da-458b-95b0-af4f9dd7c6b9",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1764533523,
+        "date_posted": 1764533523,
+        "url": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Affirm",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
