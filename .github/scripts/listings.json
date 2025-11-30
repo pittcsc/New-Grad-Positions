@@ -108304,7 +108304,7 @@
         "company_name": "Sainsbury's",
         "id": "59fc5068-24ac-4a7c-8ca7-495a4b4e4ad5",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1764033195,
         "date_posted": 1764033195,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039612",
@@ -114717,7 +114717,7 @@
         "company_name": "Sainsbury's",
         "id": "52d588b4-44bf-4162-a541-005ba5d97bc9",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1764371691,
         "date_posted": 1764371691,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040651",
@@ -114908,6 +114908,24 @@
             "Arizona"
         ],
         "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ramboll",
+        "id": "394cfd31-0636-4063-aed6-1456bc1f089e",
+        "title": "Associate Air Quality Consultant",
+        "active": true,
+        "date_updated": 1764468675,
+        "date_posted": 1764468675,
+        "url": "https://jobs.smartrecruiters.com/Ramboll3/744000096245581",
+        "locations": [
+            "Dublin, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Ramboll",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
