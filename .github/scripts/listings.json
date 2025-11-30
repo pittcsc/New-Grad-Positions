@@ -12284,7 +12284,7 @@
     {
         "date_updated": 1755679928,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -39498,7 +39498,7 @@
         "company_name": "University of Oklahoma",
         "id": "d37819ec-68c6-4b91-9b4f-4bf2e67e2fdd",
         "title": "Research Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1762990671,
         "date_posted": 1762990671,
         "url": "https://ou.taleo.net/careersection/2/jobdetail.ftl?job=252503",
@@ -83280,7 +83280,7 @@
         "company_name": "Texas A&M International University",
         "id": "ac40bd53-efdc-494b-8a02-10c8be8ff19e",
         "title": "Undergraduate Research Assistant - Engineering-MSEIP-STEM2",
-        "active": true,
+        "active": false,
         "date_updated": 1761991479,
         "date_posted": 1761991479,
         "url": "https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Undergraduate-Research-Assistant--Engineering--MSEIP-STEM2-_R-083398",
