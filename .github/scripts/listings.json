@@ -35878,7 +35878,7 @@
         "company_name": "Marshall Wace",
         "id": "19216d8d-516a-45eb-8265-b4f7ea981ec3",
         "title": "Technology Placement - 2026 - 4-Months",
-        "active": true,
+        "active": false,
         "date_updated": 1763087294,
         "date_posted": 1763087294,
         "url": "https://job-boards.greenhouse.io/mwam-imperial-placements/jobs/8147000002",
@@ -63759,7 +63759,7 @@
         "company_name": "Tenstorrent",
         "id": "093c449a-8dc3-4e20-abaa-56c9a995d9a7",
         "title": "AI SoC Design Verification",
-        "active": true,
+        "active": false,
         "date_updated": 1762819287,
         "date_posted": 1760594009,
         "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4946569007",
@@ -91170,7 +91170,7 @@
         "company_name": "Box",
         "id": "0d1061dd-2cd9-4255-a59d-bf1ee6006c27",
         "title": "Product Support Placement Student - London - UK",
-        "active": true,
+        "active": false,
         "date_updated": 1762818360,
         "date_posted": 1760129245,
         "url": "https://job-boards.greenhouse.io/boxinc/jobs/7300201",
@@ -115278,6 +115278,24 @@
             "Cheektowaga, NY"
         ],
         "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "98a00da4-5f65-4d8d-94e9-e7861d7fab2b",
+        "title": "Applied Machine Learning Scientist 1",
+        "active": true,
+        "date_updated": 1764536499,
+        "date_posted": 1764536499,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Applied-Machine-Learning-Scientist-I_R_1451699",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
