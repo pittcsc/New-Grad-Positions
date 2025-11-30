@@ -77572,7 +77572,7 @@
         "company_name": "Visionist",
         "id": "7bc02c7a-03ce-4d88-867d-a6a16620e2fb",
         "title": "Database Engineer - Multiple Levels",
-        "active": true,
+        "active": false,
         "date_updated": 1758316080,
         "date_posted": 1755775060,
         "url": "https://jobs.jobvite.com/visionist/job/omHlxfwF?nl=1&nl=1&fr=false",
@@ -80698,7 +80698,7 @@
         "company_name": "Altamira Technologies",
         "id": "2ab33f9e-028d-48d0-8a17-4f5c3b9b1b12",
         "title": "Geolocation Operator / Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1762816556,
         "date_posted": 1755193856,
         "url": "https://jobs.jobvite.com/altamiracorps/job/oFN5wfwN?nl=1&nl=1&fr=false",
@@ -114880,6 +114880,24 @@
             "Winona, MN"
         ],
         "company_url": "https://simplify.jobs/c/Select-Milk-Producers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Brent Council",
+        "id": "b8988506-5053-4526-abac-fa0eacf000d9",
+        "title": "Analyst",
+        "active": true,
+        "date_updated": 1763051943,
+        "date_posted": 1763051943,
+        "url": "https://fa-epzg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2656",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Brent-Council",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
