@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Comcast",
-        "id": "a3dfaf66-c6c8-436f-a50e-e31de70e4adb",
-        "title": "Engineer 1 - Software Development & Engineering",
-        "active": false,
-        "date_updated": 1743759378,
-        "date_posted": 1743759378,
-        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Engineer-1--Software-Development---Engineering_R409272",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Sev1Tech",
         "id": "b21ffbbd-f7a4-46fb-b07f-567504ac99dc",
         "title": "Software Developer \u2013 Entry Level",
@@ -109559,7 +109543,7 @@
         "company_name": "KCI Technologies",
         "id": "6aa0686b-b7f8-4f07-bfa3-494556f433d4",
         "title": "GIS Technician 1 - Energy",
-        "active": true,
+        "active": false,
         "date_updated": 1764114537,
         "date_posted": 1762905762,
         "url": "https://careers-kci.icims.com/jobs/7063/job?mobile=true&needsRedirect=false",
