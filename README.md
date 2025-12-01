@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 431 New Grad Roles by Category
+### Browse 432 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (307)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (308)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (10)
 
@@ -364,6 +364,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer Data/AI/Intelligent Systems I (Full Time)</td>
 <td><details><summary><strong>13 locations</strong></summary>Austin, TX</br>San Jose, CA</br>Alpharetta, GA</br>Atlanta, GA</br>Boston, MA</br>Dallas, TX</br>Fulton, MD</br>Hillsboro, OR</br>Knoxville, TN</br>Maynard, MA</br>Milpitas, CA</br>New York, NY</br>Research Triangle Park, NC</details></td>
 <td><a href="https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-%E2%80%93-United-States?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Amentum?utm_source=GHList&utm_medium=company">Amentum</a></strong></td>
+<td>Entry Level Software Developer</td>
+<td>Fredericksburg, VA</td>
+<td><div align="center"><a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Developer_R0149243?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/952b5de2-a0e4-4bd3-a020-8ae56c258257?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>12d</td>
 </tr>
 <tr>
@@ -1858,7 +1865,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/AG-Technologies?utm_source=GHList&utm_medium=company">AG Technologies</a></strong></td>
+<td>↳</td>
 <td>Hiring Entry Level Software Engineer 🎓</td>
 <td>Casa Grande, AZ</td>
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/AGTechnologies1/743999659664711?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c7a6d22b-bb87-4031-9cce-bcfaaa680061?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
@@ -2233,7 +2240,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (666)</summary>
+<summary>🗃️ Inactive roles (665)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2355,13 +2362,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong>🔥 IBM</strong></td>
 <td>Entry Level Software Developer 🛂</td>
 <td>New York, NY</td>
-<td>🔒</td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Amentum?utm_source=GHList&utm_medium=company">Amentum</a></strong></td>
-<td>Entry Level Software Developer</td>
-<td>Fredericksburg, VA</td>
 <td>🔒</td>
 <td>12d</td>
 </tr>
@@ -2755,14 +2755,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1 - Multiple Teams</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer 1</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Citizen-Health?utm_source=GHList&utm_medium=company">Citizen Health</a></strong></td>
