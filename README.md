@@ -5,13 +5,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 436 New Grad Roles by Category
+### Browse 435 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (310)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (10)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (56)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (55)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (17)
 
@@ -7019,7 +7019,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Associate Product Manager – New Graduate</td>
 <td>Remote in Canada</td>
 <td>🔒</td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Experian?utm_source=GHList&utm_medium=company">Experian</a></strong></td>
@@ -7329,13 +7329,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/AIG?utm_source=GHList&utm_medium=company">AIG</a></strong></td>
-<td>Early Career Analyst - Gen AI - Data Engineering</td>
-<td>Atlanta, GA</td>
-<td><div align="center"><a href="https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2026-Early-Career---Gen-AI---Data-Engineering-Analyst---United-States--Atlanta--GA--_JR2505609-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3986500a-06d8-42a8-bd17-5f4c65ae8d77?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
 <td>Machine Learning Engineer - AI Research (PhD) 🎓</td>
 <td>Mountain View, CA</td>
@@ -7550,7 +7543,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (141)</summary>
+<summary>🗃️ Inactive roles (142)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -7798,6 +7791,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
 <td>Deep Learning Software Engineer – New College Grad 2025 - Inference and Model Optimization</td>
 <td>Santa Clara, CA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/AIG?utm_source=GHList&utm_medium=company">AIG</a></strong></td>
+<td>Early Career Analyst - Gen AI - Data Engineering</td>
+<td>Atlanta, GA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
