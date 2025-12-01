@@ -112732,7 +112732,7 @@
     {
         "date_updated": 1764259856,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://job-boards.greenhouse.io/clear/jobs/7403318",
         "company_name": "CLEAR",
@@ -116493,5 +116493,23 @@
         "degrees": [
             "PharmD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huntington Bancshares",
+        "id": "9660f68e-f3b4-4fdb-9cb1-1f124f127fe8",
+        "title": "Technology Delivery Analyst",
+        "active": true,
+        "date_updated": 1764622123,
+        "date_posted": 1764622123,
+        "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst_R0067553",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
