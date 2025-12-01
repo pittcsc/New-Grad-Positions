@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Sev1Tech",
-        "id": "b21ffbbd-f7a4-46fb-b07f-567504ac99dc",
-        "title": "Software Developer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1743833497,
-        "date_posted": 1743833497,
-        "url": "https://careers-sev1tech.icims.com/jobs/8778/job",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Sev1Tech",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Esri",
         "id": "a0f6d030-3ca4-45fc-ae9d-6d0ab718cd72",
         "title": "Software Development Engineer I",
@@ -44,22 +28,6 @@
             "St. Louis, MO"
         ],
         "company_url": "https://simplify.jobs/c/Esri",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Jerry",
-        "id": "08ebccf7-0b7e-4a0f-898a-02b37e2d45eb",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1743833009,
-        "date_posted": 1743833009,
-        "url": "https://jobs.ashbyhq.com/Jerry/f9dc3c74-047b-4881-aaf3-8b9fc06d54e6/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -34607,7 +34575,7 @@
         "company_name": "John Deere",
         "id": "a9eea3f1-92a4-4a4c-82c6-f803d1b26c66",
         "title": "Student - Product Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1763130869,
         "date_posted": 1763130869,
         "url": "https://johndeere.eightfold.ai/careers/job/137477652429",
@@ -48091,7 +48059,7 @@
         "company_name": "Motorola",
         "id": "4b94c7c1-90db-4f0d-9f8a-ba763ecb4681",
         "title": "Graduate Embedded Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1762273584,
         "date_posted": 1762273584,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK126/Graduate-Embedded-Software-Engineer_R57587",
