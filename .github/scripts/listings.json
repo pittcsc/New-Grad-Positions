@@ -43876,7 +43876,7 @@
         "company_name": "John Deere",
         "id": "0a412f3e-372e-442b-a96d-08bd11d5b851",
         "title": "Student - Quality Analytics - Data and Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1762917590,
         "date_posted": 1762538600,
         "url": "https://johndeere.eightfold.ai/careers/job/137477670658",
@@ -114890,7 +114890,7 @@
         "company_name": "Brent Council",
         "id": "b8988506-5053-4526-abac-fa0eacf000d9",
         "title": "Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1763051943,
         "date_posted": 1763051943,
         "url": "https://fa-epzg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2656",
@@ -115458,6 +115458,24 @@
             "Bloomington, MN"
         ],
         "company_url": "https://simplify.jobs/c/Aramark",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel",
+        "id": "1ad064d1-ddc7-4b14-8862-a0ac04de00ea",
+        "title": "Global Quantitative Strategies",
+        "active": true,
+        "date_updated": 1761829639,
+        "date_posted": 1752196371,
+        "url": "https://www.citadel.com/careers/details/global-quantitative-strategies-post-doctorate-quantitative-researcher/",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
