@@ -50495,7 +50495,7 @@
         "company_name": "Cummins",
         "id": "0b3492fc-dddc-4ef7-812d-c524caa2c6fb",
         "title": "Placement Student - Product Engineering - Engine Business Unit Team",
-        "active": true,
+        "active": false,
         "date_updated": 1762438851,
         "date_posted": 1761950379,
         "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420105",
@@ -93355,7 +93355,7 @@
         "company_name": "Rolls Royce",
         "id": "26cfde04-8dd6-417a-9207-819cdfc823a3",
         "title": "Data Specialist - Production Quality - Placement Year",
-        "active": true,
+        "active": false,
         "date_updated": 1763191932,
         "date_posted": 1763191932,
         "url": "https://jobs.bmwgroup.com/job/Coleshill-Data-Specialist,-Production-Quality-Placement-Year/1252896701/?ats=successfactors",
@@ -108026,7 +108026,7 @@
         "company_name": "University of Chicago",
         "id": "68aa2ea5-f5fe-42c6-b25e-7b560649389e",
         "title": "Data Science Analyst - LMS Support",
-        "active": true,
+        "active": false,
         "date_updated": 1764029711,
         "date_posted": 1764029711,
         "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science-Analyst---LMS-Support_JR32045-1",
@@ -115673,5 +115673,47 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "PNC Financial Services",
+        "id": "c01e0cbc-fca5-4db4-95bf-ca0ca15c0e95",
+        "title": "Product Manager 1",
+        "active": true,
+        "date_updated": 1764570708,
+        "date_posted": 1764570708,
+        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Product-Manager-I_R204484-1",
+        "locations": [
+            "Cleveland, OH",
+            "Philadelphia, PA",
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Berkeley National Laboratory",
+        "id": "8a16bb7e-8255-44bf-b866-099b47805b14",
+        "title": "Materials Synthesis Postdoctoral Scholar",
+        "active": true,
+        "date_updated": 1762533476,
+        "date_posted": 1762533476,
+        "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=105321",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lawrence-Berkeley-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
