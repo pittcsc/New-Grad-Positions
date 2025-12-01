@@ -28484,7 +28484,7 @@
         "company_name": "RTX",
         "id": "bf734b0a-be20-4c1e-ac5a-4753bcc96f11",
         "title": "2026 Full-time - Software Engineer I - Onsite - CO",
-        "active": false,
+        "active": true,
         "date_updated": 1761552901,
         "date_posted": 1761259235,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--CO-_01801589",
@@ -39221,7 +39221,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "12627ab8-e40a-4b29-8299-4e0cc1bfb436",
         "title": "Customer Management - Technology & Engineer Fellow",
-        "active": true,
+        "active": false,
         "date_updated": 1762992352,
         "date_posted": 1762992352,
         "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/ot4QyfwF?nl=1&nl=1&fr=false",
@@ -44199,7 +44199,7 @@
         "company_name": "Anything",
         "id": "f8b74ac0-f617-4773-a41c-52b1303723b6",
         "title": "Content Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1762532946,
         "date_posted": 1762532946,
         "url": "https://jobs.ashbyhq.com/anything/2012e41b-0e89-4ca3-8135-893226b5f836/application",
@@ -73830,7 +73830,7 @@
         "company_name": "Huntsman",
         "id": "3b4fe0ef-9c0c-4322-b5c1-11a510585186",
         "title": "IT - Data & Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1762922092,
         "date_posted": 1757531320,
         "url": "https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/IT---Data---Analytics_J-018964-1",
@@ -91769,7 +91769,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "edd6982c-632c-4da8-8109-9388dfc6e720",
         "title": "Enterprise Systems - Technology & Engineer Fellow",
-        "active": true,
+        "active": false,
         "date_updated": 1763163449,
         "date_posted": 1763163449,
         "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oA5QyfwN?nl=1&nl=1&fr=false",
@@ -98074,7 +98074,7 @@
         "company_name": "Hawk-Eye Innovations",
         "id": "ad92f957-dd70-41a4-9767-bfbbb7f0cd4b",
         "title": "College Sports Systems Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1763508764,
         "date_posted": 1763508764,
         "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/0194d770-aa1d-4b3f-bb14-ec7454c0e39a/application",
@@ -106151,7 +106151,7 @@
         "company_name": "KBR",
         "id": "59e806ab-22b8-4f08-9ca7-443659fa9b08",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1763770997,
         "date_posted": 1763770997,
         "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Software-Engineer-I_R2115655-1",
@@ -116473,5 +116473,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Boston Scientific",
+        "id": "59bf6e23-c0b6-4845-80ea-897c941d622a",
+        "title": "Product Mgmt - Marketing",
+        "active": true,
+        "date_updated": 1761990039,
+        "date_posted": 1761990039,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602803019731",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PharmD"
+        ]
     }
 ]
