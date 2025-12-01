@@ -53490,7 +53490,7 @@
         "company_name": "American Express",
         "id": "c375cd3b-489b-4a51-95ea-1bc89b57bc38",
         "title": "Software Engineer - Enterprise Tech Services",
-        "active": true,
+        "active": false,
         "date_updated": 1761907203,
         "date_posted": 1761907203,
         "url": "https://aexp.eightfold.ai/careers/job/38621099",
@@ -65805,7 +65805,7 @@
         "company_name": "PayPal",
         "id": "cf538926-5bb6-4ad7-a7ca-356526440529",
         "title": "Data Scientist 1 - Data Science",
-        "active": true,
+        "active": false,
         "date_updated": 1761851994,
         "date_posted": 1761851994,
         "url": "https://paypal.eightfold.ai/careers/job/274907164332",
@@ -115680,6 +115680,24 @@
         "date_updated": 1764565831,
         "date_posted": 1764565831,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "39219bba-57e9-418a-b45d-4e8e5804beb0",
+        "title": "ASIC Design Engineer",
+        "active": true,
+        "date_updated": 1764567868,
+        "date_posted": 1764567868,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2003628",
         "locations": [
             "Santa Clara, CA"
         ],
