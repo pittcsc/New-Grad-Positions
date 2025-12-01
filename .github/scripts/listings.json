@@ -115885,5 +115885,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1764604549,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/affirm/jobs/7485068003",
+        "company_name": "Affirm",
+        "title": "Software Engineer, Early Career",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "71948245-22db-445a-8d4a-1baabbbc8f13",
+        "date_posted": 1764604549,
+        "company_url": "",
+        "is_visible": true
     }
 ]
