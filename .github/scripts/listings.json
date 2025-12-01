@@ -67535,7 +67535,7 @@
         "company_name": "CACI",
         "id": "85035e24-df1e-4214-a6cf-9d5cb25f990c",
         "title": "Automation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1761869168,
         "date_posted": 1761869168,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Linthicum/Automation-Engineer_318249",
@@ -93405,7 +93405,7 @@
         "company_name": "Rolls Royce",
         "id": "0b2575eb-fd3b-497c-b0f4-7a303555363d",
         "title": "Data Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1763191960,
         "date_posted": 1763191960,
         "url": "https://jobs.bmwgroup.com/job/Oxford-Data-Analytics-Placement-Year/1253271701/?ats=successfactors",
@@ -115071,7 +115071,7 @@
         "company_name": "Sainsbury's",
         "id": "934e4582-72e9-4ce4-b42f-9ee8132ca594",
         "title": "Trading Assistant - Local",
-        "active": true,
+        "active": false,
         "date_updated": 1764520191,
         "date_posted": 1764520191,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040978",
@@ -115592,6 +115592,44 @@
             "Mississauga, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/KION-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Proofpoint",
+        "id": "dae4ef54-4244-4c0a-b2e8-7c3d80edb600",
+        "title": "People Data Analyst",
+        "active": true,
+        "date_updated": 1764564303,
+        "date_posted": 1764564303,
+        "url": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Draper-UT/People-Data-Analyst_R13109",
+        "locations": [
+            "Pittsburgh, PA",
+            "Draper, UT",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Proofpoint",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Brookhaven Lab",
+        "id": "0e497446-3e1f-4448-a2ed-8b5e3f37cae6",
+        "title": "Postdoctoral Research Associate",
+        "active": true,
+        "date_updated": 1764564084,
+        "date_posted": 1764564084,
+        "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Postdoctoral-Research-Associate_JR101323",
+        "locations": [
+            "Shirley, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Brookhaven-Lab",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
