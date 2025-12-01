@@ -5,11 +5,11 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 436 New Grad Roles by Category
+### Browse 435 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (309)
 
-📱 **[Product Management](#-product-management-new-grad-roles)** (11)
+📱 **[Product Management](#-product-management-new-grad-roles)** (10)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (56)
 
@@ -406,7 +406,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>New Grad Software Engineer - Backend 2026</td>
 <td><details><summary><strong>12 locations</strong></summary>Salt Lake City, UT</br>Boston, MA</br>Seattle, WA</br>Washington, DC</br>SF</br>Austin, TX</br>LA</br>Miami, FL</br>Chicago, IL</br>NYC</br>Phoenix, AZ</br>Atlanta, GA</details></td>
 <td><div align="center"><a href="https://careers.circle.com/us/en/job/JR100011-EG?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1dca36e3-277a-47ae-b37e-c41abb106aef?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong>Citi</strong></td>
@@ -6989,19 +6989,12 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><div align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-MBA-University-Graduate---Product-Manager_R158962?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d8d3887c-f0f5-45e9-af46-6c289c90d27f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>3mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Databricks?utm_source=GHList&utm_medium=company">🔥 Databricks</a></strong></td>
-<td>Associate Product Manager – New Grad - 2026 Start</td>
-<td>San Francisco, CA</br>Bellevue, WA</br>Mountain View, CA</td>
-<td><div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=7586263002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ca23bb6b-38c7-49e5-8890-cce71a429db4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>3mo</td>
-</tr>
 </tbody>
 </table>
 
 
 <details>
-<summary>🗃️ Inactive roles (15)</summary>
+<summary>🗃️ Inactive roles (16)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -7116,6 +7109,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/IXL-Learning?utm_source=GHList&utm_medium=company">IXL Learning</a></strong></td>
 <td>Associate Product Manager – New Grad</td>
 <td>San Mateo, CA</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Databricks?utm_source=GHList&utm_medium=company">🔥 Databricks</a></strong></td>
+<td>Associate Product Manager – New Grad - 2026 Start</td>
+<td>San Francisco, CA</br>Bellevue, WA</br>Mountain View, CA</td>
 <td>🔒</td>
 <td>3mo</td>
 </tr>
