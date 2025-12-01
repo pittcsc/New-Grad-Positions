@@ -93297,7 +93297,7 @@
         "company_name": "Rolls Royce",
         "id": "683fcce0-b46c-464f-bf41-8b4db16f3fd1",
         "title": "Quality Management and Production Control - Placement Year",
-        "active": true,
+        "active": false,
         "date_updated": 1763191931,
         "date_posted": 1763191931,
         "url": "https://jobs.bmwgroup.com/job/Goodwood-Quality-Management-&-Production-Control-Placement-Year/1253025701/?ats=successfactors",
@@ -115630,6 +115630,60 @@
             "Shirley, NY"
         ],
         "company_url": "https://simplify.jobs/c/Brookhaven-Lab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Argonne National Laboratory",
+        "id": "b58840f8-8364-484a-a3b8-a48c438fa8b8",
+        "title": "Postdoctoral Appointee",
+        "active": true,
+        "date_updated": 1764566147,
+        "date_posted": 1764566147,
+        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Uncertainty-Quantification-and-Modeling-of-Large-Scale-Dynamics-in-Networks_420061",
+        "locations": [
+            "Woodridge, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citi",
+        "id": "ada9c63b-16d9-413f-833c-05fd5f866c40",
+        "title": "Technology - Application Development",
+        "active": true,
+        "date_updated": 1764566050,
+        "date_posted": 1764566050,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "30612f5b-226b-4ab8-9610-ae2ae82ca2a0",
+        "title": "Developer Technology Engineer \u2013 New College Grad - Public Sector",
+        "active": true,
+        "date_updated": 1764565831,
+        "date_posted": 1764565831,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
