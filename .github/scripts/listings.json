@@ -7576,7 +7576,7 @@
         "degrees": []
     },
     {
-        "date_updated": 1754359170,
+        "date_updated": 1764595634,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649912",
         "company_name": "JPMorganChase",
         "title": "Software Engineer",
@@ -7593,7 +7593,7 @@
             "Wilmington, DE"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "b1693eec-c5f3-4da3-9190-0354c4579293",
         "date_posted": 1754359170,
@@ -13567,9 +13567,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1756203764,
+        "date_updated": 1764595634,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://careers-sig.icims.com/jobs/9716/software-developer---sprc---new-grad/job",
         "company_name": "Susquehanna",
