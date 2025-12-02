@@ -117287,5 +117287,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lineage Logistics",
+        "id": "e75b7081-8f65-48d4-ba3c-24ba7f2209bc",
+        "title": "Associate Report Developer",
+        "active": true,
+        "date_updated": 1764651370,
+        "date_posted": 1764651370,
+        "url": "https://onelineage.wd1.myworkdayjobs.com/external/job/Novi-MI-Humboldt-Drive/Associate-Report-Developer_R0097857",
+        "locations": [
+            "Novi, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Lineage-Logistics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
