@@ -117249,5 +117249,43 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Oshkosh",
+        "id": "4f966063-b071-48e4-9b1a-6a6cfb6af1e1",
+        "title": "Engineering Test Lab Technician",
+        "active": true,
+        "date_updated": 1764649399,
+        "date_posted": 1764649399,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Lab-Technician_R41339-1",
+        "locations": [
+            "Oshkosh, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Capital One",
+        "id": "dc0aecc2-a247-4b66-b402-d7a3e1d1433c",
+        "title": "Senior Associate - Product Manager - Business Cards & Payments",
+        "active": true,
+        "date_updated": 1764648590,
+        "date_posted": 1764648590,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Product-Manager---Business-Cards---Payments_R231093-1",
+        "locations": [
+            "McLean, VA",
+            "Richmond, VA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
