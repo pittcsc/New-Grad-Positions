@@ -68960,7 +68960,7 @@
         "company_name": "L3Harris Technologies",
         "id": "c186e51c-eb9a-43f8-82b3-bff8d09e93e8",
         "title": "Engineering Technician A",
-        "active": true,
+        "active": false,
         "date_updated": 1762938303,
         "date_posted": 1759227204,
         "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-A-UT-84116/1330252200/?ats=successfactors",
@@ -117302,6 +117302,64 @@
             "Novi, MI"
         ],
         "company_url": "https://simplify.jobs/c/Lineage-Logistics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "5a0096cc-ee1a-40fa-b204-b04c1e831103",
+        "title": "Electro-Optical Subsystem 1&T Engineer",
+        "active": true,
+        "date_updated": 1764652176,
+        "date_posted": 1764652176,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Electro-Optical-Subsystem-I-T-Engineer_R10215917",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Wells Fargo",
+        "id": "7119c6da-fba7-482e-9ecb-7307327c13d7",
+        "title": "Associate Product Manager - Client Directed Advisory",
+        "active": true,
+        "date_updated": 1764651996,
+        "date_posted": 1764651996,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAINT-LOUIS-MO/Associate-Product-Manager---Client-Directed-Advisory_R-506366-1",
+        "locations": [
+            "Des Moines, IA",
+            "Charlotte, NC",
+            "St. Louis, MO",
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "f270d697-a383-41d4-bbc4-66af787634f8",
+        "title": "C++ Engineer - ONSITE: Chicago - IL or Denver','CO",
+        "active": true,
+        "date_updated": 1764651540,
+        "date_posted": 1764651540,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Software-Engineer-1_R424219",
+        "locations": [
+            "Chicago, IL",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
