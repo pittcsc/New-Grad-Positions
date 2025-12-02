@@ -28631,7 +28631,7 @@
     {
         "date_updated": 1762271197,
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "degrees": [],
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--January-_R100297",
         "company_name": "RELX",
@@ -28640,8 +28640,8 @@
             "Alpharetta, GA"
         ],
         "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "0a402116-2fb3-4be5-bcf0-91f2b47025ca",
+        "source": "Simplify",
+        "id": "72870b15-a301-4144-abbf-6ff898026032",
         "date_posted": 1761288181,
         "company_url": "",
         "is_visible": true
@@ -116988,6 +116988,24 @@
             "Laramie, WY"
         ],
         "company_url": "https://simplify.jobs/c/University-Of-Wyoming",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Varian",
+        "id": "9d7253c6-7e61-4d45-9427-de316d88d0eb",
+        "title": "Data Analysis and Simulation Professional 2",
+        "active": true,
+        "date_updated": 1764635499,
+        "date_posted": 1764635499,
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/CYA-GR/Data-Analysis-and-Simulation-Professional-2_R-24837-1",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
