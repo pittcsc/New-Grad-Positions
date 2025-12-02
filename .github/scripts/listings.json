@@ -115676,7 +115676,7 @@
         "company_name": "Goodnotes",
         "id": "eed9ada6-79db-4b83-aa0e-6d02cc99d6d0",
         "title": "Full Stack Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1764574071,
         "date_posted": 1764574071,
         "url": "https://job-boards.greenhouse.io/goodnotes/jobs/5724185004",
@@ -117006,6 +117006,24 @@
             "Morrisville, NC"
         ],
         "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ASM International",
+        "id": "ced5fdce-c36b-4b3a-8bf8-d6b84b04eb3c",
+        "title": "Engineer 1 - Equipment Engineering",
+        "active": true,
+        "date_updated": 1764640520,
+        "date_posted": 1764640520,
+        "url": "https://www.asm.com/open-vacancies/?gh_jid=4717063101",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/ASM-International",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
