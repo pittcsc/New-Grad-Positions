@@ -28484,7 +28484,7 @@
         "company_name": "RTX",
         "id": "bf734b0a-be20-4c1e-ac5a-4753bcc96f11",
         "title": "2026 Full-time - Software Engineer I - Onsite - CO",
-        "active": true,
+        "active": false,
         "date_updated": 1761552901,
         "date_posted": 1761259235,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--CO-_01801589",
@@ -97984,7 +97984,7 @@
         "company_name": "RTX",
         "id": "d99cbb16-434f-4edb-a8a1-4d3e6acbf023",
         "title": "Software Engineer 2 - Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1763509066,
         "date_posted": 1763509066,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Full-time---Software-Engineer-II---Onsite--CO-_01801591",
@@ -117636,6 +117636,24 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Talan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citi",
+        "id": "43000e62-2525-4319-9e81-cb5334db3e74",
+        "title": "Technology - Application Development - Full-Time Analyst",
+        "active": true,
+        "date_updated": 1764676027,
+        "date_posted": 1764676027,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Technology---Application-Development--Full-Time-Analyst--UK---London--2026_25922068",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
