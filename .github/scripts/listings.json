@@ -47199,7 +47199,7 @@
         "company_name": "Veralto",
         "id": "c53fead9-f000-4f4d-a6fb-db562105d4ef",
         "title": "Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1763118740,
         "date_posted": 1762384436,
         "url": "https://veralto.wd1.myworkdayjobs.com/hachjobs/job/USA---Bellevue---Sea-Bird-Electronics-Inc---SB17/Service-Engineer-I_R10263189-1",
@@ -111993,7 +111993,7 @@
         "company_name": "PennState University",
         "id": "0f1b28fb-2b6d-41ce-9ce9-59d83cc282d2",
         "title": "Part-Time Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1764208866,
         "date_posted": 1764208866,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Grad_REQ_0000073814-1",
@@ -116700,7 +116700,7 @@
         "company_name": "Sainsbury's",
         "id": "71430103-14a7-4195-97e6-52c9df38330c",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1764630939,
         "date_posted": 1764630939,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041359",
@@ -117414,6 +117414,42 @@
             "East Syracuse, NY"
         ],
         "company_url": "https://simplify.jobs/c/Carrier-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "3531887f-877e-4a5a-b17c-256f82dec8bb",
+        "title": "Machinist",
+        "active": true,
+        "date_updated": 1764658515,
+        "date_posted": 1764658515,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/Machinist-2-3_R10215808",
+        "locations": [
+            "Hill AFB, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Etsy",
+        "id": "a56118bb-f356-4aee-a4fe-b0440ada119f",
+        "title": "Software Engineer 1 - Machine Learning",
+        "active": true,
+        "date_updated": 1764656919,
+        "date_posted": 1764656919,
+        "url": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineer--ML-Training-Data_JR5230",
+        "locations": [
+            "Brooklyn, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Etsy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
