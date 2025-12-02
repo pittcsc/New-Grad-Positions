@@ -117657,5 +117657,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1764689104,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Merrimack-NH/Associate-Full-Stack-Engineer_2120832-1",
+        "company_name": "Fidelity Investments",
+        "title": "Associate Full Stack Engineer",
+        "locations": [
+            "Merrimack, NH",
+            "Smithfield, RI",
+            "Westlake, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "a4121796-9bf3-4394-b21c-0262460879c2",
+        "date_posted": 1764689104,
+        "company_url": "",
+        "is_visible": true
     }
 ]
