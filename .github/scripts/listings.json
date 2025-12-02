@@ -13163,9 +13163,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1756111332,
+        "date_updated": 1764679827,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.lever.co/life/99fdfce1-f0d6-48f8-8ad8-b22b4d6561bf",
         "company_name": "YouVersion",
@@ -22419,9 +22419,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1758868556,
+        "date_updated": 1764679827,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://job-boards.greenhouse.io/genies/jobs/7477215003",
         "company_name": "Genies",
@@ -24615,9 +24615,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759737518,
+        "date_updated": 1764679827,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.jobvite.com/windriver/job/o97iyfwQ",
         "company_name": "Wind River",
@@ -109168,9 +109168,9 @@
         "degrees": []
     },
     {
-        "date_updated": 1764087943,
+        "date_updated": 1764679827,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Junior-Data-Scientist_34033",
         "company_name": "Guidehouse",
