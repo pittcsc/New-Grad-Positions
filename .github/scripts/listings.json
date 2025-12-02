@@ -117659,7 +117659,7 @@
         "degrees": []
     },
     {
-        "date_updated": 1764689104,
+        "date_updated": 1764701892,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [],
@@ -117676,7 +117676,7 @@
         "id": "a4121796-9bf3-4394-b21c-0262460879c2",
         "date_posted": 1764689104,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
