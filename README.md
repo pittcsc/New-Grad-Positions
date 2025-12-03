@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 435 New Grad Roles by Category
+### Browse 436 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (308)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (309)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (9)
 
@@ -210,7 +210,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Quality Assurance Software Engineer 1</td>
 <td>Long Beach, CA</br>Denver, CO</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/4992321007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2536fc43-f3e0-4239-bf31-e8c19894b771?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Circle?utm_source=GHList&utm_medium=company">Circle</a></strong></td>
@@ -574,6 +574,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer – Entry Level</td>
 <td>Bridgewater, MA</td>
 <td><div align="center"><a href="https://careers-gdms.icims.com/jobs/69252/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f3b970ea-e38d-40c9-928e-a7127565301c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>20d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Engineer – Entry Level</td>
+<td>Bremerton, WA</td>
+<td><div align="center"><a href="https://careers-gdms.icims.com/jobs/69259/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/901ca445-4070-461c-94fc-fbf67d331f2e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>20d</td>
 </tr>
 <tr>
@@ -2240,7 +2247,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (681)</summary>
+<summary>🗃️ Inactive roles (680)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2630,13 +2637,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>SF</td>
 <td>🔒</td>
 <td>19d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
-<td>Software Engineer – Entry Level</td>
-<td>Bremerton, WA</td>
-<td>🔒</td>
-<td>20d</td>
 </tr>
 <tr>
 <td><strong>CommonLit</strong></td>
@@ -6475,7 +6475,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Cox?utm_source=GHList&utm_medium=company">Cox</a></strong></td>
+<td>↳</td>
 <td>Software Engineer I</td>
 <td>Oklahoma City, OK</br>Atlanta, GA</td>
 <td>🔒</td>
