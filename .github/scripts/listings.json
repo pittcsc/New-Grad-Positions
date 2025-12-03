@@ -119277,5 +119277,24 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1764747334,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556631205",
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "locations": [
+            "Mountain View, CA",
+            "Redmond, WA"
+        ],
+        "category": "Software Engineering",
+        "source": "wgervasio",
+        "id": "db50e835-a56a-43a0-a2e8-749e38297775",
+        "date_posted": 1764747334,
+        "company_url": "",
+        "is_visible": true
     }
 ]
