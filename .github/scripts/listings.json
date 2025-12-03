@@ -54807,7 +54807,7 @@
         "company_name": "FOX",
         "id": "3a06b52b-1230-4803-9726-880cfdec1ca2",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1761899718,
         "date_posted": 1761899718,
         "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Blue-Ash-Ohio-USA/Software-Developer_R50030110",
@@ -118504,6 +118504,42 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/XAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "ad803e25-9423-4f7f-9bdb-76fd76d16bc1",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1764725338,
+        "date_posted": 1764725338,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7395133",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SageSure",
+        "id": "c45e3a4c-4bd9-4121-92d2-550043187a3e",
+        "title": "Associate Data Analyst",
+        "active": true,
+        "date_updated": 1764724346,
+        "date_posted": 1764724346,
+        "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4620339006",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/SageSure-Insurance-Managers",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
