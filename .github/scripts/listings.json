@@ -46402,7 +46402,7 @@
         "company_name": "Wellmark",
         "id": "2a6543a5-ce9d-4b2c-954a-8ef38115c7f4",
         "title": "Data Wrangler",
-        "active": true,
+        "active": false,
         "date_updated": 1762384515,
         "date_posted": 1762384515,
         "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000091908395",
@@ -77218,7 +77218,7 @@
         "company_name": "ByteDance",
         "id": "91781434-b2d9-4de6-8f4b-170cdb599048",
         "title": "ASIC Design Engineer Graduate - Video Silicon IP - 2026 Start",
-        "active": true,
+        "active": false,
         "date_updated": 1758283120,
         "date_posted": 1755870027,
         "url": "https://jobs.bytedance.com/en/position/7538953975011035400/detail",
@@ -106890,7 +106890,7 @@
         "company_name": "Centene",
         "id": "4bfaf25c-a9a8-482b-835b-849803bb2865",
         "title": "Business Solutions Developer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1763889011,
         "date_posted": 1763889011,
         "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-OH/Business-Solutions-Developer-I_1601216",
@@ -119202,6 +119202,42 @@
             "Fort Smith, AR"
         ],
         "company_url": "https://simplify.jobs/c/Aegis-Therapies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huntington Bancshares",
+        "id": "6cc1ba6c-eccb-4f52-99ff-67aa1e69df5b",
+        "title": "Technology Delivery Analyst",
+        "active": true,
+        "date_updated": 1764743124,
+        "date_posted": 1764743124,
+        "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst_R0067555",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huntington Bancshares",
+        "id": "cf6ad78a-9ad9-4769-865a-cfbbe02137d6",
+        "title": "Technology Delivery Analyst - Elevate",
+        "active": true,
+        "date_updated": 1764742979,
+        "date_posted": 1764742979,
+        "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0067576",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
