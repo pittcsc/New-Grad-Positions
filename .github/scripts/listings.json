@@ -29555,7 +29555,7 @@
         "company_name": "Robert Half",
         "id": "31ee69cd-c9a0-4fd3-befe-40248289aeb7",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1761968905,
         "date_posted": 1761951096,
         "url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-258714",
@@ -118540,6 +118540,24 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/SageSure-Insurance-Managers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "mthree",
+        "id": "e71ba1ca-1f1f-4807-b23b-d6e3f651a1a2",
+        "title": "Java Developer",
+        "active": true,
+        "date_updated": 1764725727,
+        "date_posted": 1764725727,
+        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4622541006",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mthree",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
