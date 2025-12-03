@@ -61479,7 +61479,7 @@
         "company_name": "Vanguard",
         "id": "8b9386aa-82ac-4383-8d07-1aa55a44698b",
         "title": "Quantitative Investment Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1761247497,
         "date_posted": 1761247497,
         "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Quantitative-Investment-Analyst_171360-1",
@@ -96116,7 +96116,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "c1a658e1-a5e2-4b72-bc95-0b3284d1a5c7",
         "title": "Entry Level Systems Engineer - Conventional Prompt Strike Program",
-        "active": false,
+        "active": true,
         "date_updated": 1763398292,
         "date_posted": 1763398292,
         "url": "https://careers-gdms.icims.com/jobs/69097/job?mobile=true&needsRedirect=false",
@@ -98523,7 +98523,7 @@
         "company_name": "Fidelity Investments",
         "id": "3983c104-6cc8-4a83-b3e5-ae10c61eb5ec",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1763513756,
         "date_posted": 1763513756,
         "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Software-Engineer_2117099-1",
@@ -119086,5 +119086,124 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dimensional Fund Advisors",
+        "id": "b6c4c1b0-6d03-4055-aad2-7243314bd0c9",
+        "title": "Associate \u2013 Investment Analytics and Data - Portfolio Analytics",
+        "active": true,
+        "date_updated": 1764733582,
+        "date_posted": 1764733582,
+        "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Charlotte/Associate--Investment-Analytics-and-Data--Portfolio-Analytics-_2025-8613",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/3d361434-7ac4-4284-b2ef-078b0bc92808",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Shields Health Solutions",
+        "id": "f1298b1e-60e9-42b1-835d-cbea4f53338f",
+        "title": "Associate Data Analyst",
+        "active": true,
+        "date_updated": 1764733466,
+        "date_posted": 1764733466,
+        "url": "https://job-boards.greenhouse.io/shieldshealthsolutions/jobs/7544865003",
+        "locations": [
+            "Canton, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shields-Health-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Daimler Truck",
+        "id": "e8f28bd1-7f64-4de6-9783-e159c13d5b38",
+        "title": "System Engineering Analytics Engineer 1",
+        "active": true,
+        "date_updated": 1764733504,
+        "date_posted": 1764733504,
+        "url": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/System-Engineering-Analytics-Engineer-I_DT-16155",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Daimler-Truck",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cambia Health Solutions",
+        "id": "bd0d727e-a8e2-453e-832c-20231fe9c3d4",
+        "title": "AI Scientist 1 - Healthcare",
+        "active": true,
+        "date_updated": 1764733288,
+        "date_posted": 1764733288,
+        "url": "https://cambiahealth.wd1.myworkdayjobs.com/External/job/Renton-WA/AI-Scientist-I--Healthcare-_R-5997",
+        "locations": [
+            "Salt Lake City, UT",
+            "Post Falls, ID",
+            "Medford, OR",
+            "Burlington, WA",
+            "Tukwila, WA",
+            "Boise, ID",
+            "Moscow, ID",
+            "Bellevue, WA",
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambia-Health-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Becton Dickinson",
+        "id": "1b9ab3e7-79cd-4bbb-b998-a844ac409b53",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1764732505,
+        "date_posted": 1764732505,
+        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---39-Loveton-Circle/Field-Service-Engineer_R-532752",
+        "locations": [
+            "California",
+            "LA",
+            "Sparks, MD",
+            "Glendale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Aegis Therapies",
+        "id": "138d6e5a-8e18-4859-ba5f-bfffac95fe7e",
+        "title": "IT Data Warehouse Specialist",
+        "active": true,
+        "date_updated": 1764732557,
+        "date_posted": 1764732557,
+        "url": "https://aegistherapies.wd1.myworkdayjobs.com/aegiscareers/job/Fort-Smith-AR/IT-Data-Warehouse-Specialist_R0043523",
+        "locations": [
+            "Fort Smith, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Aegis-Therapies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
