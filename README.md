@@ -2195,7 +2195,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Java Software Engineer 1</td>
 <td>West Redlands, Redlands, CA</td>
 <td>🔒</td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
