@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 417 New Grad Roles by Category
+### Browse 416 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (295)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (294)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (8)
 
@@ -168,10 +168,10 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1 - Ad Demand</td>
 <td>SF</td>
 <td><div align="center"><a href="https://amazon.jobs/en/jobs/3138963/software-engineer-i-ad-demand?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/20a20d3d-bc74-4e0e-9ceb-a09af8437779?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company">🔥 Amazon</a></strong></td>
+<td>↳</td>
 <td>Software Engineer 1 - Frontend</td>
 <td>SF</td>
 <td><div align="center"><a href="https://amazon.jobs/en/jobs/3117137/software-engineer-i-frontend?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c011a25f-9ac1-48aa-a7c0-86759053b09d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
@@ -1064,13 +1064,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Software Engineer - Software Engineer</td>
 <td>SF</br>NYC</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/figma/jobs/5616603004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/41de6175-1405-4238-9c83-e2327e158489?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/D3?utm_source=GHList&utm_medium=company">D3</a></strong></td>
-<td>Frontend Engineer – New Grad</td>
-<td>LA</td>
-<td><div align="center"><a href="https://d3.com/careers?gh_jid=4915213008&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/21b95fb5-d489-4032-af81-46650b0e2764?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
@@ -2149,7 +2142,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (732)</summary>
+<summary>🗃️ Inactive roles (733)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2902,7 +2895,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer</td>
 <td>Santa Clara, CA</td>
 <td>🔒</td>
-<td>29d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong>AVEVA</strong></td>
@@ -3832,6 +3825,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/NewsBreak?utm_source=GHList&utm_medium=company">NewsBreak</a></strong></td>
 <td>Software Engineer – New Grad Friendly - IOS</td>
 <td>Mountain View, CA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/D3?utm_source=GHList&utm_medium=company">D3</a></strong></td>
+<td>Frontend Engineer – New Grad</td>
+<td>LA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -5873,7 +5873,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Hewlett-Packard-Enterprise?utm_source=GHList&utm_medium=company">Hewlett Packard Enterprise</a></strong></td>
 <td>Systems/Software Engineer I</td>
 <td>Spring, TX</td>
 <td>🔒</td>
@@ -7974,7 +7974,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Data Scientist - New College Grad</td>
 <td>Santa Clara, CA</td>
 <td>🔒</td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/MatX?utm_source=GHList&utm_medium=company">MatX</a></strong></td>
@@ -8513,7 +8513,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Data Engineer I</td>
 <td>Suffolk, VA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company">Booz Allen</a></strong></td>
@@ -10606,7 +10606,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>↳</td>
 <td>2025 Raytheon Systems Security Engineer I</td>
 <td>Tucson, AZ</td>
 <td>🔒</td>
