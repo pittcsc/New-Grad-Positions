@@ -95,7 +95,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td>Software Infrastructure Engineer I (Onsite) 🇺🇸</td>
+<td>Software Infrastructure Engineer I 🇺🇸</td>
 <td>Marlborough, MA</td>
 <td><a href="https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/Software-Infrastructure-Engineer-I--Onsite-_01811499?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
 <td>0d</td>
