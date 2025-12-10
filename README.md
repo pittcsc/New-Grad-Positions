@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 428 New Grad Roles by Category
+### Browse 427 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (305)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (304)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (8)
 
@@ -84,13 +84,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer I</td>
 <td>Santa Monica, CA</br>Glendale, CA</td>
 <td><a href="https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Santa-Monica-CA-USA/Software-Engineer-I_10136358?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>0d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Software Engineer I</td>
-<td>Bristol, CT</td>
-<td><a href="https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Bristol-CT-USA/Software-Engineer-I_10137037?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -196,7 +189,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Early Career Software Engineer</td>
 <td>SF</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/Citizen%20Health/ebc4c080-319d-4348-ada1-6ded3c803ec7/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3c85c8fb-ba8c-4bbf-a0f1-e67d58dbb10e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
