@@ -5,13 +5,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 413 New Grad Roles by Category
+### Browse 412 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (296)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (8)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (55)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (54)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (15)
 
@@ -2692,7 +2692,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Associate Software Engineer 1</td>
 <td>Chattanooga, TN</br>United States</td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company">Intuit</a></strong></td>
@@ -6038,7 +6038,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>ITSM IT Security Engineer I 🇺🇸</td>
 <td>Washington, DC</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong>Remodel Health</strong></td>
@@ -7474,7 +7474,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Associate Product Manager – New Grad - 2026 Start</td>
 <td>San Francisco, CA</br>Bellevue, WA</br>Mountain View, CA</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 </tbody>
 </table>
@@ -7515,14 +7515,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Postdoctoral Research Associate - Machine Learning X-Ray Spectroscopy 🎓 🇺🇸</td>
 <td>Upton, NY</td>
 <td><a href="https://bnl.wd1.myworkdayjobs.com/en-US/externa/job/Upton-NY/Machine-Learning-X-Ray-Spectroscopy_JR102174?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
 <td>Research Scientist, Embodied and Agentic AI 🎓</td>
 <td>Santa Clara, CA</td>
 <td><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Embodied-and-Agentic-AI---New-College-Grad-2026_JR2009464?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong>Magical</strong></td>
@@ -7707,13 +7707,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Seismic?utm_source=GHList&utm_medium=company">Seismic</a></strong></td>
-<td>Data Engineer 1</td>
-<td>Toronto, ON, Canada</td>
-<td><div align="center"><a href="https://ca-careers-seismic.icims.com/jobs/2053/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/02fb9964-eeee-492a-adcd-5b1717cc727f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>2mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">🔥 Adobe</a></strong></td>
 <td>University Graduate - Machine Learning Engineer 🎓</td>
 <td>Seattle, WA</td>
@@ -7893,7 +7886,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (152)</summary>
+<summary>🗃️ Inactive roles (153)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -8302,6 +8295,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/AIG?utm_source=GHList&utm_medium=company">AIG</a></strong></td>
 <td>Early Career Analyst - Gen AI Technology - Software Engineering</td>
 <td>Atlanta, GA</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Seismic?utm_source=GHList&utm_medium=company">Seismic</a></strong></td>
+<td>Data Engineer 1</td>
+<td>Toronto, ON, Canada</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
@@ -8758,7 +8758,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Data Scientist</td>
 <td>Mountain View, CA</br>San Francisco, CA</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong>🔥 Tesla</strong></td>
