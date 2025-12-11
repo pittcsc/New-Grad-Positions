@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 412 New Grad Roles by Category
+### Browse 413 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (288)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (289)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (7)
 
@@ -79,6 +79,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Public Storage</strong></td>
+<td>Associate Cloud Engineer 🛂</td>
+<td>Plano, TX</td>
+<td><a href="https://www.publicstoragejobs.com/jobs/associate-cloud-engineer-location-plano-tx-united-states-jobs-category-marketing-744000098165225?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
 <td>Software Engineer 1 - Java - Spring Boot</td>
@@ -469,7 +476,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1 - Backend - New Grad</td>
 <td>Remote in USA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/flex/jobs/4632053005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8aafde91-1502-43cf-b623-671edcfd8f95?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Travelers?utm_source=GHList&utm_medium=company">The Travelers Companies</a></strong></td>
@@ -1424,7 +1431,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Decagon?utm_source=GHList&utm_medium=company">Decagon</a></strong></td>
 <td>Software Engineer - New Grad 🛂</td>
 <td>San Francisco</br>New York</td>
 <td><a href="https://jobs.ashbyhq.com/decagon/2a435dd5-1212-42bb-ae5a-d7432902acd2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
