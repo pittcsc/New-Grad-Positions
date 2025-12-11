@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 415 New Grad Roles by Category
+### Browse 412 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (291)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (288)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (7)
 
@@ -108,21 +108,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>0d</td>
 </tr>
 <tr>
-<td><strong>Disney</strong></td>
-<td>Software Engineer I</td>
-<td>Santa Monica, CA</br>Glendale, CA</td>
-<td><a href="https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Santa-Monica-CA-USA/Software-Engineer-I_10136358?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>1d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td>Software Infrastructure Engineer I 🇺🇸</td>
-<td>Marlborough, MA</td>
-<td><a href="https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/Software-Infrastructure-Engineer-I--Onsite-_01811499?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>1d</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>2026 Full-time - Software Engineer I</td>
 <td>Fort Wayne, IN</td>
 <td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN301-1010-Production-Rd-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--IN-_01811827?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/739cd483-72d4-4c0f-b0bc-f9985ed6e19b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
@@ -1022,13 +1008,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Associate Software Test Engineer</td>
 <td>Acton, MA</td>
 <td><a href="https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/US---Massachusetts/Associate-Software-Test-Engineer---Acton--Mass--Hybrid-_REQ-2025-13419?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td>Associate Engineer, Embedded Software</td>
-<td>Edinburgh, SC, UK</td>
-<td><a href="https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Edinburgh-SC-Freer/Associate-Engineer--Embedded-Software_R257164?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
 <td>1mo</td>
 </tr>
 <tr>
@@ -2121,7 +2100,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (741)</summary>
+<summary>🗃️ Inactive roles (744)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2140,6 +2119,20 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Mountain View, CA</td>
 <td>🔒</td>
 <td>0d</td>
+</tr>
+<tr>
+<td><strong>Disney</strong></td>
+<td>Software Engineer I</td>
+<td>Santa Monica, CA</br>Glendale, CA</td>
+<td>🔒</td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>Software Infrastructure Engineer I 🇺🇸</td>
+<td>Marlborough, MA</td>
+<td>🔒</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong>LingaTech</strong></td>
@@ -2405,7 +2398,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer New College Grad - Highlands Ranch - CO</td>
 <td>Highlands Ranch, CO</td>
 <td>🔒</td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Charles-Schwab?utm_source=GHList&utm_medium=company">Charles Schwab</a></strong></td>
@@ -3622,6 +3615,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong>PricewaterhouseCoopers (PwC)</strong></td>
 <td>Cloud Security Experienced Associate 🛂</td>
 <td><details><summary><strong>18 locations</strong></summary>Atlanta, GA</br>Tampa, FL</br>Chicago, IL</br>Austin, TX</br>Washington, DC</br>Dallas, TX</br>Los Angeles, CA</br>Minneapolis, MN</br>Denver, CO</br>Detroit, MI</br>Boston, MA</br>Florham Park, NJ</br>New York, NY</br>San Francisco, CA</br>Silicon Valley, CA</br>Philadelphia, PA</br>Seattle, WA</br>Houston, TX</details></td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Analog Devices</strong></td>
+<td>Associate Engineer, Embedded Software</td>
+<td>Edinburgh, SC, UK</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -6738,7 +6738,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>College Graduates - Full-Time - Junior Software Engineer</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Captivation?utm_source=GHList&utm_medium=company">Captivation</a></strong></td>
@@ -9194,7 +9194,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>College Graduates - Full-Time - Junior Quantitative Trader</td>
 <td>London, UK</td>
 <td><div align="center"><a href="https://www.oldmissioncapital.com/careers/?gh_jid=6602928003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b09d07b6-2d11-469e-b3aa-b297ebd7f7a3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Citadel-Securities?utm_source=GHList&utm_medium=company">Citadel Securities</a></strong></td>
@@ -9338,7 +9338,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>College Graduates - Full-Time - Junior Quantitative Trader</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Akuna-Capital?utm_source=GHList&utm_medium=company">Akuna Capital</a></strong></td>
@@ -9694,7 +9694,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Firmware Engineer 1</td>
 <td>Shakopee, MN</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
