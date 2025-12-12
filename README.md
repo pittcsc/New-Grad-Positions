@@ -1876,7 +1876,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer I (ALDP)</td>
 <td>Austin, TX</td>
 <td><a href="https://peak6group.wd1.myworkdayjobs.com/en-US/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong>Folia Health</strong></td>
@@ -7509,7 +7509,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Associate Product Manager – New Graduate</td>
 <td>Remote in Canada</td>
 <td>🔒</td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Experian?utm_source=GHList&utm_medium=company">Experian</a></strong></td>
