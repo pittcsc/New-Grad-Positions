@@ -5,13 +5,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 402 New Grad Roles by Category
+### Browse 400 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (276)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (275)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (8)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (59)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (58)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (17)
 
@@ -532,21 +532,21 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Entry Level Software Developer 🛂</td>
 <td>Plano, TX</br>McKinney, TX</br>Houston, TX</td>
 <td><a href="https://careers.skillstorm.com/jobs/entry-level-software-developer-42267?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong>AppLovin</strong></td>
 <td>Backend Engineer, New Grad</td>
 <td>Palo Alto, CA</td>
 <td><a href="https://job-boards.greenhouse.io/applovin/jobs/4451556006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cisco?utm_source=GHList&utm_medium=company">Cisco</a></strong></td>
 <td>Software Engineer Data/AI/Intelligent Systems I (Full Time)</td>
 <td><details><summary><strong>13 locations</strong></summary>Austin, TX</br>San Jose, CA</br>Alpharetta, GA</br>Atlanta, GA</br>Boston, MA</br>Dallas, TX</br>Fulton, MD</br>Hillsboro, OR</br>Knoxville, TN</br>Maynard, MA</br>Milpitas, CA</br>New York, NY</br>Research Triangle Park, NC</details></td>
 <td><a href="https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-%E2%80%93-United-States?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Amentum?utm_source=GHList&utm_medium=company">Amentum</a></strong></td>
@@ -1410,13 +1410,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Valkyrie-Trading?utm_source=GHList&utm_medium=company">Valkyrie Trading</a></strong></td>
-<td>Junior Software Engineer</td>
-<td>Chicago, IL</td>
-<td><div align="center"><a href="https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/70e4d8e9-e161-4ec1-b005-7d639916db29?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>3mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/WhatNot?utm_source=GHList&utm_medium=company">WhatNot</a></strong></td>
 <td>Software Engineer – 2026 New Grad</td>
 <td>SF</br>LA</br>NYC</td>
@@ -2016,7 +2009,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (773)</summary>
+<summary>🗃️ Inactive roles (774)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2482,14 +2475,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer I, Finance</td>
 <td>San Francisco, CA</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong>🔥 IBM</strong></td>
 <td>Entry Level Software Developer 🛂</td>
 <td>New York, NY</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">🔥 Apple</a></strong></td>
@@ -5152,7 +5145,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Visa?utm_source=GHList&utm_medium=company">🔥 Visa</a></strong></td>
 <td>Software Engineer – New College Grad</td>
 <td>San Mateo, CA</td>
 <td>🔒</td>
@@ -5260,6 +5253,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">🔥 Adobe</a></strong></td>
 <td>2026 University Graduate - Software Engineer</td>
 <td>Seattle, WA</br>San Jose, CA</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Valkyrie-Trading?utm_source=GHList&utm_medium=company">Valkyrie Trading</a></strong></td>
+<td>Junior Software Engineer</td>
+<td>Chicago, IL</td>
 <td>🔒</td>
 <td>3mo</td>
 </tr>
@@ -7774,7 +7774,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Data Engineer 1</td>
 <td>Boston, MA</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=7439025&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/055558e5-8970-4dcf-ac2c-8253714258dd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
@@ -8015,13 +8015,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Falconwood?utm_source=GHList&utm_medium=company">Falconwood</a></strong></td>
-<td>Data Engineer I</td>
-<td>Suffolk, VA</td>
-<td><div align="center"><a href="https://careers-falconwood.icims.com/jobs/1672/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9d0d22a0-23b9-4e83-811e-24ce734f2894?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>3mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Stripe?utm_source=GHList&utm_medium=company">🔥 Stripe</a></strong></td>
 <td>PhD Machine Learning Engineer – New Grad 🎓</td>
 <td>Seattle, WA</br>SF</br>NYC</td>
@@ -8124,7 +8117,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (158)</summary>
+<summary>🗃️ Inactive roles (159)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -8687,6 +8680,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/LPL-Financial-Holdings?utm_source=GHList&utm_medium=company">LPL Financial Holdings</a></strong></td>
 <td>New Grad - Technology - Data & Analytics</td>
 <td>Austin, TX</br>Fort Mill, SC</br>Charlotte, NC</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Falconwood?utm_source=GHList&utm_medium=company">Falconwood</a></strong></td>
+<td>Data Engineer I</td>
+<td>Suffolk, VA</td>
 <td>🔒</td>
 <td>3mo</td>
 </tr>
