@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 405 New Grad Roles by Category
+### Browse 402 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (290)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (288)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (8)
 
@@ -15,7 +15,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (16)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (30)
+🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (29)
 
 💼 **[Other](#-other-new-grad-roles)** (5)
 
@@ -290,13 +290,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>5d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Global-Payments?utm_source=GHList&utm_medium=company">Global Payments</a></strong></td>
-<td>Mainframe Software Engineer 1 or 2</td>
-<td>Columbus, GA</td>
-<td><div align="center"><a href="https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Mainframe-Software-Engineer-I-or-II_R0067829?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d7d2aa78-ff21-470f-83fc-29fb786e7adf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">🔥 Microsoft</a></strong></td>
 <td>Software Engineer 1</td>
 <td>Redmond, WA</td>
@@ -448,7 +441,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer, Early Career 🛂</td>
 <td>San Francisco, CA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/affirm/jobs/7485068003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3d6d6af9-2d80-47cd-bab7-3de78427877d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Magna?utm_source=GHList&utm_medium=company">Magna</a></strong></td>
@@ -1305,13 +1298,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Travelers?utm_source=GHList&utm_medium=company">The Travelers Companies</a></strong></td>
-<td>Software Engineer 1 - .Net - Node.js</td>
-<td>Hartford, CT</br>St Paul, MN</td>
-<td><div align="center"><a href="https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--NET--Nodejs--React-_R-47074?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9c7763fe-db8e-45ef-a08e-bd20bde3d11d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>2mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Momentum-Engineering?utm_source=GHList&utm_medium=company">Momentum Engineering</a></strong></td>
 <td>Software Engineer 0 🇺🇸</td>
 <td>Annapolis Junction, MD</td>
@@ -2114,7 +2100,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (778)</summary>
+<summary>🗃️ Inactive roles (780)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2217,6 +2203,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Fort Wayne, IN</td>
 <td>🔒</td>
 <td>5d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Global-Payments?utm_source=GHList&utm_medium=company">Global Payments</a></strong></td>
+<td>Mainframe Software Engineer 1 or 2</td>
+<td>Columbus, GA</td>
+<td>🔒</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Nike?utm_source=GHList&utm_medium=company">Nike</a></strong></td>
@@ -4431,6 +4424,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Travelers?utm_source=GHList&utm_medium=company">The Travelers Companies</a></strong></td>
+<td>Software Engineer 1 - .Net - Node.js</td>
+<td>Hartford, CT</br>St Paul, MN</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Google?utm_source=GHList&utm_medium=company">🔥 Google</a></strong></td>
 <td>Software Engineer</td>
 <td><details><summary><strong>10 locations</strong></summary>Mountain View, CA</br>Cambridge, MA</br>Kirkland, WA</br>Los Angeles, CA</br>New York, NY</br>Pittsburgh, PA</br>San Bruno, CA</br>Seattle, WA</br>San Jose, CA</br>Sunnyvale, CA</details></td>
@@ -6059,21 +6059,21 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer I - Workday Programmer - Report Writer - Eib</td>
 <td>Hartford, CT</br>St Paul, MN</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Citadel?utm_source=GHList&utm_medium=company">Citadel</a></strong></td>
 <td>Software Engineer – University Graduate</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Zoll?utm_source=GHList&utm_medium=company">ZOLL Medical Corporation</a></strong></td>
 <td>Software Engineer I - Applications</td>
 <td>Lowell, MA</br>Broomfield, CO</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Western-Digital?utm_source=GHList&utm_medium=company">Western Digital</a></strong></td>
@@ -8583,7 +8583,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Machine Learning Engineer 1 - Analytics, Insights, & Artificial Intelligence</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/HeyGen?utm_source=GHList&utm_medium=company">HeyGen</a></strong></td>
@@ -9583,7 +9583,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>2026 Analytics and Quantitative Modeling Rotational Analyst Program - Cleveland 🛂</td>
 <td>Cleveland, OH</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong>Morningstar</strong></td>
@@ -9854,13 +9854,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td>Software Engineer 1 - C/C++ Linux</td>
-<td>Newport, RI</td>
-<td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI201-127-John-Clarke-Road-Middletwn-127-John-Clarke-Road-Suite-3-Middletown-RI-02842-USA/Software-Engineer-I---C-C---Linux--Onsite-_01796278?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7d151dc9-d84b-40aa-9ccb-f5e9acbd5612?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>2mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
 <td>Modem Hardware Engineer New Graduate - Hardware Design</td>
 <td>Ottawa, ON, Canada</td>
@@ -9914,7 +9907,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (135)</summary>
+<summary>🗃️ Inactive roles (136)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -10344,6 +10337,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
 <td>Software Engineer Packet Platform New Grad - Packet Software - Embedded Linux</td>
 <td>Ottawa, ON, Canada</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>Software Engineer 1 - C/C++ Linux</td>
+<td>Newport, RI</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
