@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 406 New Grad Roles by Category
+### Browse 405 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (291)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (290)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (8)
 
@@ -294,7 +294,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Mainframe Software Engineer 1 or 2</td>
 <td>Columbus, GA</td>
 <td><div align="center"><a href="https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Mainframe-Software-Engineer-I-or-II_R0067829?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d7d2aa78-ff21-470f-83fc-29fb786e7adf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">🔥 Microsoft</a></strong></td>
@@ -735,13 +735,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Software Engineer</td>
 <td>United States</td>
 <td><div align="center"><a href="https://mthree.com/careers/job/?gh_jid=4374344006&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/e828c150-30c9-41f2-80b8-ef5fe79e24d0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Mthree – Junior Software Engineer - Sheffield</td>
-<td>Sheffield, UK</td>
-<td><div align="center"><a href="https://mthree.com/careers/job/?gh_jid=4401897006&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1e465ee3-f0fe-45b5-a472-4ede6eaac3ff?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
@@ -2121,7 +2114,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (777)</summary>
+<summary>🗃️ Inactive roles (778)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2768,6 +2761,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Mthree?utm_source=GHList&utm_medium=company">mthree</a></strong></td>
 <td>Entry Level - C Software Developer</td>
 <td>Tampa, FL</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Mthree – Junior Software Engineer - Sheffield</td>
+<td>Sheffield, UK</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -6881,7 +6881,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong>Coalition</strong></td>
+<td>↳</td>
 <td>Software Engineer I</td>
 <td>Remote in USA</td>
 <td>🔒</td>
