@@ -5,13 +5,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 386 New Grad Roles by Category
+### Browse 387 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (278)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (9)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (53)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (54)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (15)
 
@@ -8021,6 +8021,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>S&P Global</strong></td>
+<td>Associate Data Analyst - Mobility</td>
+<td>CA</td>
+<td><a href="https://spgi.wd5.myworkdayjobs.com/spgi_internal/job/California-US/Data-Analyst_322809?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Roblox?utm_source=GHList&utm_medium=company">🔥 Roblox</a></strong></td>
 <td>Data Scientist, Social - PhD Early Career 🎓</td>
