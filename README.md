@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 382 New Grad Roles by Category
+### Browse 381 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (277)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (276)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (9)
 
@@ -553,13 +553,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Entry Level Software Engineer 🇺🇸</td>
 <td>Fredericksburg, VA</br>Dahlgren, VA</td>
 <td><div align="center"><a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer-1_R0149307?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2ec98c73-9ec9-4d2d-8dc6-67309ced6e65?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>26d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Entry Level Software Engineer</td>
-<td>Fredericksburg, VA</br>Dahlgren, VA</td>
-<td><div align="center"><a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0149388?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/de65017e-9991-40ae-a876-8e47452a51e2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>26d</td>
 </tr>
 <tr>
@@ -2023,7 +2016,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (816)</summary>
+<summary>🗃️ Inactive roles (817)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2244,7 +2237,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Mainframe Software Engineer 1 or 2</td>
 <td>Columbus, GA</td>
 <td>🔒</td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Nike?utm_source=GHList&utm_medium=company">Nike</a></strong></td>
@@ -2567,6 +2560,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Santa Clara, CA</td>
 <td>🔒</td>
 <td>25d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Amentum?utm_source=GHList&utm_medium=company">Amentum</a></strong></td>
+<td>Entry Level Software Engineer</td>
+<td>Fredericksburg, VA</br>Dahlgren, VA</td>
+<td>🔒</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/KBR?utm_source=GHList&utm_medium=company">KBR</a></strong></td>
@@ -7042,7 +7042,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong>Coalition</strong></td>
+<td>↳</td>
 <td>Software Engineer I</td>
 <td>Remote in USA</td>
 <td>🔒</td>
