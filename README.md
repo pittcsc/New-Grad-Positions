@@ -1092,7 +1092,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Growth Engineering - Mobile 🛂</td>
 <td>Remote Globally</td>
 <td><a href="https://jobs.ashbyhq.com/elevenlabs/bed47ac1-9c5c-44ae-8965-3a4312706328?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong>Insulet</strong></td>
