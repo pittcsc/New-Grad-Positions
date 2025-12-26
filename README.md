@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 373 New Grad Roles by Category
+### Browse 372 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (265)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (264)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (10)
 
@@ -112,14 +112,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Product Software Engineer 🇺🇸</td>
 <td>Annapolis Junction, MD</td>
 <td><a href="https://careers-peraton.icims.com/jobs/162138/junior-product-software-engineer/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong>Oklo</strong></td>
 <td>Junior Software Engineer</td>
 <td>Santa Clara, CA</br>Remote in USA</td>
 <td><a href="https://job-boards.greenhouse.io/oklo/jobs/5739861004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/IXL-Learning?utm_source=GHList&utm_medium=company">IXL Learning</a></strong></td>
@@ -385,7 +385,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Developer – New Graduate</td>
 <td><details><summary><strong>4 locations</strong></summary>Winnipeg, MB, Canada</br>Toronto, ON, Canada</br>Kitchener, ON, Canada</br>Vancouver, BC, Canada</details></td>
 <td><div align="center"><a href="https://www.d2l.com/careers/jobs/?job_id=7455458&gh_jid=7455458&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4f5e74ec-73cb-4c30-887b-3f97e6fdacd6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Honeywell?utm_source=GHList&utm_medium=company">Honeywell</a></strong></td>
@@ -735,13 +735,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Entry Level Full-Stack Developer</td>
 <td>Montreal, QC, Canada</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4613045006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/23cb0aa4-4617-4868-aa0f-03d66945fe2e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
-<td>Software Engineer – Entry Level</td>
-<td>Bremerton, WA</td>
-<td><div align="center"><a href="https://careers-gdms.icims.com/jobs/69259/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/901ca445-4070-461c-94fc-fbf67d331f2e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
@@ -1939,7 +1932,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (851)</summary>
+<summary>🗃️ Inactive roles (852)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -3041,6 +3034,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
 <td>Software Engineer – Entry Level</td>
 <td>Bridgewater, MA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Engineer – Entry Level</td>
+<td>Bremerton, WA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
