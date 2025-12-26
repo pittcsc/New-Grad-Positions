@@ -5,13 +5,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 381 New Grad Roles by Category
+### Browse 376 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (270)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (267)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (10)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (59)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (57)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (14)
 
@@ -245,13 +245,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1 - Java</td>
 <td>Austin, TX</td>
 <td><div align="center"><a href="https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--Java-_JR104034?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6452f602-d657-4666-8dbf-5aded3ef09fc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td>Software Engineer I (Onsite) 🇺🇸</td>
-<td>El Segundo, CA</td>
-<td><a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/HCA44-2006-E-El-Segundo-Blvd-BldgE04-2006-East-El-Segundo-Boulevard-Building-E04-El-Segundo-CA-90245-USA/Software-Engineer-I--Onsite-_01813181?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
 <td>8d</td>
 </tr>
 <tr>
@@ -815,24 +808,10 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>AspenTech</strong></td>
-<td>Associate Software Quality Engineer</td>
-<td>Medina, MN</td>
-<td><a href="https://aspentech.wd5.myworkdayjobs.com/en-US/AspenTech/job/Medina-Minnesota/Associate-Software-Quality-Engineer_R8022-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong>BryceTech</strong></td>
 <td>Junior Exercise Software IT Specialist 🇺🇸</td>
 <td>Suffolk, VA</td>
 <td><a href="https://jobs.smartrecruiters.com/BryceTech/f40e9665-32d7-47d8-90fd-ac1f18dc05be?dcr_ci=BryceTech&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>🔥 ServiceNow</strong></td>
-<td>Associate Software Engineer</td>
-<td>Waltham, MA</td>
-<td><a href="https://jobs.smartrecruiters.com/ServiceNow/94f60162-99c7-4251-bbb5-dc9582902422?dcr_ci=ServiceNow&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
 <td>1mo</td>
 </tr>
 <tr>
@@ -1974,7 +1953,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (846)</summary>
+<summary>🗃️ Inactive roles (849)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2075,6 +2054,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company">Intuit</a></strong></td>
 <td>Software Engineer 1</td>
 <td>Mountain View, CA</td>
+<td>🔒</td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>Software Engineer I (Onsite) 🇺🇸</td>
+<td>El Segundo, CA</td>
 <td>🔒</td>
 <td>8d</td>
 </tr>
@@ -2475,7 +2461,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Backend Engineer – Entry Level</td>
 <td>Belfast, UK</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company">Chewy</a></strong></td>
@@ -3269,9 +3255,23 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
+<td>↳</td>
+<td>Associate Software Quality Engineer</td>
+<td>Medina, MN</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Expedia-Group?utm_source=GHList&utm_medium=company">Expedia Group</a></strong></td>
 <td>Software Development Engineer I</td>
 <td>Seattle, WA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>🔥 ServiceNow</strong></td>
+<td>Associate Software Engineer</td>
+<td>Waltham, MA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -6251,7 +6251,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/IXL-Learning?utm_source=GHList&utm_medium=company">IXL Learning</a></strong></td>
+<td>↳</td>
 <td>Software Engineer – New Grad</td>
 <td>San Mateo, CA</td>
 <td>🔒</td>
@@ -6867,7 +6867,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">🔥 TikTok</a></strong></td>
 <td>Software Development, Engineer in Test (Trust and Safety) - 2026 Start (BS/MS)</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
@@ -6881,7 +6881,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">🔥 TikTok</a></strong></td>
+<td>↳</td>
 <td>Backend Software Engineer, Trust and Safety - 2026 Start (BS/MS)</td>
 <td>Seattle, WA</td>
 <td>🔒</td>
@@ -8211,13 +8211,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3d</td>
 </tr>
 <tr>
-<td><strong>CliftonLarsonAllen</strong></td>
-<td>Data Analyst Associate</td>
-<td>St Louis, MO</td>
-<td><a href="https://cliftonlarsonallen.wd1.myworkdayjobs.com/en-US/CLA/job/St-Louis-MO/Data-Analyst-Associate_R16544?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>3d</td>
-</tr>
-<tr>
 <td><strong>First Financial Bank</strong></td>
 <td>AI Developer I- Call Center</td>
 <td>Abilene, TX</td>
@@ -8250,13 +8243,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>University Graduate - Machine Learning Engineer</td>
 <td>San Jose, CA</td>
 <td><div align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160648?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/76c3b85c-956c-4e9f-9f81-71065980b397?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>S&P Global</strong></td>
-<td>Associate Data Analyst - Mobility</td>
-<td>CA</td>
-<td><a href="https://spgi.wd5.myworkdayjobs.com/spgi_internal/job/California-US/Data-Analyst_322809?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
 <td>7d</td>
 </tr>
 <tr>
@@ -8614,7 +8600,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (181)</summary>
+<summary>🗃️ Inactive roles (183)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -8627,6 +8613,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>CliftonLarsonAllen</strong></td>
+<td>Data Analyst Associate</td>
+<td>St Louis, MO</td>
+<td>🔒</td>
+<td>3d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Elsevier?utm_source=GHList&utm_medium=company">Elsevier</a></strong></td>
 <td>Data Engineer 1</td>
@@ -8645,6 +8638,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Centene?utm_source=GHList&utm_medium=company">Centene</a></strong></td>
 <td>Data Engineer 1</td>
 <td><details><summary><strong>5 locations</strong></summary>Texas</br>Florida</br>South Carolina</br>North Carolina</br>Missouri</details></td>
+<td>🔒</td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>S&P Global</strong></td>
+<td>Associate Data Analyst - Mobility</td>
+<td>CA</td>
 <td>🔒</td>
 <td>7d</td>
 </tr>
