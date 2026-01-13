@@ -385,14 +385,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Product Software Engineer 🇺🇸</td>
 <td>Annapolis Junction, MD</td>
 <td><a href="https://careers-peraton.icims.com/jobs/162138/junior-product-software-engineer/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong>Oklo</strong></td>
 <td>Junior Software Engineer</td>
 <td>Santa Clara, CA</br>Remote in USA</td>
 <td><a href="https://job-boards.greenhouse.io/oklo/jobs/5739861004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Marqeta?utm_source=GHList&utm_medium=company">Marqeta</a></strong></td>
