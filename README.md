@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 365 New Grad Roles by Category
+### Browse 363 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (262)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (260)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (9)
 
@@ -79,20 +79,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/NextechSystems?utm_source=GHList&utm_medium=company">Nextech Systems</a></strong></td>
-<td>Software Engineer 1 - Python - Remote United States</td>
-<td>Remote in USA</td>
-<td><div align="center"><a href="https://jobs.lever.co/nextech/7df18d47-b2fd-401c-a0c6-68ecbf8f225b/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/fe17597b-075f-4964-aa4f-abf250af3e68?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>0d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Software Engineer 1</td>
-<td>Remote in USA</td>
-<td><div align="center"><a href="https://jobs.lever.co/nextech/099609da-26cc-4fc2-aaeb-7aec86f343ca/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d9e7c472-ede1-4bb9-b15c-2c948f76f72e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>0d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
 <td>Software Engineer 1 - US</td>
@@ -1918,7 +1904,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (939)</summary>
+<summary>🗃️ Inactive roles (941)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -1931,6 +1917,20 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/NextechSystems?utm_source=GHList&utm_medium=company">Nextech Systems</a></strong></td>
+<td>Software Engineer 1 - Python - Remote United States</td>
+<td>Remote in USA</td>
+<td>🔒</td>
+<td>0d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Engineer 1</td>
+<td>Remote in USA</td>
+<td>🔒</td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Yahoo?utm_source=GHList&utm_medium=company">Yahoo</a></strong></td>
 <td>Central Data Platform Engineer - Software Dev Engineer I</td>
