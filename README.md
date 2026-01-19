@@ -5,7 +5,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 352 New Grad Roles by Category
+### Browse 351 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (251)
 
@@ -15,7 +15,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (10)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (32)
+🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (31)
 
 💼 **[Other](#-other-new-grad-roles)** (0)
 
@@ -434,7 +434,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineering AMTS – College Grad</td>
 <td>Indianapolis, IN</br>Dallas, TX</td>
 <td><div align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-AMTS--College-Grad-_JR322433-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b9da7ae2-7b06-40d5-8531-9aeded90f06e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Pattern-Data?utm_source=GHList&utm_medium=company">Pattern Data</a></strong></td>
@@ -1599,7 +1599,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/AG-Technologies?utm_source=GHList&utm_medium=company">AG Technologies</a></strong></td>
+<td>↳</td>
 <td>Hiring Entry Level Software Engineer 🎓</td>
 <td>Casa Grande, AZ</td>
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/AGTechnologies1/743999659664711?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c7a6d22b-bb87-4031-9cce-bcfaaa680061?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
@@ -2646,7 +2646,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>↳</td>
 <td>2026 Full-time - Software Engineer I</td>
 <td>Fort Wayne, IN</td>
 <td>🔒</td>
@@ -10932,13 +10932,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>5d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/AMERICAN-SYSTEMS?utm_source=GHList&utm_medium=company">AMERICAN SYSTEMS</a></strong></td>
-<td>Junior Engineer - Software Development - Nasa</td>
-<td>Edwards AFB, CA</td>
-<td><div align="center"><a href="https://careers-americansystems.icims.com/jobs/3875/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5cc84522-d0be-4151-86a7-68db0451e5d3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Full Time-Raytheon FPGA Design Engineer 1</td>
 <td>Tucson, AZ</td>
@@ -11146,7 +11139,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (167)</summary>
+<summary>🗃️ Inactive roles (168)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -11172,6 +11165,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Tucson, AZ</td>
 <td>🔒</td>
 <td>5d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/AMERICAN-SYSTEMS?utm_source=GHList&utm_medium=company">AMERICAN SYSTEMS</a></strong></td>
+<td>Junior Engineer - Software Development - Nasa</td>
+<td>Edwards AFB, CA</td>
+<td>🔒</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
