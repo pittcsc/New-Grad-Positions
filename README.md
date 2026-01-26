@@ -5,13 +5,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 366 New Grad Roles by Category
+### Browse 365 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (245)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (10)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (60)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (59)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (10)
 
@@ -9163,13 +9163,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/USAA?utm_source=GHList&utm_medium=company">USAA</a></strong></td>
-<td>Data Engineer 1</td>
-<td>Plano, TX</td>
-<td><div align="center"><a href="https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Engineer-I_R0114228?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/625a9a93-5171-4056-89b4-6e30a5fd3eee?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Centene?utm_source=GHList&utm_medium=company">Centene</a></strong></td>
 <td>Data Engineer 1</td>
 <td><details><summary><strong>20 locations</strong></summary>New Mexico</br>Kansas</br>Pennsylvania</br>Iowa</br>Texas</br>Florida</br>South Carolina</br>Georgia</br>Tennessee</br>Arkansas</br>Minnesota</br>Utah</br>Wisconsin</br>North Carolina</br>Oklahoma</br>Missouri</br>Ohio</br>Michigan</br>Illinois</br>Alabama</details></td>
@@ -9426,7 +9419,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (208)</summary>
+<summary>🗃️ Inactive roles (209)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -9555,6 +9548,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong>S&P Global</strong></td>
 <td>Associate Data Analyst - Mobility</td>
 <td>CA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/USAA?utm_source=GHList&utm_medium=company">USAA</a></strong></td>
+<td>Data Engineer 1</td>
+<td>Plano, TX</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
