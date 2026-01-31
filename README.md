@@ -11664,7 +11664,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (187)</summary>
+<summary>🗃️ Inactive roles (186)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -12976,13 +12976,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Medtronic?utm_source=GHList&utm_medium=company">Medtronic</a></strong></td>
 <td>Hardware Engineer I</td>
 <td>Lafayette, CO</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td>Software Engineer I - C++</td>
-<td>Fulton, MD</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
